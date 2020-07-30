@@ -1,0 +1,27 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft XML Core Services 4.0
+  description: Microsoft XML Core Services 4.0 följer policyn för fast livscykel.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 06e9c5a8f669333fa8c5c49b71c4563aaa03ff6f
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: sv-SE
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "841967"
+name: Microsoft XML Core Services 4.0
+summary: >+
+  Microsoft XML Core Services 4.0 följer [policyn](/lifecycle/policies/fixed) för fast livscykel.
+
+
+products:
+- vs
+policyType: fixed-mainstream-only
+supportDates:
+  start: 12/28/2009
+  end: 04/12/2014
+releases:
+- version: Service Pack 3
+  startDate: 12/28/2009
+  endDate: 04/12/2014
+content: "\n\n> [!NOTE]\n> Stödet för XML Core Services 4.0 har upphört. Supporten var endast tillgänglig för Service Pack 3."

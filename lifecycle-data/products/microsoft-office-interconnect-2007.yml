@@ -1,0 +1,39 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft Office Sammanlänkning 2007
+  description: Microsoft Office InterConnect 2007 följer policyn för fast livscykel.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 2930b1c5bd1db016e2228772f4a4b81678ce6f68
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: sv-SE
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "841693"
+name: Microsoft Office Sammanlänkning 2007
+summary: >+
+  Microsoft Office InterConnect 2007 följer [policyn](/lifecycle/policies/fixed) för fast livscykel.
+
+
+  Detta gäller följande utgåvor: Standard
+
+products:
+- office
+policyType: fixed
+supportDates:
+  start: 01/27/2007
+  end: 10/09/2012
+  extendedEnd: 10/10/2017
+releases:
+- version: Service Pack 3
+  startDate: 10/25/2011
+  endDate: 10/10/2017
+- version: Service Pack 2
+  startDate: 04/28/2009
+  endDate: 01/08/2013
+- version: Service Pack 1
+  startDate: 12/11/2007
+  endDate: 10/10/2017
+- version: Original Release
+  startDate: 01/27/2007
+  endDate: 01/13/2009
+content: "\n## <a name=\"links\"></a>Länkar \n* [Vägledning för migrering](/office/troubleshoot/support/office-2007-not-support)\n\n\n## <a name=\"editions\"></a>Upplagor \n* Standard"
