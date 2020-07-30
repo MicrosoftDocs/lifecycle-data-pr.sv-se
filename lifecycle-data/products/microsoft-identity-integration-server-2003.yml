@@ -1,0 +1,31 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft Identity Integration Server 2003
+  description: Microsoft Identity Integration Server 2003 följer policyn för fast livscykel.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: dbad234b5c3f1f121bc91d27feef671281cfd044
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: sv-SE
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "841729"
+name: Microsoft Identity Integration Server 2003
+summary: "Microsoft Identity Integration Server 2003 följer [policyn](/lifecycle/policies/fixed) för fast livscykel.\n\nDetta gäller följande utgåvor: Enterprise\n\n> [!IMPORTANT]\n> Supporten för den här produkten har upphört. \n"
+products:
+- m365
+policyType: fixed
+supportDates:
+  start: 09/26/2003
+  end: 10/14/2008
+  extendedEnd: 10/08/2013
+releases:
+- version: Service Pack 2
+  startDate: 03/30/2007
+  endDate: 10/08/2013
+- version: Service Pack 1
+  startDate: 01/10/2005
+  endDate: 04/08/2008
+- version: Original Release
+  startDate: 09/26/2003
+  endDate: 01/10/2006
+content: "\n## <a name=\"links\"></a>Länkar \n* [Service Pack-principen](/lifecycle/policies/fixed#service-packs)\n* [Windows Server Information](/windows-server/)\n\n\n## <a name=\"editions\"></a>Upplagor \n* Företag"

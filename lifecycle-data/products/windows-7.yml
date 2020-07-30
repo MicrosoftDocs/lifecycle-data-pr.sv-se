@@ -1,0 +1,37 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Windows 7
+  description: Windows 7 följer policyn för fast livscykel.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: a1b1b370fe7d15abae83da62603b4522ea79a307
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: sv-SE
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "841415"
+name: Windows 7
+summary: "Windows 7 följer [policyn](/lifecycle/policies/fixed) för fast livscykel.\n\nDetta gäller följande utgåvor: Enterprise, Enterprise N, Home Basic, Home Premium, Home Premium N, Professional, Professional for Embedded Systems, Professional N, Starter, Starter N, Ultimate, Ultimate for Embedded Systems, Ultimate N\n\n> [!IMPORTANT]\n> Supporten för den här produkten har upphört. Se migreringsvägledning nedan. \n"
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 10/22/2009
+  end: 01/13/2015
+  extendedEnd: 01/14/2020
+releases:
+- version: Extended Security Update Year 3*
+  startDate: 01/11/2022
+  endDate: 01/10/2023
+- version: Extended Security Update Year 2*
+  startDate: 01/12/2021
+  endDate: 01/11/2022
+- version: Extended Security Update Year 1*
+  startDate: 01/14/2020
+  endDate: 01/12/2021
+- version: Service Pack 1
+  startDate: 02/22/2011
+  endDate: 01/14/2020
+- version: Original Release
+  startDate: 10/22/2009
+  endDate: 04/09/2013
+content: "> [!TIP]\n> '* Utökade säkerhetsuppdateringar (ESU) är tillgängliga via specifika volymlicensieringsprogram för Windows 7 Professional- och Professional for Embedded Systems-utgåvor av den här produkten, i upp till ytterligare tre år efter supportens. Kontakta din Microsoft-partner eller kontoteam om du vill veta mer. \n\n## <a name=\"links\"></a>Länkar \n* [Vägledning för migrering](https://support.microsoft.com/help/4057281)\n* [Uppgradera från Windows 7 till Windows 10](/microsoft-365/enterprise/desktop-deployment-center-home?view=o365-worldwide)\n* [Utökat program för säkerhetsuppdatering (ESU)](/lifecycle/faq/extended-security-updates)\n* [Service Pack-principen](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Upplagor \n* Företag\n* Företag N\n* Hem Grundläggande\n* Hem Premium\n* Hem Premium N\n* Professionell\n* Professionell för inbyggda system\n* Professionell N\n* Starter\n* Startmotor N\n* Ultimata\n* Ultimat för inbyggda system\n* Ultimata N"

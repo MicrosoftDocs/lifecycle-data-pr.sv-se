@@ -1,0 +1,28 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft Visual J# Version 2.0 Redistributable Paket
+  description: Microsoft Visual J# Version 2.0 Redistributable Package följer policyn för fast livscykel.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: fa32b69860aec252b7d1068ad2e130700f9d0b92
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: sv-SE
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "841592"
+name: Microsoft Visual J# Version 2.0 Redistributable Paket
+summary: >+
+  Microsoft Visual J# Version 2.0 Redistributable Package följer [policyn](/lifecycle/policies/fixed) för fast livscykel.
+
+
+products:
+- vs
+policyType: fixed
+supportDates:
+  start: 04/22/2006
+  end: 07/12/2011
+  extendedEnd: 07/12/2016
+releases:
+- version: Original Release
+  startDate: 04/22/2006
+  endDate: 07/12/2016
+content: "\n## <a name=\"links\"></a>Länkar \n* [Supportinformation för Visual J#](https://msdn.microsoft.com/vstudio/bb188593)\n\n> [!NOTE]\n> Supporten för den här produkten har upphört. Se nedan för migreringsvägledning."

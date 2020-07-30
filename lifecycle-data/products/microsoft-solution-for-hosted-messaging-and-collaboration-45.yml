@@ -1,0 +1,27 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft-lösning för värdbaserade meddelanden och samarbete 4.5
+  description: Microsoft Solution for Hosted Messaging and Collaboration 4.5 följer policyn för fast livscykel.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: cbc7bce389f60d1972cae075005525780c82eed0
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: sv-SE
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "841691"
+name: Microsoft-lösning för värdbaserade meddelanden och samarbete 4.5
+summary: >+
+  Microsoft Solution for Hosted Messaging and Collaboration 4.5 följer [policyn](/lifecycle/policies/fixed) för fast livscykel.
+
+
+products:
+- windows
+policyType: fixed-mainstream-only
+supportDates:
+  start: 09/11/2008
+  end: 12/12/2011
+releases:
+- version: Original Release
+  startDate: 09/11/2008
+  endDate: 12/12/2011
+content: ''

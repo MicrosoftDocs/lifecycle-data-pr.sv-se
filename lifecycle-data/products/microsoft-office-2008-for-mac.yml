@@ -1,0 +1,30 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft Office 2008 för Mac
+  description: Microsoft Office 2008 för Mac följer policyn för fast livscykel.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: abf5213b99b3f5ca6d64daa69ef50c3462fc9d35
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: sv-SE
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "841714"
+name: Microsoft Office 2008 för Mac
+summary: "Microsoft Office 2008 för Mac följer [policyn](/lifecycle/policies/fixed) för fast livscykel.\n\nDetta gäller följande utgåvor: Business, Home and Student, Special Media Editon\n\n> [!IMPORTANT]\n> Supporten för den här produkten har upphört. \n"
+products:
+- office
+policyType: fixed-mainstream-only
+supportDates:
+  start: 01/15/2008
+  end: 04/09/2013
+releases:
+- version: Service Pack 2
+  startDate: 07/20/2009
+  endDate: 04/09/2013
+- version: Service Pack 1
+  startDate: 05/13/2008
+  endDate: 10/12/2010
+- version: Original Release
+  startDate: 01/15/2008
+  endDate: 10/19/2009
+content: "\n## <a name=\"links\"></a>Länkar \n* [Service Pack-principen](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Startdatumet för Office 2008 för Mac Special Media Edition är den 12 mars 2008.\n\n## <a name=\"editions\"></a>Upplagor \n* Företag\n* Hem och student\n* Redigerare för specialmedia"
