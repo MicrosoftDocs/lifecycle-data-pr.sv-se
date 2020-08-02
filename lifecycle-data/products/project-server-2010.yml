@@ -1,0 +1,34 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Project Server 2010
+  description: Project Server 2010 följer policyn för fast livscykel.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 6c04194a3d405101429475ce7fd4561743790151
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: sv-SE
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "841440"
+name: Project Server 2010
+summary: >+
+  Project Server 2010 följer [policyn](/lifecycle/policies/fixed) för fast livscykel.
+
+
+products:
+- office
+policyType: fixed
+supportDates:
+  start: 07/15/2010
+  end: 10/13/2015
+  extendedEnd: 04/13/2021
+releases:
+- version: Service Pack 2
+  startDate: 07/19/2013
+  endDate: 04/13/2021
+- version: Service Pack 1
+  startDate: 06/28/2011
+  endDate: 10/14/2014
+- version: Original Release
+  startDate: 07/15/2010
+  endDate: 07/10/2012
+content: "\n## <a name=\"links\"></a>Länkar \n* [Vägledning för migrering](/office365/enterprise/upgrade-from-sharepoint-2010)\n* [Supporttillägg](https://aka.ms/SharePoint/server/2010/supportextension)\n* [Översikt över Project Server](/office365/enterprise/project-server-2010-end-of-support)\n\n> [!NOTE]\n> Produktens supportdatum har förlängts från den 13 oktober 2020 till den 13 april 2021."

@@ -1,0 +1,32 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Windows Automotive 5.0
+  description: Windows Automotive 5.0 följer policyn för fast livscykel.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: a4f2c864058596a97be1ad6430eded5ccb422803
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: sv-SE
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "841401"
+name: Windows Automotive 5.0
+summary: >
+  Windows Automotive 5.0 följer [policyn](/lifecycle/policies/fixed) för fast livscykel.
+
+
+
+  > [!IMPORTANT]
+
+  > Supporten för den här produkten har upphört.
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 12/31/2005
+  end: 01/11/2011
+  extendedEnd: 01/12/2016
+releases:
+- version: Original Release
+  startDate: 12/31/2005
+  endDate: 01/12/2016
+content: ''

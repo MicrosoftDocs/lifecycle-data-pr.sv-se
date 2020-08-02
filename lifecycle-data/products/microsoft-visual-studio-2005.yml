@@ -1,0 +1,33 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft Visual Studio 2005
+  description: Microsoft Visual Studio 2005 följer policyn för fast livscykel.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 576095a27901552e7a275b0a349ed5e1edee8099
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: sv-SE
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "841441"
+name: Microsoft Visual Studio 2005
+summary: >+
+  Microsoft Visual Studio 2005 följer [policyn](/lifecycle/policies/fixed) för fast livscykel.
+
+
+  Detta gäller följande utgåvor: Professional, Standard, Standard Edition academic license, Team Edition for Database Professionals, Team Edition for Software Architects, Team Edition for Software Developers, Team Edition for Software Testers, Team Suite, Team Test Load Agent, Tools for the Microsoft Office System, VB Express, Visual C# Express, Visual C++ Express, Visual J# Express, Visual Web Developer Express
+
+products:
+- vs
+policyType: fixed
+supportDates:
+  start: 01/27/2006
+  end: 04/12/2011
+  extendedEnd: 04/12/2016
+releases:
+- version: Service Pack 1
+  startDate: 12/14/2006
+  endDate: 04/12/2016
+- version: Original Release
+  startDate: 01/27/2006
+  endDate: 01/08/2008
+content: "\n## <a name=\"links\"></a>Länkar \n* [Supportinformation för Visual J#](https://msdn.microsoft.com/vstudio/bb188593)\n* [Vägledning för migrering](/visualstudio/porting/port-migrate-and-upgrade-visual-studio-projects?view=vs-2019)\n* [Produktinformation för Visual Studio](https://www.VisualStudio.com)\n\n> [!NOTE]\n> Supporten för den här produkten har upphört. Se nedan för migreringsvägledning.\n> [!NOTE]\n> Microsoft Visual Studio 2005 Team Edition for Database Professionals släpptes den 2 mars 2007.\n\n## <a name=\"editions\"></a>Upplagor \n* Professionell\n* Standard\n* Akademisk licens för Standard Edition\n* Team Edition för databasproffs\n* Team Edition för programvaruarkitekter\n* Team Edition för mjukvaruutvecklare\n* Team Edition för programvarutestare\n* Team Svit\n* Team Test Load Agent\n* Verktyg för Microsoft Office System\n* VB Express\n* Visuell C# Express\n* Visual C++ Express\n* Visuell J# Express\n* Visual Web Developer Express"

@@ -1,0 +1,25 @@
+### YamlMime:Lifecycle
+metadata:
+  title: System Center Operations Manager 2007 R2
+  description: System Center Operations Manager 2007 R2 följer policyn för fast livscykel.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 1ab9c0a078bf449f1b4118876bcc435d642215fd
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: sv-SE
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "841422"
+name: System Center Operations Manager 2007 R2
+summary: "System Center Operations Manager 2007 R2 följer [policyn](/lifecycle/policies/fixed) för fast livscykel.\n\n\n> [!IMPORTANT]\n> Supporten för den här produkten har upphört. Se migreringsvägledning nedan. \n"
+products:
+- msc
+policyType: fixed
+supportDates:
+  start: 08/20/2009
+  end: 07/08/2014
+  extendedEnd: 07/09/2019
+releases:
+- version: Original Release
+  startDate: 08/20/2009
+  endDate: 07/09/2019
+content: "\n## <a name=\"links\"></a>Länkar \n* [Vägledning för migrering](/system-center/scom/deploy-upgrade-overview?view=sc-om-2019)"
