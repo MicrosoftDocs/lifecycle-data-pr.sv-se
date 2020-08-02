@@ -1,0 +1,25 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Uttryck 2
+  description: Uttryck 2 följer den fasta livscykelprincipen.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 0ff3dba3df24ff405a22bfacac75ea04ab227f90
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: sv-SE
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "841492"
+name: Uttryck 2
+summary: "Uttryck 2 följer den [fasta](/lifecycle/policies/fixed) livscykelprincipen.\n\nDetta gäller följande utgåvor: Blend, Design, Encoder, Studio, Web\n\n> [!IMPORTANT]\n> Supporten har upphört för den här produkten. \n"
+products:
+- expression
+policyType: fixed
+supportDates:
+  start: 07/24/2008
+  end: 10/08/2013
+  extendedEnd: 10/09/2018
+releases:
+- version: Original Release
+  startDate: 07/24/2008
+  endDate: 10/09/2018
+content: "\n\n\n## <a name=\"editions\"></a>Upplagor \n* Blandning\n* Design\n* Kodare\n* Studio\n* Web"

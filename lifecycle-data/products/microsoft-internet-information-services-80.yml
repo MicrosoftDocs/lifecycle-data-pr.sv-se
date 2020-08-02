@@ -1,0 +1,25 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft Internet Information Services 8.0
+  description: Microsoft Internet Information Services 8.0 följer komponentlivscykelpolicyn.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 71be1061b611798489998e4437c1e3d80bbe19b3
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: sv-SE
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "841481"
+name: Microsoft Internet Information Services 8.0
+summary: >+
+  Microsoft Internet Information Services 8.0 följer komponentlivscykelpolicyn. [Component](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy)
+
+
+products:
+- windows
+policyType: component
+supportDates:
+  start: 10/30/2012
+releases:
+- version: Original Release
+  startDate: 10/30/2012
+content: "> [!TIP]\n> Den här versionen kallas en komponent som följer supportlivscykeln för den överordnade huvudprodukten, Windows Server 2012 och Windows 8\n\n## <a name=\"links\"></a>Länkar \n* [Windows Server 2012](/lifecycle/products/windows-server-2012)\n* [Windows 8](/lifecycle/products/windows-8)"
