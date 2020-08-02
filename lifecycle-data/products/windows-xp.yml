@@ -1,0 +1,46 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Windows XP
+  description: Windows XP följer policyn för fast livscykel.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: d4fd2bce3e032cdc468570a458c8f10c60ff9170
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: sv-SE
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "841556"
+name: Windows XP
+summary: >
+  Windows XP följer [policyn](/lifecycle/policies/fixed) för fast livscykel.
+
+
+  Detta gäller följande utgåvor: Hem, Professional, Professional för inbyggda system, Starter
+
+
+  > [!IMPORTANT]
+
+  > Supporten för den här produkten har upphört. Se migreringsvägledning nedan.
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 12/31/2001
+  end: 04/14/2009
+  extendedEnd: 04/08/2014
+releases:
+- version: Service Pack 3
+  startDate: 04/21/2008
+  endDate: 04/08/2014
+- version: Service Pack 2
+  startDate: 09/17/2004
+  endDate: 07/13/2010
+- version: Service Pack 1a
+  startDate: 02/03/2003
+  endDate: 10/10/2006
+- version: Service Pack 1
+  startDate: 08/30/2002
+  endDate: 10/10/2006
+- version: Original Release
+  startDate: 12/31/2001
+  endDate: 08/30/2005
+content: "\n## <a name=\"links\"></a>Länkar \n* [Vägledning för migrering](/windows/deployment/upgrade/windows-upgrade-and-migration-considerations)\n* [Service Pack-principen](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Upplagor \n* Startsida\n* Professionell\n* Professionell för inbyggda system\n* Starter"
