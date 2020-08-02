@@ -1,0 +1,28 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft Office Live Communications Server 2005
+  description: Microsoft Office Live Communications Server 2005 följer policyn för fast livscykel.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 709969b9c25ec55bfe3538a49076f6d640003cba
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: sv-SE
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "841692"
+name: Microsoft Office Live Communications Server 2005
+summary: "Microsoft Office Live Communications Server 2005 följer [policyn](/lifecycle/policies/fixed) för fast livscykel.\n\nDetta gäller följande utgåvor: Enterprise, Standard\n\n> [!IMPORTANT]\n> Supporten för den här produkten har upphört. \n"
+products:
+- office
+policyType: fixed
+supportDates:
+  start: 01/22/2005
+  end: 04/13/2010
+  extendedEnd: 04/14/2015
+releases:
+- version: Service Pack 1
+  startDate: 04/28/2005
+  endDate: 10/11/2005
+- version: Original Release
+  startDate: 01/22/2005
+  endDate: 07/10/2007
+content: "\n## <a name=\"links\"></a>Länkar \n* [Service Pack-principen](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Upplagor \n* Företag\n* Standard"
