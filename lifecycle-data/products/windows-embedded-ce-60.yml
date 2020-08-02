@@ -1,0 +1,32 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Windows Inbäddade CE 6.0
+  description: Windows Embedded CE 6.0 följer policyn för fast livscykel.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: a4dcc45afc796f07ef8606d1130588a449bd0e8f
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: sv-SE
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "841932"
+name: Windows Inbäddade CE 6.0
+summary: >
+  Windows Embedded CE 6.0 följer [policyn](/lifecycle/policies/fixed) för fast livscykel.
+
+
+
+  > [!IMPORTANT]
+
+  > Supporten för den här produkten har upphört.
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 11/30/2006
+  end: 04/09/2013
+  extendedEnd: 04/10/2018
+releases:
+- version: Original Release
+  startDate: 11/30/2006
+  endDate: 04/10/2018
+content: ''

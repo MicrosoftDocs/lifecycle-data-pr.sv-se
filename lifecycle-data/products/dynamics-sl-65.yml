@@ -1,0 +1,36 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Dynamik SL 6,5
+  description: Dynamics SL 6.5 följer den fasta livscykelpolicyn.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: ca483d6236e5fa0bc8fb3262e8d480bce52bb656
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: sv-SE
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "841740"
+name: Dynamik SL 6,5
+summary: >+
+  Dynamics SL 6.5 följer den [fasta](/lifecycle/policies/fixed) livscykelpolicyn.
+
+
+products:
+- dynamics
+policyType: fixed-mainstream-only
+supportDates:
+  start: 01/14/2006
+  end: 04/12/2011
+releases:
+- version: Service Pack 3
+  startDate: 01/07/2009
+  endDate: 04/12/2011
+- version: Service Pack 2
+  startDate: 07/27/2007
+  endDate: 01/11/2011
+- version: Service Pack 1
+  startDate: 04/27/2006
+  endDate: 10/13/2009
+- version: Original Relase
+  startDate: 01/14/2006
+  endDate: 07/10/2007
+content: "\n## <a name=\"links\"></a>Länkar \n* [Service Pack-principen](/lifecycle/policies/fixed#service-packs)"

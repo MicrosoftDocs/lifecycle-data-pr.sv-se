@@ -1,0 +1,42 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Dynamics Retail Management System 2.0
+  description: Dynamics Retail Management System 2.0 följer policyn för fast livscykel.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: e587a27011a62b298f9003be9805c2e01b146057
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: sv-SE
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "841747"
+name: Dynamics Retail Management System 2.0
+summary: >+
+  Dynamics Retail Management System 2.0 följer [policyn](/lifecycle/policies/fixed) för fast livscykel.
+
+
+  Detta gäller följande utgåvor: Huvudkontor, Butiksverksamhet
+
+products:
+- dynamics
+policyType: fixed
+supportDates:
+  start: 07/31/2007
+  end: 07/10/2016
+  extendedEnd: 07/13/2021
+releases:
+- version: Service Pack 5
+  startDate: 11/26/2013
+  endDate: 07/13/2021
+- version: Service Pack 4
+  startDate: 03/03/2011
+  endDate: 10/13/2015
+- version: Service Pack 3
+  startDate: 04/17/2009
+  endDate: 04/10/2012
+- version: Service Pack 2
+  startDate: 05/23/2008
+  endDate: 07/13/2010
+- version: Service Pack 1
+  startDate: 07/31/2007
+  endDate: 10/14/2008
+content: "\n## <a name=\"links\"></a>Länkar \n* [Service Pack-principen](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Upplagor \n* Huvudkontor\n* Lagra verksamhet"

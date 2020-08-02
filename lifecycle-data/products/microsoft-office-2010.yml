@@ -1,0 +1,36 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft Office 2010
+  description: Microsoft Office 2010 följer policyn för fast livscykel.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 38b07316aaa247313848fcb558d54d4dad2d9c37
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: sv-SE
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "841715"
+name: Microsoft Office 2010
+summary: >+
+  Microsoft Office 2010 följer [policyn](/lifecycle/policies/fixed) för fast livscykel.
+
+
+  Detta gäller följande utgåvor: eAcademy, Home and Business, Home and Student, Personal, Professional, Professional Academic, Professional Plus, Professional Plus Home Use Program, Standard, Starter
+
+products:
+- office
+policyType: fixed
+supportDates:
+  start: 07/15/2010
+  end: 10/13/2015
+  extendedEnd: 10/13/2020
+releases:
+- version: Service Pack 2
+  startDate: 07/23/2013
+  endDate: 10/13/2020
+- version: Service Pack 1
+  startDate: 06/28/2011
+  endDate: 10/14/2014
+- version: Original Release
+  startDate: 07/15/2010
+  endDate: 07/10/2012
+content: "\n## <a name=\"links\"></a>Länkar \n* [Office 2010 på supportfärdplan](/DeployOffice/office-2010-end-support-roadmap)\n* [Service Pack-principen](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Upplagor \n* eAcademy (2018)\n* Hem och företag\n* Hem och student\n* Personliga\n* Professionell\n* Professionell akademisk\n* Professionella Plus\n* Professionellt program för hemmabruk\n* Standard\n* Starter"
