@@ -1,0 +1,25 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Uttryck
+  description: Uttrycket följer den fasta livscykelprincipen.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: ee3c7cfc6f62fb00775e13137084c8e509ac5d8c
+  ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
+  ms.translationtype: MT
+  ms.contentlocale: sv-SE
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "867384"
+name: Uttryck
+summary: "Uttrycket följer den [fasta](/lifecycle/policies/fixed) livscykelprincipen.\n\nDetta gäller följande utgåvor: Blend, Design, Encoder, Studio\n\n> [!IMPORTANT]\n> Supporten för den här produkten har upphört. \n"
+products:
+- expression
+policyType: fixed
+supportDates:
+  start: 07/27/2007
+  end: 10/09/2012
+  extendedEnd: 10/10/2017
+releases:
+- version: Original Release
+  startDate: 07/27/2007
+  endDate: 10/10/2017
+content: "\n\n> [!NOTE]\n> Startdatum för Expression Blend är 13 juli 2007. \n\n## <a name=\"editions\"></a>Upplagor \n* Blandning\n* Design\n* Kodare\n* Studio"
