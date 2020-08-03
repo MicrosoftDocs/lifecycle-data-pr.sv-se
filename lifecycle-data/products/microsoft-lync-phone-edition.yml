@@ -1,0 +1,28 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft Lync Phone Edition
+  description: Microsoft Lync Phone Edition följer policyn för fast livscykel.
+  ms.date: 07/30/2020
+  ms.openlocfilehash: 9eab078296b6c16d3acdc1552739dabb02ab10a1
+  ms.sourcegitcommit: e219a019691b1cde9e6f715e4e725b5861450d57
+  ms.translationtype: MT
+  ms.contentlocale: sv-SE
+  ms.lasthandoff: 07/31/2020
+  ms.locfileid: "879539"
+name: Microsoft Lync Phone Edition
+summary: >+
+  Microsoft Lync Phone Edition följer [policyn](/lifecycle/policies/fixed) för fast livscykel.
+
+
+products:
+- office
+policyType: fixed
+supportDates:
+  start: 01/25/2011
+  end: 04/10/2018
+  extendedEnd: 04/11/2023
+releases:
+- version: Original Release
+  startDate: 01/25/2011
+  endDate: 04/11/2023
+content: "\n## <a name=\"links\"></a>Länkar \n* [Ytterligare information](https://techcommunity.microsoft.com/t5/Skype-for-Business-Blog/Certified-Skype-for-Business-Online-Phones-and-what-this-means/ba-p/120035)\n\n> [!NOTE]\n> Lync Phone Edition stöds med Lync Server 2010 och Lync Server 2013. Supportdatumet för Lync Phone Edition har förlängts med två år för att anpassa sig till livscykeln för Lync Server 2013."

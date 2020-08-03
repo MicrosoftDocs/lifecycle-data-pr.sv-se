@@ -1,0 +1,43 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Windows Server
+  description: Windows Server följer den moderna livscykelprincipen.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 27a932028448e8fe9d583c1d4169c6818a0224b7
+  ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
+  ms.translationtype: MT
+  ms.contentlocale: sv-SE
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "872663"
+name: Windows Server
+summary: >+
+  Windows Server följer den [moderna](/lifecycle/policies/modern) livscykelprincipen.
+
+
+  Detta gäller följande utgåvor: Datacenter, Standard
+
+products:
+- windows
+policyType: modern-on-prem
+supportDates:
+  start: 10/17/2017
+releases:
+- version: Version 2004
+  startDate: 05/27/2020
+  endDate: 12/14/2021
+- version: Version 1909
+  startDate: 11/12/2019
+  endDate: 05/11/2021
+- version: Version 1903
+  startDate: 05/21/2019
+  endDate: 12/08/2020
+- version: Version 1809
+  startDate: 11/13/2018
+  endDate: 11/10/2020
+- version: Version 1803
+  startDate: 04/30/2018
+  endDate: 11/12/2019
+- version: Version 1709
+  startDate: 10/17/2017
+  endDate: 04/09/2019
+content: "\n## <a name=\"links\"></a>Länkar \n* [Servicekanaler för Windows Server: LTSC och SAC](/windows-server/get-started-19/servicing-channels-19)\n* [Vanliga frågor och svar om livscykel – Windows-produkter](/lifecycle/faq/windows#what-are-the-requirements-for-servicing-and-updating-windows-10-semi-annual-channels)\n\n> [!NOTE]\n> Windows 10 Oktober Update (version 1809) släpptes på åter igen den 13 november 2018. Supportdatum har justerats i enlighet med detta.\n\n## <a name=\"editions\"></a>Upplagor \n* Datacenter\n* Standard"
