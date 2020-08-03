@@ -1,0 +1,33 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Visual Studio 2013
+  description: Visual Studio 2013 följer policyn för fast livscykel.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: b94d9b3d87ff3c971739be3ca2ebbb2446764e1b
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: sv-SE
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "864315"
+name: Visual Studio 2013
+summary: >+
+  Visual Studio 2013 följer [policyn](/lifecycle/policies/fixed) för fast livscykel.
+
+
+  Detta gäller följande utgåvor: Agents, All, Community, Express for Web, Express för Windows, Express för Windows Desktop, IntelliTrace Collector, Modeling SDK, Multibyte MFC Library, Premium, Professional, Release Management, Remote Tools, SDK, Shell (Integrated), Shell (Isolated), Team Explorer, Test Professional, Ultimate, Visual C++ Redistributable, Web Tools Extensions
+
+products:
+- vs
+policyType: fixed
+supportDates:
+  start: 01/15/2014
+  end: 04/09/2019
+  extendedEnd: 04/09/2024
+releases:
+- version: Update 5
+  startDate: 07/20/2015
+  endDate: 04/09/2024
+- version: Original Release
+  startDate: 01/15/2014
+  endDate: 04/09/2024
+content: "\n## <a name=\"links\"></a>Länkar \n* [Serviceinformation](https://www.visualstudio.com/productinfo/vs-servicing-vs)\n\n\n## <a name=\"editions\"></a>Upplagor \n* Agenter\n* Alla\n* Community\n* Express för webben\n* Express för Windows\n* Express för Windows-skrivbordet\n* IntelliTrace Samlare\n* Modellering SDK\n* MFC-bibliotek med flerabyte\n* Premium\n* Professionell\n* Hantering av utgivning\n* Fjärrverktyg\n* Sdk\n* Skal (integrerat)\n* Skal (isolerat)\n* Grupputforskaren\n* Testa Professional\n* Ultimata\n* Visuell C++ Redistributable\n* Tillägg för webbverktyg"

@@ -1,0 +1,27 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Azure Scheduler
+  description: Azure Scheduler följer den moderna livscykelprincipen.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: c5e6273a70a409fc5947fb69ea6103e771128747
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: sv-SE
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "863836"
+name: Azure Scheduler
+summary: >+
+  Azure Scheduler följer den [moderna](/lifecycle/policies/modern) livscykelprincipen.
+
+
+products:
+- azure
+policyType: modern-online
+supportDates:
+  start: 07/01/2014
+  end: 09/30/2019
+releases:
+- version: Original Release
+  startDate: 07/01/2014
+  endDate: 09/30/2019
+content: "\n## <a name=\"links\"></a>Länkar \n* [Vägledning för migrering](/azure/scheduler/migrate-from-scheduler-to-logic-apps)"

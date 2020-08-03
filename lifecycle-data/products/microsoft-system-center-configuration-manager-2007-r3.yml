@@ -1,0 +1,32 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Konfigurationshanteraren för Microsoft System Center 2007 R3
+  description: Microsoft System Center Configuration Manager 2007 R3 följer policyn för fast livscykel.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: cffcc1c2bb51fc5023fe6ad29d62132141ffedb2
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: sv-SE
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "864273"
+name: Konfigurationshanteraren för Microsoft System Center 2007 R3
+summary: >
+  Microsoft System Center Configuration Manager 2007 R3 följer [policyn](/lifecycle/policies/fixed) för fast livscykel.
+
+
+
+  > [!IMPORTANT]
+
+  > Supporten för den här produkten har upphört. Se migreringsvägledning nedan.
+products:
+- msc
+policyType: fixed
+supportDates:
+  start: 12/19/2010
+  end: 07/08/2014
+  extendedEnd: 07/09/2019
+releases:
+- version: Original Release
+  startDate: 12/19/2010
+  endDate: 07/09/2019
+content: "\n## <a name=\"links\"></a>Länkar \n* [Vägledning för migrering](/mem/configmgr/core/migration/migrate-data-between-hierarchies)\n* [Ytterligare vägledning om migrering](/mem/configmgr/core/migration/planning-for-migration)"

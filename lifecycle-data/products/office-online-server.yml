@@ -1,0 +1,25 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Office Online-server
+  description: Office Online Server följer den moderna livscykelprincipen.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 953cd5a923a96f676bc0204fc7c9419e95889496
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: sv-SE
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "863936"
+name: Office Online-server
+summary: >+
+  Office Online Server följer den [moderna](/lifecycle/policies/modern) livscykelprincipen.
+
+
+products:
+- office
+policyType: modern-online
+supportDates:
+  start: 05/04/2016
+releases:
+- version: Original Release
+  startDate: 05/04/2016
+content: ''

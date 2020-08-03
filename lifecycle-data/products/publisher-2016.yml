@@ -1,0 +1,30 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Utgivare 2016
+  description: Publisher 2016 följer policyn för fast livscykel.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 6398615c256c3272267a6996e66f6bddb0a7eb13
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: sv-SE
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "864327"
+name: Utgivare 2016
+summary: >+
+  Publisher 2016 följer [policyn](/lifecycle/policies/fixed) för fast livscykel.
+
+
+  Detta gäller följande utgåvor: Standard
+
+products:
+- office
+policyType: fixed
+supportDates:
+  start: 09/22/2015
+  end: 10/13/2020
+  extendedEnd: 10/14/2025
+releases:
+- version: Original Release
+  startDate: 09/22/2015
+  endDate: 10/14/2025
+content: "\n\n\n## <a name=\"editions\"></a>Upplagor \n* Standard"

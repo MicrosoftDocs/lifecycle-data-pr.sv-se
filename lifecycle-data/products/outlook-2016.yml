@@ -1,0 +1,30 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Utsikter 2016
+  description: Outlook 2016 följer den fasta livscykelprincipen.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: e6b1807eec17efde9ec1d6b168b206e63fa684e0
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: sv-SE
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "863900"
+name: Utsikter 2016
+summary: >+
+  Outlook 2016 följer den [fasta](/lifecycle/policies/fixed) livscykelprincipen.
+
+
+  Detta gäller följande utgåvor: Standard
+
+products:
+- office
+policyType: fixed
+supportDates:
+  start: 09/22/2015
+  end: 10/13/2020
+  extendedEnd: 10/14/2025
+releases:
+- version: Original Release
+  startDate: 09/22/2015
+  endDate: 10/14/2025
+content: "\n\n\n## <a name=\"editions\"></a>Upplagor \n* Standard"

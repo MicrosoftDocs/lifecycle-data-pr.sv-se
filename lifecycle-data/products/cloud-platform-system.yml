@@ -1,0 +1,28 @@
+### YamlMime:Lifecycle
+metadata:
+  title: System för molnplattform
+  description: Cloud Platform System följer policyn för fast livscykel.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 931caf3fc06338dfa6ec97f0a7bc079c9be6a4a9
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: sv-SE
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "864121"
+name: System för molnplattform
+summary: >+
+  Cloud Platform System följer [policyn](/lifecycle/policies/fixed) för fast livscykel.
+
+
+products:
+- azure
+policyType: fixed
+supportDates:
+  start: 01/29/2015
+  end: 04/14/2020
+  extendedEnd: 07/12/2022
+releases:
+- version: Original Release
+  startDate: 01/29/2015
+  endDate: 07/12/2022
+content: "\n\n> [!NOTE]\n> Support för Cloud Platform System utökas enligt bilden för att ge alla kunder standardtidslinjen för livscykelövergång.\n> [!NOTE]\n> Cloud Platform System Standard lanserades den 18 september 2017."

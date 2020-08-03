@@ -1,0 +1,30 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Windows Server 2012 R2
+  description: Windows Server 2012 R2 följer principen om fast livscykel.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 35b2c5868387b3f6aa94bc41d2674c8ea7286aa6
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: sv-SE
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "863883"
+name: Windows Server 2012 R2
+summary: >+
+  Windows Server 2012 R2 följer [principen](/lifecycle/policies/fixed) om fast livscykel.
+
+
+  Detta gäller följande utgåvor: Datacenter, Essentials, för inbyggda system, Foundation, Standard
+
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 11/25/2013
+  end: 10/09/2018
+  extendedEnd: 10/10/2023
+releases:
+- version: Original Release
+  startDate: 11/25/2013
+  endDate: 10/10/2023
+content: "\n## <a name=\"links\"></a>Länkar \n* [Vägledning för migrering](/windows-server/upgrade/upgrade-overview)\n\n> [!NOTE]\n> Mainstream och Extended-supporten för den här produkten har utökats för att ge kunderna standardtidslinjen för livscykelövergång.\n\n## <a name=\"editions\"></a>Upplagor \n* Datacenter\n* Nödvändigt\n* för inbyggda system\n* Foundation\n* Standard"

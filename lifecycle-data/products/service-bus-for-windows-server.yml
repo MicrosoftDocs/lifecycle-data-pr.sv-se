@@ -1,0 +1,31 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Servicebuss för Windows Server
+  description: ServiceBuss för Windows Server följer komponentlivscykelprincipen.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 1641a04266351d29d8b152c5bc87f62207344b65
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: sv-SE
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "864051"
+name: Servicebuss för Windows Server
+summary: >
+  ServiceBuss för Windows Server [Component](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) följer komponentlivscykelprincipen.
+
+
+
+  > [!IMPORTANT]
+
+  > När Service Bus 1.1 är en komponent i SharePoint Server 2016 eller SharePoint Server 2013 stöds den i slutet av supportdatumen för respektive SharePoint Server-version.
+products:
+- windows
+policyType: component
+supportDates:
+  start: 10/18/2012
+  end: 01/10/2023
+releases:
+- version: Original Release
+  startDate: 10/18/2012
+  endDate: 01/10/2023
+content: ''

@@ -1,0 +1,30 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft Lync 2010
+  description: Microsoft Lync 2010 följer policyn för fast livscykel.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 2a5d4651d05052e79c1c28309fc8ad530e584aec
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: sv-SE
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "863964"
+name: Microsoft Lync 2010
+summary: >+
+  Microsoft Lync 2010 följer [policyn](/lifecycle/policies/fixed) för fast livscykel.
+
+
+  Detta gäller följande utgåvor: Attendant, Deltagare, Gruppchatt, Standard
+
+products:
+- office
+policyType: fixed
+supportDates:
+  start: 01/25/2011
+  end: 04/12/2016
+  extendedEnd: 04/13/2021
+releases:
+- version: Original Release
+  startDate: 01/25/2011
+  endDate: 04/13/2021
+content: "\n\n\n## <a name=\"editions\"></a>Upplagor \n* Dirigeringen\n* Deltagare\n* Gruppchatt\n* Standard"

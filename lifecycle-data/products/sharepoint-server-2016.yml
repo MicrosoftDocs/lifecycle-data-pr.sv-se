@@ -1,0 +1,28 @@
+### YamlMime:Lifecycle
+metadata:
+  title: SharePoint Server 2016
+  description: SharePoint Server 2016 följer policyn för fast livscykel.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: b3049f78b9b57515f5a9b5966af4c72f30932824
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: sv-SE
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "864236"
+name: SharePoint Server 2016
+summary: >+
+  SharePoint Server 2016 följer [policyn](/lifecycle/policies/fixed) för fast livscykel.
+
+
+products:
+- office
+policyType: fixed
+supportDates:
+  start: 05/01/2016
+  end: 07/13/2021
+  extendedEnd: 07/14/2026
+releases:
+- version: Original Release
+  startDate: 05/01/2016
+  endDate: 07/14/2026
+content: "\n## <a name=\"links\"></a>Länkar \n* [Serviceinformation](/SharePoint/product-servicing-policy/updated-product-servicing-policy-for-sharepoint-server-2016)"

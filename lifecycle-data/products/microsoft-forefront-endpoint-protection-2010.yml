@@ -1,0 +1,32 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft Forefront Slutpunktsskydd 2010
+  description: Microsoft Forefront Endpoint Protection 2010 följer policyn för fast livscykel.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 113adafeb18c300817f2c264cf2457b0e24cbd8c
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: sv-SE
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "864153"
+name: Microsoft Forefront Slutpunktsskydd 2010
+summary: >
+  Microsoft Forefront Endpoint Protection 2010 följer [policyn](/lifecycle/policies/fixed) för fast livscykel.
+
+
+
+  > [!IMPORTANT]
+
+  > Stödet har upphört. Se migreringsvägledning nedan.
+products:
+- office
+policyType: fixed
+supportDates:
+  start: 03/31/2011
+  end: 07/08/2014
+  extendedEnd: 07/09/2019
+releases:
+- version: Original Release
+  startDate: 03/31/2011
+  endDate: 07/09/2019
+content: "\n## <a name=\"links\"></a>Länkar \n* [Vägledning för migrering](/lifecycle/announcements/sccm-2007-forefront-2010-end-of-support)\n* [Serviceinformation](https://techcommunity.microsoft.com/t5/Configuration-Manager-Archive/Anti-malware-Platform-Support/ba-p/274186)\n\n> [!NOTE]\n> Kunderna måste hålla sig aktuella med den senaste uppdateringen av plattformen mot skadlig kod för att få fullt stöd. Forefront Endpoint Protection 2010 omfattas av samma livscykelprincip som System Center Configuration Manager 2007 för både mainstream och utökad support."

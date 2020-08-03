@@ -1,0 +1,28 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Dynamik C5 2016
+  description: Dynamics C5 2016 följer den fasta livscykelpolicyn.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 7f174d3ef6f65ebbfacd00fedb86ee8528d0601f
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: sv-SE
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "864101"
+name: Dynamik C5 2016
+summary: >+
+  Dynamics C5 2016 följer den [fasta](/lifecycle/policies/fixed) livscykelpolicyn.
+
+
+products:
+- dynamics
+policyType: fixed
+supportDates:
+  start: 01/03/2016
+  end: 04/13/2021
+  extendedEnd: 04/14/2026
+releases:
+- version: RTM
+  startDate: 01/03/2016
+  endDate: 04/14/2026
+content: ''

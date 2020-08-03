@@ -1,0 +1,24 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Lync mötesrum
+  description: Lync-mötesrum följer policyn för fast livscykel.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 92fdfd4bb47c96e2fccf4ffa0bcf96a332a92a64
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: sv-SE
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "863996"
+name: Lync mötesrum
+summary: "Lync-mötesrum följer [policyn](/lifecycle/policies/fixed) för fast livscykel.\n\n\n> [!IMPORTANT]\n> Supporten för den här produkten har upphört. Se migreringsvägledning. \n"
+products:
+- office
+policyType: fixed-mainstream-only
+supportDates:
+  start: 09/01/2013
+  end: 10/09/2018
+releases:
+- version: Original Release
+  startDate: 09/01/2013
+  endDate: 10/09/2018
+content: "\n## <a name=\"links\"></a>Länkar \n* [Vägledning för migrering](/skypeforbusiness/deploy/deploy-clients/lrs-migration)"

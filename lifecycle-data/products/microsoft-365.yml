@@ -1,0 +1,27 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft 365
+  description: Microsoft 365 följer den moderna livscykelpolicyn.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 305fc57c897c1f8b2eb95b170d5b8403e1ea35ee
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: sv-SE
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "864245"
+name: Microsoft 365
+summary: >+
+  Microsoft 365 följer den [moderna](/lifecycle/policies/modern) livscykelpolicyn.
+
+
+  Detta gäller följande utgåvor: Business, Education, Enterprise, Government
+
+products:
+- office
+policyType: modern-online
+supportDates:
+  start: 09/22/2015
+releases:
+- version: Original Release
+  startDate: 09/22/2015
+content: "\n## <a name=\"links\"></a>Länkar \n* [Översikt över Microsoft 365](https://www.microsoft.com/microsoft-365/roadmap)\n* [Systemkrav](https://www.microsoft.com/microsoft-365/microsoft-365-and-office-resources)\n\n\n## <a name=\"editions\"></a>Upplagor \n* Företag\n* Utbildning\n* Företag\n* Myndigheter"

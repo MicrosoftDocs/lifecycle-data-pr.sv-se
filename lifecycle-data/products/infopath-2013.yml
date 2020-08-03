@@ -1,0 +1,30 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Infopath 2013
+  description: Infopath 2013 följer policyn för fast livscykel.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 69bc8811a52c75cb58357ad4e0213f28a1001cae
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: sv-SE
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "864071"
+name: Infopath 2013
+summary: >+
+  Infopath 2013 följer [policyn](/lifecycle/policies/fixed) för fast livscykel.
+
+
+  Detta gäller följande utgåvor: Standard
+
+products:
+- office
+policyType: fixed
+supportDates:
+  start: 01/09/2013
+  end: 07/13/2021
+  extendedEnd: 07/14/2026
+releases:
+- version: Original Release
+  startDate: 01/09/2013
+  endDate: 07/14/2026
+content: "\n## <a name=\"links\"></a>Länkar \n* [Supportinformation](https://blogs.office.com/2016/01/20/sharepoint-server-2016-and-project-server-2016-release-candidate-available)\n\n> [!NOTE]\n> Stödet för Microsoft InfoPath 2013 utökas enligt bilden för att säkerställa kompatibilitet med SharePoint Server 2016.\n\n## <a name=\"editions\"></a>Upplagor \n* Standard"

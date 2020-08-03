@@ -1,0 +1,34 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Konfigurationshanteraren för Microsoft System Center 2012
+  description: Konfigurationshanteraren för Microsoft System Center 2012 följer policyn för fast livscykel.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: dce8796f280b29e070bbf1d5bab55452f6e706e7
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: sv-SE
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "864059"
+name: Konfigurationshanteraren för Microsoft System Center 2012
+summary: >+
+  Konfigurationshanteraren för Microsoft System Center 2012 följer [policyn](/lifecycle/policies/fixed) för fast livscykel.
+
+
+products:
+- msc
+policyType: fixed
+supportDates:
+  start: 05/30/2012
+  end: 07/11/2017
+  extendedEnd: 07/12/2022
+releases:
+- version: Service Pack 2
+  startDate: 05/12/2015
+  endDate: 07/12/2022
+- version: Service Pack 1
+  startDate: 12/15/2012
+  endDate: 07/12/2016
+- version: Original Release
+  startDate: 05/30/2012
+  endDate: 01/14/2014
+content: "\n## <a name=\"links\"></a>Länkar \n* [Service Pack-principen](/lifecycle/policies/fixed#service-packs)\n* [Dokumentation för Systemcenter](/system-center/#pivot=components&panel=components-all)\n* [Resurser för systemcenter](https://www.microsoft.com/system-center/resources)"

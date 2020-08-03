@@ -1,0 +1,31 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Windows Small Business Server 2011
+  description: Windows Small Business Server 2011 följer policyn för fast livscykel.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 61033305f4abf2b1c63cd15f8ae3dce88331fa7e
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: sv-SE
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "864041"
+name: Windows Small Business Server 2011
+summary: >
+  Windows Small Business Server 2011 följer [policyn](/lifecycle/policies/fixed) för fast livscykel.
+
+
+  Detta gäller följande utgåvor: Essentials, Premium Add-On, Standard
+
+
+  > [!IMPORTANT]
+
+  > Supportdatumet för det här produktpaketet bestäms av den enskilda komponentproduktens respektive livscykler. Läs igenom den enskilda komponentproduktens livscykel för att fastställa supportens längd.
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 03/09/2011
+releases:
+- version: Original Release
+  startDate: 03/09/2011
+content: "\n## <a name=\"links\"></a>Länkar \n* [Vägledning för migrering](https://aka.ms/AA1ovn4)\n* [Migrera Windows Small Business Server 2011 Standard till Windows Server Essentials](/windows-server-essentials/migrate/migrate-windows-small-business-server-2011-standard-to-windows-server-essentials)\n\n\n## <a name=\"editions\"></a>Upplagor \n* Nödvändigt\n* Premium-tillägg\n* Standard"

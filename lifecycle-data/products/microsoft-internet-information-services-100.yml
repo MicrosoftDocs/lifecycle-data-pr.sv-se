@@ -1,0 +1,27 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft Internet Information Services 10.0
+  description: Microsoft Internet Information Services 10.0 följer komponentlivscykelpolicyn.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 6ee9b2824e6fd7cff445f978c3a6294e7784abcb
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: sv-SE
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "863970"
+name: Microsoft Internet Information Services 10.0
+summary: >+
+  Microsoft Internet Information Services 10.0 följer komponentlivscykelpolicyn. [Component](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy)
+
+
+products:
+- windows
+policyType: component
+supportDates:
+  start: 10/12/2016
+  end: 01/11/2027
+releases:
+- version: Original Release
+  startDate: 10/12/2016
+  endDate: 01/11/2027
+content: "\n\n> [!NOTE]\n> Den här versionen kallas en komponent som följer supportlivscykeln för den överordnade huvudprodukten, Windows Server 2016."
