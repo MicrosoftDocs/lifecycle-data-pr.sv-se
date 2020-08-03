@@ -1,0 +1,34 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft .NET Framework 2.0
+  description: Microsoft .NET Framework 2.0 följer policyn för fast livscykel.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: d6d186410b904b018d0d12029387bf88ac0784fb
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: sv-SE
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "842045"
+name: Microsoft .NET Framework 2.0
+summary: >+
+  Microsoft .NET Framework 2.0 följer [policyn](/lifecycle/policies/fixed) för fast livscykel.
+
+
+products:
+- dotnet
+policyType: fixed
+supportDates:
+  start: 02/17/2006
+  end: 07/12/2011
+  extendedEnd: 07/12/2011
+releases:
+- version: Service Pack 2
+  startDate: 01/16/2009
+  endDate: 07/12/2011
+- version: Service Pack 1
+  startDate: 11/19/2007
+  endDate: 01/12/2010
+- version: Original Release
+  startDate: 02/17/2006
+  endDate: 01/13/2009
+content: "\n## <a name=\"links\"></a>Länkar \n* [Vanliga frågor och svar om livscykel – .NET Framework](/lifecycle/faq/dotnet-framework)\n* [Produktinformation](/dotnet/framework/migration-guide/versions-and-dependencies#net-framework-20)\n\n> [!NOTE]\n> Stödet för .NET Framework 2.0 upphörde den 12 juli 2011."

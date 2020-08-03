@@ -1,0 +1,30 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft Office Publisher 2003
+  description: Microsoft Office Publisher 2003 följer policyn för fast livscykel.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: dc74fbb4c7ad1e9d6e27b507d00c15aadd1665dc
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: sv-SE
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "842032"
+name: Microsoft Office Publisher 2003
+summary: >+
+  Microsoft Office Publisher 2003 följer [policyn](/lifecycle/policies/fixed) för fast livscykel.
+
+
+  Detta gäller följande utgåvor: Standard, med Digital Imaging
+
+products:
+- office
+policyType: fixed
+supportDates:
+  start: 11/24/2003
+  end: 04/14/2009
+  extendedEnd: 04/08/2014
+releases:
+- version: Original Release
+  startDate: 11/24/2003
+  endDate: 04/08/2014
+content: "\n\n\n## <a name=\"editions\"></a>Upplagor \n* Standard\n* med Digital Imaging"

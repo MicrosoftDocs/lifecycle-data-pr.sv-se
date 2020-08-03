@@ -1,0 +1,40 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft Forefront Threat Management Gateway 2010
+  description: Microsoft Forefront Threat Management Gateway 2010 följer policyn för fast livscykel.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: c28f728f916bfa317c1c81b4807c7aac16dd42bb
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: sv-SE
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "842053"
+name: Microsoft Forefront Threat Management Gateway 2010
+summary: >
+  Microsoft Forefront Threat Management Gateway 2010 följer [policyn](/lifecycle/policies/fixed) för fast livscykel.
+
+
+  Detta gäller följande utgåvor: Enterprise, Standard
+
+
+  > [!IMPORTANT]
+
+  > Stödet har upphört. Se migreringsvägledning nedan.
+products:
+- office
+policyType: fixed
+supportDates:
+  start: 12/01/2009
+  end: 04/14/2015
+  extendedEnd: 04/14/2020
+releases:
+- version: Service Pack 2
+  startDate: 10/04/2011
+  endDate: 04/14/2020
+- version: Service Pack 1
+  startDate: 06/07/2010
+  endDate: 01/08/2013
+- version: Original Release
+  startDate: 12/01/2009
+  endDate: 07/12/2011
+content: "\n## <a name=\"links\"></a>Länkar \n* [Vägledning för migrering](https://techcommunity.microsoft.com/t5/azure-active-directory-identity/bg-p/Identity)\n\n\n## <a name=\"editions\"></a>Upplagor \n* Företag\n* Standard"
