@@ -1,0 +1,25 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Virtuellt WAN i Azure
+  description: Azure Virtual WAN följer den moderna livscykelprincipen.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: f6c8e8b638b9bb6a65bd3213cc23c61ad3c39b0b
+  ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
+  ms.translationtype: MT
+  ms.contentlocale: sv-SE
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "872541"
+name: Virtuellt WAN i Azure
+summary: >+
+  Azure Virtual WAN följer den [moderna](/lifecycle/policies/modern) livscykelprincipen.
+
+
+products:
+- azure
+policyType: modern-online
+supportDates:
+  start: 09/03/2018
+releases:
+- version: Original Release
+  startDate: 09/03/2018
+content: ''

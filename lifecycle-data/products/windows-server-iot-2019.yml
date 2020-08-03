@@ -1,0 +1,30 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Windows Server IoT 2019
+  description: Windows Server IoT 2019 följer policyn för fast livscykel.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 31bc197c23ee1cdbba7340156da48c4a8d1aea4c
+  ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
+  ms.translationtype: MT
+  ms.contentlocale: sv-SE
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "872559"
+name: Windows Server IoT 2019
+summary: >+
+  Windows Server IoT 2019 följer [policyn](/lifecycle/policies/fixed) för fast livscykel.
+
+
+  Detta gäller följande utgåvor: Datacenter, Essentials, Standard, Telekommunikation
+
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 03/04/2019
+  end: 01/09/2024
+  extendedEnd: 01/09/2029
+releases:
+- version: Original Release
+  startDate: 03/04/2019
+  endDate: 01/09/2029
+content: "\n## <a name=\"links\"></a>Länkar \n* [Vanliga frågor och svar om livscykel – Windows-produkter](/lifecycle/faq/windows)\n\n> [!NOTE]\n> Alla versioner av Windows Server IoT 2019 följer livscykeln för Windows Server 2019.\n\n## <a name=\"editions\"></a>Upplagor \n* Datacenter\n* Nödvändigt\n* Standard\n* Telekommunikation"

@@ -1,0 +1,28 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Dynamics GP 2018
+  description: Dynamics GP 2018 följer policyn för fast livscykel.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: ceeb4827503ab282ee2ffef12cc0518f3f80ae2c
+  ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
+  ms.translationtype: MT
+  ms.contentlocale: sv-SE
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "872519"
+name: Dynamics GP 2018
+summary: >+
+  Dynamics GP 2018 följer [policyn](/lifecycle/policies/fixed) för fast livscykel.
+
+
+products:
+- dynamics
+policyType: fixed
+supportDates:
+  start: 12/01/2017
+  end: 01/10/2023
+  extendedEnd: 01/11/2028
+releases:
+- version: Original Release
+  startDate: 12/01/2017
+  endDate: 01/11/2028
+content: ''
