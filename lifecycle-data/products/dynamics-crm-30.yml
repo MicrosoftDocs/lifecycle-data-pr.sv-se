@@ -1,0 +1,28 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Dynamics CRM 3.0
+  description: Dynamics CRM 3.0 följer den fasta livscykelprincipen.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: c3ce2d0115f8129eb5f590a867fdef61ef896782
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: sv-SE
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "842194"
+name: Dynamics CRM 3.0
+summary: >+
+  Dynamics CRM 3.0 följer den [fasta](/lifecycle/policies/fixed) livscykelprincipen.
+
+
+products:
+- dynamics
+policyType: fixed
+supportDates:
+  start: 12/01/2005
+  end: 04/12/2011
+  extendedEnd: 04/12/2016
+releases:
+- version: Original Release
+  startDate: 12/01/2005
+  endDate: 04/12/2016
+content: "\n## <a name=\"links\"></a>Länkar \n* [Vägledning för migrering](https://blogs.msdn.microsoft.com/crm/2016/04/07/microsoft-dynamics-crm-3-0-support-lifecycle-announcement)"

@@ -1,0 +1,31 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Dynamics NAV 2009
+  description: Dynamics NAV 2009 följer den fasta livscykelprincipen.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 91dc4515ba59f72b52cc7c9d517407dfaf552702
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: sv-SE
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "842183"
+name: Dynamics NAV 2009
+summary: >+
+  Dynamics NAV 2009 följer den [fasta](/lifecycle/policies/fixed) livscykelprincipen.
+
+
+products:
+- dynamics
+policyType: fixed
+supportDates:
+  start: 02/12/2009
+  end: 01/13/2015
+  extendedEnd: 01/14/2020
+releases:
+- version: Service Pack 1
+  startDate: 08/28/2009
+  endDate: 01/14/2020
+- version: Original Release
+  startDate: 02/12/2009
+  endDate: 10/11/2011
+content: "\n## <a name=\"links\"></a>Länkar \n* [Service Pack-principen](/lifecycle/policies/fixed#service-packs)\n* [Läs mer](https://mbs.microsoft.com/partnersource/northamerica/pricing-ordering/pricing-ordering-news/MicrosoftForecasterDiscontinuation)\n\n> [!NOTE]\n> Slutet på supportdatumen för NAV 2009 förlängs som visas."

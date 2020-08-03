@@ -1,0 +1,30 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Excel 2010
+  description: Excel 2010 följer den fasta livscykelprincipen.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: b87f39a5d41d37ea9ea0c6f9e9871319d92b89c9
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: sv-SE
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "842177"
+name: Excel 2010
+summary: >+
+  Excel 2010 följer den [fasta](/lifecycle/policies/fixed) livscykelprincipen.
+
+
+  Detta gäller följande utgåvor: Hem och Student, Standard
+
+products:
+- office
+policyType: fixed
+supportDates:
+  start: 07/15/2010
+  end: 10/13/2015
+  extendedEnd: 10/13/2020
+releases:
+- version: Original Release
+  startDate: 07/15/2010
+  endDate: 10/13/2020
+content: "\n## <a name=\"links\"></a>Länkar \n* [Vägledning för migrering](/DeployOffice/office-2010-end-support-roadmap)\n* [Service Pack-principen](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Upplagor \n* Hem och student\n* Standard"

@@ -1,0 +1,35 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Dynamik C5 2010
+  description: Dynamics C5 2010 följer policyn för fast livscykel.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 42e669783f2448e3ff9834c2ec8d0924b65b408b
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: sv-SE
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "842199"
+name: Dynamik C5 2010
+summary: >+
+  Dynamics C5 2010 följer [policyn](/lifecycle/policies/fixed) för fast livscykel.
+
+
+  Detta gäller följande utgåvor: Standard
+
+products:
+- dynamics
+policyType: fixed-mainstream-only
+supportDates:
+  start: 11/30/2009
+  end: 01/13/2015
+releases:
+- version: Service Pack 2
+  startDate: 04/15/2013
+  endDate: 01/13/2015
+- version: Service Pack 1
+  startDate: 02/28/2012
+  endDate: 07/08/2014
+- version: Original Release
+  startDate: 11/30/2009
+  endDate: 04/09/2013
+content: "\n## <a name=\"links\"></a>Länkar \n* [Service Pack-principen](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Upplagor \n* Standard"

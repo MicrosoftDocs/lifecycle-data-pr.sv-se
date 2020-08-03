@@ -1,0 +1,25 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft Office Communicator 2007
+  description: Microsoft Office Communicator 2007 följer policyn för fast livscykel.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: ab077ce0dedfc09ea235a467e0f9239d5969a2af
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: sv-SE
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "842400"
+name: Microsoft Office Communicator 2007
+summary: "Microsoft Office Communicator 2007 följer [policyn](/lifecycle/policies/fixed) för fast livscykel.\n\nDetta gäller följande utgåvor: Standard\n\n> [!IMPORTANT]\n> Supporten för den här produkten har upphört. \n"
+products:
+- office
+policyType: fixed
+supportDates:
+  start: 10/27/2007
+  end: 01/08/2013
+  extendedEnd: 01/09/2018
+releases:
+- version: Original Release
+  startDate: 10/27/2007
+  endDate: 01/09/2018
+content: "\n## <a name=\"links\"></a>Länkar \n* [Vägledning för migrering](https://blogs.technet.microsoft.com/nexthop/2016/02/22/end-of-extended-support-for-office-communicator-and-office-communications-server/)\n\n\n## <a name=\"editions\"></a>Upplagor \n* Standard"
