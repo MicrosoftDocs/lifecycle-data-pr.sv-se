@@ -1,0 +1,38 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Konfigurationshanteraren för Microsoft System Center 2007
+  description: Microsoft System Center Configuration Manager 2007 följer policyn för fast livscykel.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 796670fd93547cc79f69c544085070efb0116650
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: sv-SE
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "842005"
+name: Konfigurationshanteraren för Microsoft System Center 2007
+summary: >
+  Microsoft System Center Configuration Manager 2007 följer [policyn](/lifecycle/policies/fixed) för fast livscykel.
+
+
+
+  > [!IMPORTANT]
+
+  > Supporten för den här produkten har upphört. Se migreringsvägledning nedan.
+products:
+- msc
+policyType: fixed
+supportDates:
+  start: 11/29/2007
+  end: 07/08/2014
+  extendedEnd: 07/09/2019
+releases:
+- version: Service Pack 2
+  startDate: 10/22/2009
+  endDate: 07/09/2019
+- version: Service Pack 1
+  startDate: 05/21/2008
+  endDate: 01/11/2011
+- version: Original Release
+  startDate: 11/29/2007
+  endDate: 07/14/2009
+content: "\n## <a name=\"links\"></a>Länkar \n* [Vägledning för migrering](/mem/configmgr/core/migration/migrate-data-between-hierarchies)\n* [Produktinformation](/mem/configmgr/core/understand/introduction)\n* [Service Pack-principen](/lifecycle/policies/fixed#service-packs)"

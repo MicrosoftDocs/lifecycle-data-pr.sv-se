@@ -1,0 +1,30 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft SharePoint 2010 (för webbplatser)
+  description: Microsoft SharePoint 2010 (för Internet-webbplatser) följer policyn för fast livscykel.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 91cbc237303d2c4f7f73f93be5375206006b7909
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: sv-SE
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "842017"
+name: Microsoft SharePoint 2010 (för webbplatser)
+summary: >+
+  Microsoft SharePoint 2010 (för Internet-webbplatser) följer [policyn](/lifecycle/policies/fixed) för fast livscykel.
+
+
+  Detta gäller följande utgåvor: för Internet Sites Enterprise, för Internet Sites Standard
+
+products:
+- office
+policyType: fixed
+supportDates:
+  start: 06/15/2010
+  end: 10/13/2015
+  extendedEnd: 04/13/2021
+releases:
+- version: Original Release
+  startDate: 06/15/2010
+  endDate: 04/13/2021
+content: "\n## <a name=\"links\"></a>Länkar \n* [Produktdokumentation](/previous-versions/office/developer/sharepoint-2010/ee557253(v=office.14))\n* [Dokumentation för utvecklare](/previous-versions/office/developer/sharepoint-2010/ee557253(v=office.14))\n\n> [!NOTE]\n> Produktens supportdatum har förlängts från den 13 oktober 2020 till den 13 april 2021.\n\n## <a name=\"editions\"></a>Upplagor \n* för Internet Sites Enterprise\n* för Internet Sites Standard"
