@@ -1,0 +1,33 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft Business Solutions - Great Plains 8.0
+  description: Microsoft Business Solutions – Great Plains 8.0 följer policyn för fast livscykel.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 708ba112ad66ce2d89482c6771b24c9fb9e31cab
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: sv-SE
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "842097"
+name: Microsoft Business Solutions - Great Plains 8.0
+summary: >
+  Microsoft Business Solutions – Great Plains 8.0 följer [policyn](/lifecycle/policies/fixed) för fast livscykel.
+
+
+  Detta gäller följande utgåvor: Standard
+
+
+  > [!IMPORTANT]
+
+  > Supporten för denna produkt har upphört den 13 oktober 2009
+products:
+- dynamics
+policyType: fixed-mainstream-only
+supportDates:
+  start: 06/01/2004
+  end: 10/13/2009
+releases:
+- version: Original Release
+  startDate: 06/01/2004
+  endDate: 10/13/2009
+content: "\n\n\n## <a name=\"editions\"></a>Upplagor \n* Standard"

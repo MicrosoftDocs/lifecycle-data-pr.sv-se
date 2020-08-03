@@ -1,0 +1,30 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft-klass server 4.0
+  description: Microsoft Class Server 4.0 följer policyn för fast livscykel.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: efd4e92bf5426dcdf6e52ce8bcbc679f026ce5ce
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: sv-SE
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "842084"
+name: Microsoft-klass server 4.0
+summary: >+
+  Microsoft Class Server 4.0 följer [policyn](/lifecycle/policies/fixed) för fast livscykel.
+
+
+  Detta gäller följande utgåvor: Standard
+
+products:
+- office
+policyType: fixed
+supportDates:
+  start: 02/21/2005
+  end: 04/13/2010
+  extendedEnd: 04/14/2015
+releases:
+- version: Original Release
+  startDate: 02/21/2005
+  endDate: 04/14/2015
+content: "\n\n\n## <a name=\"editions\"></a>Upplagor \n* Standard"

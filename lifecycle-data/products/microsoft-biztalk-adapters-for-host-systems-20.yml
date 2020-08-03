@@ -1,0 +1,30 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft BizTalk-kort för värdsystem 2.0
+  description: Microsoft BizTalk-kort för värdsystem 2.0 följer policyn för fast livscykel.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: f80e0cf76eebd3d54f478080a80929cb15778886
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: sv-SE
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "842107"
+name: Microsoft BizTalk-kort för värdsystem 2.0
+summary: >+
+  Microsoft BizTalk-kort för värdsystem 2.0 följer [policyn](/lifecycle/policies/fixed) för fast livscykel.
+
+
+  Detta gäller följande utgåvor: Utvecklare, Standard
+
+products:
+- microsoft-servers
+policyType: fixed
+supportDates:
+  start: 06/21/2009
+  end: 07/08/2014
+  extendedEnd: 07/09/2019
+releases:
+- version: Original Release
+  startDate: 06/21/2009
+  endDate: 07/09/2019
+content: "\n## <a name=\"links\"></a>Länkar \n* [Vägledning för migrering](https://techcommunity.microsoft.com/t5/Host-Integration-Blog/End-of-Support-for-BizTalk-Adapters-for-Host-Systems-2-0/ba-p/269471)\n\n\n## <a name=\"editions\"></a>Upplagor \n* Författare\n* Standard"
