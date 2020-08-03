@@ -1,0 +1,28 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Virtuell server 2005 R2
+  description: Virtual Server 2005 R2 följer principen om fast livscykel.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 9a66e757579adfefd5a7b2dd3f2ee034dcf0a8b6
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: sv-SE
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "841943"
+name: Virtuell server 2005 R2
+summary: "Virtual Server 2005 R2 följer [principen](/lifecycle/policies/fixed) om fast livscykel.\n\nDetta gäller följande utgåvor: Enterprise, Standard\n\n> [!IMPORTANT]\n> Supporten för den här produkten har upphört. \n"
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 01/28/2006
+  end: 01/12/2010
+  extendedEnd: 01/13/2015
+releases:
+- version: Service Pack 1
+  startDate: 04/16/2007
+  endDate: 01/13/2015
+- version: Original Release
+  startDate: 01/28/2006
+  endDate: 07/08/2008
+content: "\n## <a name=\"links\"></a>Länkar \n* [Service Pack-principen](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Upplagor \n* Företag\n* Standard"
