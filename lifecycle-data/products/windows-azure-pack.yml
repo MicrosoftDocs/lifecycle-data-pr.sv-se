@@ -1,0 +1,32 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Windows Azure Pack (Server 2012 R2)
+  description: Windows Azure Pack (Server 2012 R2) följer komponentlivscykelprincipen.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 67fdcd0c4b53dc8faf194a6e062a108fa8f8391e
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: sv-SE
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "863874"
+name: Windows Azure Pack (Server 2012 R2)
+summary: >+
+  Windows Azure Pack (Server 2012 R2) följer komponentlivscykelprincipen. [Component](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy)
+
+
+  Detta gäller följande versioner: på Windows Server 2012 R2
+
+products:
+- windows
+policyType: component
+supportDates:
+  start: 01/14/2014
+  end: 07/12/2022
+releases:
+- version: on Windows Server 2012 R2
+  startDate: 01/14/2014
+  endDate: 07/12/2022
+- version: V2 Web Sites
+  startDate: 01/14/2014
+  endDate: 07/12/2022
+content: "\n## <a name=\"links\"></a>Länkar \n* [Livscykeldatum för Windows Azure Pack-webbplatser V2-support](https://azure.github.io/AppService/2017/01/19/Revisiting-Windows-Azure-Pack-Web-Sites-V2-Support-Lifecycle-Dates.html)\n* [Produktinformation om Windows Azure Pack för Windows Server](/previous-versions/azure/windows-server-azure-pack/dn296435(v=technet.10))\n\n\n## <a name=\"editions\"></a>Upplagor \n* på Windows Server 2012 R2"

@@ -1,0 +1,27 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Azure StorSimple 8000-serien
+  description: Azure StorSimple 8000-serien följer policyn för fast livscykel.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: b7f4d4313e664c1d52d52ee6394c8cad97f69e85
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: sv-SE
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "863852"
+name: Azure StorSimple 8000-serien
+summary: >+
+  Azure StorSimple 8000-serien följer [policyn](/lifecycle/policies/fixed) för fast livscykel.
+
+
+products:
+- azure
+policyType: fixed
+supportDates:
+  start: 11/01/2014
+  end: 07/01/2020
+  extendedEnd: 12/31/2022
+releases:
+- version: Original Release
+  startDate: 11/01/2014
+content: "\n## <a name=\"links\"></a>Länkar \n* [Stöd för StorSimple-lösning](https://msdn.microsoft.com/library/mt433077(TechNet.10).aspx)\n* [Vägledning för migrering](/azure/storage/files/storage-files-migration-storsimple-8000)\n\n> [!NOTE]\n> Supporten för Azure StorSimple 8000-serien utökas enligt bilden för att ge kunderna standardlivscykeltidslinjen. Utökad support omfattar endast maskinvarubyte och säkerhetsuppdateringar."

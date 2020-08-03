@@ -1,0 +1,27 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft Azure Virtual Machine (klassisk) (bekräfta med Azure före publicering - inget slutdatum på datumrutnätet)
+  description: Microsoft Azure Virtual Machine (klassisk) (bekräfta med Azure före publicering - inget slutdatum på datum rutnät) följer den moderna livscykelpolicyn.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 62691a5a8045c8744b291cd5475ad7b6828542e8
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: sv-SE
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "864170"
+name: Microsoft Azure Virtual Machine (klassisk) (bekräfta med Azure före publicering - inget slutdatum på datumrutnätet)
+summary: >+
+  Microsoft Azure Virtual Machine (klassisk) (bekräfta med Azure före publicering - inget slutdatum på datum rutnät) följer [den moderna](/lifecycle/policies/modern) livscykelpolicyn.
+
+
+products:
+- azure
+policyType: modern-online
+supportDates:
+  start: 06/07/2012
+  end: 03/01/2023
+releases:
+- version: Original Release
+  startDate: 06/07/2012
+  endDate: 03/01/2023
+content: "\n## <a name=\"links\"></a>Länkar \n* [Vägledning för migrering](/azure/virtual-machines/classic-vm-deprecation)"

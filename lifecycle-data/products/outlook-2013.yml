@@ -1,0 +1,30 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Outlook 2013
+  description: Outlook 2013 följer policyn för fast livscykel.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: a666f76eeb2a19624b18d542c735fd3d5279899c
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: sv-SE
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "864274"
+name: Outlook 2013
+summary: >+
+  Outlook 2013 följer [policyn](/lifecycle/policies/fixed) för fast livscykel.
+
+
+  Detta gäller följande utgåvor: Standard
+
+products:
+- office
+policyType: fixed
+supportDates:
+  start: 01/09/2013
+  end: 04/10/2018
+  extendedEnd: 04/11/2023
+releases:
+- version: Original Release
+  startDate: 01/09/2013
+  endDate: 04/11/2023
+content: "\n\n\n## <a name=\"editions\"></a>Upplagor \n* Standard"

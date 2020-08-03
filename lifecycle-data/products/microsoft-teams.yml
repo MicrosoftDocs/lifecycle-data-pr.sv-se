@@ -1,0 +1,25 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft Teams
+  description: Microsoft Teams följer den moderna livscykelpolicyn.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 9a95c11e5ed20489a0e571cfbab654a977a4dd1c
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: sv-SE
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "864272"
+name: Microsoft Teams
+summary: >+
+  Microsoft Teams följer den [moderna](/lifecycle/policies/modern) livscykelpolicyn.
+
+
+products:
+- office
+policyType: modern-online
+supportDates:
+  start: 11/01/2016
+releases:
+- version: Original Release
+  startDate: 11/01/2016
+content: "\n## <a name=\"links\"></a>Länkar \n* [Systemkrav](https://www.microsoft.com/microsoft-365/microsoft-365-and-office-resources)\n* [Serviceinformation](/microsoftteams/teams-client-update)"

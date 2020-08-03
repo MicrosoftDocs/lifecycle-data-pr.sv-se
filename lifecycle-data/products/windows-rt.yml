@@ -1,0 +1,33 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Windows RT
+  description: Windows RT följer policyn för fast livscykel.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: daac7a0fd8d0dcca56b367088a8313e315fc1125
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: sv-SE
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "864249"
+name: Windows RT
+summary: >+
+  Windows RT följer [policyn](/lifecycle/policies/fixed) för fast livscykel.
+
+
+  Detta gäller följande utgåvor: 8.1
+
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 10/30/2012
+  end: 01/09/2018
+  extendedEnd: 01/10/2023
+releases:
+- version: Windows RT 8.1
+  startDate: 11/13/2013
+  endDate: 01/10/2023
+- version: Windows RT
+  startDate: 10/30/2012
+  endDate: 01/12/2016
+content: "\n## <a name=\"links\"></a>Länkar \n* [Vanliga frågor och svar om Windows](/lifecycle/faq/windows#windows-81)\n\n\n## <a name=\"editions\"></a>Upplagor \n* 8.1"

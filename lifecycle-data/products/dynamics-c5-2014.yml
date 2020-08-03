@@ -1,0 +1,27 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Dynamik C5 2014
+  description: Dynamics C5 2014 följer policyn för fast livscykel.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: e4f0556a8fd84b688392121720ac06d2b6945eec
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: sv-SE
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "864108"
+name: Dynamik C5 2014
+summary: >+
+  Dynamics C5 2014 följer [policyn](/lifecycle/policies/fixed) för fast livscykel.
+
+
+products:
+- dynamics
+policyType: fixed-mainstream-only
+supportDates:
+  start: 12/29/2013
+  end: 01/09/2018
+releases:
+- version: Original Release
+  startDate: 12/29/2013
+  endDate: 01/09/2018
+content: ''

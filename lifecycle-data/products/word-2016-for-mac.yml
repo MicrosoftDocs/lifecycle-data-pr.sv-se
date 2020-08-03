@@ -1,0 +1,27 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Word 2016 för Mac
+  description: Word 2016 för Mac följer den fasta livscykelpolicyn.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 71b901131d651cb74f4f8835f0ca834dd90dca79
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: sv-SE
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "863919"
+name: Word 2016 för Mac
+summary: >+
+  Word 2016 för Mac följer den [fasta](/lifecycle/policies/fixed) livscykelpolicyn.
+
+
+products:
+- office
+policyType: fixed-mainstream-only
+supportDates:
+  start: 09/27/2015
+  end: 10/13/2020
+releases:
+- version: Original Release
+  startDate: 09/27/2015
+  endDate: 10/13/2020
+content: ''

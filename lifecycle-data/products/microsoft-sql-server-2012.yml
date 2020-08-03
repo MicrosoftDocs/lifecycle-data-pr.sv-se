@@ -1,0 +1,42 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft SQL Server 2012
+  description: Microsoft SQL Server 2012 följer policyn för fast livscykel.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 28bafe1de891ae8c50f7ef276817ede7a380c8b1
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: sv-SE
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "863939"
+name: Microsoft SQL Server 2012
+summary: >+
+  Microsoft SQL Server 2012 följer [policyn](/lifecycle/policies/fixed) för fast livscykel.
+
+
+  Detta gäller följande utgåvor: Business Intelligence, Utvecklare, Enterprise, Enterprise Core, Express, för inbyggda system, Standard, Webb
+
+products:
+- sql-server
+policyType: fixed
+supportDates:
+  start: 05/20/2012
+  end: 07/11/2017
+  extendedEnd: 07/12/2022
+releases:
+- version: Service Pack 4
+  startDate: 10/05/2017
+  endDate: 07/12/2022
+- version: Service Pack 3
+  startDate: 12/01/2015
+  endDate: 10/09/2018
+- version: Service Pack 2
+  startDate: 06/10/2014
+  endDate: 01/10/2017
+- version: Service Pack 1
+  startDate: 11/07/2012
+  endDate: 07/14/2015
+- version: Original Release
+  startDate: 05/20/2012
+  endDate: 01/14/2014
+content: "\n## <a name=\"links\"></a>Länkar \n* [Vägledning för migrering](/sql/sql-server/end-of-support/sql-server-end-of-life-overview?view=sql-server-ver15)\n* [Service Pack-principen](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Upplagor \n* Business Intelligence\n* Författare\n* Företag\n* Kärnan i företaget\n* Express\n* för inbyggda system\n* Standard\n* Web"

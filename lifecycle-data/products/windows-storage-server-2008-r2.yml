@@ -1,0 +1,37 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Windows Storage Server 2008 R2
+  description: Windows Storage Server 2008 R2 följer principen om fast livscykel.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 28647cde233349efc4b33be28393ce0916020c33
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: sv-SE
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "864210"
+name: Windows Storage Server 2008 R2
+summary: >
+  Windows Storage Server 2008 R2 följer [principen](/lifecycle/policies/fixed) om fast livscykel.
+
+
+  Detta gäller följande utgåvor: Essentials, Standard
+
+
+  > [!IMPORTANT]
+
+  > Supporten för den här produkten har upphört. Se migreringsvägledning nedan.
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 12/20/2010
+  end: 01/13/2015
+  extendedEnd: 01/14/2020
+releases:
+- version: Service Pack 1
+  startDate: 02/22/2011
+  endDate: 01/14/2020
+- version: Original Release
+  startDate: 12/20/2010
+  endDate: 04/09/2013
+content: "\n## <a name=\"links\"></a>Länkar \n* [på supportinformation](https://support.microsoft.com/help/4456235/end-of-support-for-windows-server-2008-and-windows-server-2008-r2)\n* [Vägledning för migrering](/archive/blogs/storageserver/announcing-windows-storage-server-2016)\n* [Vanliga frågor och svar om utökad säkerhetsuppdatering](/lifecycle/faq/extended-security-updates)\n* [Information om serveruppgradering](/windows-server/upgrade/upgrade-overview)\n\n> [!NOTE]\n> Essentials edition släpptes den 28 juni 2011.\n\n## <a name=\"editions\"></a>Upplagor \n* Nödvändigt\n* Standard"

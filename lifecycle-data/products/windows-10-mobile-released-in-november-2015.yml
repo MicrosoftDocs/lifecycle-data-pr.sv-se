@@ -1,0 +1,31 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Windows 10 Mobile, släpptes i november 2015
+  description: Windows 10 Mobile, som släpptes i november 2015 följer policyn för fast livscykel.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 5a26113a9d85bf4e44262094db412ab1ab810acf
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: sv-SE
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "864218"
+name: Windows 10 Mobile, släpptes i november 2015
+summary: >
+  Windows 10 Mobile, som släpptes i november 2015 följer [policyn](/lifecycle/policies/fixed) för fast livscykel.
+
+
+
+  > [!IMPORTANT]
+
+  > Supporten för den här produkten har upphört.
+products:
+- windows
+policyType: fixed-mainstream-only
+supportDates:
+  start: 11/16/2015
+  end: 01/09/2018
+releases:
+- version: Original Release
+  startDate: 11/16/2015
+  endDate: 01/09/2018
+content: "\n## <a name=\"links\"></a>Länkar \n* [Vanliga frågor om livscykel för enhetsoperativsystem](/lifecycle/faq/device-operating-systems)\n* [Windows 10 Mobile avslutade supporten den 10 december 2019](/lifecycle/announcements/windows-10-mobile-end-of-support)"

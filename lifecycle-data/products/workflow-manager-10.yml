@@ -1,0 +1,30 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Arbetsflödeshanteraren 1.0
+  description: Arbetsflödeshanteraren 1.0 följer principen om fast livscykel.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 36a97aaf2df469316f169e8cb1582ce8efbae7ed
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: sv-SE
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "864132"
+name: Arbetsflödeshanteraren 1.0
+summary: >+
+  Arbetsflödeshanteraren 1.0 följer [principen](/lifecycle/policies/fixed) om fast livscykel.
+
+
+  Detta gäller följande utgåvor: Client
+
+products:
+- vs
+policyType: fixed
+supportDates:
+  start: 10/18/2012
+  end: 01/09/2018
+  extendedEnd: 01/10/2023
+releases:
+- version: Original Release
+  startDate: 10/18/2012
+  endDate: 01/10/2023
+content: "\n## <a name=\"links\"></a>Länkar \n* [Serviceinformation för SharePoint 2016](/SharePoint/product-servicing-policy/updated-product-servicing-policy-for-sharepoint-server-2016)\n* [Serviceinformation för SharePoint 2013](/SharePoint/product-servicing-policy/updated-product-servicing-policy-for-sharepoint-2013)\n\n> [!NOTE]\n> När Arbetsflödeshanteraren är en komponent i SharePoint Server 2016 eller SharePoint Server 2013 stöds den i slutet av supportdatumen för respektive SharePoint Server-version.\n\n## <a name=\"editions\"></a>Upplagor \n* Klient"

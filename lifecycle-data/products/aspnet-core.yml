@@ -1,0 +1,25 @@
+### YamlMime:Lifecycle
+metadata:
+  title: ASP.NET kärna
+  description: ASP.NET Core följer den moderna livscykelpolicyn.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 0d9d34cae13f320c21cbcb289e753c8a5f6a8462
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: sv-SE
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "864128"
+name: ASP.NET kärna
+summary: >+
+  ASP.NET Core följer den [moderna](/lifecycle/policies/modern) livscykelpolicyn.
+
+
+products:
+- dotnet
+policyType: modern-on-prem
+supportDates:
+  start: 06/27/2016
+releases:
+- version: Original Release
+  startDate: 06/27/2016
+content: "\n## <a name=\"links\"></a>Länkar \n* [Vanliga frågor och svar om livscykel – .NET Core](/lifecycle/faq/dotnet-core)\n* [Serviceinformation](https://github.com/dotnet/core/blob/master/microsoft-support.md)\n* [.NET-färdplan](https://github.com/dotnet/core/blob/master/roadmap.md)"

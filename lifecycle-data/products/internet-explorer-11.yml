@@ -1,0 +1,25 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Internet Explorer 11
+  description: Internet Explorer 11 följer komponentlivscykelprincipen.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 4c247083877fd4640384b3a038a13888e2f4ddcd
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: sv-SE
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "863997"
+name: Internet Explorer 11
+summary: >+
+  Internet Explorer 11 [Component](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) följer komponentlivscykelprincipen.
+
+
+products:
+- internet-explorer
+policyType: component
+supportDates:
+  start: 11/13/2013
+releases:
+- version: Original Release
+  startDate: 11/13/2013
+content: "\n## <a name=\"links\"></a>Länkar \n* [Vägledning för migrering](https://www.microsoft.com/itpro/microsoft-edge)\n* [Vanliga frågor och svar om livscykelprincip i Internet Explorer](/lifecycle/faq/internet-explorer-microsoft-edge)\n\n> [!NOTE]\n> Från och med den 12 januari 2016 får endast den senaste versionen av Internet Explorer som är tillgänglig för ett operativsystem som stöds teknisk support och säkerhetsuppdateringar."

@@ -1,0 +1,30 @@
+### YamlMime:Lifecycle
+metadata:
+  title: BizTalk Server 2016
+  description: BizTalk Server 2016 följer policyn för fast livscykel.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 0cce3539c4760d2472891e36f8edfa267a44c7ac
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: sv-SE
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "863830"
+name: BizTalk Server 2016
+summary: >+
+  BizTalk Server 2016 följer [policyn](/lifecycle/policies/fixed) för fast livscykel.
+
+
+  Detta gäller följande utgåvor: Branch, Utvecklare, Enterprise, Standard
+
+products:
+- microsoft-servers
+policyType: fixed
+supportDates:
+  start: 12/01/2016
+  end: 01/11/2022
+  extendedEnd: 01/11/2027
+releases:
+- version: Original Release
+  startDate: 12/01/2016
+  endDate: 01/11/2027
+content: "\n## <a name=\"links\"></a>Länkar \n* [Produktinformation](/biztalk/install-and-config-guides/biztalk-server-2016-what-s-new-and-installation)\n\n\n## <a name=\"editions\"></a>Upplagor \n* Gren\n* Författare\n* Företag\n* Standard"

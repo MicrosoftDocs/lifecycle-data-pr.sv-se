@@ -1,0 +1,27 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Azure Information Protection-klient
+  description: Azure Information Protection-klienten följer den moderna livscykelprincipen.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 9a7e2c02d8f1d7ca3f071b5f36b97eab364b3340
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: sv-SE
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "863832"
+name: Azure Information Protection-klient
+summary: >+
+  Azure Information Protection-klienten följer den [moderna](/lifecycle/policies/modern) livscykelprincipen.
+
+
+products:
+- azure
+policyType: modern-online
+supportDates:
+  start: 10/01/2016
+  end: 03/31/2021
+releases:
+- version: Original Release
+  startDate: 10/01/2016
+  endDate: 03/31/2021
+content: "\n## <a name=\"links\"></a>Länkar \n* [Serviceinformation](/information-protection/rms-client/client-version-release-history#servicing-information-and-timelines)\n* [Vägledning för migrering](https://techcommunity.microsoft.com/t5/azure-information-protection/announcing-timelines-for-sunsetting-label-management-in-the/ba-p/1226179)\n\n> [!NOTE]\n> För att ge en enhetlig och strömlinjeformad kundupplevelse inaktiveras Azure Information Protection-klient (klassisk) och Etiketthantering i Azure Portal från och med den 31 mars 2021. Med den här tidsramen kan alla nuvarande Azure Information Protection-kunder övergå till vår enhetliga märkningslösning med hjälp av Microsoft Information Protection Unified Labeling-plattformen."

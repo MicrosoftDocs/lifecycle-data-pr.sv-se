@@ -1,0 +1,25 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Virtuell Azure-dator
+  description: Azure Virtual Machine följer den moderna livscykelprincipen.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 84ee256cb8f83f04ce94702234a380442fb2e69a
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: sv-SE
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "864077"
+name: Virtuell Azure-dator
+summary: >+
+  Azure Virtual Machine följer den [moderna](/lifecycle/policies/modern) livscykelprincipen.
+
+
+products:
+- azure
+policyType: modern-online
+supportDates:
+  start: 06/07/2012
+releases:
+- version: Original Release
+  startDate: 06/07/2012
+content: "\n## <a name=\"links\"></a>Länkar \n* [Serviceinformation](https://support.microsoft.com/help/2721672/microsoft-server-software-support-for-microsoft-azure-virtual-machines)"

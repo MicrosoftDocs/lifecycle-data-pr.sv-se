@@ -1,0 +1,30 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft Office 2016
+  description: Microsoft Office 2016 följer policyn för fast livscykel.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 0862856c981f0887a99cd499275edcda6f18533b
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: sv-SE
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "864286"
+name: Microsoft Office 2016
+summary: >+
+  Microsoft Office 2016 följer [policyn](/lifecycle/policies/fixed) för fast livscykel.
+
+
+  Detta gäller följande utgåvor: Hem och företag, Hem och Student, Personlig, Professionell, Professional Plus, Standard
+
+products:
+- office
+policyType: fixed
+supportDates:
+  start: 09/22/2015
+  end: 10/13/2020
+  extendedEnd: 10/14/2025
+releases:
+- version: Original Release
+  startDate: 09/22/2015
+  endDate: 10/14/2025
+content: "\n\n\n## <a name=\"editions\"></a>Upplagor \n* Hem och företag\n* Hem och student\n* Personliga\n* Professionell\n* Professionella Plus\n* Standard"

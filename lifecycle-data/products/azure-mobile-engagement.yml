@@ -1,0 +1,27 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Azure Mobile-interaktion
+  description: Azure Mobile Engagement följer den moderna livscykelpolicyn.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 5b91321c749556c0bd13b700b1c8a1806e2a9bb5
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: sv-SE
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "863889"
+name: Azure Mobile-interaktion
+summary: >+
+  Azure Mobile Engagement följer den [moderna](/lifecycle/policies/modern) livscykelpolicyn.
+
+
+products:
+- azure
+policyType: modern-online
+supportDates:
+  start: 10/01/2015
+  end: 03/31/2018
+releases:
+- version: Original Release
+  startDate: 10/01/2015
+  endDate: 03/31/2018
+content: ''
