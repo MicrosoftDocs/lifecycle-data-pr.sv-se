@@ -1,0 +1,39 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft-programvirtualiseringsvärd 4.6 för Windows-skrivbord
+  description: Microsoft Application Virtualization Hosting 4.6 för Windows-datorer följer policyn för fast livscykel.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 21ed557cd6333e43a274796a3b25791c0d7f96cd
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: sv-SE
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "842124"
+name: Microsoft-programvirtualiseringsvärd 4.6 för Windows-skrivbord
+summary: >+
+  Microsoft Application Virtualization Hosting 4.6 för Windows-datorer följer [policyn](/lifecycle/policies/fixed) för fast livscykel.
+
+
+  Detta gäller följande versioner: för Windows-skrivbord
+
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 05/27/2010
+  end: 07/14/2015
+  extendedEnd: 07/14/2020
+releases:
+- version: Service Pack 3
+  startDate: 12/02/2013
+  endDate: 07/14/2020
+- version: Service Pack 2
+  startDate: 10/01/2012
+  endDate: 01/13/2015
+- version: Service Pack 1
+  startDate: 01/26/2011
+  endDate: 10/08/2013
+- version: Original Release
+  startDate: 05/27/2010
+  endDate: 04/10/2012
+content: "\n## <a name=\"links\"></a>Länkar \n* [Information om produkt och migrering](/microsoft-desktop-optimization-pack/appv-v4/overview-of-application-virtualization)\n* [Service Pack-principen](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Eftersom App-V 4.6-klienten använder App-V 4.5-servern fortsätter App-V 4.5-servern att stödjas enligt livscykeldatumen för App-V 4.6 när den används med den App-V 4.6-klient som stöds.\n\n## <a name=\"editions\"></a>Upplagor \n* för Windows-skrivbord"
