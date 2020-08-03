@@ -1,0 +1,27 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Word 2019 för Mac
+  description: Word 2019 för Mac följer policyn för fast livscykel.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 1964df2585a0fcc2dd4a91be7e3bf54e44ea06ad
+  ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
+  ms.translationtype: MT
+  ms.contentlocale: sv-SE
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "872660"
+name: Word 2019 för Mac
+summary: >+
+  Word 2019 för Mac följer [policyn](/lifecycle/policies/fixed) för fast livscykel.
+
+
+products:
+- office
+policyType: fixed-mainstream-only
+supportDates:
+  start: 09/24/2018
+  end: 10/10/2023
+releases:
+- version: Original Release
+  startDate: 09/24/2018
+  endDate: 10/13/2026
+content: ''
