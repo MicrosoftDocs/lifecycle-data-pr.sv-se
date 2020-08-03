@@ -1,0 +1,30 @@
+### YamlMime:Lifecycle
+metadata:
+  title: FAST Search Server 2010 (för webbplatser, för interna program)
+  description: FAST Search Server 2010 (för webbplatser, för interna program) följer policyn för fast livscykel.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 86e1732aefb6ae705ff05f1ef7f84e2d14a1feda
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: sv-SE
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "842170"
+name: FAST Search Server 2010 (för webbplatser, för interna program)
+summary: >+
+  FAST Search Server 2010 (för webbplatser, för interna program) följer policyn för [fast](/lifecycle/policies/fixed) livscykel.
+
+
+  Detta gäller följande utgåvor: Interna program, Internet-webbplatser
+
+products:
+- office
+policyType: fixed
+supportDates:
+  start: 06/16/2010
+  end: 10/13/2015
+  extendedEnd: 10/13/2020
+releases:
+- version: Original Release
+  startDate: 06/16/2010
+  endDate: 10/13/2020
+content: "\n## <a name=\"links\"></a>Länkar \n* [Vägledning för migrering](https://techcommunity.microsoft.com/t5/Product-Life-Cycle/FAST-products-approaching-the-end-of-extended-support-in-2018/td-p/101710)\n* [Vanliga frågor om livscykel – Allmänt](/lifecycle/faq/general-lifecycle)\n\n> [!NOTE]\n> Utesluter tidigare versioner som tidigare har fått stöd. Support för denna produkt är föremål för villkoren för förvärvet.\n\n## <a name=\"editions\"></a>Upplagor \n* Interna program\n* Webbplatser på Internet"

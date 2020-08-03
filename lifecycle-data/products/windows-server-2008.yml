@@ -1,0 +1,37 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Windows Server 2008
+  description: Windows Server 2008 följer principen om fast livscykel.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: cb16ce7326c75c0c560a1b8a0078d03656d58c21
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: sv-SE
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "842281"
+name: Windows Server 2008
+summary: >
+  Windows Server 2008 följer [principen](/lifecycle/policies/fixed) om fast livscykel.
+
+
+  Detta gäller följande utgåvor: Datacenter, Datacenter utan Hyper-V, Enterprise, Enterprise utan Hyper-V, för Itanium-baserade system, Foundation, Standard, Standard utan Hyper-V, Webb
+
+
+  > [!IMPORTANT]
+
+  > Supporten för den här produkten har upphört. Se migreringsvägledning nedan.
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 05/06/2008
+  end: 01/13/2015
+  extendedEnd: 01/14/2020
+releases:
+- version: Service Pack 2
+  startDate: 04/29/2009
+  endDate: 01/14/2020
+- version: Original Release
+  startDate: 05/06/2008
+  endDate: 07/12/2011
+content: "\n## <a name=\"links\"></a>Länkar \n* [Vägledning för migrering](https://aka.ms/AA1ovn4)\n* [Information om serveruppgradering](/windows-server/upgrade/upgrade-overview)\n* [Utökat program för säkerhetsuppdatering (ESU)](/lifecycle/faq/extended-security-updates)\n* [Service Pack-principen](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Utökade säkerhetsuppdateringar (ESU) är tillgängliga via specifika volymlicensieringsprogram för datacenter-, standard-, företags- och inbäddade utgåvor av de här produktutgåvorna, i upp till ytterligare tre år efter supportens. Kontakta din Microsoft-partner eller kontoteam om du vill veta mer. \n\nSläpp-------------------------------Startdatum----End-datum\n\nUtökad säkerhetsuppdatering år 3---01/11/2022---01/10/2023\n\nUtökad säkerhetsuppdatering år 2---01/12/2021---01/11/2022\n\nUtökad säkerhetsuppdatering år 1---01/14/2020---01/12/2021\n> [!NOTE]\n> Windows Server 2008 Foundation släpptes den 21 maj 2009\n\n## <a name=\"editions\"></a>Upplagor \n* Datacenter\n* Datacenter utan Hyper-V\n* Företag\n* Företag utan Hyper-V\n* för Itanium-baserade system\n* Foundation\n* Standard\n* Standard utan Hyper-V\n* Web"
