@@ -1,11 +1,11 @@
 ### YamlMime:ContentBrowser
 title: Livscykelinformation för sökprodukter och tjänster (förhandsversion)
 browseType: lifecycle
-summary: "\n\n> [!IMPORTANT]\n> Denna sida är under utveckling. En fullständig lista över Microsofts produkter och deras supporttidslinjer och information finns i [aka.ms/lifecycle/search](https://aka.ms/lifecycle/search/).\n\n\nMicrosoft Lifecycle innehåller konsekventa och förutsägbara riktlinjer för support under en produkts hela livstid, vilket hjälper kunderna att hantera sina IT-investeringar och miljöer samtidigt som de planerar strategiskt för framtiden.\n\n\nSök nedan efter en lista över Microsofts kommersiella produkter och tjänster och välj sedan ditt resultat för att hitta support- och servicetidslinjer, nödvändiga uppdateringar, migreringsinformation och systemkrav."
+summary: "\n\n> [!IMPORTANT]\n> Denna sida är under utveckling. En fullständig lista över Microsofts produkter och deras supporttidslinjer och information finns i [aka.ms/lifecycle/search](https://aka.ms/lifecycle/search/).\n> [!NOTE]\n> Exportera livscykelinformation från sidan [Livscykelexport.](/lifecycle/export/products)\n\n\nMicrosoft Lifecycle innehåller konsekventa och förutsägbara riktlinjer för support under en produkts hela livstid, vilket hjälper kunderna att hantera sina IT-investeringar och miljöer samtidigt som de planerar strategiskt för framtiden.\n\n\nSök nedan efter en lista över Microsofts kommersiella produkter och tjänster och välj sedan ditt resultat för att hitta support- och servicetidslinjer, nödvändiga uppdateringar, migreringsinformation och systemkrav."
 metadata:
-  ms.openlocfilehash: 6bb48cf842d75b6dec70a1d057d9a732e245a823
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.openlocfilehash: d412a8110fc64c4cb346fd9b7056fa35a59c8260
+  ms.sourcegitcommit: 0c5dc5388beb299272e01efb037b964e49ca1fb0
   ms.translationtype: MT
   ms.contentlocale: sv-SE
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "842153"
+  ms.lasthandoff: 08/04/2020
+  ms.locfileid: "882455"
