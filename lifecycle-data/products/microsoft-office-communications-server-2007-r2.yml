@@ -1,21 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Office Communications Server 2007 R2
-  description: Microsoft Office Communications Server 2007 R2 följer policyn för fast livscykel.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 33d9d5fff1c61fcf44480c75e2a2f7ff3bd72fc9
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  description: Microsoft Office Communications Server 2007 R2 följer policyn för fast livs cykel.
+  ms.date: 08/07/2020
+  ms.openlocfilehash: 229bad5ba97248c738f950b7252cd9c69e238cf1
+  ms.sourcegitcommit: 41160e72cd21aa5bf1748336c3975d8ec9b9ac06
   ms.translationtype: MT
   ms.contentlocale: sv-SE
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "842411"
+  ms.lasthandoff: 08/07/2020
+  ms.locfileid: "885848"
 name: Microsoft Office Communications Server 2007 R2
-summary: >+
-  Microsoft Office Communications Server 2007 R2 följer [policyn](/lifecycle/policies/fixed) för fast livscykel.
-
-
-  Detta gäller följande utgåvor: XMPP Gateway
-
+summary: "Microsoft Office Communications Server 2007 R2 följer policyn för [fast](/lifecycle/policies/fixed) livs cykel.\n\nDetta gäller för följande utgåvor: alla tillämpliga, Enterprise, XMPP Gateway\n\n> [!IMPORTANT]\n> Support för den här produkten har avslut ATS. Se vägledning för migrering. \n"
 products:
 - office
 policyType: fixed
@@ -27,4 +22,4 @@ releases:
 - version: Original Release
   startDate: 09/28/2009
   endDate: 01/09/2018
-content: "\n## <a name=\"links\"></a>Länkar \n* [Vägledning för migrering](https://blogs.technet.microsoft.com/nexthop/2016/02/22/end-of-extended-support-for-office-communicator-and-office-communications-server/)\n\n> [!NOTE]\n> XMPP Gateway släpptes den 2009-09-28.\n\n## <a name=\"editions\"></a>Upplagor \n* XMPP-gateway"
+content: "\n## <a name=\"links\"></a>Länkar \n* [Vägledning för migrering](https://blogs.technet.microsoft.com/nexthop/2016/02/22/end-of-extended-support-for-office-communicator-and-office-communications-server/)\n\n> [!NOTE]\n> XMPP Gateway släpptes 9/28/2009.\n\n## <a name=\"editions\"></a>Gåvor \n* Alla tillämpliga\n* Enterprise\n* XMPP Gateway"

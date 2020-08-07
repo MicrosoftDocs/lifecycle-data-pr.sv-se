@@ -1,13 +1,13 @@
 ---
 title: Exportera produkter
 description: Exportera information om produktens livs cykel
-ms.date: 08/06/2020
-ms.openlocfilehash: 9a08884d7ccf6ea1207ea9744764269647dd5459
-ms.sourcegitcommit: 87091f3fdb147e1254e631d31a0f7baeda61a424
+ms.date: 08/07/2020
+ms.openlocfilehash: cca8929e0dab2fb530d94edbcda7a037b05ff794
+ms.sourcegitcommit: 41160e72cd21aa5bf1748336c3975d8ec9b9ac06
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/06/2020
-ms.locfileid: "885203"
+ms.lasthandoff: 08/07/2020
+ms.locfileid: "885811"
 ---
 # <a name="export"></a>Ören
 
