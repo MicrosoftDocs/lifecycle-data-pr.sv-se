@@ -1,27 +1,27 @@
 ---
 title: Exportera produkter
 description: Exportera information om produktens livs cykel
-ms.date: 08/07/2020
-ms.openlocfilehash: cca8929e0dab2fb530d94edbcda7a037b05ff794
-ms.sourcegitcommit: 41160e72cd21aa5bf1748336c3975d8ec9b9ac06
+ms.date: 08/11/2020
+ms.openlocfilehash: fc05add6eb3bf3cb01f6c7e0985c334647a163d7
+ms.sourcegitcommit: d4ec29fd0c57053cfa2254d1bb08c610bb5e6817
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/07/2020
-ms.locfileid: "885811"
+ms.lasthandoff: 08/11/2020
+ms.locfileid: "887837"
 ---
-# <a name="export"></a><span data-ttu-id="d0a83-103">Ören</span><span class="sxs-lookup"><span data-stu-id="d0a83-103">Export</span></span>
+# <a name="export"></a><span data-ttu-id="3b6e1-103">Ören</span><span class="sxs-lookup"><span data-stu-id="3b6e1-103">Export</span></span>
 
 > [!IMPORTANT]
-> <span data-ttu-id="d0a83-104">Den här sidan är under utveckling.</span><span class="sxs-lookup"><span data-stu-id="d0a83-104">This page is under development.</span></span>
+> <span data-ttu-id="3b6e1-104">Den här sidan är under utveckling.</span><span class="sxs-lookup"><span data-stu-id="3b6e1-104">This page is under development.</span></span>
 
-## <a name="export-all-products"></a><span data-ttu-id="d0a83-105">Exportera alla produkter</span><span class="sxs-lookup"><span data-stu-id="d0a83-105">Export All Products</span></span>
-<span data-ttu-id="d0a83-106">Exportera alla produkter utan några filter.</span><span class="sxs-lookup"><span data-stu-id="d0a83-106">Export all products without any filters.</span></span>
+## <a name="export-all-products"></a><span data-ttu-id="3b6e1-105">Exportera alla produkter</span><span class="sxs-lookup"><span data-stu-id="3b6e1-105">Export All Products</span></span>
+<span data-ttu-id="3b6e1-106">Exportera alla produkter utan några filter.</span><span class="sxs-lookup"><span data-stu-id="3b6e1-106">Export all products without any filters.</span></span>
 
 > [!div class="nextstepaction"]
-> [<span data-ttu-id="d0a83-107">Exportera alla produkter</span><span class="sxs-lookup"><span data-stu-id="d0a83-107">Export All Products</span></span>](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export)
+> [<span data-ttu-id="3b6e1-107">Exportera alla produkter</span><span class="sxs-lookup"><span data-stu-id="3b6e1-107">Export All Products</span></span>](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export)
 
-## <a name="export-products-by-category"></a><span data-ttu-id="d0a83-108">Exportera produkter efter kategori</span><span class="sxs-lookup"><span data-stu-id="d0a83-108">Export Products by Category</span></span>
-<span data-ttu-id="d0a83-109">Välj en gruppering att exportera:</span><span class="sxs-lookup"><span data-stu-id="d0a83-109">Select a grouping to export:</span></span>
+## <a name="export-products-by-category"></a><span data-ttu-id="3b6e1-108">Exportera produkter efter kategori</span><span class="sxs-lookup"><span data-stu-id="3b6e1-108">Export Products by Category</span></span>
+<span data-ttu-id="3b6e1-109">Välj en gruppering att exportera:</span><span class="sxs-lookup"><span data-stu-id="3b6e1-109">Select a grouping to export:</span></span>
 
 > [!div class="op_multi_selector" title1="Kör" title2="Grupp"]
 > - [(.NET | Alla](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export?$filter=parent%20ne%20null%20and%20parent/parent%20ne%20null%20and%20parent/parent/parent%20ne%20null%20and%20parent/parent/parent/name%20eq%20'.NET')
@@ -80,8 +80,8 @@ ms.locfileid: "885811"
 > - [(Windows | Uppdatering](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export?$filter=parent%20ne%20null%20and%20parent/parent%20ne%20null%20and%20parent/parent/parent%20ne%20null%20and%20parent/parent/parent/name%20eq%20'Windows'%20and%20parent/parent/name%20eq%20'Security')
 > - [(Windows | Server](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export?$filter=parent%20ne%20null%20and%20parent/parent%20ne%20null%20and%20parent/parent/parent%20ne%20null%20and%20parent/parent/parent/name%20eq%20'Windows'%20and%20parent/parent/name%20eq%20'Server')
 
-## <a name="export-products-by-end-of-support-year"></a><span data-ttu-id="d0a83-167">Exportera produkter per support år</span><span class="sxs-lookup"><span data-stu-id="d0a83-167">Export Products by End of Support Year</span></span>
-<span data-ttu-id="d0a83-168">Välj ett år för att exportera produkternas sista tjänst under det året:</span><span class="sxs-lookup"><span data-stu-id="d0a83-168">Select a year to export products ending service in that year:</span></span>
+## <a name="export-products-by-end-of-support-year"></a><span data-ttu-id="3b6e1-167">Exportera produkter per support år</span><span class="sxs-lookup"><span data-stu-id="3b6e1-167">Export Products by End of Support Year</span></span>
+<span data-ttu-id="3b6e1-168">Välj ett år för att exportera produkternas sista tjänst under det året:</span><span class="sxs-lookup"><span data-stu-id="3b6e1-168">Select a year to export products ending service in that year:</span></span>
 
 > [!div class="op_single_selector"]
 > - [2002](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export(endOfSupportYear=2002))
