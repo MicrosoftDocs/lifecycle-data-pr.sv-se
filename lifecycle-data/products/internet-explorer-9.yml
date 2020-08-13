@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Internet Explorer 9
-  description: Internet Explorer 9 följer komponentlivscykelprincipen.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 595ea8f1727166a645aa139d28dc093b4b6f2b41
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  description: Internet Explorer 9 följer policyn för livs cykeln för komponenter.
+  ms.date: 08/12/2020
+  ms.openlocfilehash: 56f6d95703597d63faee14b9b135d0d6611e80c8
+  ms.sourcegitcommit: c7c4e0a2e3a93e251df1f1cdc0e078a7787b3dc3
   ms.translationtype: MT
   ms.contentlocale: sv-SE
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "863995"
+  ms.lasthandoff: 08/13/2020
+  ms.locfileid: "893628"
 name: Internet Explorer 9
 summary: >+
-  Internet Explorer 9 [Component](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) följer komponentlivscykelprincipen.
+  Internet Explorer 9 följer policyn för livs cykeln för [komponenter](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) .
 
 
 products:
@@ -22,4 +22,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 03/15/2011
-content: "\n## <a name=\"links\"></a>Länkar \n* [Vägledning för migrering](https://www.microsoft.com/itpro/microsoft-edge)\n* [Vanliga frågor och svar om livscykelprincip i Internet Explorer](/lifecycle/faq/internet-explorer-microsoft-edge)\n\n> [!NOTE]\n> Från och med den 12 januari 2016 får endast den senaste versionen av Internet Explorer som är tillgänglig för ett operativsystem som stöds teknisk support och säkerhetsuppdateringar."
+content: "\n## <a name=\"links\"></a>Länkar \n* [Vägledning för migrering](https://www.microsoft.com/itpro/microsoft-edge)\n* [Vanliga frågor om livscykel policy för Internet Explorer](/lifecycle/faq/internet-explorer-microsoft-edge)\n\n> [!NOTE]\n> Från och med den 12 januari 2016 kommer endast den senaste versionen av Internet Explorer tillgänglig för ett operativ system som stöds att få teknisk support och säkerhets uppdateringar."

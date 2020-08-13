@@ -1,25 +1,25 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Commerce Server 2007
-  description: Microsoft Commerce Server 2007 följer policyn för fast livscykel.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 456c3a4b3430312ba8c2a1e949f1c5b7bb820ee9
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  description: Microsoft Commerce Server 2007 följer rikt linjer för fast livs cykel.
+  ms.date: 08/12/2020
+  ms.openlocfilehash: 428d4ea2be6f7edfd13e14a297a4795d02575ed7
+  ms.sourcegitcommit: c7c4e0a2e3a93e251df1f1cdc0e078a7787b3dc3
   ms.translationtype: MT
   ms.contentlocale: sv-SE
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "842082"
+  ms.lasthandoff: 08/13/2020
+  ms.locfileid: "893480"
 name: Microsoft Commerce Server 2007
 summary: >
-  Microsoft Commerce Server 2007 följer [policyn](/lifecycle/policies/fixed) för fast livscykel.
+  Microsoft Commerce Server 2007 följer rikt linjer för [fast](/lifecycle/policies/fixed) livs cykel.
 
 
-  Detta gäller följande utgåvor: Utvecklare, Enterprise, Standard
+  Detta gäller för följande utgåvor: utvecklare, Enterprise, standard
 
 
   > [!IMPORTANT]
 
-  > Supporten för den här produkten har upphört.
+  > Support för den här produkten har avslut ATS.
 products:
 - microsoft-servers
 policyType: fixed
@@ -37,4 +37,4 @@ releases:
 - version: Original Release
   startDate: 06/16/2006
   endDate: 07/08/2008
-content: "\n## <a name=\"links\"></a>Länkar \n* [Service Pack-principen](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Upplagor \n* Författare\n* Företag\n* Standard"
+content: "\n## <a name=\"links\"></a>Länkar \n* [Policy för Service Pack](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Gåvor \n* Utvecklar\n* Enterprise\n* Standar"

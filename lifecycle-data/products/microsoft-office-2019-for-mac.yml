@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Office 2019 för Mac
-  description: Microsoft Office 2019 för Mac följer policyn för fast livscykel.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: ee537a1a128351f1b720e245f9725a267dcd6df5
-  ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
+  description: Microsoft Office 2019 för Mac följer rikt linjer för fast livs cykel.
+  ms.date: 08/12/2020
+  ms.openlocfilehash: dae679faff1601ea2c617f4413d29e48299c750c
+  ms.sourcegitcommit: c7c4e0a2e3a93e251df1f1cdc0e078a7787b3dc3
   ms.translationtype: MT
   ms.contentlocale: sv-SE
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "872635"
+  ms.lasthandoff: 08/13/2020
+  ms.locfileid: "892592"
 name: Microsoft Office 2019 för Mac
 summary: >+
-  Microsoft Office 2019 för Mac följer [policyn](/lifecycle/policies/fixed) för fast livscykel.
+  Microsoft Office 2019 för Mac följer rikt linjer för [fast](/lifecycle/policies/fixed) livs cykel.
 
 
-  Detta gäller följande utgåvor: Academic, Home and Business, Home and Student, Standard
+  Detta gäller för följande utgåvor: akademiska, Home och Business, Home och Student, standard
 
 products:
 - office
@@ -26,4 +26,4 @@ releases:
 - version: Original Release
   startDate: 09/24/2018
   endDate: 10/10/2023
-content: "\n\n\n## <a name=\"editions\"></a>Upplagor \n* Akademiska\n* Hem och företag\n* Hem och student\n* Standard"
+content: "\n\n\n## <a name=\"editions\"></a>Gåvor \n* Utbildnings\n* Hem och företag\n* Home och student\n* Standar"
