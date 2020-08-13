@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Dynamik SL 6,5
-  description: Dynamics SL 6.5 följer den fasta livscykelpolicyn.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: ca483d6236e5fa0bc8fb3262e8d480bce52bb656
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  title: Dynamics SL 6,5
+  description: Dynamics SL 6,5 följer policyn för fast livs cykel.
+  ms.date: 08/12/2020
+  ms.openlocfilehash: cb726b8c90053c30c1a408fd0c7ba36da615f597
+  ms.sourcegitcommit: 1974bfc9a9fccaac36daaa1015b7f31c8814ae07
   ms.translationtype: MT
   ms.contentlocale: sv-SE
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "841740"
-name: Dynamik SL 6,5
+  ms.lasthandoff: 08/12/2020
+  ms.locfileid: "891749"
+name: Dynamics SL 6,5
 summary: >+
-  Dynamics SL 6.5 följer den [fasta](/lifecycle/policies/fixed) livscykelpolicyn.
+  Dynamics SL 6,5 följer policyn för [fast](/lifecycle/policies/fixed) livs cykel.
 
 
 products:
@@ -33,4 +33,4 @@ releases:
 - version: Original Relase
   startDate: 01/14/2006
   endDate: 07/10/2007
-content: "\n## <a name=\"links\"></a>Länkar \n* [Service Pack-principen](/lifecycle/policies/fixed#service-packs)"
+content: "\n## <a name=\"links\"></a>Länkar \n* [Policy för Service Pack](/lifecycle/policies/fixed#service-packs)"

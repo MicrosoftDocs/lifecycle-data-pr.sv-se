@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
   title: BizTalk Server 2020
-  description: BizTalk Server 2020 följer policyn för fast livscykel.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 857d430f637df64f0a3dd3be4e8da07bb840592d
-  ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
+  description: BizTalk Server 2020 följer den fasta livs cykel policyn.
+  ms.date: 08/12/2020
+  ms.openlocfilehash: 8fd9d3d641c7f964463ccf25efc3b451879c86bf
+  ms.sourcegitcommit: 1974bfc9a9fccaac36daaa1015b7f31c8814ae07
   ms.translationtype: MT
   ms.contentlocale: sv-SE
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "872539"
+  ms.lasthandoff: 08/12/2020
+  ms.locfileid: "891935"
 name: BizTalk Server 2020
 summary: >+
-  BizTalk Server 2020 följer [policyn](/lifecycle/policies/fixed) för fast livscykel.
+  BizTalk Server 2020 följer den [fasta](/lifecycle/policies/fixed) livs cykel policyn.
 
 
-  Detta gäller följande utgåvor: Branch, Utvecklare, Enterprise, Standard
+  Detta gäller för följande utgåvor: gren, utvecklare, Enterprise, standard
 
 products:
 - microsoft-servers
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 02/01/2020
   endDate: 01/09/2029
-content: "\n## <a name=\"links\"></a>Länkar \n* [Produktinformation](/biztalk/install-and-config-guides/biztalk-server-2020-whats-new-and-installation)\n\n\n## <a name=\"editions\"></a>Upplagor \n* Gren\n* Författare\n* Företag\n* Standard"
+content: "\n## <a name=\"links\"></a>Länkar \n* [Produkt information](/biztalk/install-and-config-guides/biztalk-server-2020-whats-new-and-installation)\n\n\n## <a name=\"editions\"></a>Gåvor \n* Mapp\n* Utvecklar\n* Enterprise\n* Standar"
