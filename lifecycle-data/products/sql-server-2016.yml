@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
   title: SQL Server 2016
-  description: SQL Server 2016 följer principen om fast livscykel.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 1b41e2eeed9a3b7fa2038070a84e468866dd633c
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  description: SQL Server 2016 följer rikt linjer för fast livs cykel.
+  ms.date: 08/12/2020
+  ms.openlocfilehash: e54ceed1e30fb7075b341e068c5d65d7c9e95858
+  ms.sourcegitcommit: c7c4e0a2e3a93e251df1f1cdc0e078a7787b3dc3
   ms.translationtype: MT
   ms.contentlocale: sv-SE
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "864096"
+  ms.lasthandoff: 08/13/2020
+  ms.locfileid: "892777"
 name: SQL Server 2016
 summary: >+
-  SQL Server 2016 följer [principen](/lifecycle/policies/fixed) om fast livscykel.
+  SQL Server 2016 följer rikt linjer för [fast](/lifecycle/policies/fixed) livs cykel.
 
 
-  Detta gäller följande utgåvor: Utvecklare, Enterprise, Enterprise Core, Express, Standard, Webb
+  Detta gäller för följande utgåvor: utvecklare, Enterprise, Enterprise Core, Express, standard, Web
 
 products:
 - sql-server
@@ -33,4 +33,4 @@ releases:
 - version: Original Release
   startDate: 06/01/2016
   endDate: 01/09/2018
-content: "\n## <a name=\"links\"></a>Länkar \n* [Service Pack-principen](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Upplagor \n* Författare\n* Företag\n* Kärnan i företaget\n* Express\n* Standard\n* Web"
+content: "\n## <a name=\"links\"></a>Länkar \n* [Policy för Service Pack](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Gåvor \n* Utvecklar\n* Enterprise\n* Företags kärna\n* Uttrycklig\n* Standar\n* Webben"

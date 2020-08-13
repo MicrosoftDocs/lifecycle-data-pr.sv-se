@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft BizTalk-kort för värdsystem 2.0
-  description: Microsoft BizTalk-kort för värdsystem 2.0 följer policyn för fast livscykel.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: f80e0cf76eebd3d54f478080a80929cb15778886
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  title: Microsoft BizTalk-adaptrar för värd system 2,0
+  description: Microsoft BizTalk-adaptrar för värd system 2,0 följer rikt linjer för fast livs cykel.
+  ms.date: 08/12/2020
+  ms.openlocfilehash: 425db6cb5918efdf9afc544d8a0e8bb554ce695c
+  ms.sourcegitcommit: c7c4e0a2e3a93e251df1f1cdc0e078a7787b3dc3
   ms.translationtype: MT
   ms.contentlocale: sv-SE
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "842107"
-name: Microsoft BizTalk-kort för värdsystem 2.0
+  ms.lasthandoff: 08/13/2020
+  ms.locfileid: "893517"
+name: Microsoft BizTalk-adaptrar för värd system 2,0
 summary: >+
-  Microsoft BizTalk-kort för värdsystem 2.0 följer [policyn](/lifecycle/policies/fixed) för fast livscykel.
+  Microsoft BizTalk-adaptrar för värd system 2,0 följer rikt linjer för [fast](/lifecycle/policies/fixed) livs cykel.
 
 
-  Detta gäller följande utgåvor: Utvecklare, Standard
+  Detta gäller för följande utgåvor: utvecklare, standard
 
 products:
 - microsoft-servers
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 06/21/2009
   endDate: 07/09/2019
-content: "\n## <a name=\"links\"></a>Länkar \n* [Vägledning för migrering](https://techcommunity.microsoft.com/t5/Host-Integration-Blog/End-of-Support-for-BizTalk-Adapters-for-Host-Systems-2-0/ba-p/269471)\n\n\n## <a name=\"editions\"></a>Upplagor \n* Författare\n* Standard"
+content: "\n## <a name=\"links\"></a>Länkar \n* [Vägledning för migrering](https://techcommunity.microsoft.com/t5/Host-Integration-Blog/End-of-Support-for-BizTalk-Adapters-for-Host-Systems-2-0/ba-p/269471)\n\n\n## <a name=\"editions\"></a>Gåvor \n* Utvecklar\n* Standar"

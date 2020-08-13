@@ -1,25 +1,25 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Virtuell dator 2004
-  description: Virtual PC 2004 följer policyn för fast livscykel.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 869a0829186bfc00b527cb9196a97356020ea033
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  title: Virtual PC 2004
+  description: Virtual PC 2004 följer policyn för fast livs cykel.
+  ms.date: 08/12/2020
+  ms.openlocfilehash: e4a1b7e6f5b072185d8b2f406398cb077ce983a6
+  ms.sourcegitcommit: c7c4e0a2e3a93e251df1f1cdc0e078a7787b3dc3
   ms.translationtype: MT
   ms.contentlocale: sv-SE
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "841949"
-name: Virtuell dator 2004
+  ms.lasthandoff: 08/13/2020
+  ms.locfileid: "893295"
+name: Virtual PC 2004
 summary: >
-  Virtual PC 2004 följer [policyn](/lifecycle/policies/fixed) för fast livscykel.
+  Virtual PC 2004 följer policyn för [fast](/lifecycle/policies/fixed) livs cykel.
 
 
-  Detta gäller följande utgåvor: Express, Standard
+  Detta gäller för följande utgåvor: Express, standard
 
 
   > [!IMPORTANT]
 
-  > Supporten för den här produkten har upphört.
+  > Support för den här produkten har avslut ATS.
 products:
 - windows
 policyType: fixed
@@ -34,4 +34,4 @@ releases:
 - version: Original Release
   startDate: 01/20/2004
   endDate: 10/09/2007
-content: "> [!TIP]\n> Microsoft Virtual PC 2004 Express släpptes den 13 april 2006.\n\n## <a name=\"links\"></a>Länkar \n* [Service Pack-principen](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Upplagor \n* Express\n* Standard"
+content: "> [!TIP]\n> Microsoft Virtual PC 2004 Express släpptes 13 april 2006.\n\n## <a name=\"links\"></a>Länkar \n* [Policy för Service Pack](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Gåvor \n* Uttrycklig\n* Standar"

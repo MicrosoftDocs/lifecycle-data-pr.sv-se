@@ -1,16 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Uttryck
-  description: Uttrycket följer den fasta livscykelprincipen.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: ee3c7cfc6f62fb00775e13137084c8e509ac5d8c
-  ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
+  title: Lagringsuttryck
+  description: Uttryck följer policyn för fast livs cykel.
+  ms.date: 08/12/2020
+  ms.openlocfilehash: c81accb05bdbd957a699685c83074735956a009e
+  ms.sourcegitcommit: c7c4e0a2e3a93e251df1f1cdc0e078a7787b3dc3
   ms.translationtype: MT
   ms.contentlocale: sv-SE
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "867384"
-name: Uttryck
-summary: "Uttrycket följer den [fasta](/lifecycle/policies/fixed) livscykelprincipen.\n\nDetta gäller följande utgåvor: Blend, Design, Encoder, Studio\n\n> [!IMPORTANT]\n> Supporten för den här produkten har upphört. \n"
+  ms.lasthandoff: 08/13/2020
+  ms.locfileid: "893406"
+name: Lagringsuttryck
+summary: "Uttryck följer policyn för [fast](/lifecycle/policies/fixed) livs cykel.\n\nDetta gäller för följande utgåvor: mix, design, kodare, Studio\n\n> [!IMPORTANT]\n> Support för den här produkten har avslut ATS. \n"
 products:
 - expression
 policyType: fixed
@@ -22,4 +22,4 @@ releases:
 - version: Original Release
   startDate: 07/27/2007
   endDate: 10/10/2017
-content: "\n\n> [!NOTE]\n> Startdatum för Expression Blend är 13 juli 2007. \n\n## <a name=\"editions\"></a>Upplagor \n* Blandning\n* Design\n* Kodare\n* Studio"
+content: "\n\n> [!NOTE]\n> Start datum för uttrycks blandning är den 13 juli 2007. \n\n## <a name=\"editions\"></a>Gåvor \n* Gång\n* Ursprungsbeteckningar\n* Kodare\n* Studio"
