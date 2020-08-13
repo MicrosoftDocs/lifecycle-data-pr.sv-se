@@ -2,13 +2,13 @@
 metadata:
   title: Dynamics SL 6,5
   description: Dynamics SL 6,5 följer policyn för fast livs cykel.
-  ms.date: 08/12/2020
-  ms.openlocfilehash: cb726b8c90053c30c1a408fd0c7ba36da615f597
-  ms.sourcegitcommit: 1974bfc9a9fccaac36daaa1015b7f31c8814ae07
+  ms.date: 08/13/2020
+  ms.openlocfilehash: ced885d31eb8f3ebdd2f44741ccfdd8678329f09
+  ms.sourcegitcommit: a0028eb69fe2a3bae073d91a3634475608d48de1
   ms.translationtype: MT
   ms.contentlocale: sv-SE
-  ms.lasthandoff: 08/12/2020
-  ms.locfileid: "891749"
+  ms.lasthandoff: 08/13/2020
+  ms.locfileid: "894852"
 name: Dynamics SL 6,5
 summary: >+
   Dynamics SL 6,5 följer policyn för [fast](/lifecycle/policies/fixed) livs cykel.
@@ -19,7 +19,7 @@ products:
 policyType: fixed-mainstream-only
 supportDates:
   start: 01/14/2006
-  end: 04/12/2011
+  end: 04/21/2011
 releases:
 - version: Service Pack 3
   startDate: 01/07/2009
