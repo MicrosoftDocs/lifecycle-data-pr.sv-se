@@ -1,13 +1,13 @@
 ---
 title: Exportera data export
 description: Exportera information om produktens livs cykel
-ms.date: 08/18/2020
-ms.openlocfilehash: 80145edf59e6406d32292d846ae3f263cddd294a
-ms.sourcegitcommit: 6bed901441570ef084842edd1b7e5dfbc192c99a
+ms.date: 08/19/2020
+ms.openlocfilehash: d116baffd1a01f45fafeb184fddda1a0736e694a
+ms.sourcegitcommit: 7058ee1673709d6dd4bed24f043690e0da2c6bb4
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/18/2020
-ms.locfileid: "902421"
+ms.lasthandoff: 08/19/2020
+ms.locfileid: "902654"
 ---
 # <a name="lifecycle-data-export"></a>Exportera data export
 

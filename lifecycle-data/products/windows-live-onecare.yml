@@ -1,0 +1,27 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Windows Live OneCare
+  description: Windows Live OneCare följer modern livs cykel policy.
+  ms.date: 08/19/2020
+  ms.openlocfilehash: f37abdbbca933797a22116b3c1aaf794ac0cd1a2
+  ms.sourcegitcommit: 7058ee1673709d6dd4bed24f043690e0da2c6bb4
+  ms.translationtype: MT
+  ms.contentlocale: sv-SE
+  ms.lasthandoff: 08/19/2020
+  ms.locfileid: "902918"
+name: Windows Live OneCare
+summary: >+
+  Windows Live OneCare följer [modern](/lifecycle/policies/modern) livs cykel policy.
+
+
+products:
+- windows
+policyType: modern-online
+supportDates:
+  start: 09/04/2007
+  end: 04/12/2011
+releases:
+- version: Original Release
+  startDate: 09/04/2007
+  endDate: 04/12/2011
+content: ''
