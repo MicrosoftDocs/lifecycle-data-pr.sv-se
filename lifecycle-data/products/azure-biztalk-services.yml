@@ -1,0 +1,27 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Azure BizTalk-tjänster
+  description: Azure BizTalk-tjänster följer modern livs cykel policy.
+  ms.date: 08/19/2020
+  ms.openlocfilehash: 3fba232a5fce7a5cbc705ce79978718f84181737
+  ms.sourcegitcommit: acbc3d1849bad925ef030cf951960bd7eb1b4e42
+  ms.translationtype: MT
+  ms.contentlocale: sv-SE
+  ms.lasthandoff: 08/19/2020
+  ms.locfileid: "904563"
+name: Azure BizTalk-tjänster
+summary: >+
+  Azure BizTalk-tjänster följer [modern](/lifecycle/policies/modern) livs cykel policy.
+
+
+products:
+- azure
+policyType: modern-online
+supportDates:
+  start: 11/21/2013
+  end: 05/31/2018
+releases:
+- version: Original Release
+  startDate: 11/21/2013
+  endDate: 05/31/2018
+content: "\n## <a name=\"links\"></a>Länkar \n* [Vägledning för migrering](https://azure.microsoft.com/services/biztalk-services)"
