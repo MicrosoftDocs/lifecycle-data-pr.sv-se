@@ -3,18 +3,18 @@ metadata:
   title: GPOVault
   description: GPOVault följer policyn för fast livs cykel.
   ms.date: 08/19/2020
-  ms.openlocfilehash: 53a695653e0c7ea800e0b2f78d8a0ec9be49e9c7
-  ms.sourcegitcommit: cdc82d954cf43f559efedf304d3b044b29dda561
+  ms.openlocfilehash: e45e18b2973a9555f95d973141a523dffa34da28
+  ms.sourcegitcommit: acbc3d1849bad925ef030cf951960bd7eb1b4e42
   ms.translationtype: MT
   ms.contentlocale: sv-SE
   ms.lasthandoff: 08/19/2020
-  ms.locfileid: "903398"
+  ms.locfileid: "903746"
 name: GPOVault
 summary: >+
   GPOVault följer policyn för [fast](/lifecycle/policies/fixed) livs cykel.
 
 
-  Detta gäller för följande utgåvor: 1,0, 1,0, 2,0, Enterprise 2,0
+  Detta gäller för följande utgåvor: 1,0, 2,0, Enterprise 1,0, Enterprise 2,0
 
 products:
 - windows
@@ -26,4 +26,4 @@ releases:
 - version: Original Release
   startDate: 01/01/2007
   endDate: 01/12/2010
-content: "\n\n> [!NOTE]\n> Stöd för denna produkt är föremål för villkor avseende förvärvet. \n\n## <a name=\"editions\"></a>Gåvor \n* 1,0\n* 1,0 Enterprise\n* 2,0\n* Enterprise 2,0"
+content: "\n\n> [!NOTE]\n> Stöd för denna produkt är föremål för villkor avseende förvärvet. \n\n## <a name=\"editions\"></a>Gåvor \n* 1,0\n* 2,0\n* Enterprise 1,0\n* Enterprise 2,0"

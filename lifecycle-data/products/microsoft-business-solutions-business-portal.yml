@@ -1,0 +1,33 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft Business Solutions Business Portal
+  description: Microsoft Business Solutions Business Portal följer policyn för fast livs cykel.
+  ms.date: 08/19/2020
+  ms.openlocfilehash: 2b4116c3d6461616b1e36ab86d5606900be3ec6c
+  ms.sourcegitcommit: acbc3d1849bad925ef030cf951960bd7eb1b4e42
+  ms.translationtype: MT
+  ms.contentlocale: sv-SE
+  ms.lasthandoff: 08/19/2020
+  ms.locfileid: "904572"
+name: Microsoft Business Solutions Business Portal
+summary: >+
+  Microsoft Business Solutions Business Portal följer policyn för [fast](/lifecycle/policies/fixed) livs cykel.
+
+
+products:
+- dynamics
+policyType: fixed-mainstream-only
+supportDates:
+  start: 07/18/2003
+  end: 01/08/2008
+releases:
+- version: Business Solutions Business Portal 2.5
+  startDate: 08/01/2004
+  endDate: 01/08/2008
+- version: Business Solutions Business Portal 2.0
+  startDate: 01/01/2004
+  endDate: 04/10/2007
+- version: Business Solutions Business Portal 1.2
+  startDate: 07/18/2003
+  endDate: 12/31/2004
+content: "\n\n> [!NOTE]\n> Microsoft Business Solutions Business Portal 2,5 har endast stöd för med antingen suveräna rena 8,0-och Solomon-6,0."

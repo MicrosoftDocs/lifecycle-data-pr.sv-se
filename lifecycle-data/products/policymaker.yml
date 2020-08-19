@@ -1,0 +1,29 @@
+### YamlMime:Lifecycle
+metadata:
+  title: PolicyMaker
+  description: PolicyMaker följer policyn för fast livs cykel.
+  ms.date: 08/19/2020
+  ms.openlocfilehash: d1b7d7ac98ec91c5118023494257fde96fbf2c6f
+  ms.sourcegitcommit: acbc3d1849bad925ef030cf951960bd7eb1b4e42
+  ms.translationtype: MT
+  ms.contentlocale: sv-SE
+  ms.lasthandoff: 08/19/2020
+  ms.locfileid: "904565"
+name: PolicyMaker
+summary: >+
+  PolicyMaker följer policyn för [fast](/lifecycle/policies/fixed) livs cykel.
+
+
+  Detta gäller för följande utgåvor: program säkerhet, Outlook Edition, Professional 9,0, register tillägg 2,0, Share Manager 1,0, program uppdatering 1,0, program uppdatering 2,0, standard 1,0, standard 2,0
+
+products:
+- windows
+policyType: fixed-mainstream-only
+supportDates:
+  start: 01/01/2007
+  end: 01/12/2010
+releases:
+- version: Original Release
+  startDate: 01/01/2007
+  endDate: 01/12/2010
+content: "\n\n> [!NOTE]\n> Stöd för denna produkt är föremål för villkor avseende förvärvet.\n\n## <a name=\"editions\"></a>Gåvor \n* Program säkerhet\n* Outlook-utgåva\n* Professional 9,0\n* Register tillägg 2,0\n* Dela chef 1,0\n* Program uppdatering 1,0\n* Program uppdatering 2,0\n* Standard 1,0\n* Standard 2,0"
