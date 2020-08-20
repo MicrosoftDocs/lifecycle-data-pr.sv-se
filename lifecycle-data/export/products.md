@@ -1,27 +1,27 @@
 ---
 title: Exportera data export
 description: Exportera information om produktens livs cykel
-ms.date: 08/19/2020
-ms.openlocfilehash: a9831c67fa9c42ad557eb3d02d4a7c71621b92d2
-ms.sourcegitcommit: acbc3d1849bad925ef030cf951960bd7eb1b4e42
+ms.date: 08/20/2020
+ms.openlocfilehash: c0a2c57e9fa1ee15ab6a05e56affe6a27d5ed163
+ms.sourcegitcommit: f2f920f4a81a356fb71402238234768a9e90fd51
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/19/2020
-ms.locfileid: "903672"
+ms.lasthandoff: 08/20/2020
+ms.locfileid: "905230"
 ---
-# <a name="lifecycle-data-export"></a><span data-ttu-id="0b786-103">Exportera data export</span><span class="sxs-lookup"><span data-stu-id="0b786-103">Lifecycle data export</span></span>
+# <a name="lifecycle-data-export"></a><span data-ttu-id="201c9-103">Exportera data export</span><span class="sxs-lookup"><span data-stu-id="201c9-103">Lifecycle data export</span></span>
 
 > [!IMPORTANT]
-> <span data-ttu-id="0b786-104">Den här sidan är under utveckling.</span><span class="sxs-lookup"><span data-stu-id="0b786-104">This page is under development.</span></span>
+> <span data-ttu-id="201c9-104">Den här sidan är under utveckling.</span><span class="sxs-lookup"><span data-stu-id="201c9-104">This page is under development.</span></span>
 
-## <a name="export-all-products"></a><span data-ttu-id="0b786-105">Exportera alla produkter</span><span class="sxs-lookup"><span data-stu-id="0b786-105">Export all products</span></span>
-<span data-ttu-id="0b786-106">Exportera livscykler för alla produkter genom att klicka nedan:</span><span class="sxs-lookup"><span data-stu-id="0b786-106">Export lifecycle data for all products by clicking below:</span></span>
+## <a name="export-all-products"></a><span data-ttu-id="201c9-105">Exportera alla produkter</span><span class="sxs-lookup"><span data-stu-id="201c9-105">Export all products</span></span>
+<span data-ttu-id="201c9-106">Exportera livscykler för alla produkter genom att klicka nedan:</span><span class="sxs-lookup"><span data-stu-id="201c9-106">Export lifecycle data for all products by clicking below:</span></span>
 
 > [!div class="nextstepaction"]
-> [<span data-ttu-id="0b786-107">Exportera alla produkter</span><span class="sxs-lookup"><span data-stu-id="0b786-107">Export All Products</span></span>](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export)
+> [<span data-ttu-id="201c9-107">Exportera alla produkter</span><span class="sxs-lookup"><span data-stu-id="201c9-107">Export All Products</span></span>](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export)
 
-## <a name="export-products-by-family-and-group"></a><span data-ttu-id="0b786-108">Exportera produkter efter familj och grupp</span><span class="sxs-lookup"><span data-stu-id="0b786-108">Export products by Family and Group</span></span>
-<span data-ttu-id="0b786-109">Välj en familj och sedan en grupp att exportera.</span><span class="sxs-lookup"><span data-stu-id="0b786-109">Select a Family and then a Group to export.</span></span> <span data-ttu-id="0b786-110">Obs! exporten börjar när gruppens värde är markerat.</span><span class="sxs-lookup"><span data-stu-id="0b786-110">Note: Export will begin when Group value is selected.</span></span> 
+## <a name="export-products-by-family-and-group"></a><span data-ttu-id="201c9-108">Exportera produkter efter familj och grupp</span><span class="sxs-lookup"><span data-stu-id="201c9-108">Export products by Family and Group</span></span>
+<span data-ttu-id="201c9-109">Välj en familj och sedan en grupp att exportera.</span><span class="sxs-lookup"><span data-stu-id="201c9-109">Select a Family and then a Group to export.</span></span> <span data-ttu-id="201c9-110">Obs! exporten börjar när gruppens värde är markerat.</span><span class="sxs-lookup"><span data-stu-id="201c9-110">Note: Export will begin when Group value is selected.</span></span> 
 
 > [!div class="op_multi_selector" title1="Kör" title2="Grupp"]
 > - [(.NET | Alla](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export?$filter=parent%20ne%20null%20and%20parent/parent%20ne%20null%20and%20parent/parent/parent%20ne%20null%20and%20parent/parent/parent/name%20eq%20'.NET')
@@ -81,8 +81,8 @@ ms.locfileid: "903672"
 > - [(Windows | Uppdatering](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export?$filter=parent%20ne%20null%20and%20parent/parent%20ne%20null%20and%20parent/parent/parent%20ne%20null%20and%20parent/parent/parent/name%20eq%20'Windows'%20and%20parent/parent/name%20eq%20'Security')
 > - [(Windows | Server](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export?$filter=parent%20ne%20null%20and%20parent/parent%20ne%20null%20and%20parent/parent/parent%20ne%20null%20and%20parent/parent/parent/name%20eq%20'Windows'%20and%20parent/parent/name%20eq%20'Server')
 
-## <a name="export-products-by-end-of-support-date"></a><span data-ttu-id="0b786-169">Exportera produkter efter support datum</span><span class="sxs-lookup"><span data-stu-id="0b786-169">Export products by end of support date</span></span>
-<span data-ttu-id="0b786-170">Välj ett år för att se att produkterna har nått slutet av supporten.</span><span class="sxs-lookup"><span data-stu-id="0b786-170">Select a year to see products reaching the end of support.</span></span> <span data-ttu-id="0b786-171">Obs! exporten påbörjas när årets värde är markerat.</span><span class="sxs-lookup"><span data-stu-id="0b786-171">Note: Export will begin when Year value is selected.</span></span>
+## <a name="export-products-by-end-of-support-date"></a><span data-ttu-id="201c9-169">Exportera produkter efter support datum</span><span class="sxs-lookup"><span data-stu-id="201c9-169">Export products by end of support date</span></span>
+<span data-ttu-id="201c9-170">Välj ett år för att se att produkterna har nått slutet av supporten.</span><span class="sxs-lookup"><span data-stu-id="201c9-170">Select a year to see products reaching the end of support.</span></span> <span data-ttu-id="201c9-171">Obs! exporten påbörjas när årets värde är markerat.</span><span class="sxs-lookup"><span data-stu-id="201c9-171">Note: Export will begin when Year value is selected.</span></span>
 
 > [!div class="op_single_selector"]
 > - [2002](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export(endOfSupportYear=2002))
