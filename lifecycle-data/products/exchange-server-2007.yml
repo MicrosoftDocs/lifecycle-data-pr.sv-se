@@ -5,17 +5,12 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: cd642c6d536ae4d72e91589eccec3e35bfa24298
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sv-SE
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "841494"
 name: Exchange Server 2007
-summary: >+
-  Exchange Server 2007 följer [policyn](/lifecycle/policies/fixed) för fast livscykel.
-
-
-  Detta gäller följande utgåvor: Enterprise, Standard
-
+summary: "Exchange Server 2007 följer policyn för [fast](/lifecycle/policies/fixed) livscykel. \n\nDetta gäller för följande utgåvor: Enterprise, Standard\n\n"
 products:
 - office
 policyType: fixed
@@ -36,4 +31,4 @@ releases:
 - version: Original Release
   startDate: 03/08/2007
   endDate: 01/13/2009
-content: "\n## <a name=\"links\"></a>Länkar \n* [Service Pack-principen](/lifecycle/policies/fixed#service-packs)\n* [Vägledning för migrering](https://blogs.office.com/2016/04/19/exchange-server-2007-end-of-support-coming-next-year/#5wCZvLhOd8FgPf5j.97)\n\n\n## <a name=\"editions\"></a>Upplagor \n* Företag\n* Standard"
+content: "\n## <a name=\"links\"></a>Länkar \n* [Service pack-policy](/lifecycle/policies/fixed#service-packs)\n* [Vägledning för migrering](https://blogs.office.com/2016/04/19/exchange-server-2007-end-of-support-coming-next-year/#5wCZvLhOd8FgPf5j.97)\n\n\n## <a name=\"editions\"></a>Utgåvor \n* Enterprise\n* Standard"

@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Windows Storage Server 2008 inbäddad
-  description: Windows Storage Server 2008 Embedded följer principen om fast livscykel.
+  title: Windows Storage Server 2008 Embedded
+  description: Windows Storage Server 2008 Embedded följer policyn för fast livscykel.
   ms.date: 07/28/2020
   ms.openlocfilehash: 12346be664c5039b392d1bcbc51143f8c5088758
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sv-SE
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "841559"
-name: Windows Storage Server 2008 inbäddad
+name: Windows Storage Server 2008 Embedded
 summary: >+
-  Windows Storage Server 2008 Embedded följer [principen](/lifecycle/policies/fixed) om fast livscykel.
+  Windows Storage Server 2008 Embedded följer policyn för [fast](/lifecycle/policies/fixed) livscykel.
 
 
-  Detta gäller följande utgåvor: 32 bitar, 64 bitar, grundläggande, grundläggande 32-bitars, företag, standard, arbetsgrupp
+  Detta gäller för följande utgåvor: 32-bitars, 64-bitars, Basic, Basic 32-bitars, Enterprise, Standard, Workgroup
 
 products:
 - windows
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 07/19/2009
   endDate: 07/12/2011
-content: "\n## <a name=\"links\"></a>Länkar \n* [Vägledning för migrering](/archive/blogs/storageserver/announcing-windows-storage-server-2016)\n\n> [!NOTE]\n> Denna produkt har nått slutet av supporten. Se nedan för migreringsvägledning.\n\n## <a name=\"editions\"></a>Upplagor \n* 32 bitar\n* 64 bitar\n* Grundläggande\n* Grundläggande 32-bitars\n* Företag\n* Standard\n* Arbetsgrupp"
+content: "\n## <a name=\"links\"></a>Länkar \n* [Vägledning för migrering](/archive/blogs/storageserver/announcing-windows-storage-server-2016)\n\n> [!NOTE]\n> Supporten för den här produkten upphör. Se nedan för migreringsvägledning.\n\n## <a name=\"editions\"></a>Utgåvor \n* 32-bitars\n* 64-bitars\n* Basic\n* Basic 32-bitars\n* Enterprise\n* Standard\n* Workgroup"

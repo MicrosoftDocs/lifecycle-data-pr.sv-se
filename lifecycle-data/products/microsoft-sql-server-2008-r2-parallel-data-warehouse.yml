@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Parallellt datalager för Microsoft SQL Server 2008 R2
-  description: Microsoft SQL Server 2008 R2 Parallel Data Warehouse följer principen om fast livscykel.
+  title: Microsoft SQL Server 2008 R2 Parallel Data Warehouse
+  description: Microsoft SQL Server 2008 R2 Parallel Data Warehouse följer policyn om fast livscykel.
   ms.date: 07/28/2020
   ms.openlocfilehash: 8296e0c784226bc26fbb70bc8fb62f9925fa648d
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sv-SE
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "841681"
-name: Parallellt datalager för Microsoft SQL Server 2008 R2
+name: Microsoft SQL Server 2008 R2 Parallel Data Warehouse
 summary: >+
-  Microsoft SQL Server 2008 R2 Parallel Data Warehouse följer [principen](/lifecycle/policies/fixed) om fast livscykel.
+  Microsoft SQL Server 2008 R2 Parallel Data Warehouse följer policyn om [fast](/lifecycle/policies/fixed) livscykel.
 
 
 products:

@@ -5,21 +5,21 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: a0f008702c636963333da20217a32768124fe020
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sv-SE
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "841910"
 name: Windows Server 2008 för Windows Essential Server Solutions
 summary: >
-  Windows Server 2008 för Windows Essential Server Solutions följer [policyn](/lifecycle/policies/fixed) för fast livscykel.
+  Windows Server 2008 för Windows Essential Server Solutions följer policyn för [fast](/lifecycle/policies/fixed) livscykel.
 
 
-  Detta gäller följande utgåvor: Standard, utan Hyper-V
+  Detta gäller för följande utgåvor: Standard, utan Hyper-V
 
 
   > [!IMPORTANT]
 
-  > Supporten för den här produkten har upphört. Se migreringsvägledning nedan.
+  > Support för den här produkten har upphört. Se migreringsvägledningen nedan.
 products:
 - windows
 policyType: fixed
@@ -34,4 +34,4 @@ releases:
 - version: Original Release
   startDate: 02/18/2009
   endDate: 07/12/2011
-content: "\n## <a name=\"links\"></a>Länkar \n* [Vägledning för migrering](https://aka.ms/AA1ovn4)\n* [Produktinformation](https://cloudblogs.microsoft.com/windowsserver/2008/02/20/introducing-windows-essential-server-solutions/)\n\n\n## <a name=\"editions\"></a>Upplagor \n* Standard\n* utan Hyper-V"
+content: "\n## <a name=\"links\"></a>Länkar \n* [Vägledning för migrering](https://aka.ms/AA1ovn4)\n* [Produktinformation](https://cloudblogs.microsoft.com/windowsserver/2008/02/20/introducing-windows-essential-server-solutions/)\n\n\n## <a name=\"editions\"></a>Utgåvor \n* Standard\n* utan Hyper-V"

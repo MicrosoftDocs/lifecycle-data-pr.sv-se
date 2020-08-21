@@ -5,19 +5,19 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: c57a9049aa6c69c1a71aaa99f5a8184b78d1e144
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sv-SE
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "842014"
 name: Microsoft Sync Framework 1.0
 summary: >
-  Microsoft Sync Framework 1.0 följer [policyn](/lifecycle/policies/fixed) för fast livscykel.
+  Microsoft Sync Framework 1.0 följer policyn för [fast](/lifecycle/policies/fixed) livscykel.
 
 
 
   > [!IMPORTANT]
 
-  > Supporten för den här produkten har upphört.
+  > Support för den här produkten har upphört.
 products:
 - vs
 policyType: fixed
@@ -32,4 +32,4 @@ releases:
 - version: Original Release
   startDate: 11/04/2008
   endDate: 07/12/2011
-content: "\n## <a name=\"links\"></a>Länkar \n* [Produktinformation](/previous-versions/sql/synchronization/mt490617(v=msdn.10))\n\n> [!NOTE]\n> Sync Framework 1.0 SP1-supporten slutar på det angivna datumet om det inte distribueras som en komponent i SharePoint Server 2010, 2013, 2016 eller 2019. Komponenter får samma support som sin överordnade produkt eller plattform."
+content: "\n## <a name=\"links\"></a>Länkar \n* [Produktinformation](/previous-versions/sql/synchronization/mt490617(v=msdn.10))\n\n> [!NOTE]\n> Support för Sync Framework 1.0 SP1 upphör på det angivna datumet om det inte distribueras som en komponent i SharePoint Server 2010, 2013, 2016 eller 2019. Komponenter får samma support som den överordnade produkten eller plattformen."

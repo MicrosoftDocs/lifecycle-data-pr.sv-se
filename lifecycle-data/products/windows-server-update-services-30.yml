@@ -5,19 +5,19 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: b5e6ed046b5497010706f64c93962f1c4af0e2a0
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sv-SE
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "842279"
 name: Windows Server Update Services 3.0
 summary: >
-  Windows Server Update Services 3.0 följer [policyn](/lifecycle/policies/fixed) för fast livscykel.
+  Windows Server Update Services 3.0 följer policyn för [fast](/lifecycle/policies/fixed) livscykel.
 
 
 
   > [!IMPORTANT]
 
-  > Stödet har upphört. Se migreringsvägledning nedan.
+  > Support har upphört. Se migreringsvägledningen nedan.
 products:
 - windows
 policyType: fixed
@@ -35,4 +35,4 @@ releases:
 - version: Original Release
   startDate: 07/10/2007
   endDate: 07/14/2009
-content: "\n## <a name=\"links\"></a>Länkar \n* [Vägledning för migrering](https://technet.microsoft.com/library/mt772341%28WS.11%29.aspx)\n* [Service Pack-principen](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Stödet förlängdes från 2017-07-11 till 2020-01-14."
+content: "\n## <a name=\"links\"></a>Länkar \n* [Vägledning för migrering](https://technet.microsoft.com/library/mt772341%28WS.11%29.aspx)\n* [Service pack-policy](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Support förlängdes från 11-07-2017 till 14-01-2020."

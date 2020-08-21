@@ -5,16 +5,16 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: 37e472e998f4c244d30d4c7b372ab38699323e23
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sv-SE
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "842073"
 name: Microsoft Content Management Server 2002
 summary: >+
-  Microsoft Content Management Server 2002 följer [policyn](/lifecycle/policies/fixed) för fast livscykel.
+  Microsoft Content Management Server 2002 följer policyn för [fast](/lifecycle/policies/fixed) livscykel.
 
 
-  Detta gäller följande utgåvor: Enterprise, Standard
+  Detta gäller för följande utgåvor: Enterprise, Standard
 
 products:
 - microsoft-servers
@@ -36,4 +36,4 @@ releases:
 - version: Service Pack 1
   startDate: 09/16/2003
   endDate: 07/11/2006
-content: "\n## <a name=\"links\"></a>Länkar \n* [Service Pack-principen](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Enterprise-utgåvan av denna produkt har ett startdatum den 7 november 2002. \n\n## <a name=\"editions\"></a>Upplagor \n* Företag\n* Standard"
+content: "\n## <a name=\"links\"></a>Länkar \n* [Service pack-policy](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Startdatumet för Enterprise-utgåvan av denna produkt är 7 november 2002. \n\n## <a name=\"editions\"></a>Utgåvor \n* Enterprise\n* Standard"

@@ -1,15 +1,15 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Konfigurationshanteraren för Microsoft System Center 2007 R2
+  title: Microsoft System Center Configuration Manager 2007 R2
   description: Microsoft System Center Configuration Manager 2007 R2 följer principen om fast livscykel.
   ms.date: 07/28/2020
   ms.openlocfilehash: 0da71b9a2886e1a7012339ebef9a5fbe64f8811e
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sv-SE
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "842006"
-name: Konfigurationshanteraren för Microsoft System Center 2007 R2
+name: Microsoft System Center Configuration Manager 2007 R2
 summary: >
   Microsoft System Center Configuration Manager 2007 R2 följer principen om [fast](/lifecycle/policies/fixed) livscykel.
 
@@ -17,7 +17,7 @@ summary: >
 
   > [!IMPORTANT]
 
-  > Supporten för den här produkten har upphört. Se migreringsvägledning nedan.
+  > Support för den här produkten har upphört. Se migreringsvägledningen nedan.
 products:
 - msc
 policyType: fixed

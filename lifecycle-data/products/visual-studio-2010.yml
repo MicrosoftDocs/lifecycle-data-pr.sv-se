@@ -5,16 +5,16 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: 30c112ab23bba45aaec60660ab85c362bcebf030
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sv-SE
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "841574"
 name: Visual Studio 2010
 summary: >+
-  Visual Studio 2010 följer [policyn](/lifecycle/policies/fixed) för fast livscykel.
+  Visual Studio 2010 följer policyn för [fast](/lifecycle/policies/fixed) livscykel.
 
 
-  Detta gäller följande utgåvor: Ombud, Alla, ASP .NET MVC 4, Express, F# 2.0 Runtime, Lab Management, Performance Tools, Premium, Professional, Remote Debugger, SDK, Shell (Integrated), Shell (Isolated), Team Agents, Team Explorer, Test Professional, Tools for Office System 4.0 Runtime, Ultimate, VB Express, Visual C# Express, Visual C++ Express, Visual Web Developer Express, Visualization & Model SKD
+  Detta gäller för följande utgåvor: Agenter, Alla, ASP .NET MVC 4, Express, F# 2.0 Runtime, Lab Management, Prestandaverktyg, Premium, Professional, Fjärrfelsökare, SDK, Gränssnitt (integrerat), Gränssnitt (isolerat), Team Agents, Team Explorer, Test Professional, Verktyg för Office System 4.0 Runtime, Ultimate, VB Express, Visual C# Express, Visual C++ Express, Visual Web Developer Express, Visualization & Model SDK
 
 products:
 - vs
@@ -30,4 +30,4 @@ releases:
 - version: Original Release
   startDate: 06/29/2010
   endDate: 04/10/2012
-content: "\n## <a name=\"links\"></a>Länkar \n* [Service Pack-principen](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Upplagor \n* Agenter\n* Alla\n* ASP .NET MVC 4\n* Express\n* F# 2.0 Runtime\n* Lab Management\n* Prestandaverktyg\n* Premium\n* Professionell\n* Fjärrfelsökare\n* Sdk\n* Skal (integrerat)\n* Skal (isolerat)\n* Team agenter\n* Grupputforskaren\n* Testa Professional\n* Verktyg för Office System 4.0 Runtime\n* Ultimata\n* VB Express\n* Visuell C# Express\n* Visual C++ Express\n* Visual Web Developer Express\n* Visualisering & modellering SDK"
+content: "\n## <a name=\"links\"></a>Länkar \n* [Service pack-policy](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Utgåvor \n* Agenter\n* Alla\n* ASP .NET MVC 4\n* Express\n* F# 2.0 Runtime\n* Lab Management\n* Prestandaverktyg\n* Premium\n* Professionell\n* Fjärrfelsökare\n* SDK\n* Gränssnitt (integrerat)\n* Gränssnitt (isolerat)\n* Team Agents\n* Team Explorer\n* Test Professional\n* Verktyg för Office System 4.0 Runtime\n* Ultimate\n* VB Express\n* Visual C# Express\n* Visual C++ Express\n* Visual Web Developer Express\n* Visualization och Modeling SDK"

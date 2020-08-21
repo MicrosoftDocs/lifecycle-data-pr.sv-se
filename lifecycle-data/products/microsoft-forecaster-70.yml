@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft-prognosmakare 7.0
+  title: Microsoft Forecaster 7.0
   description: Microsoft Forecaster 7.0 följer policyn för fast livscykel.
   ms.date: 07/28/2020
   ms.openlocfilehash: e9af608bbdf2d19517b58ebe46d545b09078be8d
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sv-SE
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "842059"
-name: Microsoft-prognosmakare 7.0
+name: Microsoft Forecaster 7.0
 summary: >+
-  Microsoft Forecaster 7.0 följer [policyn](/lifecycle/policies/fixed) för fast livscykel.
+  Microsoft Forecaster 7.0 följer policyn för [fast](/lifecycle/policies/fixed) livscykel.
 
 
 products:
@@ -40,4 +40,4 @@ releases:
 - version: Original Release
   startDate: 05/30/2007
   endDate: 01/13/2009
-content: "\n## <a name=\"links\"></a>Länkar \n* [Vägledning för migrering](https://mbs.microsoft.com/customersource/northamerica/news-events/news-events/news/ForecasterDiscontinuationNoticeGP)\n* [Service Pack-principen](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Prognossupporten slutar på det angivna datumet om den inte distribueras som en komponent i en Dynamics-produkt. När de distribueras med en Dynamics-produkt åsidosätter Dynamics livscykeldatum prognosdatumet."
+content: "\n## <a name=\"links\"></a>Länkar \n* [Vägledning för migrering](https://mbs.microsoft.com/customersource/northamerica/news-events/news-events/news/ForecasterDiscontinuationNoticeGP)\n* [Service pack-policy](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Support för Prognosticering upphör på det angivna datumet om den inte distribueras som en komponent i en Dynamics-produkt. När den distribueras med en Dynamics-produkt åsidosätter Dynamics livscykeldatum datumet för Prognosticering."
