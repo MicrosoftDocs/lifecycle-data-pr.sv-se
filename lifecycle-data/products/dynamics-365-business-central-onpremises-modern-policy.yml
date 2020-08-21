@@ -1,19 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Dynamics 365 Business Central lokalt (Modern Policy)
-  description: Dynamics 365 Business Central lokalt (Modern Policy) följer den moderna livscykelpolicyn.
+  title: Dynamics 365 Business Central lokalt (Modern policy)
+  description: Dynamics 365 Business Central lokalt (Modern policy) följer den moderna policyn för livscykeln.
   ms.date: 07/28/2020
   ms.openlocfilehash: 90a0c0c35688097614382dcffd624f46c4bac173
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sv-SE
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "872538"
-name: Dynamics 365 Business Central lokalt (Modern Policy)
-summary: >+
-  Dynamics 365 Business Central lokalt (Modern Policy) följer den [moderna](/lifecycle/policies/modern) livscykelpolicyn.
-
-
+name: Dynamics 365 Business Central lokalt (Modern policy)
+summary: "Dynamics 365 Business Central lokalt (Modern policy) följer den [moderna](/lifecycle/policies/modern) policyn för livscykeln. \n\n\n"
 products:
 - dynamics
 policyType: modern-on-prem

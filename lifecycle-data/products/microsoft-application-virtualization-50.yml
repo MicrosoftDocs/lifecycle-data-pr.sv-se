@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft-programvirtualisering 5.0
+  title: Microsoft Application Virtualization 5.0
   description: Microsoft Application Virtualization 5.0 följer policyn för fast livscykel.
   ms.date: 07/28/2020
   ms.openlocfilehash: 537410789f17e2ca2d9308c1814f22f823288b32
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sv-SE
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "863992"
-name: Microsoft-programvirtualisering 5.0
+name: Microsoft Application Virtualization 5.0
 summary: >+
-  Microsoft Application Virtualization 5.0 följer [policyn](/lifecycle/policies/fixed) för fast livscykel.
+  Microsoft Application Virtualization 5.0 följer policyn för [fast](/lifecycle/policies/fixed) livscykel.
 
 
-  Detta gäller följande versioner: för fjärrskrivbordstjänster, för Terminal Services, för Windows-datorer
+  Detta gäller följande utgåvor: för fjärrskrivbordstjänster, för Terminal Services och för Windows-skrivbord
 
 products:
 - windows
@@ -36,4 +36,4 @@ releases:
 - version: Original Release
   startDate: 11/01/2012
   endDate: 07/08/2014
-content: "\n## <a name=\"links\"></a>Länkar \n* [Produktinformation](/microsoft-desktop-optimization-pack/appv-v5/microsoft-application-virtualization-50-administrators-guide)\n* [Service Pack-principen](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Upplagor \n* för fjärrskrivbordstjänster\n* för terminaltjänster\n* för Windows-skrivbord"
+content: "\n## <a name=\"links\"></a>Länkar \n* [Produktinformation](/microsoft-desktop-optimization-pack/appv-v5/microsoft-application-virtualization-50-administrators-guide)\n* [Service pack-policy](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Utgåvor \n* för fjärrskrivbordstjänster\n* för Terminal Services\n* for Windows-skrivbordsenhet"

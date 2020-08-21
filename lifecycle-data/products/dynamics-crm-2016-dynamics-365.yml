@@ -1,19 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Dynamics CRM 2016 (Dynamics 365)
-  description: Dynamics CRM 2016 (Dynamics 365) följer den fasta livscykelprincipen.
+  description: Dynamics CRM 2016 (Dynamics 365) följer policyn om den fasta livscykeln.
   ms.date: 07/30/2020
   ms.openlocfilehash: 8beedf478a2c2a00e1ade51fabd10be809909489
   ms.sourcegitcommit: e1941880c1a05c5950b0aa216448eba49d88be22
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sv-SE
   ms.lasthandoff: 07/30/2020
   ms.locfileid: "878800"
 name: Dynamics CRM 2016 (Dynamics 365)
-summary: >+
-  Dynamics CRM 2016 (Dynamics 365) följer den [fasta](/lifecycle/policies/fixed) livscykelprincipen.
-
-
+summary: "Dynamics CRM 2016 (Dynamics 365) följer den [fasta](/lifecycle/policies/fixed) livscykelprincipen. \n\n\n"
 products:
 - dynamics
 policyType: fixed
@@ -31,4 +28,4 @@ releases:
 - version: Original Release (ver 8.0)
   startDate: 11/30/2015
   endDate: 07/10/2018
-content: "\n## <a name=\"links\"></a>Länkar \n* [Dynamics 365 migreringsprogram](https://dynamics.microsoft.com/migration-program/)\n* [Supportinformation](https://support.microsoft.com/help/2925359/microsoft-dynamics-crm-online-releases)\n* [Service Pack-principen](/lifecycle/policies/fixed#service-packs)"
+content: "\n## <a name=\"links\"></a>Länkar \n* [Dynamics 365 migreringsprogram](https://dynamics.microsoft.com/migration-program/)\n* [Supportinformation](https://support.microsoft.com/help/2925359/microsoft-dynamics-crm-online-releases)\n* [Service pack-policy](/lifecycle/policies/fixed#service-packs)"

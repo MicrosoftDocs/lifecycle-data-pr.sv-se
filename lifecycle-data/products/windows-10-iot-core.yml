@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Windows 10 IoT-kärna
-  description: Windows 10 IoT Core följer den moderna livscykelpolicyn.
+  title: Windows 10 IoT Core
+  description: Windows 10 IoT Core följer policyn för modern livscykel.
   ms.date: 07/28/2020
   ms.openlocfilehash: 4de1aecc88c37d87a38cd5eca9274bcb4c854739
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sv-SE
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "864136"
-name: Windows 10 IoT-kärna
+name: Windows 10 IoT Core
 summary: >
-  Windows 10 IoT Core följer den [moderna](/lifecycle/policies/modern) livscykelpolicyn.
+  Windows 10 IoT Core följer policyn för [modern](/lifecycle/policies/modern) livscykel.
 
 
 
   > [!IMPORTANT]
 
-  > Microsoft kommer att fortsätta att stödja minst en Windows 10 halvårskanal fram till den 14 oktober 2025.
+  > Microsoft fortsätter att erbjuda support under minst en Windows 10-halvårskanal fram till 14 oktober 2025.
 products:
 - windows
 policyType: modern-on-prem
@@ -40,4 +40,4 @@ releases:
 - version: Version 1607
   startDate: 08/02/2016
   endDate: 04/10/2018
-content: "\n## <a name=\"links\"></a>Länkar \n* [Produktinformation](/windows/iot-core/windows-iot-core)\n* [Faktablad för Windows-livscykel](https://support.microsoft.com/help/13853/windows-lifecycle-fact-sheet)\n* [Windows som en tjänst (WaaS)](/windows/deployment/update/waas-quick-start)\n* [Vanliga frågor och svar om livscykel – Windows-produkter](/lifecycle/faq/windows)\n\n> [!NOTE]\n> Om det inte skjuts upp kan efterföljande uppdateringar av funktionen för windows 10 halvårskanaler installeras före det angivna slutet av mainstream-supportdatumet."
+content: "\n## <a name=\"links\"></a>Länkar \n* [Produktinformation](/windows/iot-core/windows-iot-core)\n* [Faktablad om Windows livscykel](https://support.microsoft.com/help/13853/windows-lifecycle-fact-sheet)\n* [Windows som en tjänst (WaaS)](/windows/deployment/update/waas-quick-start)\n* [Vanliga frågor och svar om livscykel – Windows-produkter](/lifecycle/faq/windows)\n\n> [!NOTE]\n> Om de inte skjuts upp kan funktionsuppdateringarna för Windows 10-halvårskanalen installeras före slutdatumet för mainstream-support."

@@ -5,16 +5,16 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: 3bb4a3be253fe45b27fa6baa8f165dc2fbb3ffd1
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sv-SE
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "872579"
 name: Visual Studio 2019
 summary: >+
-  Visual Studio 2019 följer [policyn](/lifecycle/policies/fixed) för fast livscykel.
+  Visual Studio 2019 följer policyn för [fast](/lifecycle/policies/fixed) livscykel.
 
 
-  Detta gäller följande utgåvor: Agenter, Byggverktyg, Community, Enterprise, för Mac, Fristående samlare, prestandaverktyg, professionella, fjärrverktyg, Team Explorer, Visual C++ Redistributable
+  Detta gäller för följande utgåvor: Agenter, genereringsverktyg, Community, Enterprise, för Mac, IntelliTrace Standalone Collector, prestandaverktyg, Professional, Remote Tools, Team Explorer, Visual C++ Redistributable
 
 products:
 - vs
@@ -30,4 +30,4 @@ releases:
 - version: Version 16.0
   startDate: 04/02/2019
   endDate: 01/12/2021
-content: "\n## <a name=\"links\"></a>Länkar \n* [Tillkännagivande](https://devblogs.microsoft.com/visualstudio/tis-the-season-visual-studio-2019/)\n* [Serviceinformation](/visualstudio/releases/2019/servicing)\n\n\n## <a name=\"editions\"></a>Upplagor \n* Agenter\n* Bygg verktyg\n* Community\n* Företag\n* för Mac\n* IntelliTrace fristående samlare\n* Prestandaverktyg\n* Professionell\n* Fjärrverktyg\n* Grupputforskaren\n* Visuell C++ Redistributable"
+content: "\n## <a name=\"links\"></a>Länkar \n* [Meddelande](https://devblogs.microsoft.com/visualstudio/tis-the-season-visual-studio-2019/)\n* [Serviceinformation](/visualstudio/releases/2019/servicing)\n\n\n## <a name=\"editions\"></a>Utgåvor \n* Agenter\n* Build Tools\n* Community\n* Enterprise\n* för Mac\n* IntelliTrace Standalone Collector\n* Prestandaverktyg\n* Professionell\n* Remote Tools\n* Team Explorer\n* Visual C++ Redistributable"

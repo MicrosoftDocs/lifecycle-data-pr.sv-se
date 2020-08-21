@@ -5,16 +5,16 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: 31d437b362fc9cdf06165caca18202e49cd7624b
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sv-SE
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "864045"
 name: Visual Studio 2012
 summary: >+
-  Visual Studio 2012 följer [policyn](/lifecycle/policies/fixed) för fast livscykel.
+  Visual Studio 2012 följer policyn för [fast](/lifecycle/policies/fixed) livscykel.
 
 
-  Detta gäller följande utgåvor: Agents, Community 2013, Express for Web, Express för Windows 8, Express för Windows Desktop, IntelliTrace Collector, Microsoft Azure Tools, Premium, Professional, Remote Tools, Shell (Integrated), Shell (Isolated), SQL Server Data Tools, Team Explorer, Test Professional 2013, Ultimate, Visual C++ Redistributable, Web Tools Extensions
+  Detta gäller för följande utgåvor: Agenter, Community 2013, Express för webben, Express för Windows 8, Express för Windows-skrivbord, IntelliTrace Collector, Microsoft Azure Tools, Premium, Professional, Remote Tools, Gränssnitt (integrerat), Gränssnitt (isolerat), SQL Server Data Tools, Team Explorer, Test Professional 2013, Ultimate, Visual C++ Redistributable, Web Tools Extensions
 
 products:
 - vs
@@ -33,4 +33,4 @@ releases:
 - version: Original Release
   startDate: 10/31/2012
   endDate: 01/10/2023
-content: "\n## <a name=\"links\"></a>Länkar \n* [Visual Studio produktlivscykel och service](/visualstudio/productinfo/vs-servicing-vs)\n\n\n## <a name=\"editions\"></a>Upplagor \n* Agenter\n* Gemenskapen 2013\n* Express för webben\n* Express för Windows 8\n* Express för Windows-skrivbordet\n* IntelliTrace Samlare\n* Microsoft Azure-verktyg\n* Premium\n* Professionell\n* Fjärrverktyg\n* Skal (integrerat)\n* Skal (isolerat)\n* Dataverktyg för SQL Server\n* Grupputforskaren\n* Test Professional 2013\n* Ultimata\n* Visuell C++ Redistributable\n* Tillägg för webbverktyg"
+content: "\n## <a name=\"links\"></a>Länkar \n* [Produktlivscykel och service för Visual Studio](/visualstudio/productinfo/vs-servicing-vs)\n\n\n## <a name=\"editions\"></a>Utgåvor \n* Agenter\n* Community 2013\n* Express for Web\n* Express för Windows 8\n* Express for Windows Desktop\n* IntelliTrace Collector\n* Microsoft Azure Tools\n* Premium\n* Professionell\n* Remote Tools\n* Gränssnitt (integrerat)\n* Gränssnitt (isolerat)\n* SQL Server Data Tools\n* Team Explorer\n* Test Professional 2013\n* Ultimate\n* Visual C++ Redistributable\n* Web Tools Extensions"

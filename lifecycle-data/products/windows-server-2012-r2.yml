@@ -5,16 +5,16 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: 35b2c5868387b3f6aa94bc41d2674c8ea7286aa6
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sv-SE
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "863883"
 name: Windows Server 2012 R2
 summary: >+
-  Windows Server 2012 R2 följer [principen](/lifecycle/policies/fixed) om fast livscykel.
+  Windows Server 2012 R2 följer principen om [fast](/lifecycle/policies/fixed) livscykel.
 
 
-  Detta gäller följande utgåvor: Datacenter, Essentials, för inbyggda system, Foundation, Standard
+  Detta gäller för följande utgåvor: Datacenter, Essentials, för inbäddade system, Foundation, Standard
 
 products:
 - windows
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 11/25/2013
   endDate: 10/10/2023
-content: "\n## <a name=\"links\"></a>Länkar \n* [Vägledning för migrering](/windows-server/upgrade/upgrade-overview)\n\n> [!NOTE]\n> Mainstream och Extended-supporten för den här produkten har utökats för att ge kunderna standardtidslinjen för livscykelövergång.\n\n## <a name=\"editions\"></a>Upplagor \n* Datacenter\n* Nödvändigt\n* för inbyggda system\n* Foundation\n* Standard"
+content: "\n## <a name=\"links\"></a>Länkar \n* [Vägledning för migrering](/windows-server/upgrade/upgrade-overview)\n\n> [!NOTE]\n> Mainstream- och utökad support för den här produkten har utökats för att erbjuda kunder standardtidslinjen för livscykelövergång.\n\n## <a name=\"editions\"></a>Utgåvor \n* Datacenter\n* Essentials\n* för inbäddade system\n* Foundation\n* Standard"

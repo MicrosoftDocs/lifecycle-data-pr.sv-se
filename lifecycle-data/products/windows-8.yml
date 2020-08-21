@@ -1,25 +1,25 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Windows 8
-  description: Windows 8 följer policyn för fast livscykel.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 1204c4097b59cb5449cb8145f06b6d755b3a4d27
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  description: Windows 8 följer policyn för fast livs cykel.
+  ms.date: 08/21/2020
+  ms.openlocfilehash: 125ef61a36e4958dd5b87525ae6f5c53181c6e28
+  ms.sourcegitcommit: 72c1339c867caa2110c5c1501a6659bcee72415d
   ms.translationtype: MT
   ms.contentlocale: sv-SE
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "864090"
+  ms.lasthandoff: 08/21/2020
+  ms.locfileid: "906712"
 name: Windows 8
 summary: >
-  Windows 8 följer [policyn](/lifecycle/policies/fixed) för fast livscykel.
+  Windows 8 följer policyn för [fast](/lifecycle/policies/fixed) livs cykel.
 
 
-  Detta gäller följande utgåvor: Enterprise, Enterprise N, N, Pro with Media Center, Professional, Professional N
+  Detta gäller för följande utgåvor: Enterprise, Enterprise N, N, Pro med Media Center, Professional, Professional N, SL
 
 
   > [!IMPORTANT]
 
-  > Supporten för den här produkten har upphört. Kunder måste uppdatera till Windows 8.1 för att kunna fortsätta att stödjas.
+  > Support för den här produkten har avslut ATS. Kunderna måste uppdatera till Windows 8,1 för att de ska kunna fortsätta.
 products:
 - windows
 policyType: fixed
@@ -30,4 +30,4 @@ releases:
 - version: Original Release
   startDate: 10/30/2012
   endDate: 01/12/2016
-content: "\n## <a name=\"links\"></a>Länkar \n* [Vanliga frågor och svar om livscykel – Windows 8.1](/lifecycle/faq/windows#windows-81)\n\n\n## <a name=\"editions\"></a>Upplagor \n* Företag\n* Företag N\n* N\n* Pro med Media Center\n* Professionell\n* Professionell N"
+content: "\n## <a name=\"links\"></a>Länkar \n* [Vanliga frågor om livscykel – Windows 8,1](/lifecycle/faq/windows#windows-81)\n\n\n## <a name=\"editions\"></a>Gåvor \n* Enterprise\n* Enterprise N\n* Saknas\n* Pro med Media Center\n* Specialist\n* Professional N\n* SL"

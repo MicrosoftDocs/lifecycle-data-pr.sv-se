@@ -5,16 +5,16 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: 28bafe1de891ae8c50f7ef276817ede7a380c8b1
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sv-SE
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "863939"
 name: Microsoft SQL Server 2012
 summary: >+
-  Microsoft SQL Server 2012 följer [policyn](/lifecycle/policies/fixed) för fast livscykel.
+  Microsoft SQL Server 2012 följer policyn för [fast](/lifecycle/policies/fixed) livscykel.
 
 
-  Detta gäller följande utgåvor: Business Intelligence, Utvecklare, Enterprise, Enterprise Core, Express, för inbyggda system, Standard, Webb
+  Detta gäller för följande utgåvor: Business Intelligence, Developer, Enterprise, Enterprise Core, Express, för inbyggda system, Standard, Webb
 
 products:
 - sql-server
@@ -39,4 +39,4 @@ releases:
 - version: Original Release
   startDate: 05/20/2012
   endDate: 01/14/2014
-content: "\n## <a name=\"links\"></a>Länkar \n* [Vägledning för migrering](/sql/sql-server/end-of-support/sql-server-end-of-life-overview?view=sql-server-ver15)\n* [Service Pack-principen](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Upplagor \n* Business Intelligence\n* Författare\n* Företag\n* Kärnan i företaget\n* Express\n* för inbyggda system\n* Standard\n* Web"
+content: "\n## <a name=\"links\"></a>Länkar \n* [Vägledning för migrering](/sql/sql-server/end-of-support/sql-server-end-of-life-overview?view=sql-server-ver15)\n* [Service pack-policy](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Utgåvor \n* Business Intelligence\n* Developer\n* Enterprise\n* Enterprise Core\n* Express\n* för inbäddade system\n* Standard\n* Webb"

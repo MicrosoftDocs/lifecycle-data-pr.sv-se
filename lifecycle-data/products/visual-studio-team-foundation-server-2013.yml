@@ -5,16 +5,16 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: b24e1b9ebaf9855024973bfa2ff6b7d90e3af408
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sv-SE
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "864224"
 name: Visual Studio Team Foundation Server 2013
 summary: >+
-  Visual Studio Team Foundation Server 2013 följer [policyn](/lifecycle/policies/fixed) för fast livscykel.
+  Visual Studio Team Foundation Server 2013 följer policyn för [fast](/lifecycle/policies/fixed) livscykel.
 
 
-  Detta gäller följande utgåvor: Alla, Release Management
+  Detta gäller för följande utgåvor: Alla, hanteringsresurser
 
 products:
 - vs
@@ -30,4 +30,4 @@ releases:
 - version: Original Release
   startDate: 01/15/2014
   endDate: 10/11/2016
-content: "\n## <a name=\"links\"></a>Länkar \n* [Produktinformation](/azure/devops/server/tfs-is-now-azure-devops-server?view=azure-devops)\n* [Serviceinformation](https://www.visualstudio.com/productinfo/vs-servicing-vs)\n* [Service Pack-princip](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> För Release Management Server för TFS 2013 stöds uppdatering 4 enligt principriktlinjerna fram till 2024-04-04.For Release Management Server for TFS 2013, Update 4 will be supported per the policy guidelines until 2024/00.9.For Release Management Server for TFS 2013, Update 4 will be supported per policy guidelines until 4/9/2024.\n\n## <a name=\"editions\"></a>Upplagor \n* Alla\n* Hantering av utgivning"
+content: "\n## <a name=\"links\"></a>Länkar \n* [Produktinformation](/azure/devops/server/tfs-is-now-azure-devops-server?view=azure-devops)\n* [Serviceinformation](https://www.visualstudio.com/productinfo/vs-servicing-vs)\n* [Policy för service pack](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> För Release Management Server för TFS 2013 stöds uppdatering 4 enligt policyriktlinjerna fram till 09/04/2024.\n\n## <a name=\"editions\"></a>Utgåvor \n* Alla\n* Versionshantering"

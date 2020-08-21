@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Windows inbäddade POSReady 7
+  title: Windows Embedded POSReady 7
   description: Windows Embedded POSReady 7 följer policyn för fast livscykel.
   ms.date: 07/28/2020
   ms.openlocfilehash: 61f2ed95175d81f6e33f8435e70b3b45a01094f5
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sv-SE
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "864215"
-name: Windows inbäddade POSReady 7
+name: Windows Embedded POSReady 7
 summary: >+
-  Windows Embedded POSReady 7 följer [policyn](/lifecycle/policies/fixed) för fast livscykel.
+  Windows Embedded POSReady 7 följer policyn för [fast](/lifecycle/policies/fixed) livscykel.
 
 
 products:
@@ -34,4 +34,4 @@ releases:
 - version: Original Release
   startDate: 09/10/2011
   endDate: 10/12/2021
-content: "\n## <a name=\"links\"></a>Länkar \n* [* Extended Security Update Program (ESU) - Utökade säkerhetsuppdateringar för utvalda inbäddade produkter är tillgängliga via OEM-tillverkare.](/lifecycle/faq/extended-security-updates)\n* [Inbäddat läge i Windows IoT](/windows/iot-core/develop-your-app/embeddedmode)"
+content: "\n## <a name=\"links\"></a>Länkar \n* [* Program för utökade säkerhetsuppdateringar – utökade säkerhetsuppdateringar för utvalda inbäddade produkter är tillgängliga via OEM-tillverkare.](/lifecycle/faq/extended-security-updates)\n* [Windows IoT inbäddat läge](/windows/iot-core/develop-your-app/embeddedmode)"

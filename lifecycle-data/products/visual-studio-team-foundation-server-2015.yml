@@ -5,16 +5,16 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: 7ff7e78930b60209ffb1bee2ba4da54aa6504027
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sv-SE
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "864314"
 name: Visual Studio Team Foundation Server 2015
 summary: >+
-  Visual Studio Team Foundation Server 2015 följer [policyn](/lifecycle/policies/fixed) för fast livscykel.
+  Visual Studio Team Foundation Server 2015 följer policyn för [fast](/lifecycle/policies/fixed) livscykel.
 
 
-  Detta gäller följande utgåvor: Alla
+  Detta gäller för följande utgåvor: Alla
 
 products:
 - vs
@@ -33,4 +33,4 @@ releases:
 - version: Original Release
   startDate: 07/20/2015
   endDate: 04/10/2018
-content: "\n## <a name=\"links\"></a>Länkar \n* [Serviceinformation](https://www.visualstudio.com/productinfo/vs-servicing-vs)\n* [Produktinformation - Azure Dev Ops](/azure/devops/server/whats-new?view=azure-devops)\n\n\n## <a name=\"editions\"></a>Upplagor \n* Alla"
+content: "\n## <a name=\"links\"></a>Länkar \n* [Serviceinformation](https://www.visualstudio.com/productinfo/vs-servicing-vs)\n* [Produktinformation – Azure Dev Ops](/azure/devops/server/whats-new?view=azure-devops)\n\n\n## <a name=\"editions\"></a>Utgåvor \n* Alla"
