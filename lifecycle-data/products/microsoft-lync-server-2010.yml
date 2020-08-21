@@ -5,16 +5,16 @@ metadata:
   ms.date: 07/30/2020
   ms.openlocfilehash: 093060d50a15334bdeac1891bf7828d50ad0f9dc
   ms.sourcegitcommit: e219a019691b1cde9e6f715e4e725b5861450d57
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sv-SE
   ms.lasthandoff: 07/31/2020
   ms.locfileid: "879470"
 name: Microsoft Lync Server 2010
 summary: >+
-  Microsoft Lync Server 2010 följer [policyn](/lifecycle/policies/fixed) för fast livscykel.
+  Microsoft Lync Server 2010 följer policyn för [fast](/lifecycle/policies/fixed) livscykel.
 
 
-  Detta gäller följande utgåvor: Enterprise, Group Chat Software Development Kit, SDK, Standard
+  Detta gäller för följande utgåvor: Enterprise, Group Chat Software Development Kit, SDK, Standard
 
 products:
 - office
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 01/25/2011
   endDate: 04/13/2021
-content: "\n## <a name=\"links\"></a>Länkar \n* [Lync Phone Edition](/lifecycle/products/microsoft-lync-phone-edition?branch=live)\n\n> [!NOTE]\n> Lync Phone Edition stöds med Lync Server 2010 och Lync Server 2013. Supportdatumet för Lync Phone Edition har förlängts med två år för att anpassa sig till livscykeln för Lync Server 2013.\n\n## <a name=\"editions\"></a>Upplagor \n* Företag\n* Gruppchatt mjukvaruutveckling Kit\n* Sdk\n* Standard"
+content: "\n## <a name=\"links\"></a>Länkar \n* [Lync Phone Edition](/lifecycle/products/microsoft-lync-phone-edition?branch=live)\n\n> [!NOTE]\n> Lync Phone Edition stöds med Lync Server 2010 och Lync Server 2013. Supportdatumet för Lync Phone Edition har förlängts med två år för att anpassa sig till livscykeln för Lync Server 2013.\n\n## <a name=\"editions\"></a>Utgåvor \n* Enterprise\n* Group Chat Software Development Kit\n* SDK\n* Standard"

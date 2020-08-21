@@ -5,17 +5,12 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: 26492abfdd2f901d069e6209da505c6296004961
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sv-SE
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "864295"
 name: Windows Server 2016
-summary: >+
-  Windows Server 2016 följer [principen](/lifecycle/policies/fixed) om fast livscykel.
-
-
-  Detta gäller följande utgåvor: Datacenter, Essentials, MultiPoint Premium, Standard
-
+summary: "Windows Server 2016 följer principen om [fast](/lifecycle/policies/fixed) livscykel. \n\nDetta gäller för följande utgåvor: Datacenter, Essentials, MultiPoint Premium, Standard\n\n"
 products:
 - windows
 policyType: fixed
@@ -27,4 +22,4 @@ releases:
 - version: Original Release
   startDate: 10/15/2016
   endDate: 01/12/2027
-content: "\n## <a name=\"links\"></a>Länkar \n* [Produktinformation](/windows-server/get-started/server-basics)\n* [Vanliga frågor och svar om livscykel – Windows-produkter](/lifecycle/faq/windows)\n\n\n## <a name=\"editions\"></a>Upplagor \n* Datacenter\n* Nödvändigt\n* MultiPoint-premium\n* Standard"
+content: "\n## <a name=\"links\"></a>Länkar \n* [Produktinformation](/windows-server/get-started/server-basics)\n* [Vanliga frågor och svar om livscykel – Windows-produkter](/lifecycle/faq/windows)\n\n\n## <a name=\"editions\"></a>Utgåvor \n* Datacenter\n* Essentials\n* MultiPoint Premium\n* Standard"

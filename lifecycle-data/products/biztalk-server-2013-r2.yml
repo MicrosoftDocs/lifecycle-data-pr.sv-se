@@ -5,16 +5,16 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: e740998f2aed90f068094df5fdf1f7a28e3ccd4f
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sv-SE
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "864127"
 name: BizTalk Server 2013 R2
 summary: >+
-  BizTalk Server 2013 R2 följer [policyn](/lifecycle/policies/fixed) för fast livscykel.
+  BizTalk Server 2013 R2 följer policyn för [fast](/lifecycle/policies/fixed) livscykel.
 
 
-  Detta gäller följande utgåvor: Branch, Utvecklare, Enterprise, Standard
+  Detta gäller för följande utgåvor: Förgrening, Developer, Enterprise, Standard
 
 products:
 - microsoft-servers
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 07/31/2014
   endDate: 07/11/2023
-content: "\n## <a name=\"links\"></a>Länkar \n* [Vägledning för migrering](https://social.technet.microsoft.com/wiki/contents/articles/18709.biztalk-server-product-lifecycle.aspx)\n* [Service Pack-principen](/lifecycle/policies/fixed#service-packs)\n* [Produktinformation](/biztalk/install-and-config-guides/biztalk-server-2013-and-2013-r2-what-s-new-install-and-upgrade)\n\n\n## <a name=\"editions\"></a>Upplagor \n* Gren\n* Författare\n* Företag\n* Standard"
+content: "\n## <a name=\"links\"></a>Länkar \n* [Vägledning för migrering](https://social.technet.microsoft.com/wiki/contents/articles/18709.biztalk-server-product-lifecycle.aspx)\n* [Service pack-policy](/lifecycle/policies/fixed#service-packs)\n* [Produktinformation](/biztalk/install-and-config-guides/biztalk-server-2013-and-2013-r2-what-s-new-install-and-upgrade)\n\n\n## <a name=\"editions\"></a>Utgåvor \n* Förgrening\n* Developer\n* Enterprise\n* Standard"

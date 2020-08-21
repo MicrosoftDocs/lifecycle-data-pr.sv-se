@@ -1,15 +1,15 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Fristående service fabric-paket för Windows Server
-  description: Fristående service fabric-paket för Windows Server följer den moderna livscykelpolicyn.
+  title: Fristående Service Fabric-paket för Windows Server
+  description: Fristående Service Fabric-paket för Windows Server följer den moderna livscykelpolicyn.
   ms.date: 07/28/2020
   ms.openlocfilehash: d1876355f78b6c35bded38d9b1cbd039d4f0cd91
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sv-SE
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "864155"
-name: Fristående service fabric-paket för Windows Server
+name: Fristående Service Fabric-paket för Windows Server
 summary: >+
   Fristående service fabric-paket för Windows Server följer den [moderna](/lifecycle/policies/modern) livscykelpolicyn.
 

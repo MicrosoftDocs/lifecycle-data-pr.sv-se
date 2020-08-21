@@ -5,17 +5,12 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: ad6f4ccb69d960e07a7be59e49a629f280e0025f
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sv-SE
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "872572"
 name: Windows 10 IoT 2019 LTSC
-summary: >+
-  Windows 10 IoT 2019 LTSC följer [policyn](/lifecycle/policies/fixed) för fast livscykel.
-
-
-  Detta gäller följande utgåvor: Core, Enterprise
-
+summary: "Windows 10 IoT 2019 LTSC följer policyn för [fast](/lifecycle/policies/fixed) livscykel. \n\nDetta gäller för följande utgåvor: Core, Enterprise\n\n"
 products:
 - windows
 policyType: fixed
@@ -27,4 +22,4 @@ releases:
 - version: Original Release
   startDate: 11/13/2018
   endDate: 01/09/2029
-content: "\n## <a name=\"links\"></a>Länkar \n* [Windows 10 IoT Core-tjänster](/windows-hardware/manufacture/iot/iotcoreservicesoverview)\n* [han Windows 10 Oktober Update (version 1809) släpptes på åter igen den 13 november 2018. Supportdatum har justerats i enlighet med detta.](https://blogs.windows.com/windowsexperience/2018/11/13/resuming-the-rollout-of-the-windows-10-october-2018-update/)\n* [Windows som en tjänst (WaaS)](/windows/deployment/update/waas-quick-start)\n* [Vanliga frågor och svar om Windows 10 LTSC](/lifecycle/faq/windows#what-are-the-requirements-for-servicing-and-updating-the-windows-10-long-term-servicing-channel)\n\n> [!NOTE]\n> LTSC = Windows 10 Långsiktig servicekanal\n\n## <a name=\"editions\"></a>Upplagor \n* Core\n* Företag"
+content: "\n## <a name=\"links\"></a>Länkar \n* [Tjänster i Windows 10 IoT Core](/windows-hardware/manufacture/iot/iotcoreservicesoverview)\n* [Windows 10-uppdateringen från oktober (version 1809) släpptes på nytt den 13 november 2018. Supportdatum har justerats därefter.](https://blogs.windows.com/windowsexperience/2018/11/13/resuming-the-rollout-of-the-windows-10-october-2018-update/)\n* [Windows som en tjänst (WaaS)](/windows/deployment/update/waas-quick-start)\n* [Vanliga frågor och svar om Windows 10 LTSC](/lifecycle/faq/windows#what-are-the-requirements-for-servicing-and-updating-the-windows-10-long-term-servicing-channel)\n\n> [!NOTE]\n> LTSC = Windows 10 Long-Term Servicing Channel\n\n## <a name=\"editions\"></a>Utgåvor \n* Core\n* Enterprise"

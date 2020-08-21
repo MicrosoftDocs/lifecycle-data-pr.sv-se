@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Installationsalternativ för Windows Server 2016 Nano Server
-  description: Installationsalternativet för Windows Server 2016 Nano Server följer den moderna livscykelprincipen.
+  description: Installationsalternativet för Windows Server 2016 Nano Server följer policyn för modern livscykel.
   ms.date: 07/28/2020
   ms.openlocfilehash: 6c8189a0fe39fe3ad0b79147e0b2ddbd67e3f799
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sv-SE
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "864301"
 name: Installationsalternativ för Windows Server 2016 Nano Server
 summary: >+
-  Installationsalternativet för Windows Server 2016 Nano Server följer den [moderna](/lifecycle/policies/modern) livscykelprincipen.
+  Installationsalternativet för Windows Server 2016 Nano Server följer policyn för [modern](/lifecycle/policies/modern) livscykel.
 
 
-  Detta gäller följande utgåvor: Datacenter, Standard
+  Detta gäller för följande utgåvor: Datacenter, Standard
 
 products:
 - windows
@@ -26,4 +26,4 @@ releases:
 - version: Original Release
   startDate: 10/15/2016
   endDate: 10/09/2018
-content: "\n## <a name=\"links\"></a>Länkar \n* [Serviceinformation](/windows-server/get-started/nano-in-semi-annual-channel)\n* [Vanliga frågor och svar om livscykel – Windows-produkter](/lifecycle/faq/windows)\n\n\n## <a name=\"editions\"></a>Upplagor \n* Datacenter\n* Standard"
+content: "\n## <a name=\"links\"></a>Länkar \n* [Serviceinformation](/windows-server/get-started/nano-in-semi-annual-channel)\n* [Vanliga frågor och svar om livscykel – Windows-produkter](/lifecycle/faq/windows)\n\n\n## <a name=\"editions\"></a>Utgåvor \n* Datacenter\n* Standard"

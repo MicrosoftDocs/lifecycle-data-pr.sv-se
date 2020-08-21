@@ -1,19 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Windows 10 IoT Core-tjänster
+  title: Tjänster i Windows 10 IoT Core
   description: Windows 10 IoT Core-tjänsterna följer den moderna livscykelpolicyn.
   ms.date: 07/28/2020
   ms.openlocfilehash: e2e64958c91092f2890a4d871de3fd7b96614d65
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sv-SE
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "872569"
-name: Windows 10 IoT Core-tjänster
-summary: >+
-  Windows 10 IoT Core-tjänsterna följer den [moderna](/lifecycle/policies/modern) livscykelpolicyn.
-
-
+name: Tjänster i Windows 10 IoT Core
+summary: "Windows 10 IoT Core-tjänsterna följer den [moderna](/lifecycle/policies/modern) livscykelpolicyn. \n\n\n"
 products:
 - windows
 policyType: modern-online
@@ -22,4 +19,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 11/13/2018
-content: "\n## <a name=\"links\"></a>Länkar \n* [Windows 10 IoT Core-tjänster](/windows-hardware/manufacture/iot/iotcoreservicesoverview)\n\n> [!NOTE]\n> Windows 10 IoT Core Services är en prenumeration som erbjuder programvarusupport som en tjänst, inklusive uppdateringskontroll med Device Update Center och förbättrad säkerhet med Device Health Attestation, så länge du kör en version av Windows 10 IoT Core Software som stöds."
+content: "\n## <a name=\"links\"></a>Länkar \n* [Tjänster i Windows 10 IoT Core](/windows-hardware/manufacture/iot/iotcoreservicesoverview)\n\n> [!NOTE]\n> Windows 10 IoT Core Services är en prenumeration som erbjuder programvarusupport som en tjänst, inklusive uppdateringskontroll med Device Update Center och förbättrad säkerhet med Device Health Attestation, så länge du kör en version av Windows 10 IoT Core Software som stöds."

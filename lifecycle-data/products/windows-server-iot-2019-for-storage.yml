@@ -5,16 +5,16 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: 9e346c8980467df3bdbd3c9f9e9667b2fa81f9cf
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sv-SE
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "872561"
 name: Windows Server IoT 2019 för lagring
 summary: >+
-  Windows Server IoT 2019 för lagring följer principen om [fast](/lifecycle/policies/fixed) livscykel.
+  Windows Server IoT 2019 för lagring följer principen för [fast](/lifecycle/policies/fixed) livscykel.
 
 
-  Detta gäller följande utgåvor: Standard, Arbetsgrupp
+  Detta gäller för följande utgåvor: Standard, Workgroup
 
 products:
 - windows
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 03/04/2019
   endDate: 01/09/2029
-content: "\n\n\n## <a name=\"editions\"></a>Upplagor \n* Standard\n* Arbetsgrupp"
+content: "\n\n\n## <a name=\"editions\"></a>Utgåvor \n* Standard\n* Workgroup"

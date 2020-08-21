@@ -5,16 +5,16 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: e0e209968b254d731dcf393a09d7353899d837ef
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sv-SE
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "864267"
 name: SQL Server 2014
 summary: >+
-  SQL Server 2014 följer [principen](/lifecycle/policies/fixed) om fast livscykel.
+  SQL Server 2014 följer principen om [fast](/lifecycle/policies/fixed) livscykel.
 
 
-  Detta gäller följande utgåvor: Business Intelligence, Utvecklare, Enterprise, Enterprise Core, Express, Standard, Webb
+  Detta gäller för följande utgåvor: Business Intelligence, Developer, Enterprise, Enterprise Core, Express, Standard, Web
 
 products:
 - sql-server
@@ -36,4 +36,4 @@ releases:
 - version: Original Release
   startDate: 06/05/2014
   endDate: 07/12/2016
-content: "\n## <a name=\"links\"></a>Länkar \n* [Service Pack-principen](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Upplagor \n* Business Intelligence\n* Författare\n* Företag\n* Kärnan i företaget\n* Express\n* Standard\n* Web"
+content: "\n## <a name=\"links\"></a>Länkar \n* [Service pack-policy](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Utgåvor \n* Business Intelligence\n* Developer\n* Enterprise\n* Enterprise Core\n* Express\n* Standard\n* Webb"

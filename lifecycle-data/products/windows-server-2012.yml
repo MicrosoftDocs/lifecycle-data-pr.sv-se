@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Windows Server 2012
-  description: Windows Server 2012 följer principen om fast livscykel.
+  description: Windows Server 2012 följer principen för fast livscykel.
   ms.date: 07/28/2020
   ms.openlocfilehash: 3afe3de568f6e9b7eef58b6af132ff3ad4526724
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sv-SE
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "864302"
 name: Windows Server 2012
 summary: >+
-  Windows Server 2012 följer [principen](/lifecycle/policies/fixed) om fast livscykel.
+  Windows Server 2012 följer principen för [fast](/lifecycle/policies/fixed) livscykel.
 
 
-  Detta gäller följande utgåvor: Datacenter, Essentials, för inbyggda system, Foundation, Standard
+  Detta gäller för följande utgåvor: Datacenter, Essentials, för inbäddade system, Foundation, Standard
 
 products:
 - windows
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 10/30/2012
   endDate: 10/10/2023
-content: "\n## <a name=\"links\"></a>Länkar \n* [Vägledning för migrering](/windows-server/upgrade/upgrade-overview)\n* [Produktinformation](/windows/release-information/status-windows-server-2012)\n\n> [!NOTE]\n> Mainstream och Extended-supporten för den här produkten har utökats för att ge kunderna standardtidslinjen för livscykelövergång. Windows Server Essentials släpptes den 2 januari 2013.\n\n## <a name=\"editions\"></a>Upplagor \n* Datacenter\n* Nödvändigt\n* för inbyggda system\n* Foundation\n* Standard"
+content: "\n## <a name=\"links\"></a>Länkar \n* [Vägledning för migrering](/windows-server/upgrade/upgrade-overview)\n* [Produktinformation](/windows/release-information/status-windows-server-2012)\n\n> [!NOTE]\n> Mainstream- och utökad support för den här produkten har utökats för att erbjuda kunder standardtidslinjen för livscykelövergång. Windows Server Essentials släpptes 2 januari 2013.\n\n## <a name=\"editions\"></a>Utgåvor \n* Datacenter\n* Essentials\n* för inbäddade system\n* Foundation\n* Standard"

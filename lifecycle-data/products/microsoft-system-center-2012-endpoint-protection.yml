@@ -5,13 +5,13 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: 831df2c41a088376f7cb34fb117163dc45ade4ed
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sv-SE
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "864057"
 name: Slutpunktsskydd för Microsoft System Center 2012
 summary: >+
-  Slutpunktsskydd för Microsoft System Center 2012 följer [policyn](/lifecycle/policies/fixed) för fast livscykel.
+  Slutpunktsskydd för Microsoft System Center 2012 följer policyn för [fast](/lifecycle/policies/fixed) livscykel.
 
 
   Detta gäller följande utgåvor: för Mac
@@ -33,4 +33,4 @@ releases:
 - version: Original Release
   startDate: 05/30/2012
   endDate: 01/14/2014
-content: "\n## <a name=\"links\"></a>Länkar \n* [Serviceinformation](https://techcommunity.microsoft.com/t5/Configuration-Manager-Archive/Anti-malware-Platform-Support/ba-p/274186)\n* [Vägledning för migrering](https://techcommunity.microsoft.com/t5/Configuration-Manager-Blog/End-of-Support-for-SCEP-for-Mac-and-SCEP-for-Linux-on-December/ba-p/286257)\n* [Service Pack-principen](/lifecycle/policies/fixed#service-packs)\n* [Dokumentation för Systemcenter](/system-center/#pivot=components&panel=components-all)\n\n> [!NOTE]\n> Kunderna måste hålla sig aktuella med den senaste uppdateringen av plattformen mot skadlig kod för att få fullt stöd.\n\n## <a name=\"editions\"></a>Upplagor \n* för Mac"
+content: "\n## <a name=\"links\"></a>Länkar \n* [Serviceinformation](https://techcommunity.microsoft.com/t5/Configuration-Manager-Archive/Anti-malware-Platform-Support/ba-p/274186)\n* [Vägledning för migrering](https://techcommunity.microsoft.com/t5/Configuration-Manager-Blog/End-of-Support-for-SCEP-for-Mac-and-SCEP-for-Linux-on-December/ba-p/286257)\n* [Service pack-policy](/lifecycle/policies/fixed#service-packs)\n* [Dokumentation för System Center](/system-center/#pivot=components&panel=components-all)\n\n> [!NOTE]\n> Kunderna måste hålla sig aktuella med den senaste uppdateringen av plattformen mot skadlig kod för att få fullt stöd.\n\n## <a name=\"editions\"></a>Utgåvor \n* för Mac"
