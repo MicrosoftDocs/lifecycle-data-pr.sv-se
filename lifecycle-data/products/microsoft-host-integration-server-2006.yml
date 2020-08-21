@@ -1,16 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Värd integrationsserver 2006
+  title: Microsoft Host Integration Server 2006
   description: Microsoft Host Integration Server 2006 följer policyn för fast livscykel.
   ms.date: 07/28/2020
   ms.openlocfilehash: bb7b9894a034924a5ddeb112c903ae6891321264
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sv-SE
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "841735"
-name: Microsoft Värd integrationsserver 2006
-summary: "Microsoft Host Integration Server 2006 följer [policyn](/lifecycle/policies/fixed) för fast livscykel.\n\nDetta gäller följande utgåvor: Utvecklare, Standard\n\n> [!IMPORTANT]\n> Supporten för den här produkten har upphört. Se migreringsvägledning nedan. \n"
+name: Microsoft Host Integration Server 2006
+summary: "Microsoft Host Integration Server 2006 följer policyn för [fast](/lifecycle/policies/fixed) livscykel.\n\nDetta gäller för följande utgåvor: Developer, Standard\n\n> [!IMPORTANT]\n> Support för den här produkten har upphört. Se migreringsvägledningen nedan. \n"
 products:
 - microsoft-servers
 policyType: fixed
@@ -25,4 +25,4 @@ releases:
 - version: Original Release
   startDate: 01/27/2007
   endDate: 04/12/2011
-content: "\n## <a name=\"links\"></a>Länkar \n* [Vägledning för migrering](https://blogs.msdn.microsoft.com/hostintegrationserver/2016/09/06/end-of-support-for-host-integration-server-2006)\n* [Service Pack-principen](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Upplagor \n* Författare\n* Standard"
+content: "\n## <a name=\"links\"></a>Länkar \n* [Vägledning för migrering](https://blogs.msdn.microsoft.com/hostintegrationserver/2016/09/06/end-of-support-for-host-integration-server-2006)\n* [Service pack-policy](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Utgåvor \n* Developer\n* Standard"

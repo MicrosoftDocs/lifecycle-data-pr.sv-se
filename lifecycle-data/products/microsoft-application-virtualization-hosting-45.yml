@@ -1,25 +1,25 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft-programvirtualiseringsvärd 4.5 för Windows-skrivbord
-  description: Microsoft Application Virtualization Hosting 4.5 för Windows-datorer följer policyn för fast livscykel.
+  title: Microsoft Application Virtualization hosting 4.5 för Windows-skrivbord
+  description: Microsoft Application Virtualization Hosting 4.5 för Windows-skrivbordsenhet följer policyn för fast livscykel.
   ms.date: 07/28/2020
   ms.openlocfilehash: 3cb5049ed11ed567b8b7c1f3bd51de8b00b27ee8
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sv-SE
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "842125"
-name: Microsoft-programvirtualiseringsvärd 4.5 för Windows-skrivbord
+name: Microsoft Application Virtualization hosting 4.5 för Windows-skrivbord
 summary: >
-  Microsoft Application Virtualization Hosting 4.5 för Windows-datorer följer [policyn](/lifecycle/policies/fixed) för fast livscykel.
+  Microsoft Application Virtualization Hosting 4.5 för Windows-skrivbordsenhet följer policyn för [fast](/lifecycle/policies/fixed) livscykel.
 
 
-  Detta gäller följande versioner: för Windows-skrivbord
+  Detta gäller för följande utgåvor: för Windows-skrivbordsenhet
 
 
   > [!IMPORTANT]
 
-  > Supporten för den här produkten har upphört. Se migreringsinformation nedan.
+  > Support för den här produkten har upphört. Se migreringsinformation nedan.
 products:
 - windows
 policyType: fixed
@@ -37,4 +37,4 @@ releases:
 - version: Original Release
   startDate: 11/23/2008
   endDate: 01/11/2011
-content: "\n## <a name=\"links\"></a>Länkar \n* [Information om produkt och migrering](/microsoft-desktop-optimization-pack/appv-v4/overview-of-application-virtualization)\n* [Service Pack-principen](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Upplagor \n* för Windows-skrivbord"
+content: "\n## <a name=\"links\"></a>Länkar \n* [Information om produkt och migrering](/microsoft-desktop-optimization-pack/appv-v4/overview-of-application-virtualization)\n* [Service pack-policy](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Utgåvor \n* for Windows-skrivbordsenhet"

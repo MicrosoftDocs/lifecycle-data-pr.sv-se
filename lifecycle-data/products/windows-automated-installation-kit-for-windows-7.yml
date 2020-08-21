@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Windows Automated Installation Kit för Windows 7
+  title: Windows Automated Installation Kit for Windows 7
   description: Windows Automated Installation Kit för Windows 7 följer policyn för fast livscykel.
   ms.date: 07/28/2020
   ms.openlocfilehash: aef3eea94538c8956abb01f8b3e681e9932d18a5
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sv-SE
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "841412"
-name: Windows Automated Installation Kit för Windows 7
+name: Windows Automated Installation Kit for Windows 7
 summary: >
-  Windows Automated Installation Kit för Windows 7 följer [policyn](/lifecycle/policies/fixed) för fast livscykel.
+  Windows Automated Installation Kit för Windows 7 följer policyn för [fast](/lifecycle/policies/fixed) livscykel.
 
 
 
   > [!IMPORTANT]
 
-  > Supporten för den här produkten har upphört.
+  > Support för den här produkten har upphört.
 products:
 - windows
 policyType: fixed-mainstream-only

@@ -5,16 +5,16 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: 5a73d67d99002146bfa145d66037a0bb9080f684
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sv-SE
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "841716"
 name: Microsoft Office 2007
 summary: >+
-  Microsoft Office 2007 följer [policyn](/lifecycle/policies/fixed) för fast livscykel.
+  Microsoft Office 2007 följer policyn för [fast](/lifecycle/policies/fixed) livscykel.
 
 
-  Detta gäller följande utgåvor: Basic, Enterprise, Home and Student, Professional, Professional Plus, Small Business, Standard, Ultimate
+  Detta gäller för följande utgåvor: Basic, Enterprise, Hemma och Student, Professional, Professional Plus, Small Business, Standard, Ultimate
 
 products:
 - office
@@ -36,4 +36,4 @@ releases:
 - version: Original Release
   startDate: 01/27/2007
   endDate: 01/13/2009
-content: "\n## <a name=\"links\"></a>Länkar \n* [Vägledning för migrering](https://support.microsoft.com/kb/3198497)\n\n\n## <a name=\"editions\"></a>Upplagor \n* Grundläggande\n* Företag\n* Hem och student\n* Professionell\n* Professionella Plus\n* Small Business\n* Standard\n* Ultimata"
+content: "\n## <a name=\"links\"></a>Länkar \n* [Vägledning för migrering](https://support.microsoft.com/kb/3198497)\n\n\n## <a name=\"editions\"></a>Utgåvor \n* Basic\n* Enterprise\n* Hemma och student\n* Professionell\n* Professional Plus\n* Small Business\n* Standard\n* Ultimate"

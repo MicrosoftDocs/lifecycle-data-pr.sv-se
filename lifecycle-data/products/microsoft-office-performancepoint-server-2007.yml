@@ -5,16 +5,16 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: da215a3c725cf1387921080e1df0a6df52747517
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sv-SE
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "842384"
 name: Microsoft Office PerformancePoint Server 2007
 summary: >+
-  Microsoft Office PerformancePoint Server 2007 följer [policyn](/lifecycle/policies/fixed) för fast livscykel.
+  Microsoft Office PerformancePoint Server 2007 följer policyn för [fast](/lifecycle/policies/fixed) livscykel.
 
 
-  Detta gäller följande utgåvor: 32 Bitar, 64 bitar
+  Detta gäller för följande utgåvor: 32-bitars, 64-bitars
 
 products:
 - office
@@ -36,4 +36,4 @@ releases:
 - version: Original Release
   startDate: 12/20/2007
   endDate: 07/14/2009
-content: "\n## <a name=\"links\"></a>Länkar \n* [Vägledning för migrering](https://support.office.com/article/PerformancePoint-Server-2007-End-of-Life-Roadmap-89d9feee-2285-419c-8c14-0f7f583536e0)\n* [Service Pack-principen](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Upplagor \n* 32 bitar\n* 64 bitar"
+content: "\n## <a name=\"links\"></a>Länkar \n* [Vägledning för migrering](https://support.office.com/article/PerformancePoint-Server-2007-End-of-Life-Roadmap-89d9feee-2285-419c-8c14-0f7f583536e0)\n* [Service pack-policy](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Utgåvor \n* 32-bitars\n* 64-bitars"

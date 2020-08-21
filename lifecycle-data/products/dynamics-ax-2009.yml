@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Dynamics AX 2009
-  description: Dynamics AX 2009 följer den fasta livscykelprincipen.
+  description: Dynamics AX 2009 följer policyn för fast livscykel.
   ms.date: 07/28/2020
   ms.openlocfilehash: 20756fcbadc2386830d4eecb9129443bef1a2bc2
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sv-SE
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "841502"
 name: Dynamics AX 2009
 summary: >+
-  Dynamics AX 2009 följer den [fasta](/lifecycle/policies/fixed) livscykelprincipen.
+  Dynamics AX 2009 följer policyn för [fast](/lifecycle/policies/fixed) livscykel.
 
 
 products:
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 08/14/2008
   endDate: 01/11/2011
-content: "\n## <a name=\"links\"></a>Länkar \n* [Vägledning för migrering](/dynamics365/fin-ops-core/dev-itpro/migration-upgrade/data-migration-tool)\n* [Dynamics 365 migreringsprogram](https://dynamics.microsoft.com/migration-program/)\n* [Ytterligare livscykelinformation](/dynamics365/fin-ops-core/fin-ops/get-started/mainstream-support-ax-2009-2012)\n* [Service Pack-principen](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Mainstream stöd har utökats som visas."
+content: "\n## <a name=\"links\"></a>Länkar \n* [Vägledning för migrering](/dynamics365/fin-ops-core/dev-itpro/migration-upgrade/data-migration-tool)\n* [Dynamics 365 migreringsprogram](https://dynamics.microsoft.com/migration-program/)\n* [Ytterligare livscykelinformation](/dynamics365/fin-ops-core/fin-ops/get-started/mainstream-support-ax-2009-2012)\n* [Service pack-policy](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Mainstream-support har förlängts som visas."

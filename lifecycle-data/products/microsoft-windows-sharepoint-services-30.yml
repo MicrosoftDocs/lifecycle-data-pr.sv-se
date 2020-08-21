@@ -5,12 +5,12 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: cdc4d8caef3f00f070c4d3ce32c2eea2f6ecbf24
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sv-SE
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "841436"
 name: Microsoft Windows SharePoint Services 3.0
-summary: "Microsoft Windows SharePoint Services 3.0 följer [policyn](/lifecycle/policies/fixed) för fast livscykel.\n\n\n> [!IMPORTANT]\n> Stödet har upphört. \n"
+summary: "Microsoft Windows SharePoint Services 3.0 följer policyn för [fast](/lifecycle/policies/fixed) livscykel.\n\n\n> [!IMPORTANT]\n> Support har upphört. \n"
 products:
 - office
 policyType: fixed
@@ -31,4 +31,4 @@ releases:
 - version: Original Release
   startDate: 11/13/2006
   endDate: 01/13/2009
-content: "\n## <a name=\"links\"></a>Länkar \n* [Service Pack-principen](/lifecycle/policies/fixed#service-packs)\n* [Vägledning för migrering](/office365/enterprise/sharepoint-2007-end-of-support)"
+content: "\n## <a name=\"links\"></a>Länkar \n* [Service pack-policy](/lifecycle/policies/fixed#service-packs)\n* [Vägledning för migrering](/office365/enterprise/sharepoint-2007-end-of-support)"

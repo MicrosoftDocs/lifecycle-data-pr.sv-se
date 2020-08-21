@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Språkverktyg för Språkverktyg för Microsoft Office 2003
+  title: Microsoft Office 2003 språkverktyg
   description: Språkverktyg för Microsoft Office 2003 följer policyn för fast livscykel.
   ms.date: 07/28/2020
   ms.openlocfilehash: f21b3139ecce220ee29ff6979ea99f6169fe0149
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sv-SE
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "842415"
-name: Språkverktyg för Språkverktyg för Microsoft Office 2003
+name: Microsoft Office 2003 språkverktyg
 summary: >+
-  Språkverktyg [för](/lifecycle/policies/fixed) Microsoft Office 2003 följer policyn för fast livscykel.
+  Språkverktyg för Microsoft Office 2003 följer policyn för [fast](/lifecycle/policies/fixed) livscykel.
 
 
 products:

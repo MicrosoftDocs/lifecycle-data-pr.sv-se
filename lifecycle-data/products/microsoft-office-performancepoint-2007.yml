@@ -5,16 +5,16 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: d9c4030975b8cd865165db64c6857ef9090b1888
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sv-SE
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "842386"
 name: Microsoft Office PerformancePoint 2007
 summary: >+
-  Microsoft Office PerformancePoint 2007 följer [policyn](/lifecycle/policies/fixed) för fast livscykel.
+  Microsoft Office PerformancePoint 2007 följer policyn för [fast](/lifecycle/policies/fixed) livscykel.
 
 
-  Detta gäller följande utgåvor: Management Reporter
+  Detta gäller för följande utgåvor: Management Reporter
 
 products:
 - office
@@ -36,4 +36,4 @@ releases:
 - version: Original Release
   startDate: 05/01/2007
   endDate: 07/14/2009
-content: "\n## <a name=\"links\"></a>Länkar \n* [Vägledning för migrering](https://support.office.com/article/PerformancePoint-Server-2007-End-of-Life-Roadmap-89d9feee-2285-419c-8c14-0f7f583536e0)\n\n\n## <a name=\"editions\"></a>Upplagor \n* Management Reporter"
+content: "\n## <a name=\"links\"></a>Länkar \n* [Vägledning för migrering](https://support.office.com/article/PerformancePoint-Server-2007-End-of-Life-Roadmap-89d9feee-2285-419c-8c14-0f7f583536e0)\n\n\n## <a name=\"editions\"></a>Utgåvor \n* Management Reporter"

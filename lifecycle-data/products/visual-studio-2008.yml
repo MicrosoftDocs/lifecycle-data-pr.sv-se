@@ -5,16 +5,16 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: 2c78c508275eda64e51e80bb21e954944bd86404
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sv-SE
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "841575"
 name: Visual Studio 2008
 summary: >+
-  Visual Studio 2008 följer [policyn](/lifecycle/policies/fixed) för fast livscykel.
+  Visual Studio 2008 följer policyn för [fast](/lifecycle/policies/fixed) livscykel.
 
 
-  Detta gäller följande utgåvor: Alla, Pro w/MSDN Premium, Professional, Professional w/MSDN , Team Suite, Team Test Load Agent, VB Express, Visual Basic Express, Visual C# Express, Visual C++ Express, Visual Web Developer Express
+  Detta gäller för följande utgåvor: Alla, Pro w/MSDN Premium, Professional, Professional w/MSDN, Team Suite, Team Test Load Agent, VB Express, Visual Basic Express, Visual C# Express, Visual C++ Express och Visual Web Developer Express
 
 products:
 - vs
@@ -30,4 +30,4 @@ releases:
 - version: Original Release
   startDate: 02/19/2008
   endDate: 10/13/2009
-content: "\n## <a name=\"links\"></a>Länkar \n* [Vägledning för migrering](https://blogs.msdn.microsoft.com/visualstudio/2017/04/10/end-of-support-for-visual-studio-2008-in-one-year/)\n* [Service Pack-principen](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Innehåller utgåvorna Visual C++ Express, Visual C# Express, VB Express, Visual Web Developer Express och Visual Studio Team System\n\n## <a name=\"editions\"></a>Upplagor \n* Alla\n* Pro w/MSDN Premium\n* Professionell\n* Professionell w/MSDN \n* Team Svit\n* Team Test Load Agent\n* VB Express\n* Visual Basic Express\n* Visuell C# Express\n* Visual C++ Express\n* Visual Web Developer Express"
+content: "\n## <a name=\"links\"></a>Länkar \n* [Vägledning för migrering](https://blogs.msdn.microsoft.com/visualstudio/2017/04/10/end-of-support-for-visual-studio-2008-in-one-year/)\n* [Service pack-policy](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Inkluderar utgåvorna Visual C++ Express, Visual C# Express, VB Express, Visual Web Developer Express och Visual Studio Team System\n\n## <a name=\"editions\"></a>Utgåvor \n* Alla\n* Pro w/MSDN Premium\n* Professionell\n* Professionell med MSDN \n* Team Suite\n* Team Test Load Agent\n* VB Express\n* Visual Basic Express\n* Visual C# Express\n* Visual C++ Express\n* Visual Web Developer Express"

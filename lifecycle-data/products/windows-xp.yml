@@ -5,21 +5,21 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: d4fd2bce3e032cdc468570a458c8f10c60ff9170
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sv-SE
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "841556"
 name: Windows XP
 summary: >
-  Windows XP följer [policyn](/lifecycle/policies/fixed) för fast livscykel.
+  Windows XP följer policyn för [fast](/lifecycle/policies/fixed) livscykel.
 
 
-  Detta gäller följande utgåvor: Hem, Professional, Professional för inbyggda system, Starter
+  Detta gäller för följande utgåvor: Home, Professional, Professional for Embedded Systems, Starter
 
 
   > [!IMPORTANT]
 
-  > Supporten för den här produkten har upphört. Se migreringsvägledning nedan.
+  > Support för den här produkten har upphört. Se migreringsvägledningen nedan.
 products:
 - windows
 policyType: fixed
@@ -43,4 +43,4 @@ releases:
 - version: Original Release
   startDate: 12/31/2001
   endDate: 08/30/2005
-content: "\n## <a name=\"links\"></a>Länkar \n* [Vägledning för migrering](/windows/deployment/upgrade/windows-upgrade-and-migration-considerations)\n* [Service Pack-principen](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Upplagor \n* Startsida\n* Professionell\n* Professionell för inbyggda system\n* Starter"
+content: "\n## <a name=\"links\"></a>Länkar \n* [Vägledning för migrering](/windows/deployment/upgrade/windows-upgrade-and-migration-considerations)\n* [Service pack-policy](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Utgåvor \n* home\n* Professionell\n* Professional for Embedded Systems\n* Starter"

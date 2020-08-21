@@ -5,12 +5,12 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: a1b1b370fe7d15abae83da62603b4522ea79a307
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sv-SE
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "841415"
 name: Windows 7
-summary: "Windows 7 följer [policyn](/lifecycle/policies/fixed) för fast livscykel.\n\nDetta gäller följande utgåvor: Enterprise, Enterprise N, Home Basic, Home Premium, Home Premium N, Professional, Professional for Embedded Systems, Professional N, Starter, Starter N, Ultimate, Ultimate for Embedded Systems, Ultimate N\n\n> [!IMPORTANT]\n> Supporten för den här produkten har upphört. Se migreringsvägledning nedan. \n"
+summary: "Windows 7 följer policyn för [fast](/lifecycle/policies/fixed) livscykel.\n\nDetta gäller för följande utgåvor: Enterprise, Enterprise N, Home Basic, Home Premium, Home Premium N, Professional, Professional för inbäddade system, Professional N, Starter, Starter N, Ultimate, Ultimate för inbäddade system, Ultimate N\n\n> [!IMPORTANT]\n> Support för den här produkten har upphört. Se migreringsvägledningen nedan. \n"
 products:
 - windows
 policyType: fixed
@@ -34,4 +34,4 @@ releases:
 - version: Original Release
   startDate: 10/22/2009
   endDate: 04/09/2013
-content: "> [!TIP]\n> '* Utökade säkerhetsuppdateringar (ESU) är tillgängliga via specifika volymlicensieringsprogram för Windows 7 Professional- och Professional for Embedded Systems-utgåvor av den här produkten, i upp till ytterligare tre år efter supportens. Kontakta din Microsoft-partner eller kontoteam om du vill veta mer. \n\n## <a name=\"links\"></a>Länkar \n* [Vägledning för migrering](https://support.microsoft.com/help/4057281)\n* [Uppgradera från Windows 7 till Windows 10](/microsoft-365/enterprise/desktop-deployment-center-home?view=o365-worldwide)\n* [Utökat program för säkerhetsuppdatering (ESU)](/lifecycle/faq/extended-security-updates)\n* [Service Pack-principen](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Upplagor \n* Företag\n* Företag N\n* Hem Grundläggande\n* Hem Premium\n* Hem Premium N\n* Professionell\n* Professionell för inbyggda system\n* Professionell N\n* Starter\n* Startmotor N\n* Ultimata\n* Ultimat för inbyggda system\n* Ultimata N"
+content: "> [!TIP]\n> '* Utökade säkerhetsuppdateringar (ESU) finns tillgängliga genom specifika volymlicensprogram för Windows 7 med utgåvorna Professional, Enterprise och Professional för inbäddade system i upp till ytterligare tre år efter att support upphör. Kontakta din Microsoft-partner eller ditt kontoteam om du vill veta mer. \n\n## <a name=\"links\"></a>Länkar \n* [Vägledning för migrering](https://support.microsoft.com/help/4057281)\n* [Uppgradera från Windows 7 till Windows 10](/microsoft-365/enterprise/desktop-deployment-center-home?view=o365-worldwide)\n* [Programmet Utökad säkerhetsuppdatering (ESU)](/lifecycle/faq/extended-security-updates)\n* [Service pack-policy](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Utgåvor \n* Enterprise\n* Enterprise N\n* Home Basic\n* Home Premium\n* Home Premium N\n* Professionell\n* Professional for Embedded Systems\n* Professional N\n* Starter\n* Starter N\n* Ultimate\n* Ultimate för inbäddade system\n* Ultimate N"

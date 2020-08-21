@@ -5,13 +5,13 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: c5b5899c1b89f49d5795e0514b17c0385346a671
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sv-SE
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "842419"
 name: Microsoft .NET Framework 3.5
 summary: >+
-  Microsoft .NET Framework 3.5 följer [policyn](/lifecycle/policies/fixed) för fast livscykel.
+  Microsoft .NET Framework 3.5 följer policyn för [fast](/lifecycle/policies/fixed) livscykel.
 
 
 products:
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 11/19/2007
   endDate: 07/12/2011
-content: "\n## <a name=\"links\"></a>Länkar \n* [Vanliga frågor och svar om livscykel – .NET Framework](/lifecycle/faq/dotnet-framework)\n* [Produktinformation](/dotnet/framework/migration-guide/versions-and-dependencies#net-framework-35)\n\n> [!NOTE]\n> Stödet för .NET Framework 3.x-versionerna före 3,5 SP1 avslutades den 12 juli 2011. \n> [!NOTE]\n> Livscykeldatum gäller för .NET 3.5 SP1 när du kör på Windows 10 version 1809, Windows Server 2019 eller senare. I äldre versioner av Windows antar .NET 3.5 SP1 livscykeln för det underliggande Windows OS."
+content: "\n## <a name=\"links\"></a>Länkar \n* [Vanliga frågor och svar om livscykel – .NET Framework](/lifecycle/faq/dotnet-framework)\n* [Produktinformation](/dotnet/framework/migration-guide/versions-and-dependencies#net-framework-35)\n\n> [!NOTE]\n> Support för versioner av .NET Framework 3.x före 3.5 SPI upphörde den 12 juli 2011. \n> [!NOTE]\n> Datum för livscykler gäller för .NET 3.5 SPI när den körs i Windows 10, version 1809 på Windows Server 2019 eller senare. I äldre versioner av Windows använder .NET 3.5 SPI den livscykel som tillhör det underliggande Windows-operativsystemet."

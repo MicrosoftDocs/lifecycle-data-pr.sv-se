@@ -1,25 +1,25 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Windows XP Inbäddad
+  title: Windows XP Embedded
   description: Windows XP Embedded följer principen för fast livscykel.
   ms.date: 07/28/2020
   ms.openlocfilehash: 2259d8ae34d4c63ad67bf4966d15bf71f2faa04c
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sv-SE
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "841557"
-name: Windows XP Inbäddad
+name: Windows XP Embedded
 summary: >
-  Windows XP Embedded följer [principen](/lifecycle/policies/fixed) för fast livscykel.
+  Windows XP Embedded följer principen för [fast](/lifecycle/policies/fixed) livscykel.
 
 
-  Detta gäller följande utgåvor: Embedded
+  Detta gäller för följande utgåvor: Embedded
 
 
   > [!IMPORTANT]
 
-  > Supporten för den här produkten har upphört.
+  > Support för den här produkten har upphört.
 products:
 - windows
 policyType: fixed
@@ -40,4 +40,4 @@ releases:
 - version: Original Release
   startDate: 01/30/2002
   endDate: 01/12/2016
-content: "\n## <a name=\"links\"></a>Länkar \n* [Stöd för Windows XP Embedded](https://support.microsoft.com/help/18581)\n\n\n## <a name=\"editions\"></a>Upplagor \n* Inbäddade"
+content: "\n## <a name=\"links\"></a>Länkar \n* [Windows XP Embedded-support](https://support.microsoft.com/help/18581)\n\n\n## <a name=\"editions\"></a>Utgåvor \n* Embedded"
