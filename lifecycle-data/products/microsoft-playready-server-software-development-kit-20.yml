@@ -1,0 +1,27 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft PlayReady Server Software Development Kit 2,0
+  description: Microsoft PlayReady Server Software Development Kit 2,0 följer policyn för fast livs cykel.
+  ms.date: 08/21/2020
+  ms.openlocfilehash: 61635292b88f853a5daeda3ffcc766a1786e42cd
+  ms.sourcegitcommit: c4013bce086aedc575584ea34b1acb5c27d06a1b
+  ms.translationtype: MT
+  ms.contentlocale: sv-SE
+  ms.lasthandoff: 08/21/2020
+  ms.locfileid: "908077"
+name: Microsoft PlayReady Server Software Development Kit 2,0
+summary: >+
+  Microsoft PlayReady Server Software Development Kit 2,0 följer policyn för [fast](/lifecycle/policies/fixed) livs cykel.
+
+
+products:
+- windows
+policyType: fixed-mainstream-only
+supportDates:
+  start: 12/29/2012
+  end: 01/09/2018
+releases:
+- version: Original Release
+  startDate: 12/29/2012
+  endDate: 01/09/2018
+content: ''
