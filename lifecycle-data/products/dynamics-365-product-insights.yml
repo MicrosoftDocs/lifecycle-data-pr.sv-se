@@ -1,0 +1,25 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Produkt information för Dynamics 365
+  description: Produkt insikter för Dynamics 365 följer modern livs cykel policy.
+  ms.date: 08/25/2020
+  ms.openlocfilehash: 96ad93ad104312327e146d10a83d6b42943ab714
+  ms.sourcegitcommit: d28d18dd801693302858cb5086cabb3a5d2083f3
+  ms.translationtype: MT
+  ms.contentlocale: sv-SE
+  ms.lasthandoff: 08/26/2020
+  ms.locfileid: "911446"
+name: Produkt information för Dynamics 365
+summary: >+
+  Produkt insikter för Dynamics 365 följer [modern](/lifecycle/policies/modern) livs cykel policy.
+
+
+products:
+- dynamics
+policyType: modern-online
+supportDates:
+  start: 10/01/2019
+releases:
+- version: Original Release
+  startDate: 10/01/2019
+content: ''
