@@ -2,19 +2,19 @@
 metadata:
   title: Visual Studio 2017
   description: Visual Studio 2017 följer policyn för fast livscykel.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 28e7d911a453418021aba3ecfa7e96ca8c5ed73f
-  ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
+  ms.date: 08/21/2020
+  ms.openlocfilehash: 5393d8d0a5210f109a1bdfd96a90aeceed2c9d7e
+  ms.sourcegitcommit: b125c146eb503d123a9ec7f50c08922926fb7f0e
   ms.translationtype: HT
   ms.contentlocale: sv-SE
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "872581"
+  ms.lasthandoff: 08/21/2020
+  ms.locfileid: "907122"
 name: Visual Studio 2017
 summary: >+
   Visual Studio 2017 följer policyn för [fast](/lifecycle/policies/fixed) livscykel.
 
 
-  Detta gäller för följande utgåvor: Agents, Build Tools, Community, Enterprise, Feedback Client, för Mac, IntelliTrace Standalone Collector, Prestandaverktyg, Professional, Remote Tools, Team Explorer, Test Professional, Visual C++ Redistributable
+  Detta gäller för följande utgåvor: Agents, Build Tools, Community, Enterprise, ESM, Feedback Client, för Mac, IntelliTrace Standalone Collector, Prestandaverktyg, Professional, PSM, Remote Tools, Team Explorer, Test Professional, Visual C++ Redistributable
 
 products:
 - vs
@@ -30,4 +30,4 @@ releases:
 - version: Version 15.0
   startDate: 03/07/2017
   endDate: 01/14/2020
-content: "\n## <a name=\"links\"></a>Länkar \n* [Meddelande](https://devblogs.microsoft.com/visualstudio/visual-studio-2017-and-visual-studio-for-mac-support-updates/)\n* [Serviceinformation](/visualstudio/productinfo/vs-servicing-vs#support-for-older-versions-of-visual-studio)\n\n\n## <a name=\"editions\"></a>Utgåvor \n* Agenter\n* Build Tools\n* Community\n* Enterprise\n* Feedback-klient\n* för Mac\n* IntelliTrace Standalone Collector\n* Prestandaverktyg\n* Professionell\n* Remote Tools\n* Team Explorer\n* Test Professional\n* Visual C++ Redistributable"
+content: "\n## <a name=\"links\"></a>Länkar \n* [Meddelande](https://devblogs.microsoft.com/visualstudio/visual-studio-2017-and-visual-studio-for-mac-support-updates/)\n* [Serviceinformation](/visualstudio/productinfo/vs-servicing-vs#support-for-older-versions-of-visual-studio)\n\n\n## <a name=\"editions\"></a>Utgåvor \n* Agenter\n* Build Tools\n* Community\n* Enterprise\n* ESM\n* Feedback-klient\n* för Mac\n* IntelliTrace Standalone Collector\n* Prestandaverktyg\n* Professionell\n* PSM\n* Remote Tools\n* Team Explorer\n* Test Professional\n* Visual C++ Redistributable"

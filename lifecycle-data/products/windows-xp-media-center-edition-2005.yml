@@ -1,0 +1,30 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Windows XP Media Center Edition 2005
+  description: Windows XP Media Center Edition 2005 följer policyn för fast livscykel.
+  ms.date: 08/12/2020
+  ms.openlocfilehash: 51d0bb29320a507fba4ea0c18e11bfa85f92dccf
+  ms.sourcegitcommit: 1974bfc9a9fccaac36daaa1015b7f31c8814ae07
+  ms.translationtype: HT
+  ms.contentlocale: sv-SE
+  ms.lasthandoff: 08/12/2020
+  ms.locfileid: "892105"
+name: Windows XP Media Center Edition 2005
+summary: >+
+  Windows XP Media Center Edition 2005 följer policyn för [fast](/lifecycle/policies/fixed) livscykel.
+
+
+  Detta gäller för följande utgåvor: Extender
+
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 12/30/2004
+  end: 04/14/2009
+  extendedEnd: 04/08/2014
+releases:
+- version: Original Release
+  startDate: 12/30/2004
+  endDate: 04/08/2014
+content: "\n\n> [!NOTE]\n> Media Center Extender erbjöd Endast Mainstream-support som upphörde 12 januari 2010. \n\n## <a name=\"editions\"></a>Utgåvor \n* Extender"

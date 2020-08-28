@@ -2,15 +2,24 @@
 metadata:
   title: Windows Vista
   description: Windows Vista följer policyn för fast livscykel.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: e2e6ab946bf405ed524f07047d055a786d7174dc
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.date: 08/19/2020
+  ms.openlocfilehash: 5c98fe7339f950e080d2ae0450774abb13d9e7c6
+  ms.sourcegitcommit: 70c4608ec6344869c74ed63ff3f0e2ccb0dce3a0
   ms.translationtype: HT
   ms.contentlocale: sv-SE
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "841558"
+  ms.lasthandoff: 08/19/2020
+  ms.locfileid: "903105"
 name: Windows Vista
-summary: "Windows Vista följer policyn för [fast](/lifecycle/policies/fixed) livscykel. \n\nDetta gäller för följande utgåvor: Business, Business N, Enterprise, Enterprise X64, Home Basic, Home Basic 64-bitars, Home Basic N, Home Basic N 64-bitars, Home Premium, Home Premium 64-bitars, Starter, Ultimate, Ultimate 64-bitars\n\n> [!IMPORTANT]\n> Support för den här produkten har upphört. Se nedan för migreringsinformation.\n"
+summary: >
+  Windows Vista följer policyn för [fast](/lifecycle/policies/fixed) livscykel.
+
+
+  Detta gäller för följande utgåvor: Business, Business N, Business N 64-bitars, Enterprise, Enterprise X64, Home Basic, Home Basic 64-bitars, Home Basic N, Home Basic N 64-bitars, Home Premium, Home Premium 64-bitars, Starter, Ultimate, Ultimate 64-bitars
+
+
+  > [!IMPORTANT]
+
+  > Support för den här produkten har upphört. Se nedan för migreringsinformation.
 products:
 - windows
 policyType: fixed
@@ -28,4 +37,4 @@ releases:
 - version: Original Release
   startDate: 01/25/2007
   endDate: 04/13/2010
-content: "\n## <a name=\"links\"></a>Länkar \n* [Vägledning för migrering](https://support.microsoft.com/help/22882/windows-vista-end-of-support)\n* [Uppgradering av Windows och migreringsöverväganden](/windows/deployment/upgrade/windows-upgrade-and-migration-considerations)\n* [Service pack-policy](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Utgåvor \n* Business\n* Business N\n* Enterprise\n* Enterprise X64\n* Home Basic\n* Home Basic 64-bitars\n* Home Basic N\n* Home Basic N 64-bitars\n* Home Premium\n* Home Premium 64-bitars\n* Starter\n* Ultimate\n* Ultimate 64-bitars"
+content: "\n## <a name=\"links\"></a>Länkar \n* [Vägledning för migrering](https://support.microsoft.com/help/22882/windows-vista-end-of-support)\n* [Uppgradering av Windows och migreringsöverväganden](/windows/deployment/upgrade/windows-upgrade-and-migration-considerations)\n* [Service pack-policy](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Utgåvor \n* Business\n* Business N\n* Business N 64-bitars\n* Enterprise\n* Enterprise X64\n* Home Basic\n* Home Basic 64-bitars\n* Home Basic N\n* Home Basic N 64-bitars\n* Home Premium\n* Home Premium 64-bitars\n* Starter\n* Ultimate\n* Ultimate 64-bitars"

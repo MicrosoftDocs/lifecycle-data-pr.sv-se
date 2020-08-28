@@ -2,19 +2,19 @@
 metadata:
   title: Visual Studio 2019
   description: Visual Studio 2019 följer policyn för fast livscykel.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 3bb4a3be253fe45b27fa6baa8f165dc2fbb3ffd1
-  ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
+  ms.date: 08/21/2020
+  ms.openlocfilehash: d5638d558c441faed42d3fdcfd2e5e9b8a89d2a5
+  ms.sourcegitcommit: 72c1339c867caa2110c5c1501a6659bcee72415d
   ms.translationtype: HT
   ms.contentlocale: sv-SE
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "872579"
+  ms.lasthandoff: 08/21/2020
+  ms.locfileid: "906897"
 name: Visual Studio 2019
 summary: >+
   Visual Studio 2019 följer policyn för [fast](/lifecycle/policies/fixed) livscykel.
 
 
-  Detta gäller för följande utgåvor: Agenter, genereringsverktyg, Community, Enterprise, för Mac, IntelliTrace Standalone Collector, prestandaverktyg, Professional, Remote Tools, Team Explorer, Visual C++ Redistributable
+  Detta gäller för följande utgåvor: Agenter, Build Tools, Community, Enterprise, ESGH, för Mac, IntelliTrace Standalone Collector, Prestandaverktyg, Professional, PSGH, PSM, Remote Tools, Team Explorer, Visual C++ Redistributable
 
 products:
 - vs
@@ -30,4 +30,4 @@ releases:
 - version: Version 16.0
   startDate: 04/02/2019
   endDate: 01/12/2021
-content: "\n## <a name=\"links\"></a>Länkar \n* [Meddelande](https://devblogs.microsoft.com/visualstudio/tis-the-season-visual-studio-2019/)\n* [Serviceinformation](/visualstudio/releases/2019/servicing)\n\n\n## <a name=\"editions\"></a>Utgåvor \n* Agenter\n* Build Tools\n* Community\n* Enterprise\n* för Mac\n* IntelliTrace Standalone Collector\n* Prestandaverktyg\n* Professionell\n* Remote Tools\n* Team Explorer\n* Visual C++ Redistributable"
+content: "\n## <a name=\"links\"></a>Länkar \n* [Meddelande](https://devblogs.microsoft.com/visualstudio/tis-the-season-visual-studio-2019/)\n* [Serviceinformation](/visualstudio/releases/2019/servicing)\n\n\n## <a name=\"editions\"></a>Utgåvor \n* Agenter\n* Build Tools\n* Community\n* Enterprise\n* ESGH\n* för Mac\n* IntelliTrace Standalone Collector\n* Prestandaverktyg\n* Professionell\n* PSGH\n* PSM\n* Remote Tools\n* Team Explorer\n* Visual C++ Redistributable"
