@@ -2,13 +2,14 @@
 metadata:
   title: Windows Web Server 2008
   description: Windows Web Server 2008 följer rikt linjer för fast livs cykel.
-  ms.date: 08/21/2020
-  ms.openlocfilehash: 5a30ae3c7d7139240f057b39103ef126f89a2d13
-  ms.sourcegitcommit: 2f3e18a9447115504ef274bd044dbcdb08231f5b
+  ms.date: 09/01/2020
+  keywords: Standard
+  ms.openlocfilehash: 09e6cfcf06699c4c2c31c43a04906c7f6b543979
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: sv-SE
-  ms.lasthandoff: 08/25/2020
-  ms.locfileid: "908931"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "938909"
 name: Windows Web Server 2008
 summary: >+
   Windows Web Server 2008 följer rikt linjer för [fast](/lifecycle/policies/fixed) livs cykel.

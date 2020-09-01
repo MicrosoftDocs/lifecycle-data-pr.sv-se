@@ -2,13 +2,14 @@
 metadata:
   title: Windows 10 2016 LTSB
   description: Windows 10 2016 LTSB följer policyn för fast livscykel.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 05a489099eb9b0bd08717e99e8735490d93edbbd
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.date: 09/01/2020
+  keywords: Enterprise
+  ms.openlocfilehash: 040fad2c1269808928c0f239a64f575b98f458f6
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: HT
   ms.contentlocale: sv-SE
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "863887"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "938502"
 name: Windows 10 2016 LTSB
 summary: >+
   Windows 10 2016 LTSB följer policyn för [fast](/lifecycle/policies/fixed) livscykel.

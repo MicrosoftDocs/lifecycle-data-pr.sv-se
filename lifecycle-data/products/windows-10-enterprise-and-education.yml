@@ -2,13 +2,14 @@
 metadata:
   title: Windows 10 Enterprise och Education
   description: Windows 10 Enterprise and Education följer policyn för modern livscykel.
-  ms.date: 08/26/2020
-  ms.openlocfilehash: b9409473c20ca4d6699450224612a0c58d1a4f8c
-  ms.sourcegitcommit: d28d18dd801693302858cb5086cabb3a5d2083f3
+  ms.date: 09/01/2020
+  keywords: Education,Enterprise
+  ms.openlocfilehash: 2cda8e96ea213b76c30f91a429fff6ee2a2c9fd5
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: HT
   ms.contentlocale: sv-SE
-  ms.lasthandoff: 08/26/2020
-  ms.locfileid: "911312"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "938354"
 name: Windows 10 Enterprise och Education
 summary: >
   Windows 10 Enterprise and Education följer policyn för [modern](/lifecycle/policies/modern) livscykel.
@@ -41,7 +42,7 @@ releases:
   endDate: 05/11/2021
 - version: Version 1803
   startDate: 04/30/2018
-  endDate: 05/11/2021
+  endDate: 11/10/2020
 - version: Version 1709
   startDate: 10/17/2017
   endDate: 10/13/2020

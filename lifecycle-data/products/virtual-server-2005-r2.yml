@@ -1,16 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Virtuell server 2005 R2
-  description: Virtual Server 2005 R2 följer principen om fast livscykel.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 9a66e757579adfefd5a7b2dd3f2ee034dcf0a8b6
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  title: Virtuell Server 2005 R2
+  description: Virtuell Server 2005 R2 följer policyn för fast livs cykel.
+  ms.date: 09/01/2020
+  keywords: Enterprise,Standard
+  ms.openlocfilehash: 0d4c323a758219f240fc6efbc4ebcfc99e470241
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: sv-SE
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "841943"
-name: Virtuell server 2005 R2
-summary: "Virtual Server 2005 R2 följer [principen](/lifecycle/policies/fixed) om fast livscykel.\n\nDetta gäller följande utgåvor: Enterprise, Standard\n\n> [!IMPORTANT]\n> Supporten för den här produkten har upphört. \n"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "937947"
+name: Virtuell Server 2005 R2
+summary: "Virtuell Server 2005 R2 följer policyn för [fast](/lifecycle/policies/fixed) livs cykel.\n\nDetta gäller för följande utgåvor: Enterprise, Standard\n\n> [!IMPORTANT]\n> Support för den här produkten har upphört. \n"
 products:
 - windows
 policyType: fixed
@@ -25,4 +26,4 @@ releases:
 - version: Original Release
   startDate: 01/28/2006
   endDate: 07/08/2008
-content: "\n## <a name=\"links\"></a>Länkar \n* [Service Pack-principen](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Upplagor \n* Företag\n* Standard"
+content: "\n## <a name=\"links\"></a>Länkar \n* [Service pack-policy](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Utgåvor \n* Enterprise\n* Standard"

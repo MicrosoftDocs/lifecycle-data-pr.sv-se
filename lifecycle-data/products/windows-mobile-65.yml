@@ -2,24 +2,25 @@
 metadata:
   title: Windows Mobile 6,5
   description: Windows Mobile 6,5 följer rikt linjer för fast livs cykel.
-  ms.date: 08/13/2020
-  ms.openlocfilehash: 7dedd3bd65fb6266b94a65e9b61addc1521602fc
-  ms.sourcegitcommit: c7c4e0a2e3a93e251df1f1cdc0e078a7787b3dc3
+  ms.date: 09/01/2020
+  keywords: Professional,Standard
+  ms.openlocfilehash: 33efcc83ffb0f417751ab3b65937ba480a5d0ac7
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: sv-SE
-  ms.lasthandoff: 08/13/2020
-  ms.locfileid: "894241"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "939760"
 name: Windows Mobile 6,5
 summary: >
   Windows Mobile 6,5 följer rikt linjer för [fast](/lifecycle/policies/fixed) livs cykel.
 
 
-  Detta gäller för följande utgåvor: Professional, standard
+  Detta gäller för följande utgåvor: Professional, Standard
 
 
   > [!IMPORTANT]
 
-  > Support för den här produkten har avslut ATS.
+  > Support för den här produkten har upphört.
 products:
 - windows
 policyType: fixed-mainstream-only
@@ -30,4 +31,4 @@ releases:
 - version: Original Release
   startDate: 09/10/2009
   endDate: 01/08/2013
-content: "\n\n\n## <a name=\"editions\"></a>Gåvor \n* Specialist\n* Standar"
+content: "\n\n\n## <a name=\"editions\"></a>Utgåvor \n* Professionell\n* Standard"
