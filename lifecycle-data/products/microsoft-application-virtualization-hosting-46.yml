@@ -2,13 +2,14 @@
 metadata:
   title: Microsoft Application Virtualization hosting 4.6 för Windows-skrivbord
   description: Microsoft Application Virtualization Hosting 4.6 för Windows-datorer följer policyn för fast livscykel.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 21ed557cd6333e43a274796a3b25791c0d7f96cd
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.date: 09/01/2020
+  keywords: for Windows Desktops
+  ms.openlocfilehash: 8a32729ae5fbf7f57a14b6a6ec048c7a1f412a52
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: HT
   ms.contentlocale: sv-SE
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "842124"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "935468"
 name: Microsoft Application Virtualization hosting 4.6 för Windows-skrivbord
 summary: >+
   Microsoft Application Virtualization Hosting 4.6 för Windows-datorer följer policyn för [fast](/lifecycle/policies/fixed) livscykel.

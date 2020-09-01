@@ -2,13 +2,14 @@
 metadata:
   title: Microsoft konfigurationshanterare för slutpunkt
   description: Microsoft Endpoint Configuration Manager följer modern livs cykel policy.
-  ms.date: 08/20/2020
-  ms.openlocfilehash: 0543b1273fc60ca7a23a5ce6455cf027737021c7
-  ms.sourcegitcommit: f5095aa6fc41dcc71c883cae08719b5b6bf9585c
+  ms.date: 09/01/2020
+  keywords: SCCM,System Center Configuration Manager
+  ms.openlocfilehash: fa325717dae54209b97245681c1e0292890ba952
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: sv-SE
-  ms.lasthandoff: 08/20/2020
-  ms.locfileid: "905999"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "934062"
 name: Microsoft konfigurationshanterare för slutpunkt
 summary: >
   Microsoft Endpoint Configuration Manager följer [modern](/lifecycle/policies/modern) livs cykel policy.
@@ -69,4 +70,4 @@ releases:
 - version: Version 1511
   startDate: 12/08/2015
   endDate: 12/08/2016
-content: "\n## <a name=\"links\"></a>Länkar \n* [Service information](/mem/configmgr/core/servers/manage/current-branch-versions-supported)\n* [Versions information](/mem/configmgr/core/servers/manage/updates#version-details)\n* [System Center Configuration Manager är nu Microsofts konfigurations hanterare för slut punkt](/mem/configmgr/core/understand/microsoft-endpoint-manager-faq)\n* [Historiska versioner](/mem/configmgr/core/servers/manage/updates#historical-versions)\n* [Vad är Configuration Manager?](/mem/configmgr/core/understand/introduction)\n\n\n\nNyckelord: SCCM, System Center Configuration Manager"
+content: "\n## <a name=\"links\"></a>Länkar \n* [Serviceinformation](/mem/configmgr/core/servers/manage/current-branch-versions-supported)\n* [Versions information](/mem/configmgr/core/servers/manage/updates#version-details)\n* [System Center Configuration Manager är nu Microsofts konfigurations hanterare för slut punkt](/mem/configmgr/core/understand/microsoft-endpoint-manager-faq)\n* [Historiska versioner](/mem/configmgr/core/servers/manage/updates#historical-versions)\n* [Vad är Configuration Manager?](/mem/configmgr/core/understand/introduction)"
