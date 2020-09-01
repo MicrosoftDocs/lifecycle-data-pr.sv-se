@@ -1,20 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Visual Basic .NET 2003
-  description: Microsoft Visual Basic .NET 2003 följer policyn för fast livscykel.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: aa66f6d0e0a3cd91eb4a22845d303643d8482004
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  description: Microsoft Visual Basic .NET 2003 följer policyn för fast livs cykel.
+  ms.date: 09/01/2020
+  keywords: Standard
+  ms.openlocfilehash: a709317781cb79dd954af31cb81d916d4476b0ab
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: sv-SE
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "841984"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "938169"
 name: Microsoft Visual Basic .NET 2003
 summary: >+
-  Microsoft Visual Basic .NET 2003 följer [policyn](/lifecycle/policies/fixed) för fast livscykel.
+  Microsoft Visual Basic .NET 2003 följer policyn för [fast](/lifecycle/policies/fixed) livs cykel.
 
 
-  Detta gäller följande utgåvor: Standard
+  Detta gäller för följande utgåvor: Standard
 
 products:
 - vs
@@ -27,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 07/10/2003
   endDate: 10/08/2013
-content: "\n\n\n## <a name=\"editions\"></a>Upplagor \n* Standard"
+content: "\n\n\n## <a name=\"editions\"></a>Utgåvor \n* Standard"

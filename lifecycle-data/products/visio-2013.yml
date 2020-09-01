@@ -1,20 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Visio 2013
-  description: Visio 2013 följer policyn för fast livscykel.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 4592d4d852efef45b2c6335754d36f992df80741
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  description: Visio 2013 följer policyn för fast livs cykel.
+  ms.date: 09/01/2020
+  keywords: Professional,Standard
+  ms.openlocfilehash: 74796338b0a119f91226a8f57f6982000aa845e6
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: sv-SE
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "864094"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "937836"
 name: Visio 2013
 summary: >+
-  Visio 2013 följer [policyn](/lifecycle/policies/fixed) för fast livscykel.
+  Visio 2013 följer policyn för [fast](/lifecycle/policies/fixed) livs cykel.
 
 
-  Detta gäller följande utgåvor: Professional, Standard
+  Detta gäller för följande utgåvor: Professional, Standard
 
 products:
 - office
@@ -30,4 +31,4 @@ releases:
 - version: Original Release
   startDate: 01/09/2013
   endDate: 04/14/2015
-content: "\n## <a name=\"links\"></a>Länkar \n* [Service Pack-principen](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Upplagor \n* Professionell\n* Standard"
+content: "\n## <a name=\"links\"></a>Länkar \n* [Service pack-policy](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Utgåvor \n* Professionell\n* Standard"

@@ -2,13 +2,14 @@
 metadata:
   title: Visual Studio Team System 2008
   description: Visual Studio Team System 2008 följer policyn för fast livscykel.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 38c593193296d428c6e0f74bb2e039ac2fa8f3d7
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.date: 09/01/2020
+  keywords: All,Architecture,Database,Development,Team Explorer,Team Test Load Agent
+  ms.openlocfilehash: 7122905dd66fefcb18d378c99b4de213024c3a4d
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: HT
   ms.contentlocale: sv-SE
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "841941"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "938539"
 name: Visual Studio Team System 2008
 summary: >
   Visual Studio Team System 2008 följer policyn för [fast](/lifecycle/policies/fixed) livscykel.

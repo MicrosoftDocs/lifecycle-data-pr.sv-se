@@ -1,25 +1,26 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Windows Mobile 6.1
-  description: Windows Mobile 6.1 följer policyn för fast livscykel.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 09ef8cd65daf2ed34f0557d1180ba9b405bf0956
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  title: Windows Mobile 6,1
+  description: Windows Mobile 6,1 följer rikt linjer för fast livs cykel.
+  ms.date: 09/01/2020
+  keywords: Adaptation Kit,Professional,Standard
+  ms.openlocfilehash: 97c434aaac90a1923508ffe5b1d18e735bfa4101
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: sv-SE
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "841400"
-name: Windows Mobile 6.1
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "939834"
+name: Windows Mobile 6,1
 summary: >
-  Windows Mobile 6.1 följer [policyn](/lifecycle/policies/fixed) för fast livscykel.
+  Windows Mobile 6,1 följer rikt linjer för [fast](/lifecycle/policies/fixed) livs cykel.
 
 
-  Detta gäller följande utgåvor: Adaptation Kit, Professional, Standard
+  Detta gäller för följande utgåvor: anpassnings paket, Professional, standard
 
 
   > [!IMPORTANT]
 
-  > Supporten för den här produkten har upphört.
+  > Support för den här produkten har upphört.
 products:
 - windows
 policyType: fixed-mainstream-only
@@ -30,4 +31,4 @@ releases:
 - version: Original Release
   startDate: 07/01/2008
   endDate: 01/08/2013
-content: "\n\n\n## <a name=\"editions\"></a>Upplagor \n* Anpassning Kit\n* Professionell\n* Standard"
+content: "\n\n\n## <a name=\"editions\"></a>Utgåvor \n* Anpassa paketet\n* Professionell\n* Standard"
