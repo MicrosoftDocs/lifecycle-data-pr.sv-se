@@ -1,20 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Utgivare 2013
-  description: Publisher 2013 följer policyn för fast livscykel.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 706d07656f1c22220f7f96382c5aff14ac9d9d91
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  title: Publisher 2013
+  description: Publisher 2013 följer policyn för fast livs cykel.
+  ms.date: 09/01/2020
+  keywords: Standard
+  ms.openlocfilehash: 351331904acc01202c407f88c65b40ec18af6907
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: sv-SE
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "864328"
-name: Utgivare 2013
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "926181"
+name: Publisher 2013
 summary: >+
-  Publisher 2013 följer [policyn](/lifecycle/policies/fixed) för fast livscykel.
+  Publisher 2013 följer policyn för [fast](/lifecycle/policies/fixed) livs cykel.
 
 
-  Detta gäller följande utgåvor: Standard
+  Detta gäller för följande utgåvor: Standard
 
 products:
 - office
@@ -27,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 01/09/2013
   endDate: 04/11/2023
-content: "\n\n\n## <a name=\"editions\"></a>Upplagor \n* Standard"
+content: "\n\n\n## <a name=\"editions\"></a>Utgåvor \n* Standard"
