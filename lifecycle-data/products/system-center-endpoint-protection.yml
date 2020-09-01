@@ -2,13 +2,13 @@
 metadata:
   title: System Center Endpoint Protection
   description: System Center Endpoint Protection följer modern livs cykel policy.
-  ms.date: 08/28/2020
-  ms.openlocfilehash: 2b8878c629a27bc6960a9cbceb4447b7757e61d2
-  ms.sourcegitcommit: 90c2bb5823fb637bc42baaba1512486144104f70
+  ms.date: 08/31/2020
+  ms.openlocfilehash: 9eff57919f329c3c5897ef2697cd20ff9ce65dba
+  ms.sourcegitcommit: ea12743df11002fd494c7843707a3628dfedb425
   ms.translationtype: MT
   ms.contentlocale: sv-SE
   ms.lasthandoff: 08/31/2020
-  ms.locfileid: "924685"
+  ms.locfileid: "924946"
 name: System Center Endpoint Protection
 summary: >+
   System Center Endpoint Protection följer [modern](/lifecycle/policies/modern) livs cykel policy.
@@ -22,4 +22,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 12/08/2015
-content: "\n## <a name=\"links\"></a>Länkar \n* [Stöd för System Center Endpoint Protection-versioner (tidigare kallad Configuration Manager-aktuell gren)](/mem/configmgr/core/servers/manage/current-branch-versions-supported?redirectedfrom=MSDN)"
+content: ''
