@@ -1,20 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Visual C# .NET 2003
-  description: Microsoft Visual C# .NET 2003 följer policyn för fast livscykel.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 224f57c3d47360d475841e3025eb3c56a9602660
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  description: Microsoft Visual C# .NET 2003 följer policyn för fast livs cykel.
+  ms.date: 09/01/2020
+  keywords: Standard
+  ms.openlocfilehash: 01c1997ae4df75f9bf16de6e95e4206a6eb334e6
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: sv-SE
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "841981"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "929548"
 name: Microsoft Visual C# .NET 2003
 summary: >+
-  Microsoft Visual C# .NET 2003 följer [policyn](/lifecycle/policies/fixed) för fast livscykel.
+  Microsoft Visual C# .NET 2003 följer policyn för [fast](/lifecycle/policies/fixed) livs cykel.
 
 
-  Detta gäller följande utgåvor: Standard
+  Detta gäller för följande utgåvor: Standard
 
 products:
 - vs
@@ -27,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 07/10/2003
   endDate: 10/08/2013
-content: "\n\n\n## <a name=\"editions\"></a>Upplagor \n* Standard"
+content: "\n\n\n## <a name=\"editions\"></a>Utgåvor \n* Standard"

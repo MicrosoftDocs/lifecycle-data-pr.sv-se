@@ -2,19 +2,20 @@
 metadata:
   title: Microsoft Visual C++ .NET 2003
   description: Microsoft Visual C++ .NET 2003 följer policyn för fast livs cykel.
-  ms.date: 08/12/2020
-  ms.openlocfilehash: 8129ecc7473fbc671871af3c9ebf8fcbeab44160
-  ms.sourcegitcommit: c7c4e0a2e3a93e251df1f1cdc0e078a7787b3dc3
+  ms.date: 09/01/2020
+  keywords: Standard
+  ms.openlocfilehash: c6f55c26b91987ea010d25995dffe12d8d69ebfd
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: sv-SE
-  ms.lasthandoff: 08/13/2020
-  ms.locfileid: "894234"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "929511"
 name: Microsoft Visual C++ .NET 2003
 summary: >+
   Microsoft Visual C++ .NET 2003 följer policyn för [fast](/lifecycle/policies/fixed) livs cykel.
 
 
-  Detta gäller för följande utgåvor: standard
+  Detta gäller för följande utgåvor: Standard
 
 products:
 - vs
@@ -27,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 07/10/2003
   endDate: 10/08/2013
-content: "\n\n\n## <a name=\"editions\"></a>Gåvor \n* Standar"
+content: "\n\n\n## <a name=\"editions\"></a>Utgåvor \n* Standard"
