@@ -1,20 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
   title: outlook 2010
-  description: Outlook 2010 följer policyn för fast livscykel.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 54e6783e437f7a61c6e49b3b81ff496cc8a765f9
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  description: Outlook 2010 följer policyn för fast livs cykel.
+  ms.date: 09/01/2020
+  keywords: Standard,with Business Contact Manager
+  ms.openlocfilehash: ce67d67737e2a942507d26d8d1bd308697a58144
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: sv-SE
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "841963"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "928845"
 name: outlook 2010
 summary: >+
-  Outlook 2010 följer [policyn](/lifecycle/policies/fixed) för fast livscykel.
+  Outlook 2010 följer policyn för [fast](/lifecycle/policies/fixed) livs cykel.
 
 
-  Detta gäller följande utgåvor: Standard, med Business Contact Manager
+  Detta gäller för följande utgåvor: standard, med Business Contact Manager
 
 products:
 - office
@@ -27,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 07/15/2010
   endDate: 10/13/2020
-content: "\n## <a name=\"links\"></a>Länkar \n* [Vägledning för migrering](/DeployOffice/office-2010-end-support-roadmap)\n* [Service Pack-principen](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Upplagor \n* Standard\n* med Business Contact Manager"
+content: "\n## <a name=\"links\"></a>Länkar \n* [Vägledning för migrering](/DeployOffice/office-2010-end-support-roadmap)\n* [Service pack-policy](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Utgåvor \n* Standard\n* med Business Contact Manager"
