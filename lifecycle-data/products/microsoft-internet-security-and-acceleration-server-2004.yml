@@ -2,15 +2,16 @@
 metadata:
   title: Microsoft Internet Security and Acceleration Server 2004
   description: Microsoft Internet Security and Acceleration Server 2004 följer rikt linjer för fast livs cykel.
-  ms.date: 08/19/2020
-  ms.openlocfilehash: c6473b773066fa46704ea1ecb65cad0453712d36
-  ms.sourcegitcommit: acbc3d1849bad925ef030cf951960bd7eb1b4e42
+  ms.date: 09/01/2020
+  keywords: Enterprise,Standard
+  ms.openlocfilehash: ca985b778607eed3132ccd8345127d379543f4ff
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: sv-SE
-  ms.lasthandoff: 08/19/2020
-  ms.locfileid: "904557"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "933507"
 name: Microsoft Internet Security and Acceleration Server 2004
-summary: "Microsoft Internet Security and Acceleration Server 2004 följer rikt linjer för [fast](/lifecycle/policies/fixed) livs cykel.\n\nDetta gäller för följande utgåvor: Enterprise, standard\n\n> [!IMPORTANT]\n> Support för den här produkten har avslut ATS. \n"
+summary: "Microsoft Internet Security and Acceleration Server 2004 följer rikt linjer för [fast](/lifecycle/policies/fixed) livs cykel.\n\nDetta gäller för följande utgåvor: Enterprise, Standard\n\n> [!IMPORTANT]\n> Support för den här produkten har upphört. \n"
 products:
 - microsoft-servers
 policyType: fixed
@@ -31,4 +32,4 @@ releases:
 - version: Original Release
   startDate: 09/08/2004
   endDate: 03/11/2006
-content: "\n## <a name=\"links\"></a>Länkar \n* [Policy för Service Pack](/lifecycle/policies/fixed#service-packs)\n* [Vägledning för migrering](/system-center/scom/deploy-upgrade-overview?view=sc-om-2019)\n\n\n## <a name=\"editions\"></a>Gåvor \n* Enterprise\n* Standar"
+content: "\n## <a name=\"links\"></a>Länkar \n* [Service pack-policy](/lifecycle/policies/fixed#service-packs)\n* [Vägledning för migrering](/system-center/scom/deploy-upgrade-overview?view=sc-om-2019)\n\n\n## <a name=\"editions\"></a>Utgåvor \n* Enterprise\n* Standard"

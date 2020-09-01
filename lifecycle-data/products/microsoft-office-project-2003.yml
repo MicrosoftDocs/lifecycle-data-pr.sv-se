@@ -2,13 +2,14 @@
 metadata:
   title: Microsoft Office Project 2003
   description: Microsoft Office Project 2003 följer principen för fast livscykel.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 51b9bd9785cbcecf7248ab770a4a2423ad6135a1
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.date: 09/01/2020
+  keywords: Professional,Standard
+  ms.openlocfilehash: 5d27a4ac1b21778f175b31fd897a986ec8159342
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: HT
   ms.contentlocale: sv-SE
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "842378"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "932841"
 name: Microsoft Office Project 2003
 summary: "Microsoft Office Project 2003 följer principen för [fast](/lifecycle/policies/fixed) livscykel.\n\nDetta gäller för följande utgåvor: Professional, Standard\n\n> [!IMPORTANT]\n> Support för den här produkten har upphört. \n"
 products:
