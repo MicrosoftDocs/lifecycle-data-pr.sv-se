@@ -1,0 +1,31 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Access 2016
+  description: Access 2016 följer policyn för fast livs cykel.
+  ms.date: 09/01/2020
+  keywords: Standard
+  ms.openlocfilehash: 98a71f2b9f489d7d1f30a0177e4389ea9c4f5897
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
+  ms.translationtype: MT
+  ms.contentlocale: sv-SE
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "940130"
+name: Access 2016
+summary: >+
+  Access 2016 följer policyn för [fast](/lifecycle/policies/fixed) livs cykel.
+
+
+  Detta gäller för följande utgåvor: Standard
+
+products:
+- office
+policyType: fixed
+supportDates:
+  start: 09/22/2015
+  end: 10/13/2020
+  extendedEnd: 10/14/2025
+releases:
+- version: Original Release
+  startDate: 09/22/2015
+  endDate: 10/14/2025
+content: "\n\n\n## <a name=\"editions\"></a>Utgåvor \n* Standard"
