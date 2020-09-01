@@ -1,20 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
   title: InfoPath 2010
-  description: InfoPath 2010 följer den fasta livscykelprincipen.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 89a24a2dbfa198829abde7e854cfb1a775c8f6e2
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  description: InfoPath 2010 följer policyn för fast livs cykel.
+  ms.date: 09/01/2020
+  keywords: Standard
+  ms.openlocfilehash: b70d3170dfa8f1a3c2c08ae73564470d3d956b90
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: sv-SE
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "842150"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "936097"
 name: InfoPath 2010
 summary: >+
-  InfoPath 2010 följer den [fasta](/lifecycle/policies/fixed) livscykelprincipen.
+  InfoPath 2010 följer policyn för [fast](/lifecycle/policies/fixed) livs cykel.
 
 
-  Detta gäller följande utgåvor: Standard
+  Detta gäller för följande utgåvor: Standard
 
 products:
 - office
@@ -27,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 07/15/2010
   endDate: 10/13/2020
-content: "\n## <a name=\"links\"></a>Länkar \n* [Vägledning för migrering](https://support.microsoft.com/help/4086176/office-2010-approaching-end-of-extended-support)\n\n\n## <a name=\"editions\"></a>Upplagor \n* Standard"
+content: "\n## <a name=\"links\"></a>Länkar \n* [Vägledning för migrering](https://support.microsoft.com/help/4086176/office-2010-approaching-end-of-extended-support)\n\n\n## <a name=\"editions\"></a>Utgåvor \n* Standard"
