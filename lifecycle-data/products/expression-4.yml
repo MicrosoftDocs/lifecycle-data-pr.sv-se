@@ -1,20 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Uttryck 4
-  description: Uttryck 4 följer den fasta livscykelpolicyn.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: d043cbcae1ace9a561a53c39af5458bae79b4919
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  description: Uttryck 4 följer policyn för fast livs cykel.
+  ms.date: 09/01/2020
+  keywords: Design,Encoder,Studio Ultimate,Web
+  ms.openlocfilehash: ad3463184e4da721215fe51169c93401d2d9c848
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: sv-SE
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "841491"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "930880"
 name: Uttryck 4
 summary: >+
-  Uttryck 4 följer den [fasta](/lifecycle/policies/fixed) livscykelpolicyn.
+  Uttryck 4 följer policyn för [fast](/lifecycle/policies/fixed) livs cykel.
 
 
-  Detta gäller följande utgåvor: Design, Encoder, Studio Ultimate, Web
+  Detta gäller för följande versioner: design, kodare, Studio Ultimate, Web
 
 products:
 - expression
@@ -27,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 08/26/2010
   endDate: 07/14/2020
-content: "\n\n> [!NOTE]\n> Slutet på mainstream-stöd för Expression Studio Ultimate 4 är den 13 oktober 2015.\n\n## <a name=\"editions\"></a>Upplagor \n* Design\n* Kodare\n* Studio Ultimata\n* Web"
+content: "\n\n> [!NOTE]\n> Slutet av traditionell support för Expression Studio Ultimate 4 är 13 oktober 2015.\n\n## <a name=\"editions\"></a>Utgåvor \n* Ursprungsbeteckningar\n* Kodare\n* Studio Ultimate\n* Webb"

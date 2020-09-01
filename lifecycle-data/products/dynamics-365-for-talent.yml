@@ -2,13 +2,14 @@
 metadata:
   title: Dynamics 365 for Talent
   description: Dynamics 365 for Talent följer policyn för modern livscykel.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: d6dc50f8fa82bcf711b79df464c150fdbf9d1ec6
-  ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
+  ms.date: 09/01/2020
+  keywords: Onboard
+  ms.openlocfilehash: de03f162a1781f88e66a030774e5c31771e4f0f6
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: HT
   ms.contentlocale: sv-SE
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "872548"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "930732"
 name: Dynamics 365 for Talent
 summary: >+
   Dynamics 365 for Talent följer policyn för [modern](/lifecycle/policies/modern) livscykel.
