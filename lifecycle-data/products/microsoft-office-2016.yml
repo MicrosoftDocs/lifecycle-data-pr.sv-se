@@ -1,20 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Office 2016
-  description: Microsoft Office 2016 följer policyn för fast livscykel.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 0862856c981f0887a99cd499275edcda6f18533b
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  description: Microsoft Office 2016 följer policyn för fast livs cykel.
+  ms.date: 09/01/2020
+  keywords: Home and Business,Home and Student,Personal,Professional,Professional Plus,Standard
+  ms.openlocfilehash: 7d2f310c7edad1f2fb5f6b6151add26c277c6ffe
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: sv-SE
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "864286"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "930510"
 name: Microsoft Office 2016
 summary: >+
-  Microsoft Office 2016 följer [policyn](/lifecycle/policies/fixed) för fast livscykel.
+  Microsoft Office 2016 följer policyn för [fast](/lifecycle/policies/fixed) livs cykel.
 
 
-  Detta gäller följande utgåvor: Hem och företag, Hem och Student, Personlig, Professionell, Professional Plus, Standard
+  Detta gäller för följande utgåvor: Start och arbete, Home och Student, personal, Professional, Professional Plus, standard
 
 products:
 - office
@@ -27,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 09/22/2015
   endDate: 10/14/2025
-content: "\n\n\n## <a name=\"editions\"></a>Upplagor \n* Hem och företag\n* Hem och student\n* Personliga\n* Professionell\n* Professionella Plus\n* Standard"
+content: "\n\n\n## <a name=\"editions\"></a>Utgåvor \n* Hem och småföretag\n* Hemma och student\n* Personal\n* Professionell\n* Professional Plus\n* Standard"

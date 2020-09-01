@@ -1,16 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Uttryck 2
-  description: Uttryck 2 följer den fasta livscykelprincipen.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 0ff3dba3df24ff405a22bfacac75ea04ab227f90
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  description: Uttryck 2 följer policyn för fast livs cykel.
+  ms.date: 09/01/2020
+  keywords: Blend,Design,Encoder,Studio,Web
+  ms.openlocfilehash: 5186f4bbb53b110f625835b0250418a4594bf78b
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: sv-SE
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "841492"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "930843"
 name: Uttryck 2
-summary: "Uttryck 2 följer den [fasta](/lifecycle/policies/fixed) livscykelprincipen.\n\nDetta gäller följande utgåvor: Blend, Design, Encoder, Studio, Web\n\n> [!IMPORTANT]\n> Supporten har upphört för den här produkten. \n"
+summary: "Uttryck 2 följer policyn för [fast](/lifecycle/policies/fixed) livs cykel.\n\nDetta gäller för följande utgåvor: mix, design, kodare, Studio, webben\n\n> [!IMPORTANT]\n> Support för den här produkten har avslut ATS. \n"
 products:
 - expression
 policyType: fixed
@@ -22,4 +23,4 @@ releases:
 - version: Original Release
   startDate: 07/24/2008
   endDate: 10/09/2018
-content: "\n\n\n## <a name=\"editions\"></a>Upplagor \n* Blandning\n* Design\n* Kodare\n* Studio\n* Web"
+content: "\n\n\n## <a name=\"editions\"></a>Utgåvor \n* Gång\n* Ursprungsbeteckningar\n* Kodare\n* Studio\n* Webb"
