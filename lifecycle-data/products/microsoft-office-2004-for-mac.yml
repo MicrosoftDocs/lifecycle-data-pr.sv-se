@@ -1,20 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Office 2004 för Mac
-  description: Microsoft Office 2004 för Mac följer policyn för fast livscykel.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 14513bc7089568baf86dfe8f775cc25658cda7f4
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  description: Microsoft Office 2004 för Mac följer rikt linjer för fast livs cykel.
+  ms.date: 09/01/2020
+  keywords: Professional,Standard,Student and Teacher
+  ms.openlocfilehash: 12b63fa73b4b6a4bfc393cc62234147382a6d46a
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: sv-SE
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "841473"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "936873"
 name: Microsoft Office 2004 för Mac
 summary: >+
-  Microsoft Office 2004 för Mac följer [policyn](/lifecycle/policies/fixed) för fast livscykel.
+  Microsoft Office 2004 för Mac följer rikt linjer för [fast](/lifecycle/policies/fixed) livs cykel.
 
 
-  Detta gäller följande utgåvor: Professional, Standard, Student och Lärare
+  Detta gäller följande versioner: professionellt, vanligt, elev och lärare
 
 products:
 - office
@@ -26,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 07/13/2004
   endDate: 01/10/2012
-content: "\n\n\n## <a name=\"editions\"></a>Upplagor \n* Professionell\n* Standard\n* Elev och lärare"
+content: "\n\n\n## <a name=\"editions\"></a>Utgåvor \n* Professionell\n* Standard\n* Student and Teacher"

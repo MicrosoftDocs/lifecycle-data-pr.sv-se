@@ -1,20 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Visio 2019
-  description: Visio 2019 följer policyn för fast livscykel.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 422dd095a540b9f07639a7238c533052ffe588ae
-  ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
+  description: Visio 2019 följer policyn för fast livs cykel.
+  ms.date: 09/01/2020
+  keywords: Professional,Standard
+  ms.openlocfilehash: 354844a703531046efb29743ac16e5f5f02da2d1
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: sv-SE
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "872603"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "937762"
 name: Visio 2019
 summary: >+
-  Visio 2019 följer [policyn](/lifecycle/policies/fixed) för fast livscykel.
+  Visio 2019 följer policyn för [fast](/lifecycle/policies/fixed) livs cykel.
 
 
-  Detta gäller följande utgåvor: Professional, Standard
+  Detta gäller för följande utgåvor: Professional, Standard
 
 products:
 - office
@@ -27,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 09/24/2018
   endDate: 10/14/2025
-content: "\n\n\n## <a name=\"editions\"></a>Upplagor \n* Professionell\n* Standard"
+content: "\n\n\n## <a name=\"editions\"></a>Utgåvor \n* Professionell\n* Standard"

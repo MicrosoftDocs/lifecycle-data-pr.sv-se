@@ -2,13 +2,14 @@
 metadata:
   title: Slutpunktsskydd för Microsoft System Center 2012
   description: Slutpunktsskydd för Microsoft System Center 2012 följer policyn för fast livscykel.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 831df2c41a088376f7cb34fb117163dc45ade4ed
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.date: 09/01/2020
+  keywords: for Mac
+  ms.openlocfilehash: 3a2117da623b0703923ec5be8fb9a3d9e083a3fa
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: HT
   ms.contentlocale: sv-SE
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "864057"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "937688"
 name: Slutpunktsskydd för Microsoft System Center 2012
 summary: >+
   Slutpunktsskydd för Microsoft System Center 2012 följer policyn för [fast](/lifecycle/policies/fixed) livscykel.

@@ -1,20 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft 365
-  description: Microsoft 365 följer den moderna livscykelpolicyn.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 305fc57c897c1f8b2eb95b170d5b8403e1ea35ee
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  description: Microsoft 365 följer modern livs cykel policy.
+  ms.date: 09/01/2020
+  keywords: Business,Education,Enterprise,Government
+  ms.openlocfilehash: 49d1c65ad462a3ce987df621004cf7341ac4aa23
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: sv-SE
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "864245"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "935986"
 name: Microsoft 365
 summary: >+
-  Microsoft 365 följer den [moderna](/lifecycle/policies/modern) livscykelpolicyn.
+  Microsoft 365 följer [modern](/lifecycle/policies/modern) livs cykel policy.
 
 
-  Detta gäller följande utgåvor: Business, Education, Enterprise, Government
+  Detta gäller för följande utgåvor: Business, Education, Enterprise, myndigheter
 
 products:
 - office
@@ -24,4 +25,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 09/22/2015
-content: "\n## <a name=\"links\"></a>Länkar \n* [Översikt över Microsoft 365](https://www.microsoft.com/microsoft-365/roadmap)\n* [Systemkrav](https://www.microsoft.com/microsoft-365/microsoft-365-and-office-resources)\n\n\n## <a name=\"editions\"></a>Upplagor \n* Företag\n* Utbildning\n* Företag\n* Myndigheter"
+content: "\n## <a name=\"links\"></a>Länkar \n* [Microsoft 365-översikt](https://www.microsoft.com/microsoft-365/roadmap)\n* [Systemkrav](https://www.microsoft.com/microsoft-365/microsoft-365-and-office-resources)\n\n\n## <a name=\"editions\"></a>Utgåvor \n* Business\n* Education\n* Enterprise\n* Myndigheter"

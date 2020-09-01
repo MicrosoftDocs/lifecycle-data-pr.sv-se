@@ -1,20 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Visual SourceSafe 2005
-  description: Microsoft Visual SourceSafe 2005 följer policyn för fast livscykel.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 9f7cb8183628d197cfa31aecea78d5bd99de34b9
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  description: Microsoft Visual SourceSafe 2005 följer policyn för fast livs cykel.
+  ms.date: 09/01/2020
+  keywords: Standard
+  ms.openlocfilehash: f7d67637da3426c4d3852deec2e86b2910ea3424
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: sv-SE
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "841582"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "937651"
 name: Microsoft Visual SourceSafe 2005
 summary: >+
-  Microsoft Visual SourceSafe 2005 följer [policyn](/lifecycle/policies/fixed) för fast livscykel.
+  Microsoft Visual SourceSafe 2005 följer policyn för [fast](/lifecycle/policies/fixed) livs cykel.
 
 
-  Detta gäller följande utgåvor: Standard
+  Detta gäller för följande utgåvor: Standard
 
 products:
 - vs
@@ -27,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 01/27/2006
   endDate: 07/11/2017
-content: "\n\n\n## <a name=\"editions\"></a>Upplagor \n* Standard"
+content: "\n\n\n## <a name=\"editions\"></a>Utgåvor \n* Standard"
