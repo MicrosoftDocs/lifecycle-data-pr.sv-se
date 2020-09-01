@@ -1,0 +1,26 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Windows Phone 8
+  description: Windows Phone 8 följer policyn för fast livs cykel.
+  ms.date: 08/19/2020
+  ms.openlocfilehash: 414496ab55aa39619921de70d0df779cc4403a50
+  ms.sourcegitcommit: 37ac01a1d5492bb2bf54cbd018ea34074db8c998
+  ms.translationtype: MT
+  ms.contentlocale: sv-SE
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "940959"
+name: Windows Phone 8
+summary: >+
+  Windows Phone 8 följer policyn för [fast](/lifecycle/policies/fixed) livs cykel.
+
+
+products:
+- windows
+policyType: fixed-mainstream-only
+supportDates:
+  start: 12/14/2012
+  end: 07/08/2014
+releases:
+- version: Original Release
+  startDate: 12/14/2012
+content: "\n\n> [!NOTE]\n> Microsoft kommer att göra uppdateringar tillgängliga för operativsystemet, inklusive säkerhetsuppdateringar i minimum 36 månader från och med livscykelns startdatum. Dessa produktuppdateringar sker stegvis, där varje uppdatering bygger på föregående uppdatering. Kunderna måste installera varje uppdatering för att fortsätta få support. Distributionen av dessa inkrementella uppdateringar kan styras av mobiloperatören eller telefontillverkaren som du köpte telefonen från, och installationen kräver att telefonen har några tidigare uppdateringar. Tillgängligheten för uppdateringen varierar även efter land, region och maskinvarufunktioner."
