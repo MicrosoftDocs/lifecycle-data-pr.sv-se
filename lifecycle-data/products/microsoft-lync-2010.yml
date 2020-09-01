@@ -2,13 +2,14 @@
 metadata:
   title: Microsoft Lync 2010
   description: Microsoft Lync 2010 följer rikt linjer för fast livs cykel.
-  ms.date: 08/21/2020
-  ms.openlocfilehash: 815ef4b3c8026b5d508d221acfc67cae25770bcd
-  ms.sourcegitcommit: c4013bce086aedc575584ea34b1acb5c27d06a1b
+  ms.date: 09/01/2020
+  keywords: Attendant,Attendee,Group Chat,Standard
+  ms.openlocfilehash: c3db784bc5a889bab9f8c319ddb04361993c453a
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: sv-SE
-  ms.lasthandoff: 08/21/2020
-  ms.locfileid: "907966"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "933470"
 name: Microsoft Lync 2010
 summary: >+
   Microsoft Lync 2010 följer rikt linjer för [fast](/lifecycle/policies/fixed) livs cykel.

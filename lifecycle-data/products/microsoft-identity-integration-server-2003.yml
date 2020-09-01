@@ -2,13 +2,14 @@
 metadata:
   title: Microsoft Identity Integration Server 2003
   description: Microsoft Identity Integration Server 2003 följer policyn för fast livscykel.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: dbad234b5c3f1f121bc91d27feef671281cfd044
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.date: 09/01/2020
+  keywords: Enterprise
+  ms.openlocfilehash: a1ef4c754fdb32948d2e6e965d554076955dd544
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: HT
   ms.contentlocale: sv-SE
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "841729"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "933544"
 name: Microsoft Identity Integration Server 2003
 summary: "Microsoft Identity Integration Server 2003 följer policyn för [fast](/lifecycle/policies/fixed) livscykel.\n\nDetta gäller för följande utgåvor: Enterprise\n\n> [!IMPORTANT]\n> Support för den här produkten har upphört. \n"
 products:

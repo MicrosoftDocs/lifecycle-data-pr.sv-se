@@ -2,19 +2,20 @@
 metadata:
   title: Cloud Platform System
   description: Moln plattforms systemet följer policyn för fast livs cykel.
-  ms.date: 08/12/2020
-  ms.openlocfilehash: 132fd3832cd1d0927fe7ce6af7eb8e0a21e8d308
-  ms.sourcegitcommit: 1974bfc9a9fccaac36daaa1015b7f31c8814ae07
+  ms.date: 09/01/2020
+  keywords: Standard
+  ms.openlocfilehash: 77f8b0e296d10279130459a1c0917c04382c26bc
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: sv-SE
-  ms.lasthandoff: 08/12/2020
-  ms.locfileid: "891898"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "932064"
 name: Cloud Platform System
 summary: >+
   Moln plattforms systemet följer policyn för [fast](/lifecycle/policies/fixed) livs cykel.
 
 
-  Detta gäller för följande utgåvor: standard
+  Detta gäller för följande utgåvor: Standard
 
 products:
 - azure
@@ -27,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 01/29/2015
   endDate: 07/12/2022
-content: "\n\n> [!NOTE]\n> Stöd för Cloud Platform System utökas så att det visas för att förse alla kunder med standard tids linjen.\n> [!NOTE]\n> System standarden för Cloud Platform lanserades den 18 september 2017.\n\n## <a name=\"editions\"></a>Gåvor \n* Standar"
+content: "\n\n> [!NOTE]\n> Stöd för Cloud Platform System utökas så att det visas för att förse alla kunder med standard tids linjen.\n> [!NOTE]\n> System standarden för Cloud Platform lanserades den 18 september 2017.\n\n## <a name=\"editions\"></a>Utgåvor \n* Standard"
