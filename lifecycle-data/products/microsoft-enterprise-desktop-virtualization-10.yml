@@ -2,13 +2,14 @@
 metadata:
   title: Microsoft Enterprise Desktop Virtualization 1.0
   description: Microsoft Enterprise Desktop Virtualization 1.0 följer policyn för fast livscykel.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 71dcb3cec051dba7376d58dc536d778ae7359f4a
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.date: 09/01/2020
+  keywords: Enterprise
+  ms.openlocfilehash: 2e3879b453726a643faf1a53bfb51628d44ddd02
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: HT
   ms.contentlocale: sv-SE
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "842061"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "933988"
 name: Microsoft Enterprise Desktop Virtualization 1.0
 summary: >
   Microsoft Enterprise Desktop Virtualization 1.0 följer policyn för [fast](/lifecycle/policies/fixed) livscykel.
