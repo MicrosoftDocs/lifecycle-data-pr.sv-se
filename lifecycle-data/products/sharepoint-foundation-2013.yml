@@ -1,17 +1,18 @@
 ### YamlMime:Lifecycle
 metadata:
   title: SharePoint Foundation 2013
-  description: SharePoint Foundation 2013 följer policyn för fast livscykel.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 547a00535381e850eb04e63f5f876c1485928c9a
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  description: SharePoint Foundation 2013 följer policyn för fast livs cykel.
+  ms.date: 09/01/2020
+  keywords: ''
+  ms.openlocfilehash: f3241162e2d2a4953850015a7b1625b07adfbcbf
+  ms.sourcegitcommit: 81b08c37762fa90d8258fe5a26c257089bcc981b
   ms.translationtype: MT
   ms.contentlocale: sv-SE
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "864244"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "941095"
 name: SharePoint Foundation 2013
 summary: >+
-  SharePoint Foundation 2013 följer [policyn](/lifecycle/policies/fixed) för fast livscykel.
+  SharePoint Foundation 2013 följer policyn för [fast](/lifecycle/policies/fixed) livs cykel.
 
 
 products:
@@ -28,4 +29,4 @@ releases:
 - version: Original Release
   startDate: 01/09/2013
   endDate: 04/14/2015
-content: ''
+content: "\n## <a name=\"links\"></a>Länkar \n* [Dokumentation för Microsoft SharePoint Foundation 2013-utvecklare](/sharepoint/dev)\n* [Produkt dokumentation för Microsoft SharePoint Foundation 2013](/sharepoint/sharepoint-server)"
