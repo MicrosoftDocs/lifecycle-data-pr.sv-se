@@ -1,17 +1,18 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Project Server 2013
-  description: Project Server 2013 följer policyn för fast livscykel.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 028d739a542906ebdd03def90d8d0c3c3ba9b9d7
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  description: Project Server 2013 följer rikt linjer för fast livs cykel.
+  ms.date: 09/02/2020
+  keywords: ''
+  ms.openlocfilehash: b7ac954af370c4e147b0cb471f9233685f438a25
+  ms.sourcegitcommit: 37b80a1b6fcda4dc6147d99a362a75b884d08a51
   ms.translationtype: MT
   ms.contentlocale: sv-SE
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "863894"
+  ms.lasthandoff: 09/02/2020
+  ms.locfileid: "941763"
 name: Project Server 2013
 summary: >+
-  Project Server 2013 följer [policyn](/lifecycle/policies/fixed) för fast livscykel.
+  Project Server 2013 följer rikt linjer för [fast](/lifecycle/policies/fixed) livs cykel.
 
 
 products:
@@ -28,4 +29,4 @@ releases:
 - version: Original Release
   startDate: 01/09/2013
   endDate: 04/14/2015
-content: "\n## <a name=\"links\"></a>Länkar \n* [Service Pack-principen](/lifecycle/policies/fixed#service-packs)"
+content: "\n## <a name=\"links\"></a>Länkar \n* [Service pack-policy](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Se dokumentationen för [produkt](https://docs.microsoft.com/project/project-server-2013-and-2016) och [utvecklare](https://developer.microsoft.com/project/docs) ."
