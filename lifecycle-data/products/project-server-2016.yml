@@ -1,17 +1,18 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Project Server 2016
-  description: Project Server 2016 följer policyn för fast livscykel.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: e3925bf70d95a2c5f84a9ef30f3079abefc7d9eb
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  description: Project Server 2016 följer rikt linjer för fast livs cykel.
+  ms.date: 09/02/2020
+  keywords: ''
+  ms.openlocfilehash: a9dc96cf8e5a99917a0a31ccc23a413d9ff61ccc
+  ms.sourcegitcommit: 37b80a1b6fcda4dc6147d99a362a75b884d08a51
   ms.translationtype: MT
   ms.contentlocale: sv-SE
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "864329"
+  ms.lasthandoff: 09/02/2020
+  ms.locfileid: "941467"
 name: Project Server 2016
 summary: >+
-  Project Server 2016 följer [policyn](/lifecycle/policies/fixed) för fast livscykel.
+  Project Server 2016 följer rikt linjer för [fast](/lifecycle/policies/fixed) livs cykel.
 
 
 products:
@@ -25,4 +26,4 @@ releases:
 - version: Original Release
   startDate: 05/01/2016
   endDate: 07/14/2026
-content: ''
+content: "\n\n> [!NOTE]\n> Se dokumentationen för [produkt](https://docs.microsoft.com/project/project-server-2013-and-2016) och [utvecklare](https://developer.microsoft.com/project/docs) ."
