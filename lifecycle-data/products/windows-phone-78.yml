@@ -5,19 +5,19 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: 7ca5bd0f56f415c7c686e60ef7931172ce97a495
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sv-SE
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "864306"
 name: Windows Phone 7.8
 summary: >
-  Windows Phone 7.8 följer [policyn](/lifecycle/policies/fixed) för fast livscykel.
+  Windows Phone 7.8 följer policyn för [fast](/lifecycle/policies/fixed) livscykel.
 
 
 
   > [!IMPORTANT]
 
-  > Supporten för den här produkten har upphört.
+  > Support för den här produkten har upphört.
 products:
 - windows
 policyType: fixed-mainstream-only
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 02/09/2013
   endDate: 10/14/2014
-content: "\n\n> [!NOTE]\n> Microsoft gör uppdateringar tillgängliga för operativsystemet på telefonen, inklusive säkerhetsuppdateringar, under en period av 18 månader efter livscykelns startdatum. Distributionen av uppdateringarna kan styras av mobiloperatören eller telefontillverkaren som du köpte telefonen från. Uppdateringstillgängligheten varierar också mellan olika lands-, region- och maskinvarufunktioner."
+content: "\n\n> [!NOTE]\n> Microsoft gör uppdateringar tillgängliga för operativsystemet på din telefon, inklusive säkerhetsuppdateringar, under 18 månader efter livscykelns startdatum. Distributionen av uppdateringar kan styras av mobiloperatören eller telefonens tillverkare som du köpt din telefon av. Tillgängligheten för uppdateringen varierar även efter land, region och maskinvarufunktioner."

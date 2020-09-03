@@ -5,16 +5,16 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: 680c62e4b7aa1f0393f32386deb68f9c976b7c9b
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sv-SE
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "864078"
 name: Windows MultiPoint Server 2012
 summary: >+
-  Windows MultiPoint Server 2012 följer [policyn](/lifecycle/policies/fixed) för fast livscykel.
+  Windows MultiPoint Server 2012 följer policyn för [fast](/lifecycle/policies/fixed) livscykel.
 
 
-  Detta gäller följande utgåvor: Premium, Standard
+  Detta gäller för följande utgåvor: Premium, Standard
 
 products:
 - windows
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 10/30/2012
   endDate: 10/10/2023
-content: "\n## <a name=\"links\"></a>Länkar \n* [Vägledning för migrering](/windows-server/upgrade/upgrade-overview)\n\n> [!NOTE]\n> Mainstream och Extended-supporten för den här produkten har utökats för att ge kunderna standardtidslinjen för livscykelövergång.\n\n## <a name=\"editions\"></a>Upplagor \n* Premium\n* Standard"
+content: "\n## <a name=\"links\"></a>Länkar \n* [Vägledning för migrering](/windows-server/upgrade/upgrade-overview)\n\n> [!NOTE]\n> Mainstream- och utökad support för den här produkten har utökats för att erbjuda kunder standardtidslinjen för livscykelövergång.\n\n## <a name=\"editions\"></a>Utgåvor \n* Premium\n* Standard"

@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Windows Inbäddad 8.1 Handdator
+  title: Windows Embedded 8.1 Handheld
   description: Windows Embedded 8.1 Handheld följer policyn för fast livscykel.
   ms.date: 07/28/2020
   ms.openlocfilehash: 0b19ad1d2a53ee16861bf63a21f6924b3bea1c67
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sv-SE
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "864312"
-name: Windows Inbäddad 8.1 Handdator
+name: Windows Embedded 8.1 Handheld
 summary: >
-  Windows Embedded 8.1 Handheld följer [policyn](/lifecycle/policies/fixed) för fast livscykel.
+  Windows Embedded 8.1 Handheld följer policyn för [fast](/lifecycle/policies/fixed) livscykel.
 
 
 
   > [!IMPORTANT]
 
-  > Supporten för den här produkten har upphört. Om din organisation fortfarande underhåller dessa plattformar och har ytterligare frågor kontaktar du ditt kontoteam.
+  > Support för den här produkten har upphört. Kontakta ditt kontoteam om din organisation fortfarande underhåller dessa plattformar och har ytterligare frågor.
 products:
 - windows
 policyType: fixed-mainstream-only

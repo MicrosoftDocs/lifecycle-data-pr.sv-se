@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft BizTalk Accelerator för SWIFT 2,3
-  description: Microsoft BizTalk Accelerator för SWIFT 2,3 följer policyn för fast livs cykel.
+  title: Microsoft BizTalk Accelerator for SWIFT 2.3
+  description: Microsoft BizTalk Accelerator for SWIFT 2.3 följer policyn för fast livscykel.
   ms.date: 08/12/2020
   ms.openlocfilehash: 255f9cf85c3d65c0f2a538c76f9db4eb2489d6b0
   ms.sourcegitcommit: c7c4e0a2e3a93e251df1f1cdc0e078a7787b3dc3
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sv-SE
   ms.lasthandoff: 08/13/2020
   ms.locfileid: "893554"
-name: Microsoft BizTalk Accelerator för SWIFT 2,3
+name: Microsoft BizTalk Accelerator for SWIFT 2.3
 summary: >+
-  Microsoft BizTalk Accelerator för SWIFT 2,3 följer policyn för [fast](/lifecycle/policies/fixed) livs cykel.
+  Microsoft BizTalk Accelerator for SWIFT 2.3 följer policyn för [fast](/lifecycle/policies/fixed) livscykel.
 
 
-  Detta gäller för följande utgåvor: Enterprise, standard
+  Detta gäller för följande utgåvor: Enterprise, Standard
 
 products:
 - microsoft-servers
@@ -30,4 +30,4 @@ releases:
 - version: Original Release
   startDate: 06/21/2006
   endDate: 10/14/2008
-content: "\n## <a name=\"links\"></a>Länkar \n* [Policy för Service Pack](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Gåvor \n* Enterprise\n* Standar"
+content: "\n## <a name=\"links\"></a>Länkar \n* [Service pack-policy](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Utgåvor \n* Enterprise\n* Standard"

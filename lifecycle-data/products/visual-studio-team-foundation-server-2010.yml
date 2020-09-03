@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Visual Studio Team Foundation Server 2010
-  description: Visual Studio Team Foundation Server 2010 följer rikt linjer för fast livs cykel.
+  description: Visual Studio Team Foundation Server 2010 följer policyn för fast livscykel.
   ms.date: 08/21/2020
   ms.openlocfilehash: c0d6be70c5ce001b56c69d5b0ca374b014ecf598
   ms.sourcegitcommit: 72c1339c867caa2110c5c1501a6659bcee72415d
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sv-SE
   ms.lasthandoff: 08/21/2020
   ms.locfileid: "906822"
 name: Visual Studio Team Foundation Server 2010
 summary: >+
-  Visual Studio Team Foundation Server 2010 följer rikt linjer för [fast](/lifecycle/policies/fixed) livs cykel.
+  Visual Studio Team Foundation Server 2010 följer policyn för [fast](/lifecycle/policies/fixed) livscykel.
 
 
-  Detta gäller för följande utgåvor: alla tillämpliga externa kopplingar
+  Detta gäller för följande utgåvor: alla tillämpliga och External Connector
 
 products:
 - vs
@@ -30,4 +30,4 @@ releases:
 - version: Original Release
   startDate: 06/29/2010
   endDate: 04/10/2012
-content: "\n## <a name=\"links\"></a>Länkar \n* [Vägledning för migrering](/azure/devops/server/upgrade/get-started?view=azure-devops)\n* [Azure dev-OPS](https://azure.microsoft.com/services/devops/migrate/)\n\n\n## <a name=\"editions\"></a>Gåvor \n* Alla tillämpliga\n* Extern koppling"
+content: "\n## <a name=\"links\"></a>Länkar \n* [Vägledning för migrering](/azure/devops/server/upgrade/get-started?view=azure-devops)\n* [Azure Dev Ops](https://azure.microsoft.com/services/devops/migrate/)\n\n\n## <a name=\"editions\"></a>Utgåvor \n* Alla tillämpliga\n* External Connector"

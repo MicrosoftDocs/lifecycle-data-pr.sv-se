@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Inbyggd handdator i Windows 6.5
-  description: Windows Embedded Handheld 6.5 följer den fasta livscykelprincipen.
+  title: Windows Embedded Handheld 6.5
+  description: Windows Embedded Handheld 6.5 följer policyn för fast livscykel.
   ms.date: 07/28/2020
   ms.openlocfilehash: 71c30eb001e204d63d06c5292d491587d580b83b
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sv-SE
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "864307"
-name: Inbyggd handdator i Windows 6.5
+name: Windows Embedded Handheld 6.5
 summary: >
-  Windows Embedded Handheld 6.5 följer den [fasta](/lifecycle/policies/fixed) livscykelprincipen.
+  Windows Embedded Handheld 6.5 följer policyn för [fast](/lifecycle/policies/fixed) livscykel.
 
 
 
   > [!IMPORTANT]
 
-  > Stödet har upphört. Se migreringsvägledning nedan.
+  > Support har upphört. Se migreringsvägledningen nedan.
 products:
 - windows
 policyType: fixed
@@ -29,4 +29,4 @@ releases:
 - version: Original Release
   startDate: 12/17/2010
   endDate: 01/14/2020
-content: "\n## <a name=\"links\"></a>Länkar \n* [Vägledning för migrering](https://techcommunity.microsoft.com/t5/Product-Life-Cycle/FAST-products-approaching-the-end-of-extended-support-in-2018/td-p/101710)\n* [Dokumentation för Windows för IoT](/windows/iot-core/)"
+content: "\n## <a name=\"links\"></a>Länkar \n* [Vägledning för migrering](https://techcommunity.microsoft.com/t5/Product-Life-Cycle/FAST-products-approaching-the-end-of-extended-support-in-2018/td-p/101710)\n* [Dokumentation om Windows för IoT](/windows/iot-core/)"

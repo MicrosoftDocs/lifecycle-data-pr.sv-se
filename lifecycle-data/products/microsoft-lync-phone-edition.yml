@@ -5,13 +5,13 @@ metadata:
   ms.date: 07/30/2020
   ms.openlocfilehash: 9eab078296b6c16d3acdc1552739dabb02ab10a1
   ms.sourcegitcommit: e219a019691b1cde9e6f715e4e725b5861450d57
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sv-SE
   ms.lasthandoff: 07/31/2020
   ms.locfileid: "879539"
 name: Microsoft Lync Phone Edition
 summary: >+
-  Microsoft Lync Phone Edition följer [policyn](/lifecycle/policies/fixed) för fast livscykel.
+  Microsoft Lync Phone Edition följer policyn för [fast](/lifecycle/policies/fixed) livscykel.
 
 
 products:

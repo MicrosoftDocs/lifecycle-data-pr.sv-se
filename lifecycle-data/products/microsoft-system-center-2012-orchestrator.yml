@@ -5,13 +5,13 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: d2e8d6efc8fa088c9eb3db033e371374b8e78d40
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sv-SE
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "864055"
 name: Microsoft System Center 2012 Orchestrator
 summary: >+
-  Microsoft System Center 2012 Orchestrator följer [policyn](/lifecycle/policies/fixed) för fast livscykel.
+  Microsoft System Center 2012 Orchestrator följer policyn för [fast](/lifecycle/policies/fixed) livscykel.
 
 
 products:
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 05/30/2012
   endDate: 01/14/2014
-content: "\n## <a name=\"links\"></a>Länkar \n* [Service Pack-principen](/lifecycle/policies/fixed#service-packs)\n* [Dokumentation för Systemcenter](/system-center/#pivot=components&panel=components-all)\n* [Resurser för systemcenter](https://www.microsoft.com/system-center/resources)"
+content: "\n## <a name=\"links\"></a>Länkar \n* [Service pack-policy](/lifecycle/policies/fixed#service-packs)\n* [Dokumentation för System Center](/system-center/#pivot=components&panel=components-all)\n* [System Center-resurser](https://www.microsoft.com/system-center/resources)"

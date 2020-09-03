@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Internet Explorer 10
-  description: Internet Explorer 10 följer komponentlivscykelprincipen.
+  description: Internet Explorer 10 följer policyn för komponentens livscykel.
   ms.date: 07/28/2020
   ms.openlocfilehash: 1faf7eecca13c22c8c54ab7382dfcf21c637cb1f
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sv-SE
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "863998"
 name: Internet Explorer 10
 summary: >+
-  Internet Explorer 10 [Component](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) följer komponentlivscykelprincipen.
+  Internet Explorer 10 följer policyn för [komponentens](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) livscykel.
 
 
 products:
@@ -24,4 +24,4 @@ releases:
 - version: Original Release
   startDate: 10/30/2012
   endDate: 01/31/2020
-content: "\n## <a name=\"links\"></a>Länkar \n* [Vägledning för migrering](https://www.microsoft.com/en-us/WindowsForBusiness/End-of-IE-support)\n* [Vanliga frågor och svar om livscykelprincip i Internet Explorer](/lifecycle/faq/internet-explorer-microsoft-edge)\n\n> [!NOTE]\n> Besök vanliga frågor och svar om Internet Explorer Lifecycle för en lista över operativsystem och webbläsarkombinationer som stöds."
+content: "\n## <a name=\"links\"></a>Länkar \n* [Vägledning för migrering](https://www.microsoft.com/en-us/WindowsForBusiness/End-of-IE-support)\n* [Vanliga frågor och svar om livscykelprincipen för Internet Explorer](/lifecycle/faq/internet-explorer-microsoft-edge)\n\n> [!NOTE]\n> Besök vanliga frågor och svar om livscykeln för Internet Explorer för en lista över operativsystem och webbläsarkombinationer som stöds."

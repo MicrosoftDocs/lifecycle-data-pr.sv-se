@@ -5,19 +5,19 @@ metadata:
   ms.date: 07/30/2020
   ms.openlocfilehash: eec6a2b5b250aa779f288b4fa18e5c3330fe9f28
   ms.sourcegitcommit: e3a3bd051020add66386d68528657bb59240d90b
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sv-SE
   ms.lasthandoff: 07/30/2020
   ms.locfileid: "879024"
 name: Windows Essential Business Server 2008
 summary: >
-  Windows Essential Business Server 2008 följer [policyn](/lifecycle/policies/fixed) för fast livscykel.
+  Windows Essential Business Server 2008 följer policyn för [fast](/lifecycle/policies/fixed) livscykel.
 
 
 
   > [!IMPORTANT]
 
-  > Supportdatumet för det här produktpaketet bestäms av den enskilda komponentproduktens respektive livscykler. Läs igenom den enskilda komponentproduktens livscykel för att fastställa supportens längd.
+  > Supportdatumet för det här produktpaketet bestäms av produktens enskilda komponenters respektive livscykler. Granska produktens enskilda komponenters livscykel för att fastställa längden på support.
 products:
 - windows
 policyType: fixed
