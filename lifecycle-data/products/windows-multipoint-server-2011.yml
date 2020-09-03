@@ -5,16 +5,16 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: 002686168c27c03c0b513a06c0b73754b9559a3c
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sv-SE
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "864080"
 name: Windows MultiPoint Server 2011
 summary: >+
-  Windows MultiPoint Server 2011 följer [policyn](/lifecycle/policies/fixed) för fast livscykel.
+  Windows MultiPoint Server 2011 följer policyn för [fast](/lifecycle/policies/fixed) livscykel.
 
 
-  Detta gäller följande utgåvor: Premium, Standard
+  Detta gäller för följande utgåvor: Premium, Standard
 
 products:
 - windows
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 05/12/2011
   endDate: 07/13/2021
-content: "\n## <a name=\"links\"></a>Länkar \n* [Vägledning för migrering](/windows-server/get-started/installation-and-upgrade)\n* [Produktinformation](/windows-server/remote/multipoint-services/getting-started-with-multipoint-services)\n\n\n## <a name=\"editions\"></a>Upplagor \n* Premium\n* Standard"
+content: "\n## <a name=\"links\"></a>Länkar \n* [Vägledning för migrering](/windows-server/get-started/installation-and-upgrade)\n* [Produktinformation](/windows-server/remote/multipoint-services/getting-started-with-multipoint-services)\n\n\n## <a name=\"editions\"></a>Utgåvor \n* Premium\n* Standard"

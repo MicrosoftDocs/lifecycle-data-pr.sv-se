@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Dynamik NAV 2009 R2
-  description: Dynamics NAV 2009 R2 följer den fasta livscykelpolicyn.
+  title: Dynamics NAV 2009 R2
+  description: Dynamics NAV 2009 R2 följer policyn för fast livscykel.
   ms.date: 07/28/2020
   ms.openlocfilehash: 01925fe0f661312fdda3eef0517d8e99c15bde06
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sv-SE
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "864191"
-name: Dynamik NAV 2009 R2
+name: Dynamics NAV 2009 R2
 summary: >+
-  Dynamics NAV 2009 R2 följer den [fasta](/lifecycle/policies/fixed) livscykelpolicyn.
+  Dynamics NAV 2009 R2 följer policyn för [fast](/lifecycle/policies/fixed) livscykel.
 
 
 products:
@@ -25,4 +25,4 @@ releases:
 - version: Original Release
   startDate: 03/15/2011
   endDate: 01/14/2020
-content: "\n## <a name=\"links\"></a>Länkar \n* [Vägledning för migrering](https://mbs.microsoft.com/partnersource/northamerica/pricing-ordering/pricing-ordering-news/MicrosoftForecasterDiscontinuation)\n\n> [!NOTE]\n> Slutet på supportdatumen för NAV 2009 förlängs som visas."
+content: "\n## <a name=\"links\"></a>Länkar \n* [Vägledning för migrering](https://mbs.microsoft.com/partnersource/northamerica/pricing-ordering/pricing-ordering-news/MicrosoftForecasterDiscontinuation)\n\n> [!NOTE]\n> Datumet då support upphör för NAV 2009 förlängs enligt såsom visas."

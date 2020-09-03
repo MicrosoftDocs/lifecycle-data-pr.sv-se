@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: System Center Data Protection Manager Halvårskanal
-  description: System Center Data Protection Manager Semi Annual Channel följer den moderna livscykelpolicyn.
+  title: System Center Data Protection Manager med halvårskanal
+  description: System Center Data Protection Manager med halvårskanal följer policyn för den moderna livscykeln.
   ms.date: 07/28/2020
   ms.openlocfilehash: 60f83dbcc7830bca583b04a805878d1836f7e965
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sv-SE
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "872644"
-name: System Center Data Protection Manager Halvårskanal
+name: System Center Data Protection Manager med halvårskanal
 summary: >
-  System Center Data Protection Manager Semi Annual Channel följer den [moderna](/lifecycle/policies/modern) livscykelpolicyn.
+  System Center Data Protection Manager med halvårskanal följer policyn för den [moderna](/lifecycle/policies/modern) livscykeln.
 
 
 
   > [!IMPORTANT]
 
-  > Stödet har upphört. Se migreringsvägledning nedan.
+  > Support har upphört. Se migreringsvägledningen nedan.
 products:
 - msc
 policyType: modern-on-prem

@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Windows Embedded 8,1-industrin
-  description: Windows Embedded 8,1-branschen följer policyn för fast livs cykel.
+  title: Windows Embedded 8.1 Industry
+  description: Windows Embedded 8.1 Industry följer policyn för fast livscykel.
   ms.date: 08/21/2020
   ms.openlocfilehash: f18f36a1692ef77948c82bce5d1b0a0208c3dc9d
   ms.sourcegitcommit: 72c1339c867caa2110c5c1501a6659bcee72415d
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sv-SE
   ms.lasthandoff: 08/21/2020
   ms.locfileid: "906934"
-name: Windows Embedded 8,1-industrin
+name: Windows Embedded 8.1 Industry
 summary: >+
-  Windows Embedded 8,1-branschen följer policyn för [fast](/lifecycle/policies/fixed) livs cykel.
+  Windows Embedded 8.1 Industry följer policyn för [fast](/lifecycle/policies/fixed) livscykel.
 
 
-  Detta gäller för följande utgåvor: Enterprise, Pro, separat inläsning
+  Detta gäller följande utgåvor: Enterprise, Pro och Sideloading
 
 products:
 - windows
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 11/25/2013
   endDate: 07/11/2023
-content: "\n## <a name=\"links\"></a>Länkar \n* [Vanliga frågor om livscykel – Windows-produkter](https://support.microsoft.co/help/18581)\n* [Vanliga frågor om Windows Embedded 8,1](/lifecycle/faq/windows#what-is-the-lifecycle-policy-for-windows-embedded-81-products)\n\n\n## <a name=\"editions\"></a>Gåvor \n* Enterprise\n* Proportionell\n* Sid"
+content: "\n## <a name=\"links\"></a>Länkar \n* [Vanliga frågor och svar om livscykel – Windows-produkter](https://support.microsoft.co/help/18581)\n* [Vanliga frågor och svar om Windows Embedded 8.1](/lifecycle/faq/windows#what-is-the-lifecycle-policy-for-windows-embedded-81-products)\n\n\n## <a name=\"editions\"></a>Utgåvor \n* Enterprise\n* Pro\n* Sideloading"

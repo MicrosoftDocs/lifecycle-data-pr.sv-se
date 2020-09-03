@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Application Virtualization Hosting 5.1 för Windows-skrivbord
-  description: Microsoft Application Virtualization Hosting 5.1 för Windows-datorer följer policyn för fast livscykel.
+  title: Microsoft Application Virtualization hosting 5.1 för Windows-skrivbord
+  description: Microsoft Application Virtualization Hosting 5.1 för Windows-skrivbord följer policyn för fast livscykel.
   ms.date: 07/28/2020
   ms.openlocfilehash: c6fc257da84e3276165d0ab97a736120c1424172
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sv-SE
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "864172"
-name: Microsoft Application Virtualization Hosting 5.1 för Windows-skrivbord
+name: Microsoft Application Virtualization hosting 5.1 för Windows-skrivbord
 summary: >+
-  Microsoft Application Virtualization Hosting 5.1 för Windows-datorer följer [policyn](/lifecycle/policies/fixed) för fast livscykel.
+  Microsoft Application Virtualization Hosting 5.1 för Windows-skrivbord följer policyn för [fast](/lifecycle/policies/fixed) livscykel.
 
 
-  Detta gäller följande versioner: för Windows-skrivbord
+  Detta gäller för följande utgåvor: för Windows-skrivbordsenhet
 
 products:
 - windows
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 11/01/2015
   endDate: 04/14/2026
-content: "\n## <a name=\"links\"></a>Länkar \n* [Produktinformation](/microsoft-desktop-optimization-pack/appv-v4/overview-of-application-virtualization)\n\n\n## <a name=\"editions\"></a>Upplagor \n* för Windows-skrivbord"
+content: "\n## <a name=\"links\"></a>Länkar \n* [Produktinformation](/microsoft-desktop-optimization-pack/appv-v4/overview-of-application-virtualization)\n\n\n## <a name=\"editions\"></a>Utgåvor \n* for Windows-skrivbordsenhet"

@@ -5,13 +5,13 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: ae676f0f1f60e3b034244349d273a177cf65662c
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sv-SE
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "864147"
 name: SharePoint Designer 2013
 summary: >+
-  SharePoint Designer 2013 följer [policyn](/lifecycle/policies/fixed) för fast livscykel.
+  SharePoint Designer 2013 följer policyn för [fast](/lifecycle/policies/fixed) livscykel.
 
 
   Detta gäller följande utgåvor: Designer
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 01/09/2013
   endDate: 04/14/2015
-content: "\n## <a name=\"links\"></a>Länkar \n* [Supportinformation](https://blogs.office.com/2016/01/20/sharepoint-server-2016-and-project-server-2016-release-candidate-available)\n\n> [!NOTE]\n> Stödet för Microsoft SharePoint Designer 2013 utökas enligt bilden för att säkerställa kompatibilitet med SharePoint Server 2016.\n\n## <a name=\"editions\"></a>Upplagor \n* Designer"
+content: "\n## <a name=\"links\"></a>Länkar \n* [Supportdetaljer](https://blogs.office.com/2016/01/20/sharepoint-server-2016-and-project-server-2016-release-candidate-available)\n\n> [!NOTE]\n> Support för Microsoft SharePoint Designer 2013 utökas såsom visas i syfte att säkerställa kompatibilitet med SharePoint Server 2016.\n\n## <a name=\"editions\"></a>Utgåvor \n* Designer"

@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Silverlight 5 (Silverlight)
+  title: Silverlight 5
   description: Silverlight 5 följer policyn för fast livscykel.
   ms.date: 07/28/2020
   ms.openlocfilehash: 2bdc8039724e69c5693e178d5697eb4e7242c3d2
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sv-SE
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "872610"
-name: Silverlight 5 (Silverlight)
+name: Silverlight 5
 summary: >+
-  Silverlight 5 följer [policyn](/lifecycle/policies/fixed) för fast livscykel.
+  Silverlight 5 följer policyn för [fast](/lifecycle/policies/fixed) livscykel.
 
 
 products:
@@ -24,4 +24,4 @@ releases:
 - version: Original Release
   startDate: 12/09/2011
   endDate: 10/12/2021
-content: "\n## <a name=\"links\"></a>Länkar \n* [Silverlight 5 kommer att stödja webbläsare som anges här genom 2021-10-12, eller genom livscykeln för de underliggande webbläsarna, beroende på vilket som är kortast.](https://www.microsoft.com/getsilverlight/locale/html/installation-win-SL5.html)\n* [Silverlight på support](https://support.microsoft.com/help/4511036/silverlight-end-of-support)\n\n> [!NOTE]\n> Microsoft kommer att tillhandahålla minst 12 månaders meddelande innan supporten för Verktyg avslutas."
+content: "\n## <a name=\"links\"></a>Länkar \n* [Silverlight 5 stödjer webbläsare som listas här fram till den 10/12/2021 eller under livscykeln för de underliggande webbläsarna beroende på vilket som är kortast.](https://www.microsoft.com/getsilverlight/locale/html/installation-win-SL5.html)\n* [Slut på support för Silverlight](https://support.microsoft.com/help/4511036/silverlight-end-of-support)\n\n> [!NOTE]\n> Microsoft kommer att meddela minst 12 månader i förväg innan supporten avslutas för Tools."

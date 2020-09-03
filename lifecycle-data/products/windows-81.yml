@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Windows 8,1
-  description: Windows 8,1 följer rikt linjer för fast livs cykel.
+  title: Windows 8.1
+  description: Windows 8.1 följer policyn för fast livscykel.
   ms.date: 08/21/2020
   ms.openlocfilehash: 42fc7e148a73c5583047b7bed3862484dea56340
   ms.sourcegitcommit: 72c1339c867caa2110c5c1501a6659bcee72415d
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sv-SE
   ms.lasthandoff: 08/21/2020
   ms.locfileid: "906675"
-name: Windows 8,1
+name: Windows 8.1
 summary: >+
-  Windows 8,1 följer rikt linjer för [fast](/lifecycle/policies/fixed) livs cykel.
+  Windows 8.1 följer policyn för [fast](/lifecycle/policies/fixed) livscykel.
 
 
   Detta gäller för följande utgåvor: Enterprise, Enterprise N, N, Pro med Media Center, Professional, Professional N, SL
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 11/13/2013
   endDate: 01/10/2023
-content: "\n## <a name=\"links\"></a>Länkar \n* [Vanliga frågor om livscykel – Windows-produkter](/lifecycle/faq/windows)\n\n\n## <a name=\"editions\"></a>Gåvor \n* Enterprise\n* Enterprise N\n* Saknas\n* Pro med Media Center\n* Specialist\n* Professional N\n* SL"
+content: "\n## <a name=\"links\"></a>Länkar \n* [Vanliga frågor och svar om livscykel – Windows-produkter](/lifecycle/faq/windows)\n\n\n## <a name=\"editions\"></a>Utgåvor \n* Enterprise\n* Enterprise N\n* N\n* Pro med Media Center\n* Professionell\n* Professional N\n* SL"

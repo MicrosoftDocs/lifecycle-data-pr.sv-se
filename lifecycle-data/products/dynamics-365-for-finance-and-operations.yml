@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Dynamics 365 för ekonomi och verksamhet
-  description: Dynamics 365 for Finance and Operations följer den moderna livscykelpolicyn.
+  title: Dynamics 365 för Finance and Operations
+  description: Dynamics 365 för Finance and Operations följer policyn för modern livscykel.
   ms.date: 07/28/2020
   ms.openlocfilehash: 04432837adaeae9ae5ec6f7cfad703875e45b772
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sv-SE
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "864116"
-name: Dynamics 365 för ekonomi och verksamhet
+name: Dynamics 365 för Finance and Operations
 summary: >+
-  Dynamics 365 for Finance and Operations följer den [moderna](/lifecycle/policies/modern) livscykelpolicyn.
+  Dynamics 365 för Finance and Operations följer policyn för [modern](/lifecycle/policies/modern) livscykel.
 
 
-  Detta gäller följande utgåvor: Enterprise
+  Detta gäller för följande utgåvor: Enterprise
 
 products:
 - dynamics
@@ -24,4 +24,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 02/19/2016
-content: "\n## <a name=\"links\"></a>Länkar \n* [Översikt över Microsoft Dynamics 365](https://roadmap.dynamics.com/)\n* [Serviceinformation](/dynamics365/operations/dev-itpro/migration-upgrade/versions-update-policy)\n* [Systemkrav](/dynamics365/fin-ops-core/fin-ops/get-started/system-requirements)\n\n\n## <a name=\"editions\"></a>Upplagor \n* Företag"
+content: "\n## <a name=\"links\"></a>Länkar \n* [Översikt över Microsoft Dynamics 365](https://roadmap.dynamics.com/)\n* [Serviceinformation](/dynamics365/operations/dev-itpro/migration-upgrade/versions-update-policy)\n* [Systemkrav](/dynamics365/fin-ops-core/fin-ops/get-started/system-requirements)\n\n\n## <a name=\"editions\"></a>Utgåvor \n* Enterprise"

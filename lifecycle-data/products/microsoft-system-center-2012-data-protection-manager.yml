@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft System Center 2012-dataskyddshanteraren
+  title: Microsoft System Center 2012 Data Protection Manager
   description: Microsoft System Center 2012 Data Protection Manager följer policyn för fast livscykel.
   ms.date: 07/28/2020
   ms.openlocfilehash: a3667b8180199cea7d42f522b7be36abcf2e4a45
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sv-SE
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "864058"
-name: Microsoft System Center 2012-dataskyddshanteraren
+name: Microsoft System Center 2012 Data Protection Manager
 summary: >+
-  Microsoft System Center 2012 Data Protection Manager följer [policyn](/lifecycle/policies/fixed) för fast livscykel.
+  Microsoft System Center 2012 Data Protection Manager följer policyn för [fast](/lifecycle/policies/fixed) livscykel.
 
 
 products:
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 05/30/2012
   endDate: 01/14/2014
-content: "\n## <a name=\"links\"></a>Länkar \n* [Dokumentation för Systemcenter](/system-center/#pivot=components&panel=components-all)\n* [Resurser för systemcenter](https://www.microsoft.com/system-center/resources)\n* [Service Pack-principen](/lifecycle/policies/fixed#service-packs)"
+content: "\n## <a name=\"links\"></a>Länkar \n* [Dokumentation för System Center](/system-center/#pivot=components&panel=components-all)\n* [System Center-resurser](https://www.microsoft.com/system-center/resources)\n* [Service pack-policy](/lifecycle/policies/fixed#service-packs)"
