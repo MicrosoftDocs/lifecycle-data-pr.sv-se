@@ -1,25 +1,25 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Windows HPC Server 2008
+  title: Windows Web Server 2008
   description: Windows HPC Server 2008 följer policyn för fast livscykel.
   ms.date: 07/28/2020
   ms.openlocfilehash: e208be03e69f56dc9f77409668c4f4f538a57997
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sv-SE
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "841919"
-name: Windows HPC Server 2008
+name: Windows Web Server 2008
 summary: >
-  Windows HPC Server 2008 följer [policyn](/lifecycle/policies/fixed) för fast livscykel.
+  Windows HPC Server 2008 följer policyn för [fast](/lifecycle/policies/fixed) livscykel.
 
 
-  Detta gäller följande utgåvor: Standard, utan Hyper-V
+  Detta gäller följande utgåvor: Standard och utan Hyper-V
 
 
   > [!IMPORTANT]
 
-  > Stödet har upphört. Se migreringsvägledning nedan.
+  > Support har upphört. Se migreringsvägledningen nedan.
 products:
 - windows
 policyType: fixed
@@ -34,4 +34,4 @@ releases:
 - version: Original Release
   startDate: 12/30/2008
   endDate: 07/12/2011
-content: "\n## <a name=\"links\"></a>Länkar \n* [Vägledning för migrering](https://aka.ms/AA1ovn4)\n\n\n## <a name=\"editions\"></a>Upplagor \n* Standard\n* utan Hyper-V"
+content: "\n## <a name=\"links\"></a>Länkar \n* [Vägledning för migrering](https://aka.ms/AA1ovn4)\n\n\n## <a name=\"editions\"></a>Utgåvor \n* Standard\n* utan Hyper-V"

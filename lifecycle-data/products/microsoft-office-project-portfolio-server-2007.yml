@@ -5,13 +5,13 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: 2f15eca6cc021c35859f131ae0d1e3ddc0efc3ba
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sv-SE
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "842036"
 name: Microsoft Office Project Portfolio Server 2007
 summary: >+
-  Microsoft Office Project Portfolio Server 2007 följer [policyn](/lifecycle/policies/fixed) för fast livscykel.
+  Microsoft Office Project Portfolio Server 2007 följer policyn för [fast](/lifecycle/policies/fixed) livscykel.
 
 
 products:
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 01/27/2007
   endDate: 04/14/2009
-content: "\n## <a name=\"links\"></a>Länkar \n* [Vägledning för migrering](/office/troubleshoot/support/office-2007-not-support)\n* [Service Pack-principen](/lifecycle/policies/fixed#service-packs)"
+content: "\n## <a name=\"links\"></a>Länkar \n* [Vägledning för migrering](/office/troubleshoot/support/office-2007-not-support)\n* [Service pack-policy](/lifecycle/policies/fixed#service-packs)"

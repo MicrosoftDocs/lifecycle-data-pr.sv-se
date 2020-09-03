@@ -5,19 +5,19 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: d9cbccd562c996dc7b138fd6e110950ef701bce8
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sv-SE
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "841409"
 name: Windows HPC Server 2008 R2
 summary: >
-  Windows HPC Server 2008 R2 följer [principen](/lifecycle/policies/fixed) om fast livscykel.
+  Windows HPC Server 2008 R2 följer principen om [fast](/lifecycle/policies/fixed) livscykel.
 
 
 
   > [!IMPORTANT]
 
-  > Supporten för den här produkten har upphört. Se migreringsvägledning nedan.
+  > Support för den här produkten har upphört. Se migreringsvägledningen nedan.
 products:
 - windows
 policyType: fixed

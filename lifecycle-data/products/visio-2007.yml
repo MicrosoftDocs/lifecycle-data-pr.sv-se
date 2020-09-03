@@ -5,16 +5,16 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: a8a9b82837dc1542ef98770a51dc64f37a888318
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sv-SE
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "841579"
 name: Visio 2007
 summary: >+
-  Visio 2007 följer [policyn](/lifecycle/policies/fixed) för fast livscykel.
+  Visio 2007 följer policyn för [fast](/lifecycle/policies/fixed) livscykel.
 
 
-  Detta gäller följande utgåvor: Professional, Standard
+  Detta gäller för följande utgåvor: Professional, Standard
 
 products:
 - office
@@ -36,4 +36,4 @@ releases:
 - version: Original Release
   startDate: 01/27/2007
   endDate: 01/13/2009
-content: "\n## <a name=\"links\"></a>Länkar \n* [Service Pack-principen](/lifecycle/policies/fixed#service-packs)\n* [Vägledning för migrering](/office/troubleshoot/support/office-2007-not-support)\n\n\n## <a name=\"editions\"></a>Upplagor \n* Professionell\n* Standard"
+content: "\n## <a name=\"links\"></a>Länkar \n* [Service pack-policy](/lifecycle/policies/fixed#service-packs)\n* [Vägledning för migrering](/office/troubleshoot/support/office-2007-not-support)\n\n\n## <a name=\"editions\"></a>Utgåvor \n* Professionell\n* Standard"

@@ -5,16 +5,16 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: 74b4c26a7bc5ff2ca5747a7dc50d91825ee5cd2c
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sv-SE
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "842134"
 name: Microsoft Antigen
 summary: >+
-  Microsoft Antigen följer [policyn](/lifecycle/policies/fixed) för fast livscykel.
+  Microsoft Antigen följer policyn för [fast](/lifecycle/policies/fixed) livscykel.
 
 
-  Detta gäller följande utgåvor: 9.0 för Exchange, Enterprise Manager 9.0, för SMTP Gateways, Spam Manager
+  Detta gäller för följande utgåvor: 9.0 för Exchange, Enterprise Manager 9.0, för SMTP Gateways, Spam Manager
 
 products:
 - windows
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 07/17/2006
   endDate: 12/31/2015
-content: "\n\n> [!NOTE]\n> Översikten för säkerhetsprodukter under varumärket Forefront har ändrats.Denna produkt upphör att vara den 31 december 2015.\n\n## <a name=\"editions\"></a>Upplagor \n* 9.0 för utbyte\n* Företagschef 9,0\n* för SMTP-gateways\n* Spam Manager"
+content: "\n\n> [!NOTE]\n> Färdplanen för säkerhetsprodukter under varumärket Forefront har ändrats. Denna produkt upphör från och med 31 december 2015.\n\n## <a name=\"editions\"></a>Utgåvor \n* 9.0 för Exchange\n* Enterprise Manager 9.0\n* för SMTP Gateways\n* Spam Manager\n\n"

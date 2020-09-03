@@ -5,12 +5,12 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: 9565d051119e9367e55a37ab1aeb269fe0fb3ed7
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sv-SE
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "842167"
 name: Forefront Protection 2010 för Exchange Server
-summary: "Forefront Protection 2010 för Exchange Server följer [policyn](/lifecycle/policies/fixed) för fast livscykel.\n\n\n> [!IMPORTANT]\n> Översikten för säkerhetsprodukter under varumärket Forefront har ändrats. Denna produkt upphör att vara den 31 december 2015. Se migreringsvägledning. \n"
+summary: "Forefront Protection 2010 för Exchange Server följer policyn för [fast](/lifecycle/policies/fixed) livscykel.\n\n\n> [!IMPORTANT]\n> Färdplanen för säkerhetsprodukter under varumärket Forefront har ändrats. Denna produkt upphör från och med 31 december 2015. Se vägledning för migrering. \n"
 products:
 - office
 policyType: fixed

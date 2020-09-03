@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft .NET Framework 4.0
-  description: Microsoft .NET Framework 4.0 följer komponentlivscykelpolicyn.
+  description: Microsoft .NET Framework 4.0 följer policyn för fast livscykel.
   ms.date: 07/28/2020
   ms.openlocfilehash: e43bfc52befb82fbb52ee258076d2ebb53e53e35
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sv-SE
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "842417"
 name: Microsoft .NET Framework 4.0
 summary: >+
-  Microsoft .NET Framework 4.0 [Component](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) följer komponentlivscykelpolicyn.
+  Microsoft .NET Framework 4.0 följer policyn för [fast](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) livscykel.
 
 
 products:

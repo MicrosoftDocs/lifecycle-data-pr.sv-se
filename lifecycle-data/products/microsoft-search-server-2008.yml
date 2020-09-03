@@ -5,12 +5,12 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: 8cc4d7be772a82fb4a16297daa58a2cc779aa3ab
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sv-SE
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "841454"
 name: Microsoft Search Server 2008
-summary: "Microsoft Search Server 2008 följer [policyn](/lifecycle/policies/fixed) för fast livscykel.\n\nDetta gäller följande utgåvor: Express, Standard\n\n> [!IMPORTANT]\n> Supporten för den här produkten har upphört. \n"
+summary: "Microsoft Search Server 2008 följer policyn för [fast](/lifecycle/policies/fixed) livscykel.\n\nDetta gäller följande utgåvor: Express och Standard\n\n> [!IMPORTANT]\n> Support för den här produkten har upphört. \n"
 products:
 - office
 policyType: fixed
@@ -22,4 +22,4 @@ releases:
 - version: Original Release
   startDate: 06/03/2008
   endDate: 07/10/2018
-content: "\n## <a name=\"links\"></a>Länkar \n* [Vägledning för migrering](https://techcommunity.microsoft.com/t5/Product-Life-Cycle/FAST-products-approaching-the-end-of-extended-support-in-2018/td-p/101710)\n\n\n## <a name=\"editions\"></a>Upplagor \n* Express\n* Standard"
+content: "\n## <a name=\"links\"></a>Länkar \n* [Vägledning för migrering](https://techcommunity.microsoft.com/t5/Product-Life-Cycle/FAST-products-approaching-the-end-of-extended-support-in-2018/td-p/101710)\n\n\n## <a name=\"editions\"></a>Utgåvor \n* Express\n* Standard"

@@ -5,13 +5,13 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: ddcdf5740b01da6e536d1d65bcde6a80f702e8e6
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sv-SE
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "842026"
 name: Microsoft Office SharePoint Portal Server 2003
 summary: >+
-  Microsoft Office SharePoint Portal Server 2003 följer [policyn](/lifecycle/policies/fixed) för fast livscykel.
+  Microsoft Office SharePoint Portal Server 2003 följer policyn för [fast](/lifecycle/policies/fixed) livscykel.
 
 
 products:
@@ -34,4 +34,4 @@ releases:
 - version: Original Release
   startDate: 11/23/2003
   endDate: 01/10/2006
-content: "\n## <a name=\"links\"></a>Länkar \n* [Service Pack-principen](/lifecycle/policies/fixed#service-packs)"
+content: "\n## <a name=\"links\"></a>Länkar \n* [Service pack-policy](/lifecycle/policies/fixed#service-packs)"
