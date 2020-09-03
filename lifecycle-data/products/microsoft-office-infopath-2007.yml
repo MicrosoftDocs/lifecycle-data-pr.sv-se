@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Office InfoPath 2007
-  description: Microsoft Office InfoPath 2007 följer principen om fast livscykel.
+  description: Microsoft Office InfoPath 2007 följer policyn för fast livscykel.
   ms.date: 07/28/2020
   ms.openlocfilehash: 248f2411554bdaf4d0f83c003dda9b735b631225
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sv-SE
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "841694"
 name: Microsoft Office InfoPath 2007
 summary: >+
-  Microsoft Office InfoPath 2007 följer [principen](/lifecycle/policies/fixed) om fast livscykel.
+  Microsoft Office InfoPath 2007 följer policyn för [fast](/lifecycle/policies/fixed) livscykel.
 
 
 products:

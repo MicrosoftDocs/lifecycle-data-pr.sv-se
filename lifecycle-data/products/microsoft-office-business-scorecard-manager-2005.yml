@@ -5,13 +5,13 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: bc345248ceba7c8f2cac730bc1141a0dae32d398
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sv-SE
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "842412"
 name: Microsoft Office Business Scorecard Manager 2005
 summary: >+
-  Microsoft Office Business Scorecard Manager 2005 följer [policyn](/lifecycle/policies/fixed) för fast livscykel.
+  Microsoft Office Business Scorecard Manager 2005 följer policyn för [fast](/lifecycle/policies/fixed) livscykel.
 
 
 products:
@@ -25,4 +25,4 @@ releases:
 - version: Original Release
   startDate: 12/27/2005
   endDate: 01/12/2016
-content: "\n## <a name=\"links\"></a>Länkar \n* [Vägledning för migrering](https://blogs.msdn.microsoft.com/performancepoint/2016/04/06/end-of-support-for-business-scorecard-accelerator-and-business-scorecard-manager-2005)\n\n> [!NOTE]\n> Support för Business Scorecard Manager 2005 upphörde 2016-01-12."
+content: "\n## <a name=\"links\"></a>Länkar \n* [Vägledning för migrering](https://blogs.msdn.microsoft.com/performancepoint/2016/04/06/end-of-support-for-business-scorecard-accelerator-and-business-scorecard-manager-2005)\n\n> [!NOTE]\n> Support för Business Scorecard Manager 2005 upphörde den 1/12/2016."

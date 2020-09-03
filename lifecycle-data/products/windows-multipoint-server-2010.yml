@@ -5,16 +5,16 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: fe2e8699f2c0dd5d2303ba32477aa39287a7c354
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sv-SE
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "841912"
 name: Windows MultiPoint Server 2010
 summary: >+
-  Windows MultiPoint Server 2010 följer [policyn](/lifecycle/policies/fixed) för fast livscykel.
+  Windows MultiPoint Server 2010 följer policyn för [fast](/lifecycle/policies/fixed) livscykel.
 
 
-  Detta gäller följande utgåvor: Academic, Standard
+  Detta gäller följande utgåvor: Academic och Standard
 
 products:
 - windows
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 05/13/2010
   endDate: 07/14/2020
-content: "\n## <a name=\"links\"></a>Länkar \n* [Vägledning för migrering](https://aka.ms/AA1ovn4)\n* [Ytterligare vägledning om migrering](/windows-server/get-started/installation-and-upgrade)\n* [Produktinformation](/windows-server/remote/multipoint-services/getting-started-with-multipoint-services)\n\n\n## <a name=\"editions\"></a>Upplagor \n* Akademiska\n* Standard"
+content: "\n## <a name=\"links\"></a>Länkar \n* [Vägledning för migrering](https://aka.ms/AA1ovn4)\n* [Ytterligare vägledning om migrering](/windows-server/get-started/installation-and-upgrade)\n* [Produktinformation](/windows-server/remote/multipoint-services/getting-started-with-multipoint-services)\n\n\n## <a name=\"editions\"></a>Utgåvor \n* Academic\n* Standard"

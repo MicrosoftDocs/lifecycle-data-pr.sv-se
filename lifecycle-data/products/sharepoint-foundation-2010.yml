@@ -5,13 +5,13 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: 4e1bc498432d215ea8f84140c068054cf6c9c5cc
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sv-SE
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "841429"
 name: SharePoint Foundation 2010
 summary: >+
-  SharePoint Foundation 2010 följer [policyn](/lifecycle/policies/fixed) för fast livscykel.
+  SharePoint Foundation 2010 följer policyn för [fast](/lifecycle/policies/fixed) livscykel.
 
 
 products:
@@ -31,4 +31,4 @@ releases:
 - version: Original Release
   startDate: 07/15/2010
   endDate: 07/10/2012
-content: "\n## <a name=\"links\"></a>Länkar \n* [Vägledning för migrering](/office365/enterprise/upgrade-from-sharepoint-2010)\n* [Supporttillägg](https://aka.ms/SharePoint/server/2010/supportextension)\n\n> [!NOTE]\n> Produktens supportdatum har förlängts från den 13 oktober 2020 till den 13 april 2021."
+content: "\n## <a name=\"links\"></a>Länkar \n* [Vägledning för migrering](/office365/enterprise/upgrade-from-sharepoint-2010)\n* [Utökad support](https://aka.ms/SharePoint/server/2010/supportextension)\n\n> [!NOTE]\n> Slutdatumet för produktsupport har skjutits upp från 13 oktober april 2020 till 13 april 2021."

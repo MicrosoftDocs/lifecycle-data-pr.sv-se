@@ -5,16 +5,16 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: 80fa4146ce4ae0ec8055a0915fa75ef64551f9f7
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sv-SE
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "842408"
 name: Microsoft Office Communications Server 2007
 summary: >+
-  Microsoft Office Communications Server 2007 följer [policyn](/lifecycle/policies/fixed) för fast livscykel.
+  Microsoft Office Communications Server 2007 följer policyn för [fast](/lifecycle/policies/fixed) livscykel.
 
 
-  Detta gäller följande utgåvor: Enterprise, Standard
+  Detta gäller för följande utgåvor: Enterprise, Standard
 
 products:
 - office
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 10/27/2007
   endDate: 01/09/2018
-content: "\n## <a name=\"links\"></a>Länkar \n* [Vägledning för migrering](https://blogs.technet.microsoft.com/nexthop/2016/02/22/end-of-extended-support-for-office-communicator-and-office-communications-server)\n\n\n## <a name=\"editions\"></a>Upplagor \n* Företag\n* Standard"
+content: "\n## <a name=\"links\"></a>Länkar \n* [Vägledning för migrering](https://blogs.technet.microsoft.com/nexthop/2016/02/22/end-of-extended-support-for-office-communicator-and-office-communications-server)\n\n\n## <a name=\"editions\"></a>Utgåvor \n* Enterprise\n* Standard"

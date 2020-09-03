@@ -5,12 +5,12 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: 01af695d1e4122676e1fbf362392e8b032ccf71e
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sv-SE
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "841703"
 name: Microsoft Office Forms Server 2007
-summary: "Microsoft Office Forms Server 2007 följer [policyn](/lifecycle/policies/fixed) för fast livscykel.\n\n\n> [!IMPORTANT]\n> Supporten för den här produkten har upphört. Se migreringsvägledning nedan. \n"
+summary: "Microsoft Office Forms Server 2007 följer policyn för [fast](/lifecycle/policies/fixed) livscykel.\n\n\n> [!IMPORTANT]\n> Support för den här produkten har upphört. Se migreringsvägledningen nedan. \n"
 products:
 - office
 policyType: fixed

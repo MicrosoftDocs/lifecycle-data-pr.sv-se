@@ -5,16 +5,16 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: f30c38e094a3b58f587d59871bd573607df04273
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sv-SE
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "842074"
 name: Microsoft Connected Services Framework 3.0
 summary: >+
-  Microsoft Connected Services Framework 3.0 följer [policyn](/lifecycle/policies/fixed) för fast livscykel.
+  Microsoft Connected Services Framework 3.0 följer policyn för [fast](/lifecycle/policies/fixed) livscykel.
 
 
-  Detta gäller följande utgåvor: Billing Standard Business Event, Orderhantering Standard Business Event, Server, Standard, Standard Server med standardaffärshändelser
+  Detta gäller för följande utgåvor: Fakturering för standardaffärshändelse, orderhantering för standardaffärshändelse, Server, Standard, standardserver med standardaffärshändelser
 
 products:
 - connected-services-framework
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 06/30/2006
   endDate: 07/12/2016
-content: "\n\n\n## <a name=\"editions\"></a>Upplagor \n* Affärshändelse för faktureringsstandard\n* Standardhändelse för orderhantering\n* Server\n* Standard\n* Standardserver med vanliga affärshändelser"
+content: "\n\n\n## <a name=\"editions\"></a>Utgåvor \n* Fakturering för standardaffärshändelse\n* Orderhantering för standardaffärshändelse\n* Server\n* Standard\n* Standardserver med standardaffärshändelser"

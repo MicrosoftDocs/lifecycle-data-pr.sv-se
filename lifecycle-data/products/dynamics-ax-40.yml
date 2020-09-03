@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Dynamics AX 4.0
-  description: Dynamics AX 4.0 följer den fasta livscykelprincipen.
+  description: Dynamics AX 4.0 följer policyn för fast livscykel.
   ms.date: 07/28/2020
   ms.openlocfilehash: fabf8d8544251b9b59f3873a258d39549aa1d978
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sv-SE
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "841499"
 name: Dynamics AX 4.0
 summary: >+
-  Dynamics AX 4.0 följer den [fasta](/lifecycle/policies/fixed) livscykelprincipen.
+  Dynamics AX 4.0 följer policyn för [fast](/lifecycle/policies/fixed) livscykel.
 
 
 products:
@@ -31,4 +31,4 @@ releases:
 - version: Original Release
   startDate: 09/10/2006
   endDate: 01/08/2008
-content: "\n## <a name=\"links\"></a>Länkar \n* [Service Pack-principen](/lifecycle/policies/fixed#service-packs)\n* [Microsoft Dynamics AX 4.0](https://mbs.microsoft.com/customersource/northamerica/AX/version/AX40)\n* [Dynamics 365 migreringsprogram](https://dynamics.microsoft.com/migration-program/)"
+content: "\n## <a name=\"links\"></a>Länkar \n* [Service pack-policy](/lifecycle/policies/fixed#service-packs)\n* [Microsoft Dynamics AX 4.0](https://mbs.microsoft.com/customersource/northamerica/AX/version/AX40)\n* [Dynamics 365 migreringsprogram](https://dynamics.microsoft.com/migration-program/)"

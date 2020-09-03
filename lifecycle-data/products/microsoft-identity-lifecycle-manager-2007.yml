@@ -5,13 +5,13 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: e87de30d9ecd945c0aa172fa69f570a981114ab2
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sv-SE
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "841727"
 name: Microsoft Identity Lifecycle Manager 2007
 summary: >+
-  Microsoft Identity Lifecycle Manager 2007 följer [policyn](/lifecycle/policies/fixed) för fast livscykel.
+  Microsoft Identity Lifecycle Manager 2007 följer policyn för [fast](/lifecycle/policies/fixed) livscykel.
 
 
 products:
@@ -31,4 +31,4 @@ releases:
 - version: Original Release
   startDate: 06/30/2007
   endDate: 01/13/2009
-content: "\n## <a name=\"links\"></a>Länkar \n* [Vägledning för migrering](/previous-versions/mim/ff608268(v=ws.10)?redirectedfrom=MSDN)\n* [Service Pack-principen](/lifecycle/policies/fixed#service-packs)"
+content: "\n## <a name=\"links\"></a>Länkar \n* [Vägledning för migrering](/previous-versions/mim/ff608268(v=ws.10)?redirectedfrom=MSDN)\n* [Service pack-policy](/lifecycle/policies/fixed#service-packs)"

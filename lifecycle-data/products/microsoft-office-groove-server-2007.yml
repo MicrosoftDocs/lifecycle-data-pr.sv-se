@@ -5,13 +5,13 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: a8a376a61450670925b2e2b6282da7df9715c26b
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sv-SE
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "841696"
 name: Microsoft Office Groove Server 2007
 summary: >+
-  Microsoft Office Groove Server 2007 följer [policyn](/lifecycle/policies/fixed) för fast livscykel.
+  Microsoft Office Groove Server 2007 följer policyn för [fast](/lifecycle/policies/fixed) livscykel.
 
 
 products:

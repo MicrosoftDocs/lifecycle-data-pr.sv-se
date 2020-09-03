@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Office Communicator Phone Edition
+  title: Microsoft Office Communicator Phone utgåva
   description: Microsoft Office Communicator Phone Edition följer policyn för fast livscykel.
   ms.date: 07/28/2020
   ms.openlocfilehash: 368d65cc1ace6dffa576cfa9add8d9e3286a6ea9
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sv-SE
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "842398"
-name: Microsoft Office Communicator Phone Edition
+name: Microsoft Office Communicator Phone utgåva
 summary: >+
-  Microsoft Office Communicator Phone Edition följer [policyn](/lifecycle/policies/fixed) för fast livscykel.
+  Microsoft Office Communicator Phone Edition följer policyn för [fast](/lifecycle/policies/fixed) livscykel.
 
 
-  Detta gäller följande utgåvor: Telefon
+  Detta gäller för följande utgåvor: Phone
 
 products:
 - office
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 01/15/2007
   endDate: 04/11/2017
-content: "\n## <a name=\"links\"></a>Länkar \n* [Vägledning för migrering](https://blogs.technet.microsoft.com/nexthop/2016/02/22/end-of-extended-support-for-office-communicator-and-office-communications-server/)\n\n\n## <a name=\"editions\"></a>Upplagor \n* Telefonnummer"
+content: "\n## <a name=\"links\"></a>Länkar \n* [Vägledning för migrering](https://blogs.technet.microsoft.com/nexthop/2016/02/22/end-of-extended-support-for-office-communicator-and-office-communications-server/)\n\n\n## <a name=\"editions\"></a>Utgåvor \n* Telefon"

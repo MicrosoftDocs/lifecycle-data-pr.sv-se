@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Forefront-webbskyddstjänster för hothanteringsgateway
+  title: Microsoft Forefront Threat Management Gateway Web Protection Services
   description: Microsoft Forefront Threat Management Gateway Web Protection Services följer policyn för fast livscykel.
   ms.date: 07/28/2020
   ms.openlocfilehash: c4c69a070513e336ed8305b8f6a37c2bf5972d1c
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sv-SE
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "842051"
-name: Microsoft Forefront-webbskyddstjänster för hothanteringsgateway
+name: Microsoft Forefront Threat Management Gateway Web Protection Services
 summary: >+
-  Microsoft Forefront Threat Management Gateway Web Protection Services följer [policyn](/lifecycle/policies/fixed) för fast livscykel.
+  Microsoft Forefront Threat Management Gateway Web Protection Services följer policyn för [fast](/lifecycle/policies/fixed) livscykel.
 
 
 products:
@@ -24,4 +24,4 @@ releases:
 - version: Original Release
   startDate: 12/01/2009
   endDate: 12/31/2015
-content: "\n## <a name=\"links\"></a>Länkar \n* [Översikt över Forefront](https://blogs.technet.microsoft.com/hybridcloud/2012/09/12/important-changes-to-forefront-product-roadmaps/)\n\n> [!NOTE]\n> Översikten för säkerhetsprodukter under varumärket Forefront har ändrats.Denna produkt upphör att vara den 31 december 2015."
+content: "\n## <a name=\"links\"></a>Länkar \n* [Färdplan för Forefront](https://blogs.technet.microsoft.com/hybridcloud/2012/09/12/important-changes-to-forefront-product-roadmaps/)\n\n> [!NOTE]\n> Färdplanen för säkerhetsprodukter under varumärket Forefront har ändrats. Denna produkt upphör från och med 31 december 2015.\n\n\n"

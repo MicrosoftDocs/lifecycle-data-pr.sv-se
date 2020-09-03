@@ -5,21 +5,21 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: 537a6fbd4ff1d9f82a9ffd0dcd3b456bee05cc55
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sv-SE
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "841459"
 name: Microsoft Operations Manager (MOM) 2005
 summary: >
-  Microsoft Operations Manager (MOM) 2005 följer [policyn](/lifecycle/policies/fixed) för fast livscykel.
+  Microsoft Operations Manager (MOM) 2005 följer policyn för [fast](/lifecycle/policies/fixed) livscykel.
 
 
-  Detta gäller följande utgåvor: Arbetsgrupp
+  Detta gäller för följande utgåvor: Workgroup
 
 
   > [!IMPORTANT]
 
-  > Supporten för den här produkten har upphört.
+  > Support för den här produkten har upphört.
 products:
 - msc
 policyType: fixed
@@ -34,4 +34,4 @@ releases:
 - version: Original Release
   startDate: 11/24/2004
   endDate: 10/10/2006
-content: "\n## <a name=\"links\"></a>Länkar \n* [Service Pack-principen](/lifecycle/policies/fixed#service-packs)\n* [Verksamhetschef](/system-center/scom/welcome?view=sc-om-2019)\n\n\n## <a name=\"editions\"></a>Upplagor \n* Arbetsgrupp\n\nnyckelord: MAMMA"
+content: "\n## <a name=\"links\"></a>Länkar \n* [Service pack-policy](/lifecycle/policies/fixed#service-packs)\n* [Operations Manager](/system-center/scom/welcome?view=sc-om-2019)\n\n\n## <a name=\"editions\"></a>Utgåvor \n* Workgroup\n\nNyckelord:  MOM"

@@ -5,13 +5,13 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: d6d186410b904b018d0d12029387bf88ac0784fb
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sv-SE
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "842045"
 name: Microsoft .NET Framework 2.0
 summary: >+
-  Microsoft .NET Framework 2.0 följer [policyn](/lifecycle/policies/fixed) för fast livscykel.
+  Microsoft .NET Framework 2.0 följer policyn för [fast](/lifecycle/policies/fixed) livscykel.
 
 
 products:
@@ -31,4 +31,4 @@ releases:
 - version: Original Release
   startDate: 02/17/2006
   endDate: 01/13/2009
-content: "\n## <a name=\"links\"></a>Länkar \n* [Vanliga frågor och svar om livscykel – .NET Framework](/lifecycle/faq/dotnet-framework)\n* [Produktinformation](/dotnet/framework/migration-guide/versions-and-dependencies#net-framework-20)\n\n> [!NOTE]\n> Stödet för .NET Framework 2.0 upphörde den 12 juli 2011."
+content: "\n## <a name=\"links\"></a>Länkar \n* [Vanliga frågor och svar om livscykel – .NET Framework](/lifecycle/faq/dotnet-framework)\n* [Produktinformation](/dotnet/framework/migration-guide/versions-and-dependencies#net-framework-20)\n\n> [!NOTE]\n> Support för .NET Framework 2.0 upphörde 12 juli 2011."

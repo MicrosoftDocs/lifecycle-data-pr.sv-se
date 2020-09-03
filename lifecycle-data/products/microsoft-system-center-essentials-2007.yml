@@ -5,19 +5,19 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: 450979ddd7953f32c7ab13fd8807a289ca930959
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sv-SE
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "841998"
 name: Microsoft System Center Essentials 2007
 summary: >
-  Microsoft System Center Essentials 2007 följer [policyn](/lifecycle/policies/fixed) för fast livscykel.
+  Microsoft System Center Essentials 2007 följer policyn för [fast](/lifecycle/policies/fixed) livscykel.
 
 
 
   > [!IMPORTANT]
 
-  > Supporten för den här produkten har upphört. Se migreringsvägledning nedan.
+  > Support för den här produkten har upphört. Se migreringsvägledningen nedan.
 products:
 - msc
 policyType: fixed
@@ -32,4 +32,4 @@ releases:
 - version: Original Release
   startDate: 10/09/2007
   endDate: 04/14/2009
-content: "\n## <a name=\"links\"></a>Länkar \n* [Service Pack-principen](/lifecycle/policies/fixed#service-packs)\n* [Vägledning för migrering](https://blogs.technet.microsoft.com/dpm/2017/01/10/system-center-data-protection-manager-2007-end-of-support/)"
+content: "\n## <a name=\"links\"></a>Länkar \n* [Service pack-policy](/lifecycle/policies/fixed#service-packs)\n* [Vägledning för migrering](https://blogs.technet.microsoft.com/dpm/2017/01/10/system-center-data-protection-manager-2007-end-of-support/)"

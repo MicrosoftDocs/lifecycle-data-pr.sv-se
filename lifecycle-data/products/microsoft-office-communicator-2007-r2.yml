@@ -5,12 +5,12 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: 96ef1f9786fe6c244254432e1f515155af5b267e
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sv-SE
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "842404"
 name: Microsoft Office Communicator 2007 R2
-summary: "Microsoft Office Communicator 2007 R2 följer [policyn](/lifecycle/policies/fixed) för fast livscykel.\n\nDetta gäller följande utgåvor: Alla tillämpliga, Telefon\n\n> [!IMPORTANT]\n> Supporten för den här produkten har upphört. Se migreringsvägledning. \n"
+summary: "Microsoft Office Communicator 2007 R2 följer policyn för [fast](/lifecycle/policies/fixed) livscykel.\n\nDetta gäller följande utgåvor: alla tillämpliga och Phone\n\n> [!IMPORTANT]\n> Support för den här produkten har upphört. Se vägledningen för migrering nedan. \n"
 products:
 - office
 policyType: fixed
@@ -22,4 +22,4 @@ releases:
 - version: Original Release
   startDate: 03/19/2009
   endDate: 01/09/2018
-content: "\n## <a name=\"links\"></a>Länkar \n* [Vägledning för migrering](https://blogs.technet.microsoft.com/nexthop/2016/02/22/end-of-extended-support-for-office-communicator-and-office-communications-server/)\n\n\n## <a name=\"editions\"></a>Upplagor \n* Alla tillämpliga\n* Telefonnummer"
+content: "\n## <a name=\"links\"></a>Länkar \n* [Vägledning för migrering](https://blogs.technet.microsoft.com/nexthop/2016/02/22/end-of-extended-support-for-office-communicator-and-office-communications-server/)\n\n\n## <a name=\"editions\"></a>Utgåvor \n* Alla tillämpliga\n* Telefon"
