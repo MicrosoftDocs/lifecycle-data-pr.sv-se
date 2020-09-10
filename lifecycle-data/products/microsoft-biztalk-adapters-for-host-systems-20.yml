@@ -2,13 +2,14 @@
 metadata:
   title: Microsoft BizTalk Adapters för värdsystem 2.0
   description: Microsoft BizTalk Adapters för värdsystem 2.0 följer policyn för fast livscykel.
-  ms.date: 08/12/2020
-  ms.openlocfilehash: 425db6cb5918efdf9afc544d8a0e8bb554ce695c
-  ms.sourcegitcommit: c7c4e0a2e3a93e251df1f1cdc0e078a7787b3dc3
+  ms.date: 09/10/2020
+  keywords: Developer,Standard
+  ms.openlocfilehash: 233e1bef8d5f953df1498b57cfbfc077b3461f49
+  ms.sourcegitcommit: c0c65f657b1da8e588fda5bedd3572fb2e3168bc
   ms.translationtype: HT
   ms.contentlocale: sv-SE
-  ms.lasthandoff: 08/13/2020
-  ms.locfileid: "893517"
+  ms.lasthandoff: 09/10/2020
+  ms.locfileid: "1000224"
 name: Microsoft BizTalk Adapters för värdsystem 2.0
 summary: >+
   Microsoft BizTalk Adapters för värdsystem 2.0 följer [policyn](/lifecycle/policies/fixed) för fast livscykel.
