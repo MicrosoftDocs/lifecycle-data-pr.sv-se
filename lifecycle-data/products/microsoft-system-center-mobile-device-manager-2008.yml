@@ -2,13 +2,14 @@
 metadata:
   title: Microsoft System Center Mobile Device Manager 2008
   description: Microsoft System Center Mobile Device Manager 2008 följer policyn för fast livscykel.
-  ms.date: 08/21/2020
-  ms.openlocfilehash: df98171e48c84191a90b4c051d6d17e77e720d93
-  ms.sourcegitcommit: 58c6a4bf0c3ef066969422e3acf340702facef6e
+  ms.date: 09/10/2020
+  keywords: All applicable,wSQL
+  ms.openlocfilehash: 88d4e4ed5265017faf066b03c192121e6319034c
+  ms.sourcegitcommit: c0c65f657b1da8e588fda5bedd3572fb2e3168bc
   ms.translationtype: HT
   ms.contentlocale: sv-SE
-  ms.lasthandoff: 08/21/2020
-  ms.locfileid: "906303"
+  ms.lasthandoff: 09/10/2020
+  ms.locfileid: "1001445"
 name: Microsoft System Center Mobile Device Manager 2008
 summary: >+
   Microsoft System Center Mobile Device Manager 2008 följer policyn för [fast](/lifecycle/policies/fixed) livscykel.
