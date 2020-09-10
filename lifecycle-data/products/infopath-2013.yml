@@ -2,13 +2,14 @@
 metadata:
   title: InfoPath 2013
   description: InfoPath 2013 följer policyn för fast livscykel.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 69bc8811a52c75cb58357ad4e0213f28a1001cae
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.date: 09/10/2020
+  keywords: Standard
+  ms.openlocfilehash: 7cd0b91eef230b0f5820c953c57369a58940d719
+  ms.sourcegitcommit: c0c65f657b1da8e588fda5bedd3572fb2e3168bc
   ms.translationtype: HT
   ms.contentlocale: sv-SE
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "864071"
+  ms.lasthandoff: 09/10/2020
+  ms.locfileid: "1002037"
 name: InfoPath 2013
 summary: >+
   InfoPath 2013 följer policyn för [fast](/lifecycle/policies/fixed) livscykel.
