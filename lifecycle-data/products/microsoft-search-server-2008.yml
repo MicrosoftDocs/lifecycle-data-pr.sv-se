@@ -2,13 +2,14 @@
 metadata:
   title: Microsoft Search Server 2008
   description: Microsoft Search Server 2008 följer policyn för fast livscykel.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 8cc4d7be772a82fb4a16297daa58a2cc779aa3ab
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.date: 09/10/2020
+  keywords: Express,Standard
+  ms.openlocfilehash: 897d34ffd003985cb2b60bebbc2db5d53614b443
+  ms.sourcegitcommit: c0c65f657b1da8e588fda5bedd3572fb2e3168bc
   ms.translationtype: HT
   ms.contentlocale: sv-SE
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "841454"
+  ms.lasthandoff: 09/10/2020
+  ms.locfileid: "999077"
 name: Microsoft Search Server 2008
 summary: "Microsoft Search Server 2008 följer policyn för [fast](/lifecycle/policies/fixed) livscykel.\n\nDetta gäller följande utgåvor: Express och Standard\n\n> [!IMPORTANT]\n> Support för den här produkten har upphört. \n"
 products:

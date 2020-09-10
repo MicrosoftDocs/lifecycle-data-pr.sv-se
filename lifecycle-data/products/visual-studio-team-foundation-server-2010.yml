@@ -2,13 +2,14 @@
 metadata:
   title: Visual Studio Team Foundation Server 2010
   description: Visual Studio Team Foundation Server 2010 följer policyn för fast livscykel.
-  ms.date: 08/21/2020
-  ms.openlocfilehash: c0d6be70c5ce001b56c69d5b0ca374b014ecf598
-  ms.sourcegitcommit: 72c1339c867caa2110c5c1501a6659bcee72415d
+  ms.date: 09/10/2020
+  keywords: All applicable,External Connector
+  ms.openlocfilehash: 4830d0684302b10940725131790657bce7758844
+  ms.sourcegitcommit: c0c65f657b1da8e588fda5bedd3572fb2e3168bc
   ms.translationtype: HT
   ms.contentlocale: sv-SE
-  ms.lasthandoff: 08/21/2020
-  ms.locfileid: "906822"
+  ms.lasthandoff: 09/10/2020
+  ms.locfileid: "1000092"
 name: Visual Studio Team Foundation Server 2010
 summary: >+
   Visual Studio Team Foundation Server 2010 följer policyn för [fast](/lifecycle/policies/fixed) livscykel.
