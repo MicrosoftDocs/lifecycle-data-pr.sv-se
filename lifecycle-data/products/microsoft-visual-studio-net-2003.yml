@@ -2,19 +2,19 @@
 metadata:
   title: Microsoft Visual Studio .NET 2003
   description: Microsoft Visual Studio .NET 2003 följer policyn för fast livscykel.
-  ms.date: 08/21/2020
-  ms.openlocfilehash: bd77a04d5e2119962483b8cdc8edb48ab1befd4f
-  ms.sourcegitcommit: c4013bce086aedc575584ea34b1acb5c27d06a1b
+  ms.date: 08/24/2020
+  ms.openlocfilehash: 4690cc7f70d544e52cb35df99a1e23279ebf02ec
+  ms.sourcegitcommit: 2f3e18a9447115504ef274bd044dbcdb08231f5b
   ms.translationtype: HT
   ms.contentlocale: sv-SE
-  ms.lasthandoff: 08/21/2020
-  ms.locfileid: "908003"
+  ms.lasthandoff: 08/25/2020
+  ms.locfileid: "908602"
 name: Microsoft Visual Studio .NET 2003
 summary: >+
   Microsoft Visual Studio .NET 2003 följer policyn för [fast](/lifecycle/policies/fixed) livscykel.
 
 
-  Detta gäller för följande utgåvor: Enterprise Architect, Enterprise Developer, J#, Professional
+  Detta gäller för följande utgåvor: Enterprise Architect, Enterprise Developer, J#, Professional, Standard
 
 products:
 - vs
@@ -30,4 +30,4 @@ releases:
 - version: Original Release
   startDate: 07/10/2003
   endDate: 10/09/2007
-content: "\n## <a name=\"links\"></a>Länkar \n* [Service pack-policy](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Utgåvor \n* Enterprise Architect\n* Enterprise Developer\n* J#\n* Professionell"
+content: "\n## <a name=\"links\"></a>Länkar \n* [Service pack-policy](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Utgåvor \n* Enterprise Architect\n* Enterprise Developer\n* J#\n* Professionell\n* Standard"

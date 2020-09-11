@@ -2,20 +2,20 @@
 metadata:
   title: Visual Studio Team System 2008
   description: Visual Studio Team System 2008 följer policyn för fast livscykel.
-  ms.date: 09/01/2020
-  keywords: All,Architecture,Database,Development,Team Explorer,Team Test Load Agent
-  ms.openlocfilehash: 7122905dd66fefcb18d378c99b4de213024c3a4d
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
+  ms.date: 09/02/2020
+  keywords: All,Architecture,Database,Development,Team Explorer,Team Test Load Agent,TFS
+  ms.openlocfilehash: 41a7a602e0aea666c7da8593af19243a881ec064
+  ms.sourcegitcommit: 27cfc07314fb17289e3d7cad15c37b591d53621a
   ms.translationtype: HT
   ms.contentlocale: sv-SE
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "938539"
+  ms.lasthandoff: 09/03/2020
+  ms.locfileid: "945315"
 name: Visual Studio Team System 2008
 summary: >
   Visual Studio Team System 2008 följer policyn för [fast](/lifecycle/policies/fixed) livscykel.
 
 
-  Detta gäller för följande utgåvor: Alla, Arkitektur, Databas, Development, Team Explorer, Team Test Load Agent
+  Det här gäller för följande versioner: All, Architecture, Database, Development, Team Explorer, Team Test Load Agent och TFS
 
 
   > [!IMPORTANT]
@@ -35,4 +35,4 @@ releases:
 - version: Original Release
   startDate: 02/19/2008
   endDate: 10/13/2009
-content: "\n## <a name=\"links\"></a>Länkar \n* [Vägledning för migrering](/visualstudio/porting/port-migrate-and-upgrade-visual-studio-projects?view=vs-2019)\n* [Vägledning för migrering](https://blogs.msdn.microsoft.com/visualstudio/2017/04/10/end-of-support-for-visual-studio-2008-in-one-year)\n* [Service pack-policy](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Utgåvor \n* Alla\n* Arkitektur\n* Databas\n* Development\n* Team Explorer\n* Team Test Load Agent"
+content: "\n## <a name=\"links\"></a>Länkar \n* [Vägledning för migrering](/visualstudio/porting/port-migrate-and-upgrade-visual-studio-projects?view=vs-2019)\n* [Vägledning för migrering](https://blogs.msdn.microsoft.com/visualstudio/2017/04/10/end-of-support-for-visual-studio-2008-in-one-year)\n* [Service pack-policy](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Utgåvor \n* Alla\n* Arkitektur\n* Databas\n* Development\n* Team Explorer\n* Team Test Load Agent\n* TFS"
