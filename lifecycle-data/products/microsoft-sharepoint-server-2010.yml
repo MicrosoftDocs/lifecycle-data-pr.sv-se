@@ -4,12 +4,12 @@ metadata:
   description: Microsoft SharePoint Server 2010 följer policyn för fast livscykel.
   ms.date: 09/01/2020
   keywords: Access Services,All applicable,Excel Services,Performance Point Services
-  ms.openlocfilehash: 0960eb0d25273c7cdca16fa4019b4b2e7b044900
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
+  ms.openlocfilehash: 02a1a5085dbd39b7379b0e71f69300095cfa54da
+  ms.sourcegitcommit: 37b80a1b6fcda4dc6147d99a362a75b884d08a51
   ms.translationtype: HT
   ms.contentlocale: sv-SE
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "929844"
+  ms.lasthandoff: 09/02/2020
+  ms.locfileid: "941578"
 name: Microsoft SharePoint Server 2010
 summary: >+
   Microsoft SharePoint Server 2010 följer policyn för [fast](/lifecycle/policies/fixed) livscykel.
@@ -34,4 +34,4 @@ releases:
 - version: Original Release
   startDate: 07/15/2010
   endDate: 07/10/2012
-content: "\n## <a name=\"links\"></a>Länkar \n* [Utökad support](https://aka.ms/SharePoint/server/2010/supportextension)\n* [Vägledning för migrering](/office365/enterprise/upgrade-from-sharepoint-2010)\n\n> [!NOTE]\n> Slutdatumet för produktsupport har skjutits upp från 13 oktober april 2020 till 13 april 2021.\n\n## <a name=\"editions\"></a>Utgåvor \n* Access Services\n* Alla tillämpliga\n* Excel Services\n* Performance Point Services"
+content: "\n## <a name=\"links\"></a>Länkar \n* [Utökad support](https://aka.ms/SharePoint/server/2010/supportextension)\n* [Vägledning för migrering](/office365/enterprise/upgrade-from-sharepoint-2010)\n* [Utvecklardokumentation för Microsoft SharePoint Server 2010](/previous-versions/office/developer/sharepoint-2010/ee557253(v=office.14))\n* [Produktdokumentation för Microsoft SharePoint Server 2010](/previous-versions/office/sharepoint-server-2010/cc303422(v=office.14))\n\n> [!NOTE]\n> Slutdatumet för produktsupport har skjutits upp från 13 oktober april 2020 till 13 april 2021.\n\n## <a name=\"editions\"></a>Utgåvor \n* Access Services\n* Alla tillämpliga\n* Excel Services\n* Performance Point Services"
