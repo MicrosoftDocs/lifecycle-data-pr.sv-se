@@ -1,21 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Office Publisher 2003
-  description: Microsoft Office Publisher 2003 följer policyn för fast livs cykel.
+  description: Microsoft Office Publisher 2003 följer policyn för fast livscykel.
   ms.date: 09/01/2020
   keywords: Standard,with Digital Imaging
   ms.openlocfilehash: 02171136d8f297220ab847aa34d70f61e3264555
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sv-SE
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "930362"
 name: Microsoft Office Publisher 2003
 summary: >+
-  Microsoft Office Publisher 2003 följer policyn för [fast](/lifecycle/policies/fixed) livs cykel.
+  Microsoft Office Publisher 2003 följer policyn för [fast](/lifecycle/policies/fixed) livscykel.
 
 
-  Detta gäller för följande utgåvor: standard, med Digital Imaging
+  Detta gäller följande utgåvor: Standard med Digital Imaging
 
 products:
 - office

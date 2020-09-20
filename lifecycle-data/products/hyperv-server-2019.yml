@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Hyper-V-server 2019
+  title: Hyper-V Server 2019
   description: Hyper-V Server 2019 följer policyn för fast livscykel.
   ms.date: 07/28/2020
   ms.openlocfilehash: 6ba8930e824f29ea98cb30ad9291ac18b0834221
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sv-SE
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "872511"
-name: Hyper-V-server 2019
+name: Hyper-V Server 2019
 summary: >+
-  Hyper-V Server 2019 följer [policyn](/lifecycle/policies/fixed) för fast livscykel.
+  Hyper-V Server 2019 följer policyn för [fast](/lifecycle/policies/fixed) livscykel.
 
 
 products:
@@ -25,4 +25,4 @@ releases:
 - version: Original Release
   startDate: 11/13/2018
   endDate: 01/09/2029
-content: "\n## <a name=\"links\"></a>Länkar \n* [Windows Server-community](https://techcommunity.microsoft.com/t5/windows-server/ct-p/Windows-Server)\n\n> [!NOTE]\n> Windows Server 2019 och Windows Server, version 1809, släpptes på för ny 13 november 2018. Supportdatum har justerats i enlighet med detta."
+content: "\n## <a name=\"links\"></a>Länkar \n* [Windows Server Community](https://techcommunity.microsoft.com/t5/windows-server/ct-p/Windows-Server)\n\n> [!NOTE]\n> Windows Server 2019 och Windows Server version 1809 omlanserades 13 november 2018. Supportdatum har justerats därefter."

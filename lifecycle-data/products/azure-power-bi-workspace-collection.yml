@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Azure Power BI-arbetsytan
-  description: Azure Power BI Workspace Collection följer den moderna livscykelprincipen.
+  title: Azure Power BI-arbetsytesamling
+  description: Azure Power BI-arbetsytesamling följer policyn för modern livscykel.
   ms.date: 07/28/2020
   ms.openlocfilehash: a95f325fa895563c498eca76aaa2b7978d393473
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sv-SE
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "863844"
-name: Azure Power BI-arbetsytan
+name: Azure Power BI-arbetsytesamling
 summary: >
-  Azure Power BI Workspace Collection följer den [moderna](/lifecycle/policies/modern) livscykelprincipen.
+  Azure Power BI-arbetsytesamling följer policyn för [modern](/lifecycle/policies/modern) livscykel.
 
 
 
   > [!IMPORTANT]
 
-  > Stödet har upphört. Se migreringsvägledning nedan.
+  > Support har upphört. Se migreringsvägledningen nedan.
 products:
 - sql-server
 policyType: modern-online

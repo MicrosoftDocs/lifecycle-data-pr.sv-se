@@ -1,18 +1,18 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Exchange Server 2016
-  description: Exchange Server 2016 följer policyn för fast livs cykel.
+  description: Exchange Server 2016 följer policyn för fast livscykel.
   ms.date: 09/01/2020
   keywords: Enterprise,Standard
   ms.openlocfilehash: bad2d3a8e4e33ce78bd15a78145aceb308d0eefb
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sv-SE
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "931176"
 name: Exchange Server 2016
 summary: >+
-  Exchange Server 2016 följer policyn för [fast](/lifecycle/policies/fixed) livs cykel.
+  Exchange Server 2016 följer policyn för [fast](/lifecycle/policies/fixed) livscykel.
 
 
   Detta gäller för följande utgåvor: Enterprise, Standard
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 10/01/2015
   endDate: 10/14/2025
-content: "\n## <a name=\"links\"></a>Länkar \n* [Service rikt linjer](/Exchange/new-features/updates?redirectedfrom)\n\n\n## <a name=\"editions\"></a>Utgåvor \n* Enterprise\n* Standard"
+content: "\n## <a name=\"links\"></a>Länkar \n* [Riktlinjer för service](/Exchange/new-features/updates?redirectedfrom)\n\n\n## <a name=\"editions\"></a>Utgåvor \n* Enterprise\n* Standard"

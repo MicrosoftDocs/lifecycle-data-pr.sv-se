@@ -1,21 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Excel 2010
-  description: Excel 2010 följer policyn för fast livs cykel.
+  description: Excel 2010 följer policyn för fast livscykel.
   ms.date: 09/01/2020
   keywords: Home and Student,Mobile,Standard
   ms.openlocfilehash: 1ba0a62a05a1e3fd9d8a0833957ca33f3ba8b4fb
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sv-SE
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "931620"
 name: Excel 2010
 summary: >+
-  Excel 2010 följer policyn för [fast](/lifecycle/policies/fixed) livs cykel.
+  Excel 2010 följer policyn för [fast](/lifecycle/policies/fixed) livscykel.
 
 
-  Detta gäller för följande utgåvor: Home and Student, Mobile, standard
+  Detta gäller följande utgåvor: Hemma och student samt Standard
 
 products:
 - office
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 07/15/2010
   endDate: 10/13/2020
-content: "\n## <a name=\"links\"></a>Länkar \n* [Vägledning för migrering](/DeployOffice/office-2010-end-support-roadmap)\n* [Service pack-policy](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Utgåvor \n* Hemma och student\n* Mobilvy\n* Standard"
+content: "\n## <a name=\"links\"></a>Länkar \n* [Vägledning för migrering](/DeployOffice/office-2010-end-support-roadmap)\n* [Service pack-policy](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Utgåvor \n* Hemma och student\n* Mobil\n* Standard"

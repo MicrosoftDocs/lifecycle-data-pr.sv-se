@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Windows Analytics
-  description: Windows Analytics följer modern livs cykel policy.
+  description: Windows Analytics följer policyn för modern livscykel.
   ms.date: 08/11/2020
   ms.openlocfilehash: 01c42583edc132faefab6ccf17e3f25cd6e2ce9b
   ms.sourcegitcommit: d4ec29fd0c57053cfa2254d1bb08c610bb5e6817
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sv-SE
   ms.lasthandoff: 08/11/2020
   ms.locfileid: "887874"
 name: Windows Analytics
 summary: >
-  Windows Analytics följer [modern](/lifecycle/policies/modern) livs cykel policy.
+  Windows Analytics följer [policyn](/lifecycle/policies/modern) för modern livscykel.
 
 
 
   > [!IMPORTANT]
 
-  > Supporten har avslut ATS. Se vägledning för migrering nedan.
+  > Support har upphört. Se migreringsvägledningen nedan.
 products:
 - windows
 policyType: modern-on-prem

@@ -5,12 +5,12 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: 9f41ce486a68b9b0e08999801f781e9f1b37330a
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sv-SE
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "864326"
 name: StorSimple 5000/7000-serien
-summary: "StorSimple 5000/7000-serien följer [policyn](/lifecycle/policies/fixed) för fast livscykel.\n\n\n> [!IMPORTANT]\n> Supporten för den här produkten har upphört. Se migreringsvägledning nedan. \n"
+summary: "StorSimple 5000/7000-serien följer policyn för [fast](/lifecycle/policies/fixed) livscykel.\n\n\n> [!IMPORTANT]\n> Support för den här produkten har upphört. Se migreringsvägledningen nedan. \n"
 products:
 - azure
 policyType: fixed-mainstream-only
