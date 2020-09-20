@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Dynamik GP 2015 R2
-  description: Dynamics GP 2015 R2 följer den fasta livscykelprincipen.
+  title: Dynamics GP 2015 R2
+  description: Dynamics GP 2015 R2 följer policyn för fast livscykel.
   ms.date: 07/28/2020
   ms.openlocfilehash: 36d211bd1ad7813494da1a9740d88c7ce0a69ae5
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sv-SE
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "864196"
-name: Dynamik GP 2015 R2
+name: Dynamics GP 2015 R2
 summary: >+
-  Dynamics GP 2015 R2 följer den [fasta](/lifecycle/policies/fixed) livscykelprincipen.
+  Dynamics GP 2015 R2 följer policyn för [fast](/lifecycle/policies/fixed) livscykel.
 
 
 products:

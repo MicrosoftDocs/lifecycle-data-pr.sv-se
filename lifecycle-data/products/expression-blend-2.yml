@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Uttryck 2
-  description: Uttryck 2 följer policyn för fast livs cykel.
+  title: Expression 2
+  description: Expression 2 följer policyn för fast livscykel.
   ms.date: 09/01/2020
   keywords: Blend,Design,Encoder,Studio,Web
   ms.openlocfilehash: 5186f4bbb53b110f625835b0250418a4594bf78b
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sv-SE
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "930843"
-name: Uttryck 2
-summary: "Uttryck 2 följer policyn för [fast](/lifecycle/policies/fixed) livs cykel.\n\nDetta gäller för följande utgåvor: mix, design, kodare, Studio, webben\n\n> [!IMPORTANT]\n> Support för den här produkten har avslut ATS. \n"
+name: Expression 2
+summary: "Expression 2 följer policyn för [fast](/lifecycle/policies/fixed) livscykel.\n\nDetta gäller för följande utgåvor: Blend, design, avkodare, studio, och webb\n\n> [!IMPORTANT]\n> Support för den här produkten har upphört. \n"
 products:
 - expression
 policyType: fixed
@@ -23,4 +23,4 @@ releases:
 - version: Original Release
   startDate: 07/24/2008
   endDate: 10/09/2018
-content: "\n\n\n## <a name=\"editions\"></a>Utgåvor \n* Gång\n* Ursprungsbeteckningar\n* Kodare\n* Studio\n* Webb"
+content: "\n\n\n## <a name=\"editions\"></a>Utgåvor \n* Blend\n* Design\n* Avkodare\n* Studio\n* Webb"

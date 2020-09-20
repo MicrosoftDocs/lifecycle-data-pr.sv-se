@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Office 365 (Företag, regering, utbildning)
-  description: Office 365 (Företag, regering, utbildning) följer den moderna livscykelpolicyn.
+  title: Office 365 (Enterprise, Government, Education)
+  description: Office 365 (Enterprise, Government, Education) följer policyn för modern livscykel.
   ms.date: 07/28/2020
   ms.openlocfilehash: 81c940fa031fd8eea9e3895d72c1a046af048638
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sv-SE
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "864053"
-name: Office 365 (Företag, regering, utbildning)
+name: Office 365 (Enterprise, Government, Education)
 summary: >+
-  Office 365 (Företag, regering, utbildning) följer den [moderna](/lifecycle/policies/modern) livscykelpolicyn.
+  Office 365 (Enterprise, Government, Education) följer policyn för [modern](/lifecycle/policies/modern) livscykel.
 
 
 products:

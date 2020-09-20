@@ -5,13 +5,13 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: d0fe8d525c158c363a39793b7e30850693dc93e5
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sv-SE
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "864270"
 name: PowerPoint 2011 för Mac
 summary: >+
-  PowerPoint 2011 för Mac följer [policyn](/lifecycle/policies/fixed) för fast livscykel.
+  PowerPoint 2011 för Mac följer policyn för [fast](/lifecycle/policies/fixed) livscykel.
 
 
 products:
@@ -24,4 +24,4 @@ releases:
 - version: Original Release
   startDate: 12/09/2010
   endDate: 10/10/2017
-content: "\n\n> [!NOTE]\n> Mainstream-stöd för Microsoft Office för Mac 2011 utökas enligt bilden för att ge alla kunder standardtidslinjen för livscykelövergång"
+content: "\n\n> [!NOTE]\n> Mainstream-support för Microsoft Office för Mac 2011 utökas såsom visas för att erbjuda alla kunder den standardiserade tidslinjen för livscykelövergång."

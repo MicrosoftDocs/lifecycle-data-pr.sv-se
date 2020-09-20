@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Dynamics CRM 2013
-  description: Dynamics CRM 2013 följer den fasta livscykelprincipen.
+  description: Dynamics CRM 2013 följer policyn för fast livscykel.
   ms.date: 07/28/2020
   ms.openlocfilehash: b99e79e86ea72c260c063f842ff64af888f4024c
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sv-SE
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "864207"
 name: Dynamics CRM 2013
 summary: >+
-  Dynamics CRM 2013 följer den [fasta](/lifecycle/policies/fixed) livscykelprincipen.
+  Dynamics CRM 2013 följer policyn för [fast](/lifecycle/policies/fixed) livscykel.
 
 
 products:
@@ -28,4 +28,4 @@ releases:
 - version: Original Release (ver 6.0)
   startDate: 01/12/2014
   endDate: 07/12/2016
-content: "\n## <a name=\"links\"></a>Länkar \n* [Service Pack-principen](/lifecycle/policies/fixed#service-packs)\n* [Supportinformation](https://support.microsoft.com/help/2917899/microsoft-dynamics-crm-2013-updates-and-hotfixes)"
+content: "\n## <a name=\"links\"></a>Länkar \n* [Service pack-policy](/lifecycle/policies/fixed#service-packs)\n* [Supportinformation](https://support.microsoft.com/help/2917899/microsoft-dynamics-crm-2013-updates-and-hotfixes)"
