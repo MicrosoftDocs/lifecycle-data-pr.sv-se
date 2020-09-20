@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Forefront Security för Sharepoint
-  description: Forefront Security for Sharepoint följer policyn för fast livscykel.
+  description: Forefront Security för Sharepoint följer policyn för fast livscykel.
   ms.date: 07/28/2020
   ms.openlocfilehash: 9354e1b278472de171a03354657be0f4920d4b3c
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sv-SE
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "842162"
 name: Forefront Security för Sharepoint
 summary: >
-  Forefront Security for Sharepoint följer [policyn](/lifecycle/policies/fixed) för fast livscykel.
+  Forefront Security för Sharepoint följer policyn för [fast](/lifecycle/policies/fixed) livscykel.
 
 
 
   > [!IMPORTANT]
 
-  > Supporten för den här produkten har upphört.
+  > Support för den här produkten har upphört.
 products:
 - windows
 policyType: fixed

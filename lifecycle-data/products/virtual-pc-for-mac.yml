@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Virtuell PC för Mac
+  title: Virtual PC för Mac
   description: Virtual PC för Mac följer policyn för fast livscykel.
   ms.date: 07/28/2020
   ms.openlocfilehash: cf556aeada0feade9a260e41c921b5f0ac6638e7
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sv-SE
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "841946"
-name: Virtuell PC för Mac
+name: Virtual PC för Mac
 summary: >+
-  Virtual PC för Mac följer [policyn](/lifecycle/policies/fixed) för fast livscykel.
+  Virtual PC för Mac följer policyn för [fast](/lifecycle/policies/fixed) livscykel.
 
 
 products:
@@ -24,4 +24,4 @@ releases:
 - version: Original Release
   startDate: 11/12/2003
   endDate: 01/13/2009
-content: "\n\n> [!NOTE]\n> Version 5.01, Version 5.02, Version 5.03, Version 5.04, Version 6.01, Version 6.02, Version 6.1, Version 6.1.1 Update, Version 7, Version 7.01"
+content: "\n\n> [!NOTE]\n> Medföljande version 5.01, version 5.02, version 5.03, version 5.04, version 6.01, version 6.02, version 6.1, uppdatering version 6.1.1, version 7 och version 7.01"

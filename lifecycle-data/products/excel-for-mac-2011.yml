@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Excel för Mac 2011
-  description: Excel för Mac 2011 följer den fasta livscykelprincipen.
+  description: Excel för Mac 2011 följer policyn för fast livscykel.
   ms.date: 07/28/2020
   ms.openlocfilehash: 6fbc511fd70af039109ad1e301de765ad20e836c
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sv-SE
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "842175"
 name: Excel för Mac 2011
 summary: >+
-  Excel för Mac 2011 följer den [fasta](/lifecycle/policies/fixed) livscykelprincipen.
+  Excel för Mac 2011 följer policyn för [fast](/lifecycle/policies/fixed) livscykel.
 
 
 products:
@@ -24,4 +24,4 @@ releases:
 - version: Original Release
   startDate: 12/09/2010
   endDate: 10/10/2017
-content: "\n\n> [!NOTE]\n> Det vanliga stödet för Microsoft Office för Mac 2011 utökas enligt bilden för att ge kunderna standardtidslinjen för livscykelövergång."
+content: "\n\n> [!NOTE]\n> Mainstream-support för Microsoft Office för Mac 2011 utökas såsom visas för att erbjuda alla kunder den standardiserade tidslinjen för livscykelövergång."

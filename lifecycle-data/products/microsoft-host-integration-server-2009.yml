@@ -1,16 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Värd integrationsserver 2009
+  title: Microsoft Host Integration Server 2009
   description: Microsoft Host Integration Server 2009 följer policyn för fast livscykel.
   ms.date: 07/28/2020
   ms.openlocfilehash: 08b1c9c6b318e238412255c9008244cbd13c7605
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sv-SE
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "841733"
-name: Microsoft Värd integrationsserver 2009
-summary: "Microsoft Host Integration Server 2009 följer [policyn](/lifecycle/policies/fixed) för fast livscykel.\n\n\n> [!IMPORTANT]\n> Supporten för den här produkten har upphört. Se migreringsvägledning nedan. \n"
+name: Microsoft Host Integration Server 2009
+summary: "Microsoft Host Integration Server 2009 följer policyn för [fast](/lifecycle/policies/fixed) livscykel.\n\n\n> [!IMPORTANT]\n> Support för den här produkten har upphört. Se migreringsvägledningen nedan. \n"
 products:
 - microsoft-servers
 policyType: fixed

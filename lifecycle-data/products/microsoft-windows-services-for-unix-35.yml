@@ -1,16 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Windows Services för UNIX 3.5
-  description: Microsoft Windows Services för UNIX 3.5 följer komponentlivscykelpolicyn.
+  description: Microsoft Windows Services för UNIX 3.5 följer policyn för komponentens livscykel.
   ms.date: 07/28/2020
   ms.openlocfilehash: 55f7940da408533190f0d2c0fdb2d323e983a9e4
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sv-SE
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "841437"
 name: Microsoft Windows Services för UNIX 3.5
-summary: "Microsoft Windows Services för UNIX 3.5 följer komponentlivscykelpolicyn. [Component](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy)\n\n\n> [!IMPORTANT]\n> Stödet har upphört. \n"
+summary: "Microsoft Windows Services för UNIX 3.5 följer policyn för [komponentens](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) livscykel.\n\n\n> [!IMPORTANT]\n> Support har upphört. \n"
 products:
 - windows
 policyType: component

@@ -5,13 +5,13 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: 9b76ebc222ff94ed78ae77e18623f18557e8ac38
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sv-SE
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "842055"
 name: Microsoft Forefront Identity Manager 2010
 summary: >+
-  Microsoft Forefront Identity Manager 2010 följer [policyn](/lifecycle/policies/fixed) för fast livscykel.
+  Microsoft Forefront Identity Manager 2010 följer policyn för [fast](/lifecycle/policies/fixed) livscykel.
 
 
 products:
@@ -25,4 +25,4 @@ releases:
 - version: Original Release
   startDate: 05/27/2010
   endDate: 10/11/2022
-content: "\n\n> [!NOTE]\n> Mainstream- och Extended-stöd för Microsoft Forefront Identity Manager 2010 utökas enligt bilden för att ge alla kunder standardtidslinjen för livscykelövergång."
+content: "\n\n> [!NOTE]\n> Mainstream-support och utökad support för Microsoft Forefront Identity Manager 2010 utökas såsom visas för att erbjuda alla kunder den standardiserade tidslinjen för livscykelövergången."
