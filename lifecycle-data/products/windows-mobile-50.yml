@@ -1,21 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Windows Mobile 5,0
-  description: Windows Mobile 5,0 följer rikt linjer för fast livs cykel.
+  title: Windows Mobile 5.0
+  description: Windows Mobile 5.0 följer policyn för fast livscykel.
   ms.date: 09/01/2020
   keywords: for Pocket PC,for Smartphones
   ms.openlocfilehash: 7a07c670b79f79c4c1e9406cff7b89db9eaab660
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sv-SE
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "939871"
-name: Windows Mobile 5,0
+name: Windows Mobile 5.0
 summary: >
-  Windows Mobile 5,0 följer rikt linjer för [fast](/lifecycle/policies/fixed) livs cykel.
+  Windows Mobile 5.0 följer policyn för [fast](/lifecycle/policies/fixed) livscykel.
 
 
-  Detta gäller för följande utgåvor: för Station ära datorer för Pocket PC
+  Detta gäller följande utgåvor: för Pocket PC och för smartphones
 
 
   > [!IMPORTANT]
@@ -32,4 +32,4 @@ releases:
 - version: Original Release
   startDate: 07/31/2005
   endDate: 10/13/2015
-content: "\n\n\n## <a name=\"editions\"></a>Utgåvor \n* för Pocket PC\n* för smartphones"
+content: "\n\n\n## <a name=\"editions\"></a>Utgåvor \n* för Pocket PC\n* för smarttelefoner"

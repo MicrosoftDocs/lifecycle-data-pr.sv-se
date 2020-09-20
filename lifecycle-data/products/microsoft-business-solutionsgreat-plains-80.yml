@@ -1,18 +1,18 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Business-lösningar – jättebra Plains 8,0
-  description: Microsoft Business-lösningar – jättebra Plains 8,0 följer policyn för fast livs cykel.
+  title: Microsoft Business Solutions--Great Plains 8.0
+  description: Microsoft Business Solutions--Great Plains 8.0 följer policyn för fast livscykel.
   ms.date: 09/01/2020
   keywords: Standard
   ms.openlocfilehash: 536666c99ff11026e44547243dc841425050faaa
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sv-SE
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "934691"
-name: Microsoft Business-lösningar – jättebra Plains 8,0
+name: Microsoft Business Solutions--Great Plains 8.0
 summary: >
-  Microsoft Business-lösningar – jättebra Plains 8,0 följer policyn för [fast](/lifecycle/policies/fixed) livs cykel.
+  Microsoft Business Solutions--Great Plains 8.0 följer [policyn](/lifecycle/policies/fixed) för fast livscykel.
 
 
   Detta gäller för följande utgåvor: Standard
@@ -20,7 +20,7 @@ summary: >
 
   > [!IMPORTANT]
 
-  > Support för den här produkten har upphört 13 oktober 2009
+  > Support för den här produkten upphörde 13 oktober 2009
 products:
 - dynamics
 policyType: fixed-mainstream-only

@@ -1,18 +1,18 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Enterprise Desktop Virtualization 2,0
-  description: Microsoft Enterprise Desktop Virtualization 2,0 följer policyn för fast livs cykel.
+  title: Microsoft Enterprise Desktop Virtualization 2.0
+  description: Microsoft Enterprise Desktop Virtualization 2.0 följer policyn för fast livscykel.
   ms.date: 09/01/2020
   keywords: Enterprise
   ms.openlocfilehash: c389a7a61ffd7a171c58b70f1050657e82d736be
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sv-SE
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "933914"
-name: Microsoft Enterprise Desktop Virtualization 2,0
+name: Microsoft Enterprise Desktop Virtualization 2.0
 summary: >+
-  Microsoft Enterprise Desktop Virtualization 2,0 följer policyn för [fast](/lifecycle/policies/fixed) livs cykel.
+  Microsoft Enterprise Desktop Virtualization 2.0 följer policyn för [fast](/lifecycle/policies/fixed) livscykel.
 
 
   Detta gäller för följande utgåvor: Enterprise
