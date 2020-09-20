@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Windows Inbäddade POSReady 2009
+  title: Windows Embedded POSReady 2009
   description: Windows Embedded POSReady 2009 följer policyn för fast livscykel.
   ms.date: 07/28/2020
   ms.openlocfilehash: 0e56e5a9ca8be7a3144f2107f487ce342b8f3ffe
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sv-SE
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "841927"
-name: Windows Inbäddade POSReady 2009
+name: Windows Embedded POSReady 2009
 summary: >
-  Windows Embedded POSReady 2009 följer [policyn](/lifecycle/policies/fixed) för fast livscykel.
+  Windows Embedded POSReady 2009 följer policyn för [fast](/lifecycle/policies/fixed) livscykel.
 
 
 
   > [!IMPORTANT]
 
-  > Stödet har upphört. Se migreringsvägledning nedan.
+  > Support har upphört. Se migreringsvägledningen nedan.
 products:
 - windows
 policyType: fixed
@@ -29,4 +29,4 @@ releases:
 - version: Original Release
   startDate: 03/10/2009
   endDate: 04/09/2019
-content: "\n## <a name=\"links\"></a>Länkar \n* [Supporten för Windows Embedded 2009](/lifecycle/announcements/windows-embedded-2009-end-of-support)\n* [Windows för IoT](https://www.microsoft.com/windowsforbusiness/windows-iot)"
+content: "\n## <a name=\"links\"></a>Länkar \n* [Supporten upphör för Windows Embedded 2009](/lifecycle/announcements/windows-embedded-2009-end-of-support)\n* [Windows för IoT](https://www.microsoft.com/windowsforbusiness/windows-iot)"

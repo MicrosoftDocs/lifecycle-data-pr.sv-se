@@ -5,19 +5,19 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: 472619ad5c47b8f0e8ff33bf769094c5edc6c58f
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sv-SE
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "841954"
 name: System Center Reporting Manager 2006
 summary: >
-  System Center Reporting Manager 2006 följer [policyn](/lifecycle/policies/fixed) för fast livscykel.
+  System Center Reporting Manager 2006 följer policyn för [fast](/lifecycle/policies/fixed) livscykel.
 
 
 
   > [!IMPORTANT]
 
-  > Supporten för den här produkten har upphört. Se migreringsvägledning nedan.
+  > Support för den här produkten har upphört. Se migreringsvägledningen nedan.
 products:
 - msc
 policyType: fixed

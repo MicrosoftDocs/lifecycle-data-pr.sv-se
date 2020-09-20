@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Windows Storage Server 2003
-  description: Windows Storage Server 2003 följer principen om fast livscykel.
+  description: Windows Storage Server 2003 följer policyn för fast livscykel.
   ms.date: 07/28/2020
   ms.openlocfilehash: 065ac07411e0e7178b8eba5b5c8f11989dc654aa
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sv-SE
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "841394"
 name: Windows Storage Server 2003
 summary: >
-  Windows Storage Server 2003 följer [principen](/lifecycle/policies/fixed) om fast livscykel.
+  Windows Storage Server 2003 följer policyn för [fast](/lifecycle/policies/fixed) livscykel.
 
 
 
   > [!IMPORTANT]
 
-  > Supporten för den här produkten har upphört. Se migreringsvägledning nedan.
+  > Support för den här produkten har upphört. Se migreringsvägledningen nedan.
 products:
 - windows
 policyType: fixed
@@ -29,4 +29,4 @@ releases:
 - version: Original Release
   startDate: 05/05/2003
   endDate: 04/10/2007
-content: "\n## <a name=\"links\"></a>Länkar \n* [Översikt över Uppgraderingar av Windows Server](/windows-server/upgrade/upgrade-overview)\n* [Ytterligare uppgraderingsinformation](/windows-server/get-started/installation-and-upgrade)"
+content: "\n## <a name=\"links\"></a>Länkar \n* [Översikt över Windows Server-uppgraderingar](/windows-server/upgrade/upgrade-overview)\n* [Ytterligare information om uppgradering](/windows-server/get-started/installation-and-upgrade)"

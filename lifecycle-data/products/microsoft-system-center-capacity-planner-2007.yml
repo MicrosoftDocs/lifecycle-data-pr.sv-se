@@ -5,19 +5,19 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: 026bf977e513462e9f4e5cb0509144ac26e9b9f7
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sv-SE
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "842011"
 name: Kapacitetsplanerare för Microsoft System Center 2007
 summary: >
-  Microsoft System Center Capacity Planner 2007 följer [policyn](/lifecycle/policies/fixed) för fast livscykel.
+  Microsoft System Center Capacity Planner 2007 följer policyn för [fast](/lifecycle/policies/fixed) livscykel.
 
 
 
   > [!IMPORTANT]
 
-  > Supporten för den här produkten har upphört.
+  > Support för den här produkten har upphört.
 products:
 - msc
 policyType: fixed

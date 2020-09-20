@@ -5,19 +5,19 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: bceaa4d262839239519b3ea3244f762d88982921
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sv-SE
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "842416"
 name: Microsoft .NET Micro Framework Porting Kit 3.0
 summary: >
-  Microsoft .NET Micro Framework Porting Kit 3.0 följer [policyn](/lifecycle/policies/fixed) för fast livscykel.
+  Microsoft .NET Micro Framework Porting Kit 3.0 följer policyn för [fast](/lifecycle/policies/fixed) livscykel.
 
 
 
   > [!IMPORTANT]
 
-  > Supporten för den här produkten har upphört.
+  > Support för den här produkten har upphört.
 products:
 - dotnet
 policyType: fixed
