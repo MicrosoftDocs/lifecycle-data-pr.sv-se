@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Office Communicator 2005
-  description: Microsoft Office Communicator 2005 följer policyn för fast livs cykel.
+  description: Microsoft Office Communicator 2005 följer policyn för fast livscykel.
   ms.date: 09/01/2020
   keywords: Standard
   ms.openlocfilehash: 63747b4e26cc52df003704a5cda3a3bcd637a8c1
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sv-SE
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "936282"
 name: Microsoft Office Communicator 2005
-summary: "Microsoft Office Communicator 2005 följer policyn för [fast](/lifecycle/policies/fixed) livs cykel.\n\nDetta gäller för följande utgåvor: Standard\n\n> [!IMPORTANT]\n> Support för den här produkten har upphört. \n"
+summary: "Microsoft Office Communicator 2005 följer policyn för [fast](/lifecycle/policies/fixed) livscykel.\n\nDetta gäller för följande utgåvor: Standard\n\n> [!IMPORTANT]\n> Support för den här produkten har upphört. \n"
 products:
 - office
 policyType: fixed

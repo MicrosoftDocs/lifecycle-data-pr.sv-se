@@ -1,18 +1,18 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Windows Mobile 6,5
-  description: Windows Mobile 6,5 följer rikt linjer för fast livs cykel.
+  title: Windows Mobile 6.5
+  description: Windows Mobile 6.5 följer policyn för fast livscykel.
   ms.date: 09/01/2020
   keywords: Professional,Standard
   ms.openlocfilehash: 33efcc83ffb0f417751ab3b65937ba480a5d0ac7
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sv-SE
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "939760"
-name: Windows Mobile 6,5
+name: Windows Mobile 6.5
 summary: >
-  Windows Mobile 6,5 följer rikt linjer för [fast](/lifecycle/policies/fixed) livs cykel.
+  Windows Mobile 6.5 följer policyn för [fast](/lifecycle/policies/fixed) livscykel.
 
 
   Detta gäller för följande utgåvor: Professional, Standard
