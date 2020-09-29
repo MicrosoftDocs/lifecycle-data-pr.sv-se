@@ -1,18 +1,18 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft C5 4,0
-  description: Microsoft C5 4,0 följer rikt linjer för fast livs cykel.
+  title: Microsoft C5 4.0
+  description: Microsoft C5 4.0 följer policyn för fast livscykel.
   ms.date: 09/01/2020
   keywords: Standard
   ms.openlocfilehash: 9c027da4c095f0c045ec12a5481cb17ef08cc521
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sv-SE
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "940426"
-name: Microsoft C5 4,0
+name: Microsoft C5 4.0
 summary: >+
-  Microsoft C5 4,0 följer rikt linjer för [fast](/lifecycle/policies/fixed) livs cykel.
+  Microsoft C5 4.0 följer policyn för [fast](/lifecycle/policies/fixed) livscykel.
 
 
   Detta gäller för följande utgåvor: Standard
