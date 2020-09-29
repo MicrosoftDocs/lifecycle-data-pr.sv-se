@@ -5,19 +5,19 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: a4f2c864058596a97be1ad6430eded5ccb422803
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sv-SE
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "841401"
 name: Windows Automotive 5.0
 summary: >
-  Windows Automotive 5.0 följer [policyn](/lifecycle/policies/fixed) för fast livscykel.
+  Windows Automotive 5.0 följer policyn för [fast](/lifecycle/policies/fixed) livscykel.
 
 
 
   > [!IMPORTANT]
 
-  > Supporten för den här produkten har upphört.
+  > Support för den här produkten har upphört.
 products:
 - windows
 policyType: fixed

@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Dynamics mobila utvecklingsverktyg
-  description: Dynamics Mobile Development Tools följer komponentlivscykelpolicyn.
+  title: Dynamics Mobile Development Tools
+  description: Dynamics Mobile Development Tools följer policyn för komponentens livscykel.
   ms.date: 07/28/2020
   ms.openlocfilehash: eacb8775d2e07be3c802073e4006099af4089699
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sv-SE
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "841755"
-name: Dynamics mobila utvecklingsverktyg
+name: Dynamics Mobile Development Tools
 summary: >+
-  Dynamics Mobile Development Tools [Component](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) följer komponentlivscykelpolicyn.
+  Dynamics Mobile Development Tools följer policyn för [komponentens](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) livscykel.
 
 
 products:
