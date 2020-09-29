@@ -1,18 +1,18 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Class Server 3,0
-  description: Microsoft Class Server 3,0 följer policyn för fast livs cykel.
+  title: Microsoft Class Server 3.0
+  description: Microsoft Class Server 3.0 följer policyn för fast livscykel.
   ms.date: 09/01/2020
   keywords: Standard
   ms.openlocfilehash: 1d14c56151ecf68d4493cea9a79047eee7df4bd2
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sv-SE
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "934654"
-name: Microsoft Class Server 3,0
+name: Microsoft Class Server 3.0
 summary: >+
-  Microsoft Class Server 3,0 följer policyn för [fast](/lifecycle/policies/fixed) livs cykel.
+  Microsoft Class Server 3.0 följer policyn för [fast](/lifecycle/policies/fixed) livscykel.
 
 
   Detta gäller för följande utgåvor: Standard

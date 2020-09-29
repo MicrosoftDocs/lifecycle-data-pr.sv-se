@@ -1,21 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft System Center Essentials 2010
-  description: Microsoft System Center Essentials 2010 följer policyn för fast livs cykel.
+  description: Microsoft System Center Essentials 2010 följer policyn för fast livscykel.
   ms.date: 09/01/2020
   keywords: All applicable,wSQL
   ms.openlocfilehash: 93f05c6b49b851871ea5d7f6a2066310ae3144e2
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sv-SE
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "938206"
 name: Microsoft System Center Essentials 2010
 summary: >+
-  Microsoft System Center Essentials 2010 följer policyn för [fast](/lifecycle/policies/fixed) livs cykel.
+  Microsoft System Center Essentials 2010 följer policyn för [fast](/lifecycle/policies/fixed) livscykel.
 
 
-  Detta gäller för följande utgåvor: alla tillämpliga, wSQL
+  Detta gäller följande utgåvor: alla tillämpliga, wSQL
 
 products:
 - msc

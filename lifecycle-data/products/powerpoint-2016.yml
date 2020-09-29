@@ -1,18 +1,18 @@
 ### YamlMime:Lifecycle
 metadata:
   title: PowerPoint 2016
-  description: PowerPoint 2016 följer policyn för fast livs cykel.
+  description: PowerPoint 2016 följer policyn för fast livscykel.
   ms.date: 09/01/2020
   keywords: Standard
   ms.openlocfilehash: 04955ff5fa53a1585bf767879b4f0882dda8c613
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sv-SE
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "926773"
 name: PowerPoint 2016
 summary: >+
-  PowerPoint 2016 följer policyn för [fast](/lifecycle/policies/fixed) livs cykel.
+  PowerPoint 2016 följer policyn för [fast](/lifecycle/policies/fixed) livscykel.
 
 
   Detta gäller för följande utgåvor: Standard

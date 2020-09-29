@@ -1,18 +1,18 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Office Word 2003
-  description: Microsoft Office Word 2003 följer rikt linjer för fast livs cykel.
+  description: Microsoft Office Word 2003 följer policyn för fast livscykel.
   ms.date: 09/01/2020
   keywords: Standard
   ms.openlocfilehash: ac7b10f977be3928db5cfc26c23f7fa734106e86
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sv-SE
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "930103"
 name: Microsoft Office Word 2003
 summary: >+
-  Microsoft Office Word 2003 följer rikt linjer för [fast](/lifecycle/policies/fixed) livs cykel.
+  Microsoft Office Word 2003 följer policyn för [fast](/lifecycle/policies/fixed) livscykel.
 
 
   Detta gäller för följande utgåvor: Standard

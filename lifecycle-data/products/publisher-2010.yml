@@ -1,18 +1,18 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Publisher 2010
-  description: Publisher 2010 följer policyn för fast livs cykel.
+  description: Publisher 2010 följer policyn för fast livscykel.
   ms.date: 09/01/2020
   keywords: Standard
   ms.openlocfilehash: 73037ae31d902bde1b7d7f2a41fe29a4f4c101cd
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sv-SE
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "926255"
 name: Publisher 2010
 summary: >+
-  Publisher 2010 följer policyn för [fast](/lifecycle/policies/fixed) livs cykel.
+  Publisher 2010 följer policyn för [fast](/lifecycle/policies/fixed) livscykel.
 
 
   Detta gäller för följande utgåvor: Standard
