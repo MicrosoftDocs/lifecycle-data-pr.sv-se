@@ -1,18 +1,18 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Word 2016
-  description: Word 2016 följer rikt linjer för fast livs cykel.
+  description: Word 2016 följer policyn för fast livscykel.
   ms.date: 09/01/2020
   keywords: Standard
   ms.openlocfilehash: 65d33fb18d97798011013ff25eedc82583075734
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sv-SE
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "938650"
 name: Word 2016
 summary: >+
-  Word 2016 följer rikt linjer för [fast](/lifecycle/policies/fixed) livs cykel.
+  Word 2016 följer policyn för [fast](/lifecycle/policies/fixed) livscykel.
 
 
   Detta gäller för följande utgåvor: Standard
