@@ -1,21 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Office XP
-  description: Office XP följer policyn för fast livs cykel.
+  description: Office XP följer policyn för fast livscykel.
   ms.date: 09/01/2020
   keywords: Developer,Professional,Proofing Tools,Standard,Web Components
   ms.openlocfilehash: 5f0e3d5738f2f2107926d4cfe9c46de77fa5a875
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sv-SE
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "928808"
 name: Office XP
 summary: >+
-  Office XP följer policyn för [fast](/lifecycle/policies/fixed) livs cykel.
+  Office XP följer policyn för [fast](/lifecycle/policies/fixed) livscykel.
 
 
-  Detta gäller för följande utgåvor: utvecklare, professionella, språk verktyg, standard, webb komponenter
+  Detta gäller för följande utgåvor: Developer, Professional, Språkverktyg, Standard, Webbkomponenter
 
 products:
 - office
@@ -37,4 +37,4 @@ releases:
 - version: Original Release
   startDate: 05/31/2001
   endDate: 12/31/2002
-content: "\n\n\n## <a name=\"editions\"></a>Utgåvor \n* Developer\n* Professionell\n* Språk verktyg\n* Standard\n* Webbkomponenter"
+content: "\n\n\n## <a name=\"editions\"></a>Utgåvor \n* Developer\n* Professionell\n* Språkverktyg\n* Standard\n* Webbkomponenter"

@@ -1,18 +1,18 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Outlook 2016
-  description: Outlook 2016 följer policyn för fast livs cykel.
+  description: Outlook 2016 följer policyn för fast livscykel.
   ms.date: 09/01/2020
   keywords: Standard
   ms.openlocfilehash: 1994b8231e5d8c0b6134a3872d532ca176c27e6b
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sv-SE
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "938132"
 name: Outlook 2016
 summary: >+
-  Outlook 2016 följer policyn för [fast](/lifecycle/policies/fixed) livs cykel.
+  Outlook 2016 följer policyn för [fast](/lifecycle/policies/fixed) livscykel.
 
 
   Detta gäller för följande utgåvor: Standard

@@ -1,24 +1,24 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft konfigurationshanterare för slutpunkt
-  description: Microsoft Endpoint Configuration Manager följer modern livs cykel policy.
+  title: Microsoft Endpoint Configuration Manager
+  description: Microsoft Endpoint Configuration Manager följer policyn för modern livscykel.
   ms.date: 09/01/2020
   keywords: SCCM,System Center Configuration Manager
   ms.openlocfilehash: fa325717dae54209b97245681c1e0292890ba952
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sv-SE
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "934062"
-name: Microsoft konfigurationshanterare för slutpunkt
+name: Microsoft Endpoint Configuration Manager
 summary: >
-  Microsoft Endpoint Configuration Manager följer [modern](/lifecycle/policies/modern) livs cykel policy.
+  Microsoft Endpoint Configuration Manager följer policyn för [fast](/lifecycle/policies/modern) livscykel.
 
 
 
   > [!IMPORTANT]
 
-  > Från och med version 1910, Configuration Manager är nu en del av Microsoft slut punkts hanteraren.
+  > Från och med version 1910 ingår Configuration Manager nu i Microsoft Endpoint Manager.
 products:
 - m365
 policyType: modern-on-prem
@@ -70,4 +70,4 @@ releases:
 - version: Version 1511
   startDate: 12/08/2015
   endDate: 12/08/2016
-content: "\n## <a name=\"links\"></a>Länkar \n* [Serviceinformation](/mem/configmgr/core/servers/manage/current-branch-versions-supported)\n* [Versions information](/mem/configmgr/core/servers/manage/updates#version-details)\n* [System Center Configuration Manager är nu Microsofts konfigurations hanterare för slut punkt](/mem/configmgr/core/understand/microsoft-endpoint-manager-faq)\n* [Historiska versioner](/mem/configmgr/core/servers/manage/updates#historical-versions)\n* [Vad är Configuration Manager?](/mem/configmgr/core/understand/introduction)"
+content: "\n## <a name=\"links\"></a>Länkar \n* [Serviceinformation](/mem/configmgr/core/servers/manage/current-branch-versions-supported)\n* [Versionsdetaljer](/mem/configmgr/core/servers/manage/updates#version-details)\n* [System Center Configuration Manager heter nu Microsoft Endpoint Configuration Manager](/mem/configmgr/core/understand/microsoft-endpoint-manager-faq)\n* [Tidigare versioner](/mem/configmgr/core/servers/manage/updates#historical-versions)\n* [Vad är Configuration Manager](/mem/configmgr/core/understand/introduction)"

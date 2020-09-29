@@ -1,18 +1,18 @@
 ### YamlMime:Lifecycle
 metadata:
   title: PowerPoint 2013
-  description: PowerPoint 2013 följer policyn för fast livs cykel.
+  description: PowerPoint 2013 följer policyn för fast livscykel.
   ms.date: 09/01/2020
   keywords: Standard
   ms.openlocfilehash: 04ce16dd515217f7697f3cf2cc1a0ad22cd3ea19
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sv-SE
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "926958"
 name: PowerPoint 2013
 summary: >+
-  PowerPoint 2013 följer policyn för [fast](/lifecycle/policies/fixed) livs cykel.
+  PowerPoint 2013 följer policyn för [fast](/lifecycle/policies/fixed) livscykel.
 
 
   Detta gäller för följande utgåvor: Standard

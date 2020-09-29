@@ -1,21 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
   title: PolicyMaker
-  description: PolicyMaker följer policyn för fast livs cykel.
+  description: PolicyMaker följer policyn för fast livscykel.
   ms.date: 09/01/2020
   keywords: Application Security,Outlook Edition,Professional 9.0,Registry Extension 2.0,Share Manager 1.0,Software Update 1.0,Software Update 2.0,Standard 1.0,Standard 2.0
   ms.openlocfilehash: be11ae6bee427a5aa059ec56cb88f007bb5134ec
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sv-SE
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "938058"
 name: PolicyMaker
 summary: >+
-  PolicyMaker följer policyn för [fast](/lifecycle/policies/fixed) livs cykel.
+  PolicyMaker följer policyn för [fast](/lifecycle/policies/fixed) livscykel.
 
 
-  Detta gäller för följande utgåvor: program säkerhet, Outlook Edition, Professional 9,0, register tillägg 2,0, Share Manager 1,0, program uppdatering 1,0, program uppdatering 2,0, standard 1,0, standard 2,0
+  Detta gäller för följande utgåvor: Programsäkerhet, Outlook Edition, Professional 9.0, Registertillägg 2.0, Share Manager 1.0, Programvaruuppdatering 1.0, Programvaruuppdatering 2.0, Standard 1.0, Standard 2.0
 
 products:
 - windows
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 01/01/2007
   endDate: 01/12/2010
-content: "\n\n> [!NOTE]\n> Support för den här produkten är beroende av dess inköpsvillkor.\n\n## <a name=\"editions\"></a>Utgåvor \n* Program säkerhet\n* Outlook-utgåva\n* Professional 9,0\n* Register tillägg 2,0\n* Dela chef 1,0\n* Program uppdatering 1,0\n* Program uppdatering 2,0\n* Standard 1,0\n* Standard 2,0"
+content: "\n\n> [!NOTE]\n> Support för den här produkten är beroende av dess inköpsvillkor.\n\n## <a name=\"editions\"></a>Utgåvor \n* Programsäkerhet\n* Outlook Edition\n* Professional 9.0\n* Registertillägg 2.0\n* Share Manager 1.0\n* Programvaruuppdatering 1.0\n* Programvaruuppdatering 2.0\n* Standard 1.0\n* Standard 2.0"

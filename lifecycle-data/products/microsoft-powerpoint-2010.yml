@@ -1,18 +1,18 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft PowerPoint 2010
-  description: Microsoft PowerPoint 2010 följer rikt linjer för fast livs cykel.
+  description: Microsoft PowerPoint 2010 följer policyn för fast livscykel.
   ms.date: 09/01/2020
   keywords: Home and Student,Standard
   ms.openlocfilehash: 456aacd4e7c600f852b3a7fb169afc68163bf95c
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sv-SE
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "930066"
 name: Microsoft PowerPoint 2010
 summary: >+
-  Microsoft PowerPoint 2010 följer rikt linjer för [fast](/lifecycle/policies/fixed) livs cykel.
+  Microsoft PowerPoint 2010 följer policyn för [fast](/lifecycle/policies/fixed) livscykel.
 
 
   Detta gäller för följande utgåvor: Hemma och student, Standard

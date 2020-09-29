@@ -1,21 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Virtuell Server 2005
-  description: Virtual Server 2005 följer den fasta livs cykel policyn.
+  title: Virtual Server 2005
+  description: Virtual Server 2005 följer policyn för fast livscykel.
   ms.date: 09/01/2020
   keywords: Enterprise,Management Pack,Standard
   ms.openlocfilehash: 3a975f558d61c598e0b825d9402467398b348e82
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sv-SE
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "937910"
-name: Virtuell Server 2005
+name: Virtual Server 2005
 summary: >+
-  Virtual Server 2005 följer den [fasta](/lifecycle/policies/fixed) livs cykel policyn.
+  Virtual Server 2005 följer policyn för [fast](/lifecycle/policies/fixed) livscykel.
 
 
-  Detta gäller för följande utgåvor: Enterprise, Management Pack, standard
+  Detta gäller följande utgåvor: Enterprise, Hanteringspaket och Standard
 
 products:
 - windows
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 10/29/2004
   endDate: 01/13/2015
-content: "\n\n\n## <a name=\"editions\"></a>Utgåvor \n* Enterprise\n* Management Pack\n* Standard"
+content: "\n\n\n## <a name=\"editions\"></a>Utgåvor \n* Enterprise\n* Hanteringspaket\n* Standard"
