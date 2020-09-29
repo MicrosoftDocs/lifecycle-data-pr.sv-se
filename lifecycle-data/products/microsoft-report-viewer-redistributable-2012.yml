@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Report Viewer Redistributable 2012
-  description: Microsoft Report Viewer Redistributable 2012 följer policyn för fast livs cykel.
+  title: För Microsoft Report Viewer Redistributable 2012
+  description: Microsoft Report Viewer Redistributable 2012 följer policyn för fast livscykel.
   ms.date: 08/19/2020
   ms.openlocfilehash: 851327e620d35cbb94eb2f0df86755e04c75eaac
   ms.sourcegitcommit: 9d254d51934063ec1dd8c7e0e5fcb53ccc7257b3
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sv-SE
   ms.lasthandoff: 08/20/2020
   ms.locfileid: "905073"
-name: Microsoft Report Viewer Redistributable 2012
+name: För Microsoft Report Viewer Redistributable 2012
 summary: >+
-  Microsoft Report Viewer Redistributable 2012 följer policyn för [fast](/lifecycle/policies/fixed) livs cykel.
+  Microsoft Report Viewer Redistributable 2012 följer policyn för [fast](/lifecycle/policies/fixed) livscykel.
 
 
 products:

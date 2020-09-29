@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: BizTalk Adapter för webb tjänst förbättring 2,0
-  description: BizTalk Adapter for Web Services förbättring 2,0 följer policyn för fast livs cykel.
+  title: BizTalk Adapter for Web Services Enhancement 2.0
+  description: BizTalk-adapter för Web Services Enhancement 2.0 följer policyn för fast livscykel.
   ms.date: 08/19/2020
   ms.openlocfilehash: 4b442c30ed4d826959b43220b1b964c1c7d3419a
   ms.sourcegitcommit: acbc3d1849bad925ef030cf951960bd7eb1b4e42
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sv-SE
   ms.lasthandoff: 08/19/2020
   ms.locfileid: "904562"
-name: BizTalk Adapter för webb tjänst förbättring 2,0
+name: BizTalk Adapter for Web Services Enhancement 2.0
 summary: >+
-  BizTalk Adapter for Web Services förbättring 2,0 följer policyn för [fast](/lifecycle/policies/fixed) livs cykel.
+  BizTalk-adapter för Web Services Enhancement 2.0 följer policyn för [fast](/lifecycle/policies/fixed) livscykel.
 
 
 products:

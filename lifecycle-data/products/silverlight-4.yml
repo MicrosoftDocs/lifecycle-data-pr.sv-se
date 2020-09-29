@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Silverlight 4
-  description: Silverlight 4 följer policyn för fast livs cykel.
+  description: Silverlight 4 följer policyn för fast livscykel.
   ms.date: 08/19/2020
   ms.openlocfilehash: 9635d31459c8a470c63cc90e216e4237ce7c6ca1
   ms.sourcegitcommit: acbc3d1849bad925ef030cf951960bd7eb1b4e42
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sv-SE
   ms.lasthandoff: 08/19/2020
   ms.locfileid: "904561"
 name: Silverlight 4
 summary: >+
-  Silverlight 4 följer policyn för [fast](/lifecycle/policies/fixed) livs cykel.
+  Silverlight 4 följer policyn för [fast](/lifecycle/policies/fixed) livscykel.
 
 
 products:
@@ -24,4 +24,4 @@ releases:
 - version: Original Release
   startDate: 04/15/2010
   endDate: 01/08/2013
-content: "\n\n> [!NOTE]\n> Microsoft kommer att tillhandahålla minst 12 månaders meddelande innan du avslutar support för verktyg."
+content: "\n\n> [!NOTE]\n> Microsoft kommer att meddela minst 12 månader i förväg innan supporten avslutas för Tools."

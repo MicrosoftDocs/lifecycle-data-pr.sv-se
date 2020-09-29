@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Business Solutions Business Portal
-  description: Microsoft Business Solutions Business Portal följer policyn för fast livs cykel.
+  description: Microsoft Business Solutions Business Portal följer policyn för fast livscykel.
   ms.date: 08/19/2020
   ms.openlocfilehash: 2b4116c3d6461616b1e36ab86d5606900be3ec6c
   ms.sourcegitcommit: acbc3d1849bad925ef030cf951960bd7eb1b4e42
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sv-SE
   ms.lasthandoff: 08/19/2020
   ms.locfileid: "904572"
 name: Microsoft Business Solutions Business Portal
 summary: >+
-  Microsoft Business Solutions Business Portal följer policyn för [fast](/lifecycle/policies/fixed) livs cykel.
+  Microsoft Business Solutions Business Portal följer [policyn](/lifecycle/policies/fixed) för fast livscykel.
 
 
 products:
@@ -30,4 +30,4 @@ releases:
 - version: Business Solutions Business Portal 1.2
   startDate: 07/18/2003
   endDate: 12/31/2004
-content: "\n\n> [!NOTE]\n> Microsoft Business Solutions Business Portal 2,5 har endast stöd för med antingen suveräna rena 8,0-och Solomon-6,0."
+content: "\n\n> [!NOTE]\n> Microsoft Business Solutions Business Portal 2.5 hade endast support när den användes med antingen Great Plains 8.0 eller Solomon 6.0."

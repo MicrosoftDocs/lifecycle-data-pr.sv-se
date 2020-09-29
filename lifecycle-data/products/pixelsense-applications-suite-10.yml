@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: PixelSense program Suite 1,0
-  description: PixelSense program Suite 1,0 följer policyn för fast livs cykel.
+  title: PixelSense Applications Suite 1.0
+  description: PixelSense Applications Suite 1.0 följer policyn för fast livscykel.
   ms.date: 08/12/2020
   ms.openlocfilehash: c74536304840d0d75306a3d6d2609d8a39c524dc
   ms.sourcegitcommit: 1974bfc9a9fccaac36daaa1015b7f31c8814ae07
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sv-SE
   ms.lasthandoff: 08/12/2020
   ms.locfileid: "892107"
-name: PixelSense program Suite 1,0
+name: PixelSense Applications Suite 1.0
 summary: >+
-  PixelSense program Suite 1,0 följer policyn för [fast](/lifecycle/policies/fixed) livs cykel.
+  PixelSense Applications Suite 1.0 följer policyn för [fast](/lifecycle/policies/fixed) livscykel.
 
 
 products:
