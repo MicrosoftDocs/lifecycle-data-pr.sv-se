@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Hyper-V-server 2016
+  title: Hyper-V Server 2016
   description: Hyper-V Server 2016 följer policyn för fast livscykel.
   ms.date: 07/28/2020
   ms.openlocfilehash: 6f2d6eed9e7780fef8b8e6aba52ee70474f636c7
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sv-SE
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "864072"
-name: Hyper-V-server 2016
+name: Hyper-V Server 2016
 summary: >+
-  Hyper-V Server 2016 följer [policyn](/lifecycle/policies/fixed) för fast livscykel.
+  Hyper-V Server 2016 följer policyn för [fast](/lifecycle/policies/fixed) livscykel.
 
 
 products:

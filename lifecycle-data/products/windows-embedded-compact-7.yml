@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Inbyggd Windows-kompakt 7
+  title: Windows Embedded Compact 7
   description: Windows Embedded Compact 7 följer policyn för fast livscykel.
   ms.date: 07/28/2020
   ms.openlocfilehash: 6a72f68217243c9b2160dca4aa9136ae5d21f16b
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sv-SE
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "864250"
-name: Inbyggd Windows-kompakt 7
+name: Windows Embedded Compact 7
 summary: >+
-  Windows Embedded Compact 7 följer [policyn](/lifecycle/policies/fixed) för fast livscykel.
+  Windows Embedded Compact 7 följer policyn för [fast](/lifecycle/policies/fixed) livscykel.
 
 
 products:

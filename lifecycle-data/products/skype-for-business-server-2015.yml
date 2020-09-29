@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Skype för företag Server 2015
-  description: Skype för företag Server 2015 följer policyn för fast livscykel.
+  title: Skype för företag 2015
+  description: Skype för företag – Server 2015 följer policyn för fast livscykel.
   ms.date: 07/28/2020
   ms.openlocfilehash: 0b1c68ef26edf881dfbdf73321010694f372dc10
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sv-SE
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "864230"
-name: Skype för företag Server 2015
+name: Skype för företag 2015
 summary: >+
-  Skype för företag Server 2015 följer [policyn](/lifecycle/policies/fixed) för fast livscykel.
+  Skype för företag – Server 2015 följer policyn för [fast](/lifecycle/policies/fixed) livscykel.
 
 
 products:

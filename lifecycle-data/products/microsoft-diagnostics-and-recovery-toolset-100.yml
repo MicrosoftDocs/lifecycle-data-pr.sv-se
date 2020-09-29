@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft-diagnostik- och återställningsverktyguppsättning 10.0
-  description: Microsoft Diagnostics and Recovery Toolset 10.0 följer policyn för fast livscykel.
+  title: Microsoft verktygsuppsättning för diagnostik och återställning 10.0
+  description: Microsoft verktygsuppsättning för diagnostik och återställning 10.0 följer policyn för fast livscykel.
   ms.date: 07/28/2020
   ms.openlocfilehash: 46c297ae7fa494c3a70d86bf5ce3f8ec62e906f4
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sv-SE
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "863977"
-name: Microsoft-diagnostik- och återställningsverktyguppsättning 10.0
+name: Microsoft verktygsuppsättning för diagnostik och återställning 10.0
 summary: >+
-  Microsoft Diagnostics and Recovery Toolset 10.0 följer [policyn](/lifecycle/policies/fixed) för fast livscykel.
+  Microsoft verktygsuppsättning för diagnostik och återställning 10.0 följer policyn för [fast](/lifecycle/policies/fixed) livscykel.
 
 
 products:

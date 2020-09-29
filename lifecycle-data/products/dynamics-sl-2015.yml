@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Dynamics SL 2015
-  description: Dynamics SL 2015 följer den fasta livscykelpolicyn.
+  description: Dynamics SL 2015 följer policyn för fast livscykel.
   ms.date: 07/28/2020
   ms.openlocfilehash: a082204c2a5c05abdabc7d16de83e67eb3a115b4
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sv-SE
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "864182"
 name: Dynamics SL 2015
 summary: >+
-  Dynamics SL 2015 följer den [fasta](/lifecycle/policies/fixed) livscykelpolicyn.
+  Dynamics SL 2015 följer policyn för [fast](/lifecycle/policies/fixed) livscykel.
 
 
 products:

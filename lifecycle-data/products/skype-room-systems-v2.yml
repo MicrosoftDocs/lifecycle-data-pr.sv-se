@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Skype-rumssystem v2
-  description: Skype Room Systems v2 följer den moderna livscykelpolicyn.
+  title: Skype Room-system v2
+  description: Skype Room-system v2 följer policyn för modern livscykel.
   ms.date: 07/28/2020
   ms.openlocfilehash: 1b100edccfa58c69264c6e9584cc7f08e1332419
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sv-SE
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "864229"
-name: Skype-rumssystem v2
+name: Skype Room-system v2
 summary: >+
-  Skype Room Systems v2 följer den [moderna](/lifecycle/policies/modern) livscykelpolicyn.
+  Skype Room-system v2 följer policyn för [modern](/lifecycle/policies/modern) livscykel.
 
 
 products:

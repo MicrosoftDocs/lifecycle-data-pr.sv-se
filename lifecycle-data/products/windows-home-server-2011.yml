@@ -5,13 +5,13 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: cd7602894a6ba0f2cda537685202a0f45f43443e
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sv-SE
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "864216"
 name: Windows Home Server 2011
 summary: >+
-  Windows Home Server 2011 följer [policyn](/lifecycle/policies/fixed) för fast livscykel.
+  Windows Home Server 2011 följer policyn för [fast](/lifecycle/policies/fixed) livscykel.
 
 
 products:
