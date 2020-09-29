@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Power BI-rapportserver
-  description: Power BI Report Server följer den moderna livscykelprincipen.
+  description: Power BI-rapportserver följer policyn för modern livscykel.
   ms.date: 07/28/2020
   ms.openlocfilehash: 595ca1b035c661c5f2822dd0ab71578a5995290f
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sv-SE
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "872626"
 name: Power BI-rapportserver
 summary: >+
-  Power BI Report Server följer den [moderna](/lifecycle/policies/modern) livscykelprincipen.
+  Power BI-rapportserver följer policyn för [modern](/lifecycle/policies/modern) livscykel.
 
 
 products:

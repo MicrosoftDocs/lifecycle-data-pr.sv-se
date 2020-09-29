@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Works
-  description: Microsoft Works följer policyn för fast livs cykel.
+  description: Microsoft Works följer policyn för fast livscykel.
   ms.date: 08/19/2020
   ms.openlocfilehash: da68f15014771676be04285328ffde3ff1c49858
   ms.sourcegitcommit: acbc3d1849bad925ef030cf951960bd7eb1b4e42
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sv-SE
   ms.lasthandoff: 08/19/2020
   ms.locfileid: "904570"
 name: Microsoft Works
 summary: >+
-  Microsoft Works följer policyn för [fast](/lifecycle/policies/fixed) livs cykel.
+  Microsoft Works följer policyn för [fast](/lifecycle/policies/fixed) livscykel.
 
 
 products:
@@ -39,4 +39,4 @@ releases:
 - version: Microsoft Works Suite 2004
   startDate: 10/25/2003
   endDate: 01/09/2007
-content: "\n\n> [!NOTE]\n> Den här listan innehåller alla produkter från Microsoft Works som släpptes mellan 2003 och 2007."
+content: "\n\n> [!NOTE]\n> Den här listan innehåller ALLA Microsoft Works-produkter som släpptes mellan 2003 och 2007."

@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Edge
-  description: Microsoft Edge följer modern livs cykel policy.
+  description: Microsoft Edge följer policyn för modern livscykel.
   ms.date: 08/19/2020
   ms.openlocfilehash: 2d9e751a4612eaa04e995711449c2c2851b5db72
   ms.sourcegitcommit: f5095aa6fc41dcc71c883cae08719b5b6bf9585c
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sv-SE
   ms.lasthandoff: 08/20/2020
   ms.locfileid: "906003"
 name: Microsoft Edge
 summary: >
-  Microsoft Edge följer [modern](/lifecycle/policies/modern) livs cykel policy.
+  Microsoft Edge följer policyn för [modern](/lifecycle/policies/modern) livscykel.
 
 
 
   > [!IMPORTANT]
 
-  > Observera att den äldre versionen av den här produkten slutar stödja den 9 mars 2021.   [Här finns](https://techcommunity.microsoft.com/t5/microsoft-365-blog/microsoft-365-apps-say-farewell-to-internet-explorer-11-and/ba-p/1591666) mer information.
+  > Observera att den äldre versionen av den här produkten inte stöds längre efter 9 mars 2021. Mer information finns   [här](https://techcommunity.microsoft.com/t5/microsoft-365-blog/microsoft-365-apps-say-farewell-to-internet-explorer-11-and/ba-p/1591666).
 products:
 - microsoft-edge
 policyType: modern-on-prem
@@ -26,4 +26,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 01/15/2020
-content: "\n## <a name=\"links\"></a>Länkar \n* [Operativ system som stöds av Microsoft Edge](/deployedge/microsoft-edge-supported-operating-systems)"
+content: "\n## <a name=\"links\"></a>Länkar \n* [Operativsystem som har stöd för Microsoft Edge](/deployedge/microsoft-edge-supported-operating-systems)"
