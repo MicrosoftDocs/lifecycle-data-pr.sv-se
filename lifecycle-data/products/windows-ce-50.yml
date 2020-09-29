@@ -5,13 +5,13 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: 61aca29aa9f4eb5cca148ffc0405031322185cc6
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sv-SE
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "841405"
 name: Windows CE 5.0
 summary: >+
-  Windows CE 5.0 följer [policyn](/lifecycle/policies/fixed) för fast livscykel.
+  Windows CE 5.0 följer policyn för [fast](/lifecycle/policies/fixed) livscykel.
 
 
 products:

@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Azure Molntjänster
-  description: Azure Cloud Services följer den moderna livscykelpolicyn.
+  title: Azure Cloud Services
+  description: Azure Cloud Services följer policyn för modern livscykel.
   ms.date: 07/28/2020
   ms.openlocfilehash: aab601bc296dcf08a3f860220bf93b35fa67e335
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sv-SE
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "842333"
-name: Azure Molntjänster
+name: Azure Cloud Services
 summary: >+
-  Azure Cloud Services följer den [moderna](/lifecycle/policies/modern) livscykelpolicyn.
+  Azure Cloud Services följer policyn för [modern](/lifecycle/policies/modern) livscykel.
 
 
 products:
@@ -22,4 +22,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 10/27/2008
-content: "\n## <a name=\"links\"></a>Länkar \n* [Azure Guest OS support och pensionspolitik information](/azure/cloud-services/cloud-services-guestos-retirement-policy)"
+content: "\n## <a name=\"links\"></a>Länkar \n* [Information om support och policy gällande tillbakadragande för Azure Guest OS](/azure/cloud-services/cloud-services-guestos-retirement-policy)"

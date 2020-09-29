@@ -5,13 +5,13 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: a68b7d5749ce3c0bb47c949a59c52aff5a844dff
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sv-SE
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "841722"
 name: Microsoft-integrationsdesigner 2.5
 summary: >+
-  Microsoft Integration Designer 2.5 följer [policyn](/lifecycle/policies/fixed) för fast livscykel.
+  Microsoft Integration Designer 2.5 följer policyn för [fast](/lifecycle/policies/fixed) livscykel.
 
 
 products:

@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Dynamics CRM 1.2
-  description: Dynamics CRM 1.2 följer den fasta livscykelprincipen.
+  description: Dynamics CRM 1.2 följer policyn för fast livscykel.
   ms.date: 07/28/2020
   ms.openlocfilehash: 6b796f6d5794f461409c95641410a4e47f71cf3a
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sv-SE
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "842197"
 name: Dynamics CRM 1.2
 summary: >+
-  Dynamics CRM 1.2 följer den [fasta](/lifecycle/policies/fixed) livscykelprincipen.
+  Dynamics CRM 1.2 följer policyn för [fast](/lifecycle/policies/fixed) livscykel.
 
 
 products:

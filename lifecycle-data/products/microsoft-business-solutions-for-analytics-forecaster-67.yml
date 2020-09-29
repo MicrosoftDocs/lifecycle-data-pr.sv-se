@@ -1,15 +1,15 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Business Solutions för Analytics Forecaster 6.7
+  title: Microsoft Business Solutions for Analytics Forecaster 6.7
   description: Microsoft Business Solutions for Analytics Forecaster 6.7 följer policyn för fast livscykel.
   ms.date: 07/28/2020
   ms.openlocfilehash: 36be353ad94fe53b83be08cae60d98902f0e7c92
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sv-SE
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "842099"
-name: Microsoft Business Solutions för Analytics Forecaster 6.7
+name: Microsoft Business Solutions for Analytics Forecaster 6.7
 summary: >+
   Microsoft Business Solutions for Analytics Forecaster 6.7 följer [policyn](/lifecycle/policies/fixed) för fast livscykel.
 

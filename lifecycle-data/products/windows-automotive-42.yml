@@ -5,19 +5,19 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: a2671ea93a2852928c59d836ed4ebc8412963b61
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sv-SE
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "841410"
 name: Windows Automotive 4.2
 summary: >
-  Windows Automotive 4.2 följer [policyn](/lifecycle/policies/fixed) för fast livscykel.
+  Windows Automotive 4.2 följer policyn för [fast](/lifecycle/policies/fixed) livscykel.
 
 
 
   > [!IMPORTANT]
 
-  > Supporten för den här produkten har upphört.
+  > Support för den här produkten har upphört.
 products:
 - windows
 policyType: fixed
