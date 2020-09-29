@@ -5,13 +5,13 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: de6079f5af03208deeed49266be523b5daf38777
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sv-SE
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "864065"
 name: Microsoft SQL Server Compact 4.0
 summary: >+
-  Microsoft SQL Server Compact 4.0 följer [policyn](/lifecycle/policies/fixed) för fast livscykel.
+  Microsoft SQL Server Compact 4.0 följer policyn för [fast](/lifecycle/policies/fixed) livscykel.
 
 
 products:

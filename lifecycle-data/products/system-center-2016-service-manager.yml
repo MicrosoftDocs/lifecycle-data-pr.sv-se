@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Servicehanteraren för System Center 2016
-  description: Service manager för System Center 2016 följer policyn för fast livscykel.
+  title: System Center 2016 Service Manager
+  description: System Center 2016 Service Manager följer policyn för fast livscykel.
   ms.date: 07/28/2020
   ms.openlocfilehash: 324b4d018b20d596afdf61ff10658489d7f1d79f
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sv-SE
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "864322"
-name: Servicehanteraren för System Center 2016
+name: System Center 2016 Service Manager
 summary: >+
-  Service manager för System Center 2016 följer [policyn](/lifecycle/policies/fixed) för fast livscykel.
+  System Center 2016 Service Manager följer policyn för [fast](/lifecycle/policies/fixed) livscykel.
 
 
 products:
