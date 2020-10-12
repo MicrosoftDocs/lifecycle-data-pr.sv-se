@@ -2,20 +2,20 @@
 metadata:
   title: Windows 10 Home and Pro
   description: Windows 10 Home and Pro följer policyn för modern livscykel.
-  ms.date: 09/01/2020
-  keywords: Home,Pro,Pro for Education,Pro for Workstations,Professional
-  ms.openlocfilehash: f29020250717040eb218ffd3154c65492201e51b
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
+  ms.date: 09/22/2020
+  keywords: 
+  ms.openlocfilehash: afe3de560cc371fc307d5e1e7f831e301c3ce99f
+  ms.sourcegitcommit: 528043c09bc83880f3c1dcc3f976c4241e9ec4b7
   ms.translationtype: HT
   ms.contentlocale: sv-SE
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "938391"
+  ms.lasthandoff: 09/22/2020
+  ms.locfileid: "1026904"
 name: Windows 10 Home and Pro
 summary: >
   Windows 10 Home and Pro följer policyn för [modern](/lifecycle/policies/modern) livscykel.
 
 
-  Detta gäller för följande utgåvor: Home, Pro, Pro for Education, Pro for Workstations, Professional
+  Detta gäller följande utgåvor: Home, Pro, Pro Education och Pro för Workstations
 
 
   > [!IMPORTANT]
@@ -39,9 +39,9 @@ releases:
   endDate: 12/08/2020
 - version: Version 1809
   startDate: 11/13/2018
-  endDate: 05/12/2020
+  endDate: 11/10/2020
 - version: Version 1803
-  startDate: 04/30/2018
+  startDate: 10/17/2017
   endDate: 11/12/2019
 - version: Version 1709
   startDate: 10/17/2017
@@ -58,4 +58,4 @@ releases:
 - version: Version 1507
   startDate: 07/29/2015
   endDate: 05/09/2017
-content: "\n## <a name=\"links\"></a>Länkar \n* [Windows som en tjänst (WaaS)](/windows/deployment/update/waas-quick-start)\n* [Faktablad om Windows livscykel](https://support.microsoft.com/help/13853/windows-lifecycle-fact-sheet)\n* [Vanliga frågor och svar om livscykel – Windows-produkter](/lifecycle/faq/windows)\n\n> [!NOTE]\n> Pro for Workstation släpptes först med version 1703\n> [!NOTE]\n> Om de inte skjuts upp kan funktionsuppdateringarna för Windows 10-halvårskanalen installeras före slutdatumet för mainstream-support.\n\n## <a name=\"editions\"></a>Utgåvor \n* home\n* Pro\n* Pro for Education\n* Pro for Workstations\n* Professionell"
+content: "\n## <a name=\"links\"></a>Länkar \n* [Windows som en tjänst (WaaS)](/windows/deployment/update/waas-quick-start)\n* [Faktablad om Windows livscykel](https://support.microsoft.com/help/13853/windows-lifecycle-fact-sheet)\n* [Vanliga frågor och svar om livscykel – Windows-produkter](/lifecycle/faq/windows)\n\n> [!NOTE]\n> Pro för Workstation släpptes först med version 1709.\n> [!NOTE]\n> Om de inte skjuts upp kan funktionsuppdateringarna för Windows 10-halvårskanalen installeras före slutdatumet för mainstream-support.\n\n## <a name=\"editions\"></a>Utgåvor \n* home\n* Pro\n* Pro Education\n* Pro for Workstations"

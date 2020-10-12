@@ -1,0 +1,35 @@
+### YamlMime:Lifecycle
+metadata:
+  title: BizTalk Server 2009
+  description: BizTalk Server 2009 följer policyn för fast livscykel.
+  ms.date: 09/23/2020
+  keywords: 
+  ms.openlocfilehash: 86a9c06d67bfc00f383e9726ddbda1e56470365a
+  ms.sourcegitcommit: 57ac90606bc363bb65db21fb2e722cb506542608
+  ms.translationtype: HT
+  ms.contentlocale: sv-SE
+  ms.lasthandoff: 09/23/2020
+  ms.locfileid: "1028455"
+name: BizTalk Server 2009
+summary: >
+  BizTalk Server 2009 följer policyn för [fast](/lifecycle/policies/fixed) livscykel.
+
+
+  Detta gäller följande utgåvor: Branch, Developer, Enterprise, Enterprise RFID och Standard
+
+
+  > [!IMPORTANT]
+
+  > Support för den här produkten har upphört. Se migreringsvägledningen nedan.
+products:
+- microsoft-servers
+policyType: fixed
+supportDates:
+  start: 06/21/2009
+  end: 07/08/2014
+  extendedEnd: 07/09/2019
+releases:
+- version: Original Release
+  startDate: 06/21/2009
+  endDate: 07/09/2019
+content: "\n## <a name=\"links\"></a>Länkar \n* [Vägledning för migrering](/biztalk/install-and-config-guides/upgrade-to-biztalk-server-2020)\n* [Versionsinformation](https://social.technet.microsoft.com/wiki/contents/articles/18709.biztalk-server-product-lifecycle.aspx)\n* [Service pack-policy](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Utgåvor \n* Förgrening\n* Developer\n* Enterprise\n* Enterprise RFID\n* Standard"
