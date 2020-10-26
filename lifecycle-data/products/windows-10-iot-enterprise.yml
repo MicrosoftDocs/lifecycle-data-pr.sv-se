@@ -2,13 +2,14 @@
 metadata:
   title: Windows 10 IoT Enterprise
   description: Windows 10 IoT Enterprise följer den moderna livscykelpolicyn.
-  ms.date: 08/26/2020
-  ms.openlocfilehash: bf64867436379e937108f16080e401abba6ebca8
-  ms.sourcegitcommit: d28d18dd801693302858cb5086cabb3a5d2083f3
+  ms.date: 10/15/2020
+  keywords: 
+  ms.openlocfilehash: 92955961c85f0b6d05f27a051706e2050006957d
+  ms.sourcegitcommit: c1ccf8aedb73c5410ef70b9d59a49b6f6746a52c
   ms.translationtype: HT
   ms.contentlocale: sv-SE
-  ms.lasthandoff: 08/26/2020
-  ms.locfileid: "911238"
+  ms.lasthandoff: 10/20/2020
+  ms.locfileid: "1162796"
 name: Windows 10 IoT Enterprise
 summary: >
   Windows 10 IoT Enterprise följer den [moderna](/lifecycle/policies/modern) livscykelpolicyn.
@@ -25,6 +26,9 @@ supportDates:
   start: 07/29/2015
   end: 10/14/2025
 releases:
+- version: Version 20H2
+  startDate: 10/20/2020
+  endDate: 05/09/2023
 - version: Version 2004
   startDate: 05/27/2020
   endDate: 12/14/2021
@@ -55,4 +59,4 @@ releases:
 - version: Version 1507
   startDate: 07/29/2015
   endDate: 05/09/2017
-content: "\n## <a name=\"links\"></a>Länkar \n* [Översikt över Windows 10 IoT Enterprise](/windows/iot-core/windows-iot-enterprise)\n* [Faktablad om Windows livscykel](https://support.microsoft.com/help/13853/windows-lifecycle-fact-sheet)\n* [Windows som en tjänst (WaaS)](/windows/deployment/update/waas-quick-start)\n* [Vanliga frågor och svar om livscykel – Windows-produkter](/lifecycle/faq/windows)\n\n> [!NOTE]\n> Om de inte skjuts upp kan funktionsuppdateringarna för Windows 10-halvårskanalen installeras före slutdatumet för mainstream-support."
+content: "\n## <a name=\"links\"></a>Länkar \n* [Vanliga frågor och svar om livscykel – Windows-produkter](/lifecycle/faq/windows)\n\n> [!NOTE]\n> Om de inte skjuts upp kan funktionsuppdateringarna för Windows 10-halvårskanalen installeras före slutdatumet för mainstream-support."
