@@ -2,14 +2,14 @@
 metadata:
   title: Windows 10 IoT Core
   description: Windows 10 IoT Core följer policyn för modern livscykel.
-  ms.date: 09/08/2020
-  keywords: ''
-  ms.openlocfilehash: 61de53b89d60be7cc06f265b571b5769f8053350
-  ms.sourcegitcommit: 6d5e18e0097383b5852f122a79a7dc045e1d0d8f
+  ms.date: 10/16/2020
+  keywords: 
+  ms.openlocfilehash: 3893a58a054c3596d50f70244fe96b3bb5659df9
+  ms.sourcegitcommit: 3e26c892fea0b6f55cd4d050f1454019e9125ef9
   ms.translationtype: HT
   ms.contentlocale: sv-SE
-  ms.lasthandoff: 09/08/2020
-  ms.locfileid: "983729"
+  ms.lasthandoff: 10/17/2020
+  ms.locfileid: "1158128"
 name: Windows 10 IoT Core
 summary: >
   Windows 10 IoT Core följer policyn för [modern](/lifecycle/policies/modern) livscykel.
@@ -18,7 +18,7 @@ summary: >
 
   > [!IMPORTANT]
 
-  > Microsoft fortsätter att erbjuda support under minst en Windows 10-halvårskanal fram till 14 oktober 2025.
+  > Denna produkt går i pension den 10 november 2020. För behålla supporten, migrera till IoT Core Services.
 products:
 - windows
 policyType: modern-on-prem
@@ -41,4 +41,4 @@ releases:
 - version: Version 1607
   startDate: 08/02/2016
   endDate: 04/10/2018
-content: "\n## <a name=\"links\"></a>Länkar \n* [Produktinformation](/windows/iot-core/windows-iot-core)\n* [Faktablad om Windows livscykel](https://support.microsoft.com/help/13853/windows-lifecycle-fact-sheet)\n* [Windows som en tjänst (WaaS)](/windows/deployment/update/waas-quick-start)\n* [Vanliga frågor och svar om livscykel – Windows-produkter](/lifecycle/faq/windows)\n\n> [!NOTE]\n> Om de inte skjuts upp kan funktionsuppdateringarna för Windows 10-halvårskanalen installeras före slutdatumet för mainstream-support."
+content: "\n## <a name=\"links\"></a>Länkar \n* [Vanliga frågor och svar om livscykel – Windows-produkter](/lifecycle/faq/windows)\n* [Faktablad om Windows livscykel](https://support.microsoft.com/help/13853/windows-lifecycle-fact-sheet)\n* [Windows som en tjänst (WaaS)](/windows/deployment/update/waas-quick-start)"

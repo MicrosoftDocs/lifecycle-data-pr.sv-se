@@ -1,0 +1,30 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Secured Dimensions SecureLM
+  description: Secured Dimensions SecureLM följer policyn för fast livscykel.
+  ms.date: 10/20/2020
+  keywords: 
+  ms.openlocfilehash: fe3181990300a2a8981f3923880bcc299c47cf93
+  ms.sourcegitcommit: c1ccf8aedb73c5410ef70b9d59a49b6f6746a52c
+  ms.translationtype: HT
+  ms.contentlocale: sv-SE
+  ms.lasthandoff: 10/20/2020
+  ms.locfileid: "1162902"
+name: Secured Dimensions SecureLM
+summary: >+
+  Secured Dimensions SecureLM följer policyn för [fast](/lifecycle/policies/fixed) livscykel.
+
+
+  Detta gäller för följande utgåvor: .NET, Kodskydd, Server
+
+products:
+- dotnet
+policyType: fixed-mainstream-only
+supportDates:
+  start: 03/30/2007
+  end: 01/10/2012
+releases:
+- version: Original Release
+  startDate: 03/30/2007
+  endDate: 01/10/2012
+content: "\n\n> [!NOTE]\n> Support för den här produkten är beroende av dess inköpsvillkor.\n\n## <a name=\"editions\"></a>Utgåvor \n* .NET\n* Kodskyddare\n* Server"

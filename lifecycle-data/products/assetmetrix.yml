@@ -1,0 +1,27 @@
+### YamlMime:Lifecycle
+metadata:
+  title: AssetMetrix
+  description: AssetMetrix följer policyn för modern livscykel.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: db5a90d3b938f0b8b7a8311d5b0092e445818ae8
+  ms.sourcegitcommit: 36daddf71b03a8e6938fa973778bf6c67b1bd663
+  ms.translationtype: HT
+  ms.contentlocale: sv-SE
+  ms.lasthandoff: 10/14/2020
+  ms.locfileid: "1154230"
+name: AssetMetrix
+summary: >+
+  AssetMetrix följer policyn för [modern](/lifecycle/policies/modern) livscykel.
+
+
+products:
+- msc
+policyType: modern-online
+supportDates:
+  start: 12/01/2007
+  end: 07/08/2008
+releases:
+- version: Original Release
+  startDate: 12/01/2007
+  endDate: 07/08/2008
+content: "\n## <a name=\"links\"></a>Länkar \n* [Vanliga frågor och svar om livscykel – allmänt](/lifecycle/faq/general-lifecycle)\n\n> [!NOTE]\n> Support för den här produkten är beroende av dess inköpsvillkor."
