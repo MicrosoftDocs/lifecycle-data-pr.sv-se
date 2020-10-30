@@ -2,22 +2,16 @@
 metadata:
   title: Skype för företag online
   description: Skype för företag – Online följer policyn för modern livscykel.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 68200f8b9758ff25b2515f027f39c91bddde4c7e
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.date: 09/16/2020
+  keywords: ''
+  ms.openlocfilehash: bf59d0a69fe09d791e95560ef3c69de86814a9fd
+  ms.sourcegitcommit: c1ccf8aedb73c5410ef70b9d59a49b6f6746a52c
   ms.translationtype: HT
   ms.contentlocale: sv-SE
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "864231"
+  ms.lasthandoff: 10/20/2020
+  ms.locfileid: "1162204"
 name: Skype för företag online
-summary: >
-  Skype för företag – Online följer policyn för [modern](/lifecycle/policies/modern) livscykel.
-
-
-
-  > [!IMPORTANT]
-
-  > Denna tjänst tas ur bruk den 31 juli 2021. Se nedan för migreringsvägledning.
+summary: "Skype för företag – Online följer policyn för [modern](/lifecycle/policies/modern) livscykel.\n\n\n> [!IMPORTANT]\n> Denna tjänst tas ur bruk den 31 juli 2021. Se nedan för migreringsvägledning. Gå [hit](https://techcommunity.microsoft.com/t5/microsoft-teams-blog/changes-ahead-for-cloud-connector-edition-and-hybrid-voice/ba-p/1650055) för att lära dig om påverkan på HybridVoice-distributioner. \n"
 products:
 - office
 policyType: modern-online

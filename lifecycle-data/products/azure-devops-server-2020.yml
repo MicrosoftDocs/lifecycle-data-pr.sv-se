@@ -1,32 +1,29 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Azure DevOps Server 2019
-  description: Azure DevOps Server 2019 följer policyn för fast livscykel.
+  title: Azure DevOps Server 2020
+  description: Azure DevOps Server 2020 följer policyn för fast livscykel.
   ms.date: 10/13/2020
   keywords: 
-  ms.openlocfilehash: 66fd2b66222c53befd581ad8c566712f594e4936
+  ms.openlocfilehash: 24c4068f58e0f16b831e6e8268b06a274591da3e
   ms.sourcegitcommit: ba0f6f0e9898cc2a567ae35ba5a94939a50fcce8
   ms.translationtype: HT
   ms.contentlocale: sv-SE
   ms.lasthandoff: 10/13/2020
-  ms.locfileid: "1151772"
-name: Azure DevOps Server 2019
+  ms.locfileid: "1151841"
+name: Azure DevOps Server 2020
 summary: >+
-  Azure DevOps Server 2019 följer policyn för [fast](/lifecycle/policies/fixed) livscykel.
+  Azure DevOps Server 2020 följer policyn för [fast](/lifecycle/policies/fixed) livscykel.
 
 
 products:
 - azure
 policyType: fixed
 supportDates:
-  start: 03/05/2019
-  end: 04/09/2024
-  extendedEnd: 04/10/2029
+  start: 08/25/2020
+  end: 10/14/2025
+  extendedEnd: 10/08/2030
 releases:
-- version: Update 2019.1
-  startDate: 12/10/2019
-  endDate: 04/10/2029
 - version: Original Release
-  startDate: 03/05/2019
-  endDate: 01/12/2021
+  startDate: 08/25/2020
+  endDate: 10/08/2030
 content: "\n## <a name=\"links\"></a>Länkar \n* [Översikt och uppdateringsinformation för Azure DevOps Server](/azure/devops/server/whats-new?view=azure-devops-2020&viewFallbackFrom=azure-devops)"

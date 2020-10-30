@@ -2,13 +2,14 @@
 metadata:
   title: Internet Explorer 7
   description: Internet Explorer 7 följer policyn för komponentens livscykel.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: a3ebb8bde83f8b86fe292510b958fb0c59994fe3
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.date: 10/05/2020
+  keywords: 
+  ms.openlocfilehash: e9a0e815b920011e15e4da8e58158c45e7971cd0
+  ms.sourcegitcommit: c1ccf8aedb73c5410ef70b9d59a49b6f6746a52c
   ms.translationtype: HT
   ms.contentlocale: sv-SE
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "842146"
+  ms.lasthandoff: 10/20/2020
+  ms.locfileid: "1162685"
 name: Internet Explorer 7
 summary: >+
   Windows 7 följer policyn för [komponentens](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) livscykel.
@@ -19,7 +20,8 @@ products:
 policyType: component
 supportDates:
   start: 10/18/2006
+  end: 10/10/2023
 releases:
 - version: Original Release
   startDate: 10/18/2006
-content: "\n## <a name=\"links\"></a>Länkar \n* [Vägledning för migrering](https://www.microsoft.com/itpro/microsoft-edge)\n* [Vanliga frågor och svar om livscykelprincipen för Internet Explorer](/lifecycle/faq/internet-explorer-microsoft-edge)\n\n> [!NOTE]\n> Efter 12 januari 2016 är det bara den senaste versionen av Internet Explorer som är tillgänglig för ett operativsystem som stöds och som får teknisk support och säkerhetsuppdateringar såsom du ser i tabellen nedan:"
+content: "\n## <a name=\"links\"></a>Länkar \n* [Vägledning för migrering](https://www.microsoft.com/itpro/microsoft-edge)\n* [Windows Embedded Compact 7](/lifecycle/products/windows-embedded-compact-7)\n* [Windows Embedded Compact 2013](/lifecycle/products/windows-embedded-compact-2013)\n* [Vanliga frågor och svar om livscykelprincipen för Internet Explorer](/lifecycle/faq/internet-explorer-microsoft-edge)\n\n> [!NOTE]\n> Internet Explorer 7 är en komponent i Windows Embedded Compact 7 och Windows Embedded Compact 2013 och följer samma livscykel. \n> [!NOTE]\n> Efter 12 januari 2016 är det bara den senaste versionen av Internet Explorer som är tillgänglig för ett operativsystem som stöds och som får teknisk support och säkerhetsuppdateringar såsom du ser i tabellen nedan:"
