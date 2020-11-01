@@ -1,0 +1,28 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Adxstudio v7. x
+  description: Adxstudio v7. x följer policyn för fast livs cykel.
+  ms.date: 10/22/2020
+  keywords: 
+  ms.openlocfilehash: c3bcea69dbd4ed827729c43f86e5f5a4c4bfa9e8
+  ms.sourcegitcommit: 2056a8a3f9a36793142bc03850e39d5751d9dad3
+  ms.translationtype: MT
+  ms.contentlocale: sv-SE
+  ms.lasthandoff: 10/29/2020
+  ms.locfileid: "1193520"
+name: Adxstudio v7. x
+summary: >+
+  Adxstudio v7. x följer policyn för [fast](/lifecycle/policies/fixed) livs cykel.
+
+
+products:
+- dynamics
+policyType: fixed
+supportDates:
+  start: 09/29/2015
+  extendedEnd: 08/01/2018
+releases:
+- version: v7.x
+  startDate: 09/29/2015
+  endDate: 08/01/2018
+content: "\n## <a name=\"links\"></a>Länkar \n* [Vägledning för migrering](https://cloudblogs.microsoft.com/dynamics365/it/2017/09/14/changes-coming-for-legacy-adxstudio-portals-v7/?source=crm)\n\n> [!NOTE]\n> Support för den här produkten är beroende av dess anskaffning och har upphört. Se migreringsvägledningen nedan."
