@@ -1,6 +1,6 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Workflow Manager 1.0
+  title: Arbetsflödeshanteraren  1.0
   description: Arbetsflödeshanteraren 1.0 följer principen för fast livscykel.
   ms.date: 09/10/2020
   keywords: 
@@ -10,7 +10,7 @@ metadata:
   ms.contentlocale: sv-SE
   ms.lasthandoff: 09/10/2020
   ms.locfileid: "1002822"
-name: Workflow Manager 1.0
+name: Arbetsflödeshanteraren  1.0
 summary: >+
   Arbetsflödeshanteraren 1.0 följer principen för [fast](/lifecycle/policies/fixed) livscykel.
 
