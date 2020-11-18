@@ -1,6 +1,6 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Windows Embedded Enhetshanteraren 2011
+  title: Windows Embedded Device Manager 2011
   description: Windows Embedded Device Manager 2011 följer policyn för fast livscykel.
   ms.date: 09/01/2020
   keywords: Client,SDK,Server
@@ -10,7 +10,7 @@ metadata:
   ms.contentlocale: sv-SE
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "939945"
-name: Windows Embedded Enhetshanteraren 2011
+name: Windows Embedded Device Manager 2011
 summary: >
   Windows Embedded Device Manager 2011 följer policyn för [fast](/lifecycle/policies/fixed) livscykel.
 

@@ -1,6 +1,6 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Molnplattformssystem
+  title: Cloud Platform System
   description: Cloud Platform System följer policyn för fast livscykel.
   ms.date: 09/01/2020
   keywords: Standard
@@ -10,7 +10,7 @@ metadata:
   ms.contentlocale: sv-SE
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "932064"
-name: Molnplattformssystem
+name: Cloud Platform System
 summary: >+
   Cloud Platform System följer policyn för [fast](/lifecycle/policies/fixed) livscykel.
 
