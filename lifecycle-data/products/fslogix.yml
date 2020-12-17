@@ -2,13 +2,14 @@
 metadata:
   title: FSLogix
   description: FSLogix följer policyn för modern livscykel.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 22f58db08e156a88911a67899e81a054683a0d34
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.date: 12/07/2020
+  keywords: 
+  ms.openlocfilehash: dfb32452fc063ade9afd59e990b13f3e93c3f76a
+  ms.sourcegitcommit: 272dedcf92e644b57865e78c716f937b66e534c3
   ms.translationtype: HT
   ms.contentlocale: sv-SE
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "864016"
+  ms.lasthandoff: 12/08/2020
+  ms.locfileid: "1335829"
 name: FSLogix
 summary: >+
   FSLogix öljer policyn för [modern](/lifecycle/policies/modern) livscykel.
@@ -18,10 +19,8 @@ products:
 - windows
 policyType: modern-online
 supportDates:
-  start: 03/15/2016
-  end: 09/01/2019
+  start: 06/05/2020
 releases:
 - version: Original Release
-  startDate: 03/15/2016
-  endDate: 09/01/2019
-content: "\n## <a name=\"links\"></a>Länkar \n* [Ladda ned och installera FSLogix](/fslogix/install-ht)\n* [Support för FSLogix](https://social.msdn.microsoft.com/Forums/14ea5f6f-760b-4ad2-83cf-23c3cbc1bcc4/how-to-open-a-fslogix-support-request?forum=FSLogix)\n\n> [!NOTE]\n> Support för den här produkten är beroende av dess inköpsvillkor."
+  startDate: 06/05/2020
+content: "\n## <a name=\"links\"></a>Länkar \n* [Ladda ned och installera FSLogix](/fslogix/install-ht)\n* [Så öppnar man en FSLogix-supportbegäran](https://social.msdn.microsoft.com/Forums/14ea5f6f-760b-4ad2-83cf-23c3cbc1bcc4/how-to-open-a-fslogix-support-request?forum=FSLogix)"
