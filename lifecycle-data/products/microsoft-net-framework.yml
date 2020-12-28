@@ -1,0 +1,55 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft .NET Framework
+  description: Microsoft .NET Framework följer komponentens livscykelpolicyn.
+  ms.date: 12/16/2020
+  keywords: Entity Framework Core
+  ms.openlocfilehash: ac0ceb3f06c50aca5da4d362e291d809d1353b17
+  ms.sourcegitcommit: f4e86f7c87c4574636289408f511574ac20127a0
+  ms.translationtype: HT
+  ms.contentlocale: sv-SE
+  ms.lasthandoff: 12/17/2020
+  ms.locfileid: "1347452"
+name: Microsoft .NET Framework
+summary: >+
+  Microsoft .NET Framework följer [komponentens](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) livscykelpolicyn.
+
+
+products:
+- dotnet
+policyType: component
+supportDates:
+  start: 02/17/2006
+releases:
+- version: .NET Framework 4.8
+  startDate: 04/18/2019
+- version: .NET Framework 4.7.2
+  startDate: 04/30/2018
+- version: .NET Framework 4.7.1
+  startDate: 10/17/2017
+- version: .NET Framework 4.7
+  startDate: 04/11/2017
+- version: .NET Framework 4.6.2
+  startDate: 08/02/2016
+- version: .NET Framework 4.6.1
+  startDate: 11/30/2015
+- version: .NET Framework 4.6
+  startDate: 07/29/2015
+- version: .NET Framework 4.5.2
+  startDate: 05/05/2014
+- version: .NET Framework 4.5.1
+  startDate: 01/15/2014
+  endDate: 01/12/2016
+- version: .NET Framework 4.5
+  startDate: 10/09/2012
+  endDate: 01/12/2016
+- version: .NET Framework 3.5 Service Pack 1
+  startDate: 11/19/2007
+  endDate: 01/09/2029
+- version: .NET Framework 3.0
+  startDate: 11/21/2006
+  endDate: 07/12/2011
+- version: .NET Framework 2.0
+  startDate: 02/17/2006
+  endDate: 07/12/2011
+content: "\n## <a name=\"links\"></a>Länkar \n* [Vanliga frågor och svar om livscykel – .NET Framework](/lifecycle/faq/dotnet-framework)\n* [Produktinformation](/dotnet/framework/migration-guide/versions-and-dependencies#net-framework-48)\n\n> [!NOTE]\n> .NET Framework 3.5 Service Pack 1 (SP1) är en fristående produkt som följer den fasta policyn, som börjar med Windows 10 version 1809 och Windows Server 2019. Innan detta anses .NET Framework 3.5 SP1 vara en komponent i operativsystemet Windows där det är installerat."

@@ -2,13 +2,14 @@
 metadata:
   title: Dynamics AX 2009
   description: Dynamics AX 2009 följer policyn för fast livscykel.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 20756fcbadc2386830d4eecb9129443bef1a2bc2
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.date: 12/17/2020
+  keywords: 
+  ms.openlocfilehash: 45d386654df8e87dc58f4445cecb94e3e5de2353
+  ms.sourcegitcommit: 4e42a9063f11353b16a25fce40ad96cc6146dd96
   ms.translationtype: HT
   ms.contentlocale: sv-SE
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "841502"
+  ms.lasthandoff: 12/18/2020
+  ms.locfileid: "1348202"
 name: Dynamics AX 2009
 summary: >+
   Dynamics AX 2009 följer policyn för [fast](/lifecycle/policies/fixed) livscykel.
@@ -20,12 +21,12 @@ policyType: fixed
 supportDates:
   start: 08/14/2008
   end: 10/09/2018
-  extendedEnd: 10/12/2021
+  extendedEnd: 04/12/2022
 releases:
 - version: Service Pack 1
   startDate: 11/03/2008
-  endDate: 10/12/2021
+  endDate: 04/12/2022
 - version: Original Release
   startDate: 08/14/2008
   endDate: 01/11/2011
-content: "\n## <a name=\"links\"></a>Länkar \n* [Vägledning för migrering](/dynamics365/fin-ops-core/dev-itpro/migration-upgrade/data-migration-tool)\n* [Dynamics 365 migreringsprogram](https://dynamics.microsoft.com/migration-program/)\n* [Ytterligare livscykelinformation](/dynamics365/fin-ops-core/fin-ops/get-started/mainstream-support-ax-2009-2012)\n* [Service pack-policy](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Mainstream-support har förlängts som visas."
+content: "\n## <a name=\"links\"></a>Länkar \n* [Vägledning för migrering](/dynamics365/fin-ops-core/dev-itpro/migration-upgrade/data-migration-tool)\n* [Dynamics 365 migreringsprogram](https://dynamics.microsoft.com/migration-program/)\n* [Ytterligare livscykelinformation](/dynamics365/fin-ops-core/fin-ops/get-started/mainstream-support-ax-2009-2012)\n* [Service pack-policy](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Slutet på stödet för Dynamics AX 2009 (Service Pack 1) förlängdes från 12 oktober 2021 till 12 april 2022."

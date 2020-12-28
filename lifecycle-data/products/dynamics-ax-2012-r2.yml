@@ -2,13 +2,14 @@
 metadata:
   title: Dynamics AX 2012 R2
   description: Dynamics AX 2012 R2 följer policyn för fast livscykel.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 0c416b7a522ce30abd5dc690132e3daa91db99ba
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.date: 12/17/2020
+  keywords: 
+  ms.openlocfilehash: 692e77796e74b3dc826fcb3b21fa110d8e3485b2
+  ms.sourcegitcommit: 4e42a9063f11353b16a25fce40ad96cc6146dd96
   ms.translationtype: HT
   ms.contentlocale: sv-SE
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "864115"
+  ms.lasthandoff: 12/18/2020
+  ms.locfileid: "1348242"
 name: Dynamics AX 2012 R2
 summary: >+
   Dynamics AX 2012 R2 följer policyn för [fast](/lifecycle/policies/fixed) livscykel.
@@ -20,9 +21,9 @@ policyType: fixed
 supportDates:
   start: 02/19/2013
   end: 10/09/2018
-  extendedEnd: 10/12/2021
+  extendedEnd: 04/12/2022
 releases:
 - version: Original Release
   startDate: 02/19/2013
-  endDate: 10/12/2021
-content: "\n## <a name=\"links\"></a>Länkar \n* [Vägledning för migrering](/dynamics365/unified-operations/dev-itpro/migration-upgrade/upgrade-overview-2012)\n* [Dynamics 365 migreringsprogram](https://dynamics.microsoft.com/migration-program/)\n* [Ytterligare livscykelinformation](/dynamics365/unified-operations/fin-and-ops/get-started/mainstream-support-ax-2009-2012)\n\n> [!NOTE]\n> Mainstream-support har förlängts som visas."
+  endDate: 04/12/2022
+content: "\n## <a name=\"links\"></a>Länkar \n* [Vägledning för migrering](/dynamics365/unified-operations/dev-itpro/migration-upgrade/upgrade-overview-2012)\n* [Dynamics 365 migreringsprogram](https://dynamics.microsoft.com/migration-program/)\n* [Ytterligare livscykelinformation](/dynamics365/unified-operations/fin-and-ops/get-started/mainstream-support-ax-2009-2012)\n\n> [!NOTE]\n> Slutet på stödet för Dynamics AX 2012 och Dynamics AX R2 förlängdes från 12 oktober 2021 till 12 april 2022."
