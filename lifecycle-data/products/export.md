@@ -1,25 +1,25 @@
 ---
 title: Export av livscykeldata
 description: Exportera information om produktens livscykel
-ms.date: 11/29/2020
+ms.date: 01/06/2021
 layout: ContentPage
-ms.openlocfilehash: 210af0cf60630cbdbf43847641022283aca78366
-ms.sourcegitcommit: 272dedcf92e644b57865e78c716f937b66e534c3
+ms.openlocfilehash: 4a27cd96ddaa1b3d128d9f1d711504d88c28e36e
+ms.sourcegitcommit: f24c8653f7fd67e5b3f9f41e17b47edcecb5856e
 ms.translationtype: HT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 12/08/2020
-ms.locfileid: "1335903"
+ms.lasthandoff: 01/06/2021
+ms.locfileid: "1367582"
 ---
-# <a name="lifecycle-data-export"></a><span data-ttu-id="109cd-103">Export av livscykeldata</span><span class="sxs-lookup"><span data-stu-id="109cd-103">Lifecycle data export</span></span>
+# <a name="lifecycle-data-export"></a><span data-ttu-id="9b814-103">Export av livscykeldata</span><span class="sxs-lookup"><span data-stu-id="9b814-103">Lifecycle data export</span></span>
 
-## <a name="export-all-products"></a><span data-ttu-id="109cd-104">Exportera alla produkter</span><span class="sxs-lookup"><span data-stu-id="109cd-104">Export all products</span></span>
-<span data-ttu-id="109cd-105">Exportera livscykeldata för alla produkter genom att klicka nedan:</span><span class="sxs-lookup"><span data-stu-id="109cd-105">Export lifecycle data for all products by clicking below:</span></span>
+## <a name="export-all-products"></a><span data-ttu-id="9b814-104">Exportera alla produkter</span><span class="sxs-lookup"><span data-stu-id="9b814-104">Export all products</span></span>
+<span data-ttu-id="9b814-105">Exportera livscykeldata för alla produkter genom att klicka nedan:</span><span class="sxs-lookup"><span data-stu-id="9b814-105">Export lifecycle data for all products by clicking below:</span></span>
 
 > [!div class="nextstepaction"]
-> [<span data-ttu-id="109cd-106">Exportera alla produkter</span><span class="sxs-lookup"><span data-stu-id="109cd-106">Export All Products</span></span>](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export)
+> [<span data-ttu-id="9b814-106">Exportera alla produkter</span><span class="sxs-lookup"><span data-stu-id="9b814-106">Export All Products</span></span>](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export)
 
-## <a name="export-products-by-family-and-group"></a><span data-ttu-id="109cd-107">Exportera produkter per Familj och Grupp</span><span class="sxs-lookup"><span data-stu-id="109cd-107">Export products by Family and Group</span></span>
-<span data-ttu-id="109cd-108">Välj en Familj och sedan en Grupp att exportera.</span><span class="sxs-lookup"><span data-stu-id="109cd-108">Select a Family and then a Group to export.</span></span> <span data-ttu-id="109cd-109">Obs! Exporten börja när Gruppens värde är markerat.</span><span class="sxs-lookup"><span data-stu-id="109cd-109">Note: Export will begin when Group value is selected.</span></span> 
+## <a name="export-products-by-family-and-group"></a><span data-ttu-id="9b814-107">Exportera produkter per Familj och Grupp</span><span class="sxs-lookup"><span data-stu-id="9b814-107">Export products by Family and Group</span></span>
+<span data-ttu-id="9b814-108">Välj en Familj och sedan en Grupp att exportera.</span><span class="sxs-lookup"><span data-stu-id="9b814-108">Select a Family and then a Group to export.</span></span> <span data-ttu-id="9b814-109">Obs! Exporten börja när Gruppens värde är markerat.</span><span class="sxs-lookup"><span data-stu-id="9b814-109">Note: Export will begin when Group value is selected.</span></span> 
 
 > [!div class="op_multi_selector" title1="Familj" title2="Grupp"]
 > - [(.NET | alla)](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export(family='.NET'))
@@ -81,13 +81,12 @@ ms.locfileid: "1335903"
 > - [(Windows | Säkerhet)](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export(family='Windows',group='Security'))
 > - [(Windows | Server)](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export(family='Windows',group='Server'))
 
-## <a name="export-products-by-end-of-support-date"></a><span data-ttu-id="109cd-170">Exportera produkter per datum då support upphör</span><span class="sxs-lookup"><span data-stu-id="109cd-170">Export products by end of support date</span></span>
-<span data-ttu-id="109cd-171">Välj ett år för att se produkter som når slutet på sin support.</span><span class="sxs-lookup"><span data-stu-id="109cd-171">Select a year to see products reaching the end of support.</span></span> <span data-ttu-id="109cd-172">Obs! Exporten börja när värdet på År har valts.</span><span class="sxs-lookup"><span data-stu-id="109cd-172">Note: Export will begin when Year value is selected.</span></span>
+## <a name="export-products-by-end-of-support-date"></a><span data-ttu-id="9b814-170">Exportera produkter per datum då support upphör</span><span class="sxs-lookup"><span data-stu-id="9b814-170">Export products by end of support date</span></span>
+<span data-ttu-id="9b814-171">Välj ett år för att se produkter som når slutet på sin support.</span><span class="sxs-lookup"><span data-stu-id="9b814-171">Select a year to see products reaching the end of support.</span></span> <span data-ttu-id="9b814-172">Obs! Exporten börja när värdet på År har valts.</span><span class="sxs-lookup"><span data-stu-id="9b814-172">Note: Export will begin when Year value is selected.</span></span>
 
 > [!div class="op_single_selector"]
 > - [Kommande 12 månader](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export(endOfSupportMonths=12))
 > - [Kommande 6 månader](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export(endOfSupportMonths=6))
-> - [2015](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export(endOfSupportYear=2015))
 > - [2016](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export(endOfSupportYear=2016))
 > - [2017](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export(endOfSupportYear=2017))
 > - [2018](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export(endOfSupportYear=2018))
