@@ -1,17 +1,18 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Azure Virtual Machine (klassisk) (bekräfta med Azure före publicering – inget slutdatum på datumrutnätet)
-  description: Microsoft Azure Virtual Machine (klassisk) (bekräfta med Azure före publicering – inget slutdatum på datumrutnät) följer policyn för modern livscykel
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 62691a5a8045c8744b291cd5475ad7b6828542e8
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  title: Microsoft Azure:s virtuella datorn (klassisk)
+  description: Microsoft Azures virtuella dator (klassisk) följer den moderna livscykelpolicyn.
+  ms.date: 01/21/2021
+  keywords: 
+  ms.openlocfilehash: 0e575c15aa31b8d3147bfbca806bf0c90db48731
+  ms.sourcegitcommit: b565a66121b149da703e6b457e86868768499385
   ms.translationtype: HT
   ms.contentlocale: sv-SE
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "864170"
-name: Microsoft Azure Virtual Machine (klassisk) (bekräfta med Azure före publicering – inget slutdatum på datumrutnätet)
+  ms.lasthandoff: 01/21/2021
+  ms.locfileid: "1416334"
+name: Microsoft Azure:s virtuella datorn (klassisk)
 summary: >+
-  Microsoft Azure Virtual Machine (klassisk) (bekräfta med Azure före publicering – inget slutdatum på datumrutnät) följer policyn för [modern](/lifecycle/policies/modern) livscykel.
+  Microsoft Azure:s virtuella datorn (klassisk) följer den [moderna](/lifecycle/policies/modern) livscykelpolicyn.
 
 
 products:
