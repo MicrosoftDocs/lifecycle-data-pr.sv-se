@@ -2,14 +2,14 @@
 metadata:
   title: Windows 10 Enterprise och Education
   description: Windows 10 Enterprise and Education följer policyn för modern livscykel.
-  ms.date: 10/09/2020
+  ms.date: 02/12/2021
   keywords: 
-  ms.openlocfilehash: aafaec4e3b02f433224ea51446b8c18f4bd0c031
-  ms.sourcegitcommit: c1ccf8aedb73c5410ef70b9d59a49b6f6746a52c
+  ms.openlocfilehash: 84edf77fb54cb13cb21b8a8ef6643267a3872af2
+  ms.sourcegitcommit: b85a6ac35e0af0e17a9ae767927273508a4f31f6
   ms.translationtype: HT
   ms.contentlocale: sv-SE
-  ms.lasthandoff: 10/20/2020
-  ms.locfileid: "1162537"
+  ms.lasthandoff: 02/14/2021
+  ms.locfileid: "1449238"
 name: Windows 10 Enterprise och Education
 summary: >
   Windows 10 Enterprise and Education följer policyn för [modern](/lifecycle/policies/modern) livscykel.
@@ -20,7 +20,9 @@ summary: >
 
   > [!IMPORTANT]
 
-  > Microsoft fortsätter att erbjuda support under minst en Windows 10-halvårskanal fram till 14 oktober 2025.
+  > Microsoft fortsätter att erbjuda support för minst ett släpp av Windows 10 på halvårskanalen fram till 14 oktober 2025.
+
+  Tabellen nedan visar versionerna som har släppts hittils.
 products:
 - windows
 policyType: modern-on-prem
@@ -61,4 +63,4 @@ releases:
 - version: Version 1507
   startDate: 07/29/2015
   endDate: 05/09/2017
-content: "\n## <a name=\"links\"></a>Länkar \n* [Windows som en tjänst (WaaS)](/windows/deployment/update/waas-quick-start)\n* [Produktinformation](/windows/windows-10/)\n* [Vanliga frågor och svar om livscykel – Windows-produkter](/lifecycle/faq/windows)\n\n> [!NOTE]\n> Om de inte skjuts upp kan funktionsuppdateringarna för Windows 10-halvårskanalen installeras före slutdatumet för mainstream-support.\n\n## <a name=\"editions\"></a>Utgåvor \n* Education\n* Enterprise"
+content: "\n## <a name=\"links\"></a>Länkar \n* [Windows som en tjänst (WaaS)](/windows/deployment/update/waas-quick-start)\n* [Windows 10 IoT Enterprise](/lifecycle/products/windows-10-iot-enterprise)\n* [Windows 10 Home och Pro](/lifecycle/products/windows-10-home-and-pro)\n* [Produktinformation](/windows/windows-10/)\n* [Vanliga frågor och svar om livscykel – Windows-produkter](/lifecycle/faq/windows)\n\n> [!NOTE]\n> Om de inte skjuts upp kan funktionsuppdateringarna för Windows 10-halvårskanalen installeras före slutdatumet för mainstream-support.\n\n## <a name=\"editions\"></a>Utgåvor \n* Education\n* Enterprise"
