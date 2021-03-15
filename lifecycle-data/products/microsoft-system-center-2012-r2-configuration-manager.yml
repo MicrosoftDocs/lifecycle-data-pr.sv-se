@@ -2,13 +2,14 @@
 metadata:
   title: Konfigurationshanteraren för Microsoft System Center 2012 R2
   description: Konfigurationshanteraren för Microsoft System Center 2012 R2 följer policyn för fast livscykel.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 61515e636a9af310a2107c9505067fa551d26b15
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.date: 03/12/2021
+  keywords: 
+  ms.openlocfilehash: b9a1c0fa5804c5929f39f72816e86e49c739d281
+  ms.sourcegitcommit: 8465b0fa45ee2c451d1f1eaf7be9a1544cdad17f
   ms.translationtype: HT
   ms.contentlocale: sv-SE
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "863942"
+  ms.lasthandoff: 03/12/2021
+  ms.locfileid: "1462925"
 name: Konfigurationshanteraren för Microsoft System Center 2012 R2
 summary: >+
   Konfigurationshanteraren för Microsoft System Center 2012 R2 följer policyn för [fast](/lifecycle/policies/fixed) livscykel.
@@ -28,4 +29,4 @@ releases:
 - version: Original Release
   startDate: 01/16/2014
   endDate: 07/12/2016
-content: "\n## <a name=\"links\"></a>Länkar \n* [Service pack-policy](/lifecycle/policies/fixed#service-packs)\n* [Dokumentation för konfigurationshanteraren](/mem/configmgr/core/misc/online-documentation)"
+content: "\n## <a name=\"links\"></a>Länkar \n* [Service pack-policy](/lifecycle/policies/fixed#service-packs)\n* [Dokumentation för konfigurationshanteraren](/mem/configmgr/core/misc/online-documentation)\n* [Vägledning för migrering](https://techcommunity.microsoft.com/t5/configuration-manager-blog/system-center-2012-configuration-manager-is-approaching-end-of/ba-p/1650899)"
