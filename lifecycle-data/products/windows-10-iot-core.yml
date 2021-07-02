@@ -2,28 +2,31 @@
 metadata:
   title: Windows 10 IoT Core
   description: Windows 10 IoT Core följer policyn för modern livscykel.
-  ms.date: 01/07/2021
+  ms.date: 06/23/2021
   keywords: 
-  ms.openlocfilehash: 0eb6508d3bae724e55598450d6aeb156ad727048
-  ms.sourcegitcommit: 699a750c1174c44e9aca20f79e837d8cd401de71
+  ms.openlocfilehash: ca9f69e7cbaf902414f8eca6c763d2eb07646d96
+  ms.sourcegitcommit: 51a7221b87d358960376e2569c3b1e69ba056b54
   ms.translationtype: HT
   ms.contentlocale: sv-SE
-  ms.lasthandoff: 01/07/2021
-  ms.locfileid: "1369510"
+  ms.lasthandoff: 06/25/2021
+  ms.locfileid: "2028895"
 name: Windows 10 IoT Core
-summary: >
+summary: >+
   Windows 10 IoT Core följer policyn för [modern](/lifecycle/policies/modern) livscykel.
+
+
 
 
 
   > [!IMPORTANT]
 
   > Denna produkt går i pension 10 november 2020. Migrera till [IoT Core Services](https://docs.microsoft.com/windows-hardware/manufacture/iot/iotcoreservicesoverview?tabs=azure-portal) för behålla supporten.
+
 products:
 - windows
 policyType: modern-on-prem
 supportDates:
-  start: 08/02/2016
+  start: 11/10/2015
   end: 11/10/2020
 releases:
 - version: Version 1809
@@ -41,4 +44,7 @@ releases:
 - version: Version 1607
   startDate: 08/02/2016
   endDate: 04/10/2018
-content: "\n## <a name=\"links\"></a>Länkar \n* [Vanliga frågor och svar om livscykel – Windows-produkter](/lifecycle/faq/windows)\n* [Faktablad om Windows livscykel](https://support.microsoft.com/help/13853/windows-lifecycle-fact-sheet)\n* [Windows som en tjänst (WaaS)](/windows/deployment/update/waas-quick-start)"
+- version: Version 1511
+  startDate: 11/10/2015
+  endDate: 10/10/2017
+content: "\n\n## <a name=\"links\"></a>Länkar \n* [Vanliga frågor och svar om livscykel – Windows-produkter](/lifecycle/faq/windows)\n* [Faktablad om Windows livscykel](https://support.microsoft.com/help/13853/windows-lifecycle-fact-sheet)\n* [Windows som en tjänst (WaaS)](/windows/deployment/update/waas-quick-start)"
