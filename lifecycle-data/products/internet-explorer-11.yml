@@ -2,17 +2,25 @@
 metadata:
   title: Internet Explorer 11
   description: Internet Explorer 11 följer policyn för komponentens livscykel.
-  ms.date: 08/12/2020
-  ms.openlocfilehash: 62c563784a27bf046f85b65ff75c31ec969d0bb6
-  ms.sourcegitcommit: c7c4e0a2e3a93e251df1f1cdc0e078a7787b3dc3
+  ms.date: 05/18/2021
+  keywords: 
+  ms.openlocfilehash: e8c2c3268966c81d4dd08589587bd41da21148c2
+  ms.sourcegitcommit: 51a7221b87d358960376e2569c3b1e69ba056b54
   ms.translationtype: HT
   ms.contentlocale: sv-SE
-  ms.lasthandoff: 08/13/2020
-  ms.locfileid: "893665"
+  ms.lasthandoff: 06/25/2021
+  ms.locfileid: "2029524"
 name: Internet Explorer 11
 summary: >+
   Internet Explorer 11 följer policyn för [komponentens](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) livscykel.
 
+
+
+
+
+  > [!IMPORTANT]
+
+  > Internet Explorer (IE) 11-skrivbordsapplikationen kommer att upphöra sin support för vissa operativsystem från och med 15 juni 2022. Kunder uppmanas att flytta till Microsoft Edge med IE-läge. IE-läge möjliggör bakåtkompatibilitet och stöds till minst 2029. Dessutom meddelar Microsoft ett år innan IE-läget upphör. Gå [här](https://docs.microsoft.com/lifecycle/faq/internet-explorer-microsoft-edge#what-is-the-lifecycle-policy-for-internet-explorer-) för en lista över operativsystem som stöds av Internet Explorer, inklusive versioner som påverkas av detta meddelande.
 
 products:
 - internet-explorer
@@ -22,4 +30,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 11/13/2013
-content: "\n## <a name=\"links\"></a>Länkar \n* [Vägledning för migrering](https://www.microsoft.com/itpro/microsoft-edge)\n* [Vanliga frågor och svar om livscykelprincipen för Internet Explorer](/lifecycle/faq/internet-explorer-microsoft-edge)\n\n> [!NOTE]\n> Efter 12 januari 2016 är det bara den senaste versionen av Internet Explorer som är tillgänglig för ett operativsystem som stöds och som får teknisk support och säkerhetsuppdateringar såsom du ser i tabellen nedan:"
+content: "\n\n## <a name=\"links\"></a>Länkar \n* [Vägledning för migrering](https://www.microsoft.com/itpro/microsoft-edge)\n* [Vanliga frågor och svar om Internet Explorer/Edge Lifecyle](/lifecycle/faq/internet-explorer-microsoft-edge)\n* [Operativsystem som har stöd för Microsoft Explorer](/lifecycle/faq/internet-explorer-microsoft-edge#what-is-the-lifecycle-policy-for-internet-explorer-)\n* [Operativsystem som har stöd för Microsoft Edge](/deployedge/microsoft-edge-supported-operating-systems)\n\n\n> [!NOTE]\n> Vissa versioner av Internet Explorer kan stödjas efter det senaste slutdatumet för OS när utökade säkerhetsuppdateringar (ESU:ar) är tillgängliga. Gå [hit](https://docs.microsoft.com/lifecycle/faq/extended-security-updates) för en lista över produkter som erbjuder ESU:ar."
