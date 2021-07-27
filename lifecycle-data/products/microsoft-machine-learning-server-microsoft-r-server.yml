@@ -2,16 +2,20 @@
 metadata:
   title: Microsoft Machine Learning Server (Microsoft R Server)
   description: Microsoft Machine Learning Server (Microsoft R Server) följer policyn för modern livscykel.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 800ea9f3a33e2ea7ba45314ebd7986ebcb047bd8
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.date: 06/30/2021
+  keywords: 
+  ms.openlocfilehash: 3c1b9ad87dbb5b9589d6fbf34c2636315d19842a
+  ms.sourcegitcommit: f887c74eefa2b8760c19b0b6ff5dda6d6829c06a
   ms.translationtype: HT
   ms.contentlocale: sv-SE
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "863958"
+  ms.lasthandoff: 07/12/2021
+  ms.locfileid: "2117525"
 name: Microsoft Machine Learning Server (Microsoft R Server)
 summary: >+
   Microsoft Machine Learning Server (Microsoft R Server) följer policyn för [modern](/lifecycle/policies/modern) livscykel.
+
+
+
 
 
 products:
@@ -19,7 +23,9 @@ products:
 policyType: modern-online
 supportDates:
   start: 01/01/2016
+  end: 07/01/2022
 releases:
 - version: Original Release
   startDate: 01/01/2016
-content: "\n## <a name=\"links\"></a>Länkar \n* [Serviceinformation](/machine-learning-server/resources-servicing-support)"
+  endDate: 07/01/2022
+content: "\n\n## <a name=\"links\"></a>Länkar \n* [Migrationsinformation](https://cloudblogs.microsoft.com/sqlserver/2021/06/30/looking-to-the-future-for-r-in-azure-sql-and-sql-server/)\n* [Tidslinjer beträffande service](/machine-learning-server/resources-servicing-support)"
