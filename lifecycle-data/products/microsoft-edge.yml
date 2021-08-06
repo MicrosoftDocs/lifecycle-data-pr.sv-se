@@ -2,23 +2,26 @@
 metadata:
   title: Microsoft Edge
   description: Microsoft Edge följer policyn för modern livscykel.
-  ms.date: 10/20/2020
+  ms.date: 07/17/2021
   keywords: 
-  ms.openlocfilehash: b6634ea1575408641dd760ce54e0733af04c5941
-  ms.sourcegitcommit: a0744017304a3d2e709f964e643feb7903d05c2d
+  ms.openlocfilehash: 81aabf800a7f4fa41266ade0acae6723211cdc4f
+  ms.sourcegitcommit: 1629a54febaf89d1050ce02280d58f9ec8736d8c
   ms.translationtype: HT
   ms.contentlocale: sv-SE
-  ms.lasthandoff: 10/21/2020
-  ms.locfileid: "1163022"
+  ms.lasthandoff: 07/23/2021
+  ms.locfileid: "2172059"
 name: Microsoft Edge
-summary: >
+summary: >+
   Microsoft Edge följer policyn för [modern](/lifecycle/policies/modern) livscykel.
+
+
 
 
 
   > [!IMPORTANT]
 
-  > Observera att den äldre versionen av den här produkten inte stöds längre efter 9 mars 2021. Mer information finns [här](https://techcommunity.microsoft.com/t5/microsoft-365-blog/microsoft-365-apps-say-farewell-to-internet-explorer-11-and/ba-p/1591666).
+  > Observera att den äldre versionen av den här produkten inte stöds längre efter 9 mars 2021. Gå [här](https://techcommunity.microsoft.com/t5/microsoft-365-blog/microsoft-365-apps-say-farewell-to-internet-explorer-11-and/ba-p/1591666) för att lära dig mer.
+
 products:
 - microsoft-edge
 policyType: modern-on-prem
@@ -27,4 +30,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 01/15/2020
-content: "\n## <a name=\"links\"></a>Länkar \n* [Operativsystem som har stöd för Microsoft Edge](/deployedge/microsoft-edge-supported-operating-systems)\n* [Vanliga frågor och svar om livscykel – Internet Explorer och Edge](/lifecycle/faq/internet-explorer-microsoft-edge)"
+content: "\n\n## <a name=\"links\"></a>Länkar \n* [Operativsystem som har stöd för Microsoft Edge](/deployedge/microsoft-edge-supported-operating-systems)\n* [Vanliga frågor och svar om livscykel – Internet Explorer och Edge](/lifecycle/faq/internet-explorer-microsoft-edge)\n* [Livscykelpolicy för Microsoft Edge](/deployedge/microsoft-edge-support-lifecycle)"

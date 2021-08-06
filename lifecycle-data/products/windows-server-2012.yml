@@ -2,20 +2,23 @@
 metadata:
   title: Windows Server 2012
   description: Windows Server 2012 följer policyn för fast livscykel.
-  ms.date: 09/01/2020
-  keywords: Datacenter,Essentials,External Connector,for Embedded Systems,Foundation,Standard
-  ms.openlocfilehash: a3b2666efc31669a997f7726ad092705d2c52517
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
+  ms.date: 07/12/2021
+  keywords: 
+  ms.openlocfilehash: b92bdbb5164be3a4dd3e4f398fc1b9062ab98ee0
+  ms.sourcegitcommit: 1629a54febaf89d1050ce02280d58f9ec8736d8c
   ms.translationtype: HT
   ms.contentlocale: sv-SE
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "939464"
+  ms.lasthandoff: 07/23/2021
+  ms.locfileid: "2171948"
 name: Windows Server 2012
 summary: >+
   Windows Server 2012 följer policyn för [fast](/lifecycle/policies/fixed) livscykel.
 
 
+
   Detta gäller för följande utgåvor: Datacenter, Essentials, External Connector, för inbäddade system, Foundation, Standard
+
+
 
 products:
 - windows
@@ -25,7 +28,16 @@ supportDates:
   end: 10/09/2018
   extendedEnd: 10/10/2023
 releases:
+- version: Extended Security Update Year 3
+  startDate: 10/14/2025
+  endDate: 10/13/2026
+- version: Extended Security Update Year 2
+  startDate: 10/08/2024
+  endDate: 10/14/2025
+- version: Extended Security Update Year 1
+  startDate: 10/10/2023
+  endDate: 10/08/2024
 - version: Original Release
   startDate: 10/30/2012
   endDate: 10/10/2023
-content: "\n## <a name=\"links\"></a>Länkar \n* [Vägledning för migrering](/windows-server/upgrade/upgrade-overview)\n* [Produktinformation](/windows/release-information/status-windows-server-2012)\n\n> [!NOTE]\n> Mainstream- och utökad support för den här produkten har utökats för att erbjuda kunder standardtidslinjen för livscykelövergång. Windows Server Essentials släpptes 2 januari 2013.\n\n## <a name=\"editions\"></a>Utgåvor \n* Datacenter\n* Essentials\n* Extern kontakt\n* för inbäddade system\n* Foundation\n* Standard"
+content: "\n\n## <a name=\"links\"></a>Länkar \n* [Vägledning för migrering](/windows-server/upgrade/upgrade-overview)\n* [Produktinformation](/windows/release-information/status-windows-server-2012)\n* [Vanliga frågor om livscykel – utökade säkerhetsuppdateringar](/lifecycle/faq/extended-security-updates)\n\n\n> [!NOTE]\n> Mainstream- och utökad support för den här produkten har utökats för att erbjuda kunder standardtidslinjen för livscykelövergång. Windows Server Essentials släpptes 2 januari 2013.\n\n\n## <a name=\"editions\"></a>Utgåvor \n* Datacenter\n* Essentials\n* Extern kontakt\n* för inbäddade system\n* Foundation\n* Standard"

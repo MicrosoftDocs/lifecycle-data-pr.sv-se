@@ -2,16 +2,16 @@
 metadata:
   title: Windows Server 2016
   description: Windows Server 2016 följer principen om fast livscykel.
-  ms.date: 09/01/2020
-  keywords: Datacenter,Essentials,MultiPoint Premium,Standard
-  ms.openlocfilehash: 17206dccdf2844a2daa1e1326679b812dd9f55eb
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
+  ms.date: 07/09/2021
+  keywords: 
+  ms.openlocfilehash: 07c1dc6d0d6983d6fde9a35f0fad1dacbec2de75
+  ms.sourcegitcommit: c5cb11b464035a1b4d239621b8d4bf06f574da82
   ms.translationtype: HT
   ms.contentlocale: sv-SE
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "939390"
+  ms.lasthandoff: 07/28/2021
+  ms.locfileid: "2255262"
 name: Windows Server 2016
-summary: "Windows Server 2016 följer principen om [fast](/lifecycle/policies/fixed) livscykel. \n\nDetta gäller för följande utgåvor: Datacenter, Essentials, MultiPoint Premium, Standard\n\n"
+summary: "Windows Server 2016 följer principen om [fast](/lifecycle/policies/fixed) livscykel. \n\n\nDetta gäller för följande utgåvor: Datacenter, Essentials, MultiPoint Premium, Standard\n\n\n\n"
 products:
 - windows
 policyType: fixed
@@ -23,4 +23,4 @@ releases:
 - version: Original Release
   startDate: 10/15/2016
   endDate: 01/12/2027
-content: "\n## <a name=\"links\"></a>Länkar \n* [Produktinformation](/windows-server/get-started/server-basics)\n* [Vanliga frågor och svar om livscykel – Windows-produkter](/lifecycle/faq/windows)\n\n\n## <a name=\"editions\"></a>Utgåvor \n* Datacenter\n* Essentials\n* MultiPoint Premium\n* Standard"
+content: "\n\n## <a name=\"links\"></a>Länkar \n* [Produktinformation](/windows-server/get-started/server-basics)\n* [Vanliga frågor och svar om livscykel – Windows-produkter](/lifecycle/faq/windows)\n* [Underhålls-livscyklar för basavbildningar av Windows-behållare](/virtualization/windowscontainers/deploy-containers/base-image-lifecycle)\n\n\n> [!NOTE]\n> Behållare som har släppts med Windows Server 2016 följer samma livscykeldatum.\n\n\n## <a name=\"editions\"></a>Utgåvor \n* Datacenter\n* Essentials\n* MultiPoint Premium\n* Standard"
