@@ -4,12 +4,12 @@ metadata:
   description: Microsoft Enterprise Desktop Virtualization 2.0 följer policyn för fast livscykel.
   ms.date: 09/01/2020
   keywords: Enterprise
-  ms.openlocfilehash: c389a7a61ffd7a171c58b70f1050657e82d736be
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
+  ms.openlocfilehash: 5e69a3fb6db4bdd194fad6fc9cab949a906b840a6964bb7c87bcfb4866f470cb
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: sv-SE
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "933914"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2484841"
 name: Microsoft Enterprise Desktop Virtualization 2.0
 summary: >+
   Microsoft Enterprise Desktop Virtualization 2.0 följer policyn för [fast](/lifecycle/policies/fixed) livscykel.

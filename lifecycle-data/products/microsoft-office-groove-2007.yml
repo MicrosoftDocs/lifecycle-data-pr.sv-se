@@ -3,12 +3,12 @@ metadata:
   title: Microsoft Office Groove 2007
   description: Microsoft Office Groove 2007 följer policyn för fast livscykel.
   ms.date: 07/28/2020
-  ms.openlocfilehash: b771dec5ab12ab49e3317d53aea8e91f5d95bd40
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.openlocfilehash: 246a4b4ad9c221753ecaf70132b5b9a883f6eb49c8a417b5181b45f3f4db8778
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: sv-SE
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "841697"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2484619"
 name: Microsoft Office Groove 2007
 summary: "Microsoft Office Groove 2007 följer policyn för [fast](/lifecycle/policies/fixed) livscykel.\n\n\n> [!IMPORTANT]\n> Support för den här produkten har upphört. \n"
 products:
