@@ -1,18 +1,18 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Adxstudio v7. x
-  description: Adxstudio v7. x följer policyn för fast livs cykel.
+  title: Adxstudio Portals v7.x
+  description: Adxstudio Portals v7.x följer Fixed Lifecycle-policyn.
   ms.date: 10/22/2020
   keywords: 
-  ms.openlocfilehash: c3bcea69dbd4ed827729c43f86e5f5a4c4bfa9e8
-  ms.sourcegitcommit: 2056a8a3f9a36793142bc03850e39d5751d9dad3
+  ms.openlocfilehash: 90b184a4912ac7ea71ec3e35e41a4800b3d33f943ce65b57695c1e2a3543da8f
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: MT
   ms.contentlocale: sv-SE
-  ms.lasthandoff: 10/29/2020
-  ms.locfileid: "1193520"
-name: Adxstudio v7. x
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2504303"
+name: Adxstudio Portals v7.x
 summary: >+
-  Adxstudio v7. x följer policyn för [fast](/lifecycle/policies/fixed) livs cykel.
+  Adxstudio Portals v7.x följer [Fixed](/lifecycle/policies/fixed) Lifecycle-policyn.
 
 
 products:
