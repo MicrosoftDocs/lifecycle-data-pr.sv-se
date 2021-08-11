@@ -3,12 +3,12 @@ metadata:
   title: Microsoft Report Viewer
   description: Microsoft Report Viewer följer policyn för modern livscykel.
   ms.date: 08/19/2020
-  ms.openlocfilehash: 9025fd3d1b84a581d70de562ab977e3aa01870fb
-  ms.sourcegitcommit: 9d254d51934063ec1dd8c7e0e5fcb53ccc7257b3
+  ms.openlocfilehash: b8879a3bd8cfcfc456f0203cd3da9e320a40893e1633c4970bf1317b95c1c2cb
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: sv-SE
-  ms.lasthandoff: 08/20/2020
-  ms.locfileid: "905072"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2500307"
 name: Microsoft Report Viewer
 summary: >+
   Microsoft Report Viewer följer policyn för [modern](/lifecycle/policies/modern) livscykel.

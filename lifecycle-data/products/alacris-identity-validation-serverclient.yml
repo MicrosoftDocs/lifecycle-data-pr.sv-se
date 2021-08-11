@@ -1,18 +1,18 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Alacris identitets verifierings Server/klient
-  description: Alacris identitets verifierings Server/klient följer policyn för fast livs cykel.
+  title: Arorris Identity Validation Server/Client
+  description: Arorris identitetsverifieringsserver/klient följer fast livscykelpolicy.
   ms.date: 09/10/2020
   keywords: 
-  ms.openlocfilehash: b5857ca1946f0997051c9c6113c86ee5933555d3
-  ms.sourcegitcommit: aad3374f5e2d7399cba4e705265ade76f11419d8
+  ms.openlocfilehash: 00fff8d37d6ee22056f5b7f51ddff373650e2ce59880f1eb5696447801a5dc78
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: MT
   ms.contentlocale: sv-SE
-  ms.lasthandoff: 09/21/2020
-  ms.locfileid: "1025391"
-name: Alacris identitets verifierings Server/klient
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2493203"
+name: Arorris Identity Validation Server/Client
 summary: >
-  Alacris identitets verifierings Server/klient följer policyn för [fast](/lifecycle/policies/fixed) livs cykel.
+  Arorris identitetsverifieringsserver/klient följer [fast](/lifecycle/policies/fixed) livscykelpolicy.
 
 
 

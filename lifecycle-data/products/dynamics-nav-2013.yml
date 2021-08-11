@@ -3,12 +3,12 @@ metadata:
   title: Dynamics NAV 2013
   description: Dynamics NAV 2013 följer policyn för fast livscykel.
   ms.date: 07/28/2020
-  ms.openlocfilehash: 6657628e04a8fc5967384da4436cfe59066f36e5
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.openlocfilehash: 2bf138711bd55c9ca375e3c9cf05129cfed312e5043f3e4f19c676a420d7fa1f
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: sv-SE
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "864192"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2491094"
 name: Dynamics NAV 2013
 summary: >+
   Dynamics NAV 2013 följer policyn för [fast](/lifecycle/policies/fixed) livscykel.

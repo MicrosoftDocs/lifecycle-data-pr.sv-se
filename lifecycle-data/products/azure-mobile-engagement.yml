@@ -3,12 +3,12 @@ metadata:
   title: Azure Mobile Engagement
   description: Azure Mobile Engagement följer policyn för modern livscykel.
   ms.date: 07/28/2020
-  ms.openlocfilehash: 5b91321c749556c0bd13b700b1c8a1806e2a9bb5
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.openlocfilehash: a4dc75d1eb129918cdb2f863ba1bc1d252377356df00b275f51c53a31527ffa5
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: sv-SE
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "863889"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2493018"
 name: Azure Mobile Engagement
 summary: >+
   Azure Mobile Engagement följer policyn för [modern](/lifecycle/policies/modern) livscykel.
