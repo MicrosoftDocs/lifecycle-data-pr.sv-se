@@ -3,12 +3,12 @@ metadata:
   title: Skype för företag 2019
   description: Skype för företag – Server 2019 följer policyn för fast livscykel.
   ms.date: 07/28/2020
-  ms.openlocfilehash: 1e16227ae7297efb028f02ceb3ac8bfc11ce6864
-  ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
+  ms.openlocfilehash: 00abb6f297652b36ee9ce4b3ee3e5c6fd5f6383b3e4aaf87c9949c478706d060
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: sv-SE
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "872604"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2501750"
 name: Skype för företag 2019
 summary: >+
   Skype för företag – Server 2019 följer policyn för [fast](/lifecycle/policies/fixed) livscykel.
