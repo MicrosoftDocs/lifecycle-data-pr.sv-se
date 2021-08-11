@@ -3,12 +3,12 @@ metadata:
   title: Visual Studio Code
   description: Visual Studio Code följer policyn för fast livscykel.
   ms.date: 07/28/2020
-  ms.openlocfilehash: 3d0488c1baf7058618ba22280b0795ecf6e5a6b4
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.openlocfilehash: 83bc159dc00dc5ea23828ec99c3013695709b130bd35fc0281cee3b8e1b347c7
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: sv-SE
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "864227"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2488948"
 name: Visual Studio Code
 summary: >+
   Visual Studio Code följer policyn för [fast](/lifecycle/policies/modern) livscykel.
