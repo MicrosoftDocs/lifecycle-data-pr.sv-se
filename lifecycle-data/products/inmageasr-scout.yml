@@ -3,12 +3,12 @@ metadata:
   title: InMage Scout i Azure Site Recovery
   description: InMage Scout i Azure Site Recovery följer policyn för modern livscykel.
   ms.date: 07/28/2020
-  ms.openlocfilehash: e7dc0cfa718919e8546b0d28c28ff8c0d3347d3b
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.openlocfilehash: c9267ec3662f872566a302676f1f07e0119318458329e15957efdf78e0d7cbe2
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: sv-SE
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "864001"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2495201"
 name: InMage Scout i Azure Site Recovery
 summary: >+
   InMage Scout i Azure Site Recovery följer policyn för [modern](/lifecycle/policies/modern) livscykel.

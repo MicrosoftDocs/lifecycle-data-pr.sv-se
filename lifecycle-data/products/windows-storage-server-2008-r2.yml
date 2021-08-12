@@ -4,12 +4,12 @@ metadata:
   description: Windows Storage Server 2008 R2 följer principen om fast livscykel.
   ms.date: 09/01/2020
   keywords: Essentials,Standard
-  ms.openlocfilehash: 0235c6e592408d81f63bfb30249288892d4732af
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
+  ms.openlocfilehash: 4daee683afcc609ab98daafc5a4f3d70c871fc37fe75821494316d44436c17bb
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: sv-SE
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "939131"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2493536"
 name: Windows Server 2008 R2
 summary: "Windows Storage Server 2008 R2 följer principen om [fast](/lifecycle/policies/fixed) livscykel. \n\nDetta gäller för följande utgåvor: Essentials, Standard\n\n> [!IMPORTANT]\n> Support för den här produkten har upphört. Se migreringsvägledningen nedan.\n"
 products:
