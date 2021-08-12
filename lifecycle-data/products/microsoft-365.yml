@@ -4,12 +4,12 @@ metadata:
   description: Microsoft 365 följer policyn för modern livscykel.
   ms.date: 09/01/2020
   keywords: Business,Education,Enterprise,Government
-  ms.openlocfilehash: 49d1c65ad462a3ce987df621004cf7341ac4aa23
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
+  ms.openlocfilehash: 980dbd60f13118d05f4e9b602158b7b225049fe59fb09bd94fb321babe4a4763
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: sv-SE
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "935986"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2519510"
 name: Microsoft 365
 summary: >+
   Microsoft 365 följer policyn för [modern](/lifecycle/policies/modern) livscykel.

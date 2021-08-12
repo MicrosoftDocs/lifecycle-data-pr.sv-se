@@ -4,12 +4,12 @@ metadata:
   description: Azure Dev Spaces följer policyn för modern livscykel.
   ms.date: 05/25/2021
   keywords: 
-  ms.openlocfilehash: 53caca2345aab6b322131609112fd2851725f813
-  ms.sourcegitcommit: f887c74eefa2b8760c19b0b6ff5dda6d6829c06a
+  ms.openlocfilehash: 78f54d89a88afd21d03425dbf9bb73654b2659f8af8616674e4ff9ec19ddbe5e
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: sv-SE
-  ms.lasthandoff: 07/12/2021
-  ms.locfileid: "2117594"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2496644"
 name: Azure Dev Spaces
 summary: >+
   Azure Dev Spaces följer policyn för [modern](/lifecycle/policies/modern) livscykel.

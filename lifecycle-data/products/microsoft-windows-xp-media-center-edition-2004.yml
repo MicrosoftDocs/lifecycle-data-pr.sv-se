@@ -4,12 +4,12 @@ metadata:
   description: Microsoft Windows XP Media Center Edition 2004 följer policyn för fast livscykel.
   ms.date: 09/01/2020
   keywords: Media Center
-  ms.openlocfilehash: fdd6ddf0132301d7b1b1919a24eabb65c2cb32c9
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
+  ms.openlocfilehash: 1935dc824f95be06c58971aa9e64290944a10fdf734cec24d19eb6bad2358ae4
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: sv-SE
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "928882"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2505450"
 name: Microsoft Windows XP Media Center Edition 2004
 summary: >+
   Microsoft Windows XP Media Center Edition 2004 följer policyn för [fast](/lifecycle/policies/fixed) livscykel.

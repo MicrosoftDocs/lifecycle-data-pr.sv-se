@@ -3,12 +3,12 @@ metadata:
   title: Lync-mötesrum
   description: Lync-mötesrum följer policyn för fast livscykel.
   ms.date: 07/28/2020
-  ms.openlocfilehash: 92fdfd4bb47c96e2fccf4ffa0bcf96a332a92a64
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.openlocfilehash: 4acb3669325645b29b0509706a032c85f0ac5badd5863c7f2099f5b11c3cef77
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: sv-SE
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "863996"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2519584"
 name: Lync-mötesrum
 summary: "Lync-mötesrum följer policyn för [fast](/lifecycle/policies/fixed) livscykel.\n\n\n> [!IMPORTANT]\n> Support för den här produkten har upphört. Se vägledningen för migrering nedan. \n"
 products:
