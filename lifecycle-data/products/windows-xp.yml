@@ -4,12 +4,12 @@ metadata:
   description: Windows XP följer policyn för fast livscykel.
   ms.date: 09/01/2020
   keywords: Home,Professional,Professional for Embedded Systems,Professional x64,Starter
-  ms.openlocfilehash: 170f3edab926203a3a5ff5573a613709588e974e
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
+  ms.openlocfilehash: 035c7cf7e0d224510a05a56848e61a2fbeb04306348d5ec9f69b948dd921d35f
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: sv-SE
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "938798"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2510260"
 name: Windows XP
 summary: >
   Windows XP följer policyn för [fast](/lifecycle/policies/fixed) livscykel.

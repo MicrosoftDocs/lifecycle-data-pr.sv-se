@@ -3,12 +3,12 @@ metadata:
   title: Microsoft Mobile Internet Toolkit 1.0
   description: Microsoft Mobile Internet Toolkit 1.0 följer policyn för fast livscykel.
   ms.date: 08/21/2020
-  ms.openlocfilehash: e9a9ce1f047d999f0d4cc8ce565d1611b2b7f748
-  ms.sourcegitcommit: b887dde29aba4827223427ffe2a108bb0b7f8a2f
+  ms.openlocfilehash: 08a13e1e8b9b7d04cc4c38c62cf98a4d4831a3c0453c1f89b3967204cc1ababe
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: sv-SE
-  ms.lasthandoff: 08/21/2020
-  ms.locfileid: "907235"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2494794"
 name: Microsoft Mobile Internet Toolkit 1.0
 summary: >+
   Microsoft Mobile Internet Toolkit 1.0 följer policyn för [fast](/lifecycle/policies/fixed) livscykel.

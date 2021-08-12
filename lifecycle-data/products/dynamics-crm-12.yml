@@ -3,12 +3,12 @@ metadata:
   title: Dynamics CRM 1.2
   description: Dynamics CRM 1.2 följer policyn för fast livscykel.
   ms.date: 07/28/2020
-  ms.openlocfilehash: 6b796f6d5794f461409c95641410a4e47f71cf3a
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.openlocfilehash: fb827bedb37ab5b5165e1e06efcb99a27751510ffb7700ee8648e0d60ab2fea0
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: sv-SE
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "842197"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2503082"
 name: Dynamics CRM 1.2
 summary: >+
   Dynamics CRM 1.2 följer policyn för [fast](/lifecycle/policies/fixed) livscykel.

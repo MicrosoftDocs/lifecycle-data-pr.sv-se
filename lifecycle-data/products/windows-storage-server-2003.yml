@@ -3,12 +3,12 @@ metadata:
   title: Windows Storage Server 2003
   description: Windows Storage Server 2003 följer policyn för fast livscykel.
   ms.date: 07/28/2020
-  ms.openlocfilehash: 065ac07411e0e7178b8eba5b5c8f11989dc654aa
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.openlocfilehash: b98a1782956982e50c63020870616fcd9220e9fea2873c44f345640686ea37b4
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: sv-SE
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "841394"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2510556"
 name: Windows Storage Server 2003
 summary: >
   Windows Storage Server 2003 följer policyn för [fast](/lifecycle/policies/fixed) livscykel.
