@@ -4,12 +4,12 @@ metadata:
   description: Windows 10 IoT 2015 LTSB följer policyn för fast livscykel.
   ms.date: 09/01/2020
   keywords: Enterprise
-  ms.openlocfilehash: ccf7841f4dc149750c849449121e19b5788547e4
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
+  ms.openlocfilehash: c524404d8ef995492e39b3b20a0b4301c61e110bb79d471d7397d9b84fa0df39
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: sv-SE
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "938317"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2512406"
 name: Windows 10 IoT 2015 LTSB
 summary: >+
   Windows 10 IoT 2015 LTSB följer policyn för [fast](/lifecycle/policies/fixed) livscykel.
