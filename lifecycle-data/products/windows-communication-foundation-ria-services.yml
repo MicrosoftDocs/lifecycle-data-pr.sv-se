@@ -3,26 +3,20 @@ metadata:
   title: RIA-tjänster för Windows Communication Foundation
   description: Windows Communication Foundation RIA Services följer policyn för fast livscykel.
   ms.date: 07/28/2020
-  ms.openlocfilehash: 3876aae1488148f489c9c4c46dfd24bb89fd9480
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: HT
-  ms.contentlocale: sv-SE
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "841408"
 name: RIA-tjänster för Windows Communication Foundation
-summary: >+
+summary: |+
   Windows Communication Foundation RIA Services följer policyn för [fast](/lifecycle/policies/fixed) livscykel.
 
 
 products:
-- dotnet
+  - dotnet
 policyType: fixed
 supportDates:
   start: 08/12/2010
   end: 09/08/2015
   extendedEnd: 09/08/2020
 releases:
-- version: Original Release
-  startDate: 08/12/2010
-  endDate: 09/08/2020
-content: ''
+  - version: Original Release
+    startDate: 08/12/2010
+    endDate: 09/08/2020
+content: |+

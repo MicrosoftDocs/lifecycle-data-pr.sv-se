@@ -3,26 +3,24 @@ metadata:
   title: Microsoft Business-lösningar för analys--FRx 6.7 stationär dator
   description: Microsoft Business-lösningar för analys--FRx 6.7 stationär dator följer policyn för fast livscykel.
   ms.date: 07/28/2020
-  ms.openlocfilehash: ba731ed0c09140b17a3ebf628e7383065aa65714
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: HT
-  ms.contentlocale: sv-SE
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "842096"
 name: Microsoft Business-lösningar för analys--FRx 6.7 stationär dator
-summary: >+
+summary: |+
   Microsoft Business-lösningar för analys--FRx 6.7 stationär dator följer [policyn](/lifecycle/policies/fixed) för fast livscykel.
 
 
 products:
-- dynamics
+  - dynamics
 policyType: fixed
 supportDates:
   start: 05/30/2004
   end: 07/14/2009
   extendedEnd: 07/08/2014
 releases:
-- version: Original Release
-  startDate: 05/30/2004
-  endDate: 07/08/2014
-content: "\n\n> [!NOTE]\n> FRx-supporten upphör på det angivna datumet om det inte distribueras som en komponent i en Dynamics-produkt. När den distribueras med en Dynamics-produkt åsidosätter Dynamics livscykeldatum FRx-datumen."
+  - version: Original Release
+    startDate: 05/30/2004
+    endDate: 07/08/2014
+content: |+
+
+
+  > [!NOTE]
+  > FRx-supporten upphör på det angivna datumet om det inte distribueras som en komponent i en Dynamics-produkt. När den distribueras med en Dynamics-produkt åsidosätter Dynamics livscykeldatum FRx-datumen.

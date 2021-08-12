@@ -3,33 +3,42 @@ metadata:
   title: Microsoft Internet Security and Acceleration Server 2004
   description: Microsoft Internet Security and Acceleration Server 2004 följer policyn för fast livscykel.
   ms.date: 09/01/2020
-  keywords: Enterprise,Standard
-  ms.openlocfilehash: ca985b778607eed3132ccd8345127d379543f4ff
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: HT
-  ms.contentlocale: sv-SE
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "933507"
+  keywords: 'Enterprise,Standard'
 name: Microsoft Internet Security and Acceleration Server 2004
-summary: "Microsoft Internet Security and Acceleration Server 2004 följer policyn för [fast](/lifecycle/policies/fixed) livscykel.\n\nDetta gäller för följande utgåvor: Enterprise, Standard\n\n> [!IMPORTANT]\n> Support för den här produkten har upphört. \n"
+summary: |
+  Microsoft Internet Security and Acceleration Server 2004 följer policyn för [fast](/lifecycle/policies/fixed) livscykel.
+
+  Detta gäller för följande utgåvor: Enterprise, Standard
+
+  > [!IMPORTANT]
+  > Support för den här produkten har upphört. 
 products:
-- microsoft-servers
+  - microsoft-servers
 policyType: fixed
 supportDates:
   start: 09/08/2004
   end: 04/13/2010
   extendedEnd: 04/14/2015
 releases:
-- version: Service Pack 3
-  startDate: 10/29/2007
-  endDate: 04/14/2015
-- version: Service Pack 2
-  startDate: 01/31/2006
-  endDate: 01/13/2009
-- version: Service Pack 1
-  startDate: 03/11/2005
-  endDate: 04/10/2007
-- version: Original Release
-  startDate: 09/08/2004
-  endDate: 03/11/2006
-content: "\n## <a name=\"links\"></a>Länkar \n* [Service pack-policy](/lifecycle/policies/fixed#service-packs)\n* [Vägledning för migrering](/system-center/scom/deploy-upgrade-overview?view=sc-om-2019)\n\n\n## <a name=\"editions\"></a>Utgåvor \n* Enterprise\n* Standard"
+  - version: Service Pack 3
+    startDate: 10/29/2007
+    endDate: 04/14/2015
+  - version: Service Pack 2
+    startDate: 01/31/2006
+    endDate: 01/13/2009
+  - version: Service Pack 1
+    startDate: 03/11/2005
+    endDate: 04/10/2007
+  - version: Original Release
+    startDate: 09/08/2004
+    endDate: 03/11/2006
+content: |
+
+  ## <a name="links"></a>Länkar 
+  * [Service pack-policy](/lifecycle/policies/fixed#service-packs)
+  * [Vägledning för migrering](/system-center/scom/deploy-upgrade-overview?view=sc-om-2019)
+
+
+  ## <a name="editions"></a>Utgåvor 
+  * Enterprise
+  * Standard

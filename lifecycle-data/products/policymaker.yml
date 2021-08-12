@@ -3,28 +3,36 @@ metadata:
   title: PolicyMaker
   description: PolicyMaker följer policyn för fast livscykel.
   ms.date: 09/01/2020
-  keywords: Application Security,Outlook Edition,Professional 9.0,Registry Extension 2.0,Share Manager 1.0,Software Update 1.0,Software Update 2.0,Standard 1.0,Standard 2.0
-  ms.openlocfilehash: be11ae6bee427a5aa059ec56cb88f007bb5134ec
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: HT
-  ms.contentlocale: sv-SE
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "938058"
+  keywords: 'Application Security,Outlook Edition,Professional 9.0,Registry Extension 2.0,Share Manager 1.0,Software Update 1.0,Software Update 2.0,Standard 1.0,Standard 2.0'
 name: PolicyMaker
-summary: >+
+summary: |+
   PolicyMaker följer policyn för [fast](/lifecycle/policies/fixed) livscykel.
-
 
   Detta gäller för följande utgåvor: Programsäkerhet, Outlook Edition, Professional 9.0, Registertillägg 2.0, Share Manager 1.0, Programvaruuppdatering 1.0, Programvaruuppdatering 2.0, Standard 1.0, Standard 2.0
 
 products:
-- windows
+  - windows
 policyType: fixed-mainstream-only
 supportDates:
   start: 01/01/2007
   end: 01/12/2010
 releases:
-- version: Original Release
-  startDate: 01/01/2007
-  endDate: 01/12/2010
-content: "\n\n> [!NOTE]\n> Support för den här produkten är beroende av dess inköpsvillkor.\n\n## <a name=\"editions\"></a>Utgåvor \n* Programsäkerhet\n* Outlook Edition\n* Professional 9.0\n* Registertillägg 2.0\n* Share Manager 1.0\n* Programvaruuppdatering 1.0\n* Programvaruuppdatering 2.0\n* Standard 1.0\n* Standard 2.0"
+  - version: Original Release
+    startDate: 01/01/2007
+    endDate: 01/12/2010
+content: |
+
+
+  > [!NOTE]
+  > Support för den här produkten är beroende av dess inköpsvillkor.
+
+  ## <a name="editions"></a>Utgåvor 
+  * Programsäkerhet
+  * Outlook Edition
+  * Professional 9.0
+  * Registertillägg 2.0
+  * Share Manager 1.0
+  * Programvaruuppdatering 1.0
+  * Programvaruuppdatering 2.0
+  * Standard 1.0
+  * Standard 2.0
