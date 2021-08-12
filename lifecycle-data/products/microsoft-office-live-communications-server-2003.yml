@@ -3,12 +3,12 @@ metadata:
   title: Microsoft Office Live Communications Server 2003
   description: Microsoft Office Live Communications Server 2003 följer policyn för fast livscykel.
   ms.date: 07/28/2020
-  ms.openlocfilehash: 7f369f1316b72fd8eaebbe3b48dc0311474e947e
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.openlocfilehash: 2c11e79f1dcce946c8fe2f47f7f4cfbb2df09aac4af020a0604828edac5833d4
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: sv-SE
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "842397"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2524172"
 name: Microsoft Office Live Communications Server 2003
 summary: >+
   Microsoft Office Live Communications Server 2003 följer policyn för [fast](/lifecycle/policies/fixed) livscykel.

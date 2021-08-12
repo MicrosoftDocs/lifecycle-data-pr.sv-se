@@ -3,12 +3,12 @@ metadata:
   title: Microsoft Content Management Server 2003
   description: Microsoft Content Management Server 2003 följer policyn för fast livscykel.
   ms.date: 07/28/2020
-  ms.openlocfilehash: 1a0eb37a2f2ee74b56d465ba62abb191952c76d7
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.openlocfilehash: 11c42afc99e5f5f4994fe82ae6225324eeb9e44277a2025a12808ad59138c272
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: sv-SE
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "841983"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2507633"
 name: Microsoft Content Management Server 2003
 summary: >+
   Microsoft Content Management Server 2003 följer policyn för [fast](/lifecycle/policies/fixed) livscykel.
