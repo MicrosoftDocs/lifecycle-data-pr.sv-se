@@ -4,12 +4,12 @@ metadata:
   description: Visual Studio 2008 följer policyn för fast livscykel.
   ms.date: 09/01/2020
   keywords: All,Pro w/MSDN Premium,Professional,Professional w/MSDN ,Team Suite,Team Test Load Agent,VB Express,Visual Basic Express,Visual C# Express,Visual C++ Express,Visual Web Developer Express
-  ms.openlocfilehash: dda36bd66c9de69696c202177f1197c068e2f646
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
+  ms.openlocfilehash: 6045e975f7632596c23c233da7912768a6411216113c9e0e2c9423e6708b6c90
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: sv-SE
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "937577"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2506449"
 name: Visual Studio 2008
 summary: >+
   Visual Studio 2008 följer policyn för [fast](/lifecycle/policies/fixed) livscykel.

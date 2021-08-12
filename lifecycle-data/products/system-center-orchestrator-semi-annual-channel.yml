@@ -3,12 +3,12 @@ metadata:
   title: System Center Orchestrator med halvårskanal
   description: System Center Orchestrator med halvårskanal följer policyn för modern livscykel.
   ms.date: 07/28/2020
-  ms.openlocfilehash: 9b854c8bacdf528bc85b87d07b03664a62fd04c2
-  ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
+  ms.openlocfilehash: de277b59d1e0acc8950a1366199747a3a3213c0c95f60a87219d48c8bc4789c2
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: sv-SE
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "872639"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2515736"
 name: System Center Orchestrator med halvårskanal
 summary: >
   System Center Orchestrator med halvårskanal följer policyn för [modern](/lifecycle/policies/modern) livscykel.

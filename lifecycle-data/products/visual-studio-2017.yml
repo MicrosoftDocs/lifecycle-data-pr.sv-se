@@ -4,12 +4,12 @@ metadata:
   description: Visual Studio 2017 följer policyn för fast livscykel.
   ms.date: 09/01/2020
   keywords: Agents,Build Tools,Community,Enterprise,ESM,Feedback Client,for Mac,IntelliTrace Standalone Collector,Performance Tools,Professional,PSM,Remote Tools,Team Explorer,Test Professional,Visual C++ Redistributable
-  ms.openlocfilehash: 5b020aa502db37cded2369b6c15eeb0c00d3b878
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
+  ms.openlocfilehash: 3d18c69ca30e8e83d7fcfb97557513191974df14a0af404cb66889f653f03b54
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: sv-SE
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "937392"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2506338"
 name: Visual Studio 2017
 summary: >+
   Visual Studio 2017 följer policyn för [fast](/lifecycle/policies/fixed) livscykel.

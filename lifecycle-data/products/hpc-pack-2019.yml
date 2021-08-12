@@ -1,28 +1,29 @@
 ### YamlMime:Lifecycle
 metadata:
   title: HPC Pack 2019
-  description: HPC Pack 2019 följer policyn för fast livscykel.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 5e557dd4616f5e19f54263848ddedfb87f7758ed
-  ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
+  description: HPC Pack 2019 följer policyn för modern livscykel.
+  ms.date: 08/04/2021
+  keywords: 
+  ms.openlocfilehash: 18abaa2de07356456b2a262ee4ea85179541f4f0eff53c68f55c567ddead8137
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: sv-SE
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "872514"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2485766"
 name: HPC Pack 2019
 summary: >+
-  HPC Pack 2019 följer policyn för [fast](/lifecycle/policies/fixed) livscykel.
+  HPC Pack 2019 följer policyn för [modern](/lifecycle/policies/modern) livscykel.
+
+
+
 
 
 products:
 - windows
-policyType: fixed
+policyType: modern-on-prem
 supportDates:
-  start: 06/09/2020
-  end: 07/08/2025
-  extendedEnd: 07/09/2030
+  start: 06/10/2020
 releases:
 - version: Original Release
-  startDate: 06/09/2020
-  endDate: 07/09/2030
-content: "\n## <a name=\"links\"></a>Länkar \n* [Produktinformation](/powershell/high-performance-computing/overview?view=hpc19-ps)"
+  startDate: 06/10/2020
+content: "\n\n## <a name=\"links\"></a>Länkar \n* [Produktinformation](/powershell/high-performance-computing/overview?view=hpc19-ps)"

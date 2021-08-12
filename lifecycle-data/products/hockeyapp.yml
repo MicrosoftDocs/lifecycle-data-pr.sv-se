@@ -1,18 +1,18 @@
 ### YamlMime:Lifecycle
 metadata:
   title: HockeyApp
-  description: HockeyApp följer modern livs cykel policy.
+  description: HockeyApp följer policyn för modern livscykel.
   ms.date: 09/29/2020
   keywords: 
-  ms.openlocfilehash: 2aa133457f61c84ce238eb2bb4ce559f64ab4257
-  ms.sourcegitcommit: 7914229438c6935bc9dd98b1924a805d478e9e14
-  ms.translationtype: MT
+  ms.openlocfilehash: 497e9b2e7fd312532dd47cb164d9ed88206320e4e6b2dc6333bf3124573bf60a
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
+  ms.translationtype: HT
   ms.contentlocale: sv-SE
-  ms.lasthandoff: 09/29/2020
-  ms.locfileid: "1048777"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2485951"
 name: HockeyApp
 summary: >+
-  HockeyApp följer [modern](/lifecycle/policies/modern) livs cykel policy.
+  HockeyApp följer policyn för [modern](/lifecycle/policies/modern) livscykel.
 
 
 products:
