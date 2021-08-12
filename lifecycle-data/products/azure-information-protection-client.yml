@@ -3,12 +3,12 @@ metadata:
   title: 'Azure Information Protection: AIP-klientinstallation'
   description: Azure Information Protection-klienten följer den moderna livscykelprincipen.
   ms.date: 07/28/2020
-  ms.openlocfilehash: 9a7e2c02d8f1d7ca3f071b5f36b97eab364b3340
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.openlocfilehash: 7d365c0293b01c60b5ec47ee81106cb0ab13245949116ee1d9e5a9cc5c8d4073
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: sv-SE
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "863832"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2496496"
 name: 'Azure Information Protection: AIP-klientinstallation'
 summary: "Azure Information Protection-klienten följer den [moderna](/lifecycle/policies/modern) livscykelprincipen. \n\n\n"
 products:

@@ -3,12 +3,12 @@ metadata:
   title: Microsoft Office 2003 språkverktyg
   description: Språkverktyg för Microsoft Office 2003 följer policyn för fast livscykel.
   ms.date: 07/28/2020
-  ms.openlocfilehash: f21b3139ecce220ee29ff6979ea99f6169fe0149
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.openlocfilehash: 43432fd8c64aabe5afa0e08934006a4545845c22435f33d0f22ff1ca650b1edf
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: sv-SE
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "842415"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2498420"
 name: Microsoft Office 2003 språkverktyg
 summary: >+
   Språkverktyg för Microsoft Office 2003 följer policyn för [fast](/lifecycle/policies/fixed) livscykel.

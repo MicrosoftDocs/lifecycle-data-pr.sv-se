@@ -4,12 +4,12 @@ metadata:
   description: Microsoft System Center Essentials 2010 följer policyn för fast livscykel.
   ms.date: 09/01/2020
   keywords: All applicable,wSQL
-  ms.openlocfilehash: 93f05c6b49b851871ea5d7f6a2066310ae3144e2
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
+  ms.openlocfilehash: 7c80eaae9c90f4f0f96d98549226a5207166cae756cd1967e901ce76a26ec364
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: sv-SE
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "938206"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2498198"
 name: Microsoft System Center Essentials 2010
 summary: >+
   Microsoft System Center Essentials 2010 följer policyn för [fast](/lifecycle/policies/fixed) livscykel.

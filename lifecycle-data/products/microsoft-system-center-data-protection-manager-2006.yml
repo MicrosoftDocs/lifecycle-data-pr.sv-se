@@ -3,12 +3,12 @@ metadata:
   title: Microsoft System Center Data Protection Manager 2006
   description: Microsoft System Center Data Protection Manager 2006 följer policyn för fast livscykel.
   ms.date: 07/28/2020
-  ms.openlocfilehash: e1d39ae874bd9d3a0491711fa466958ed75fae39
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.openlocfilehash: d83d053e695a5f6eb54b5cef869c47c2cceb14dca664885be0f268a4284bc361
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: sv-SE
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "842003"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2518326"
 name: Microsoft System Center Data Protection Manager 2006
 summary: >+
   Microsoft System Center Data Protection Manager 2006 följer policyn för [fast](/lifecycle/policies/fixed) livscykel.

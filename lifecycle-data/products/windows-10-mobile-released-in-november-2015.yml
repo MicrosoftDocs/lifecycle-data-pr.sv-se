@@ -3,12 +3,12 @@ metadata:
   title: Windows 10 Mobile, släpptes i november 2015
   description: Windows 10 Mobile som släpptes i november 2015 följer policyn för fast livscykel.
   ms.date: 07/28/2020
-  ms.openlocfilehash: 5a26113a9d85bf4e44262094db412ab1ab810acf
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.openlocfilehash: dcb913f9225a9d2cbfe241f6c6a909a8a104d2168c5abe68c5c6f5e9c8743743
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: sv-SE
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "864218"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2512147"
 name: Windows 10 Mobile, släpptes i november 2015
 summary: >
   Windows 10 Mobile som släpptes i november 2015 följer policyn för [fast](/lifecycle/policies/fixed) livscykel.
