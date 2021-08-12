@@ -4,12 +4,12 @@ metadata:
   description: Dynamics 365 Business Central lokalt (Modern policy) följer den moderna policyn för livscykeln.
   ms.date: 03/16/2021
   keywords: 
-  ms.openlocfilehash: 01fc223c6be37bbb8d08153826237f18339c40bf
-  ms.sourcegitcommit: 711a010cd4f9ef685403c5f263cbbd72a7688b66
+  ms.openlocfilehash: 65f0f744d351447aaa493b15797d76c88d064b5b5e65b523fe964c21a31c32d0
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: sv-SE
-  ms.lasthandoff: 03/16/2021
-  ms.locfileid: "1480866"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2504118"
 name: Dynamics 365 Business Central lokalt (Modern policy)
 summary: >+
   Dynamics 365 Business Central lokalt (Modern policy) följer den [moderna](/lifecycle/policies/modern) policyn för livscykeln.

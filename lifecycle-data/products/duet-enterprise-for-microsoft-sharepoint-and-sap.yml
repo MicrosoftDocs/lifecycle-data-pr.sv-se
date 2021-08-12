@@ -3,12 +3,12 @@ metadata:
   title: Duet Enterprise för Microsoft SharePoint och SAP
   description: Duet Enterprise för Microsoft SharePoint och SAP följer policyn för fast livscykel.
   ms.date: 07/28/2020
-  ms.openlocfilehash: fbab932e4c44c55969682684dc2ec7590c3dd6f9
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.openlocfilehash: 3a8fcb0370254c3b257a2d997644848e7218e0e75389e48c6dbca2d073e8c1fe
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: sv-SE
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "864120"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2495682"
 name: Duet Enterprise för Microsoft SharePoint och SAP
 summary: >
   Duet Enterprise för Microsoft SharePoint och SAP följer policyn för [fast](/lifecycle/policies/fixed) livscykel.
