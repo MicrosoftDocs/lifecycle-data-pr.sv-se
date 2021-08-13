@@ -3,25 +3,25 @@ metadata:
   title: Microsoft Forefront Client Security
   description: Microsoft Forefront Client Security följer policyn för fast livscykel.
   ms.date: 08/28/2020
-  ms.openlocfilehash: 335ae81ffa4b7cb64352b19e7330765a4cac6c68
-  ms.sourcegitcommit: 570c824dbe19150d37398333df7d2c416a51eac9
-  ms.translationtype: HT
-  ms.contentlocale: sv-SE
-  ms.lasthandoff: 08/28/2020
-  ms.locfileid: "924274"
 name: Microsoft Forefront Client Security
-summary: >+
+summary: |+
   Microsoft Forefront Client Security följer policyn för [fast](/lifecycle/policies/fixed) livscykel.
 
 
 products:
-- msc
+  - msc
 policyType: fixed
 supportDates:
   start: 08/02/2007
   extendedEnd: 07/14/2015
 releases:
-- version: Original Release
-  startDate: 08/02/2007
-  endDate: 07/14/2015
-content: "\n## <a name=\"links\"></a>Länkar \n* [System Center Endpoint Protection](/lifecycle/products/microsoft-system-center-2012-endpoint-protection)\n\n> [!NOTE]\n> Forefront Client Security har upphört från och med 14 juli 2015. Uppdateringar gällande definitionen av Program mot skadlig kod och Antispionprogram kommer inte längre att vara tillgängliga då support upphör för produktversionen. Utvärdera System Center Endpoint Protection som en ersättning."
+  - version: Original Release
+    startDate: 08/02/2007
+    endDate: 07/14/2015
+content: |+
+
+  ## <a name="links"></a>Länkar 
+  * [System Center Endpoint Protection](/lifecycle/products/microsoft-system-center-2012-endpoint-protection)
+
+  > [!NOTE]
+  > Forefront Client Security har upphört från och med 14 juli 2015. Uppdateringar gällande definitionen av Program mot skadlig kod och Antispionprogram kommer inte längre att vara tillgängliga då support upphör för produktversionen. Utvärdera System Center Endpoint Protection som en ersättning.
