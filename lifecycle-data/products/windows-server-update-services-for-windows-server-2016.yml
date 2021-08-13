@@ -3,12 +3,12 @@ metadata:
   title: Windows Server Update Services för Windows Server 2016
   description: Windows Server Update Services för Windows Server 2016 följer policyn för komponentens livscykel.
   ms.date: 07/28/2020
-  ms.openlocfilehash: 939c37245a4ed7263f746a3baac45b3105d89eda
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.openlocfilehash: c86d82bb58436766a0579f2ac458f1eb852e36aa17005f922113e218ac415ce1
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: sv-SE
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "841561"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2486506"
 name: Windows Server Update Services för Windows Server 2016
 summary: >+
   Windows Server Update Services för Windows Server 2016 följer policyn för [komponentens](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) livscykel.

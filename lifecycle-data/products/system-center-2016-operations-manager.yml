@@ -3,12 +3,12 @@ metadata:
   title: System Center 2016 Operations Manager
   description: System Center 2016 Operations Manager följer policyn för fast livscykel.
   ms.date: 07/28/2020
-  ms.openlocfilehash: 2425df9d07aa43c7141ac3a66f658f81a109b555
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.openlocfilehash: 8a4babd26fc621bca09d45da68a67f4390a93ec278d055e0d4ea6fcf5cee5693
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: sv-SE
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "864258"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2487468"
 name: System Center 2016 Operations Manager
 summary: >+
   System Center 2016 Operations Manager följer policyn för [fast](/lifecycle/policies/fixed) livscykel.
