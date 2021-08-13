@@ -3,29 +3,30 @@ metadata:
   title: Visual Studio Team Foundation Server 2005
   description: Visual Studio Team Foundation Server 2005 följer policyn för fast livscykel.
   ms.date: 07/28/2020
-  ms.openlocfilehash: 881badd8c2a2954697d7a63f329250f4a07b9581
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: HT
-  ms.contentlocale: sv-SE
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "841445"
 name: Visual Studio Team Foundation Server 2005
-summary: >+
+summary: |+
   Visual Studio Team Foundation Server 2005 följer policyn för [fast](/lifecycle/policies/fixed) livscykel.
 
 
 products:
-- vs
+  - vs
 policyType: fixed
 supportDates:
   start: 06/17/2006
   end: 07/12/2011
   extendedEnd: 07/12/2016
 releases:
-- version: Service Pack 1
-  startDate: 12/14/2006
-  endDate: 07/12/2016
-- version: Original Release
-  startDate: 06/17/2006
-  endDate: 01/08/2008
-content: "\n## <a name=\"links\"></a>Länkar \n* [Service pack-policy](/lifecycle/policies/fixed#service-packs)\n* [Vägledning för migrering](https:// https://msdn.microsoft.com/library/vs/alm/tfs/upgrade/tfs-2005-to-2015)\n\n> [!NOTE]\n> Support för den här produkten har upphört. Se nedan för migreringsvägledning."
+  - version: Service Pack 1
+    startDate: 12/14/2006
+    endDate: 07/12/2016
+  - version: Original Release
+    startDate: 06/17/2006
+    endDate: 01/08/2008
+content: |+
+
+  ## <a name="links"></a>Länkar 
+  * [Service pack-policy](/lifecycle/policies/fixed#service-packs)
+  * [Vägledning för migrering](https:// https://msdn.microsoft.com/library/vs/alm/tfs/upgrade/tfs-2005-to-2015)
+
+  > [!NOTE]
+  > Support för den här produkten har upphört. Se nedan för migreringsvägledning.

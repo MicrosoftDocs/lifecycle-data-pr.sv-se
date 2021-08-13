@@ -3,38 +3,40 @@ metadata:
   title: Microsoft Office Project 2007
   description: Microsoft Office Project 2007 följer policyn för fast livscykel.
   ms.date: 09/01/2020
-  keywords: Professional,Standard
-  ms.openlocfilehash: fe76f2f4ecc35a59ee8b1a90a3a91f057c80519c
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: HT
-  ms.contentlocale: sv-SE
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "932804"
+  keywords: 'Professional,Standard'
 name: Microsoft Office Project 2007
-summary: >+
+summary: |+
   Microsoft Office Project 2007 följer policyn för [fast](/lifecycle/policies/fixed) livscykel.
-
 
   Detta gäller för följande utgåvor: Professional, Standard
 
 products:
-- office
+  - office
 policyType: fixed
 supportDates:
   start: 01/27/2007
   end: 10/09/2012
   extendedEnd: 10/10/2017
 releases:
-- version: Service Pack 3
-  startDate: 10/25/2011
-  endDate: 10/10/2017
-- version: Service Pack 2
-  startDate: 04/24/2009
-  endDate: 01/08/2013
-- version: Service Pack 1
-  startDate: 12/11/2007
-  endDate: 07/13/2010
-- version: Original Release
-  startDate: 01/27/2007
-  endDate: 01/13/2009
-content: "\n## <a name=\"links\"></a>Länkar \n* [Vägledning för migrering](/office/troubleshoot/support/office-2007-not-support)\n* [Service pack-policy](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Utgåvor \n* Professionell\n* Standard"
+  - version: Service Pack 3
+    startDate: 10/25/2011
+    endDate: 10/10/2017
+  - version: Service Pack 2
+    startDate: 04/24/2009
+    endDate: 01/08/2013
+  - version: Service Pack 1
+    startDate: 12/11/2007
+    endDate: 07/13/2010
+  - version: Original Release
+    startDate: 01/27/2007
+    endDate: 01/13/2009
+content: |
+
+  ## <a name="links"></a>Länkar 
+  * [Vägledning för migrering](/office/troubleshoot/support/office-2007-not-support)
+  * [Service pack-policy](/lifecycle/policies/fixed#service-packs)
+
+
+  ## <a name="editions"></a>Utgåvor 
+  * Professionell
+  * Standard

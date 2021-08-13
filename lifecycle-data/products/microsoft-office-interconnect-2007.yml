@@ -4,37 +4,37 @@ metadata:
   description: Microsoft Office InterConnect 2007 följer policyn för fast livscykel.
   ms.date: 09/10/2020
   keywords: Standard
-  ms.openlocfilehash: 61bb24992b9371e35220ce9e60a3a91afe732e40
-  ms.sourcegitcommit: c0c65f657b1da8e588fda5bedd3572fb2e3168bc
-  ms.translationtype: HT
-  ms.contentlocale: sv-SE
-  ms.lasthandoff: 09/10/2020
-  ms.locfileid: "1001593"
 name: Microsoft Office InterConnect 2007
-summary: >+
+summary: |+
   Microsoft Office InterConnect 2007 följer policyn för [fast](/lifecycle/policies/fixed) livscykel.
-
 
   Detta gäller för följande utgåvor: Standard
 
 products:
-- office
+  - office
 policyType: fixed
 supportDates:
   start: 01/27/2007
   end: 10/09/2012
   extendedEnd: 10/10/2017
 releases:
-- version: Service Pack 3
-  startDate: 10/25/2011
-  endDate: 10/10/2017
-- version: Service Pack 2
-  startDate: 04/28/2009
-  endDate: 01/08/2013
-- version: Service Pack 1
-  startDate: 12/11/2007
-  endDate: 10/10/2017
-- version: Original Release
-  startDate: 01/27/2007
-  endDate: 01/13/2009
-content: "\n## <a name=\"links\"></a>Länkar \n* [Vägledning för migrering](/office/troubleshoot/support/office-2007-not-support)\n\n\n## <a name=\"editions\"></a>Utgåvor \n* Standard"
+  - version: Service Pack 3
+    startDate: 10/25/2011
+    endDate: 10/10/2017
+  - version: Service Pack 2
+    startDate: 04/28/2009
+    endDate: 01/08/2013
+  - version: Service Pack 1
+    startDate: 12/11/2007
+    endDate: 10/10/2017
+  - version: Original Release
+    startDate: 01/27/2007
+    endDate: 01/13/2009
+content: |
+
+  ## <a name="links"></a>Länkar 
+  * [Vägledning för migrering](/office/troubleshoot/support/office-2007-not-support)
+
+
+  ## <a name="editions"></a>Utgåvor 
+  * Standard

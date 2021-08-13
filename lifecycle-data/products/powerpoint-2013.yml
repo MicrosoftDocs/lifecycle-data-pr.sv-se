@@ -4,28 +4,26 @@ metadata:
   description: PowerPoint 2013 följer policyn för fast livscykel.
   ms.date: 09/01/2020
   keywords: Standard
-  ms.openlocfilehash: 04ce16dd515217f7697f3cf2cc1a0ad22cd3ea19
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: HT
-  ms.contentlocale: sv-SE
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "926958"
 name: PowerPoint 2013
-summary: >+
+summary: |+
   PowerPoint 2013 följer policyn för [fast](/lifecycle/policies/fixed) livscykel.
-
 
   Detta gäller för följande utgåvor: Standard
 
 products:
-- office
+  - office
 policyType: fixed
 supportDates:
   start: 01/09/2013
   end: 04/10/2018
   extendedEnd: 04/11/2023
 releases:
-- version: Original Release
-  startDate: 01/09/2013
-  endDate: 04/11/2023
-content: "\n\n\n## <a name=\"editions\"></a>Utgåvor \n* Standard"
+  - version: Original Release
+    startDate: 01/09/2013
+    endDate: 04/11/2023
+content: |
+
+
+
+  ## <a name="editions"></a>Utgåvor 
+  * Standard

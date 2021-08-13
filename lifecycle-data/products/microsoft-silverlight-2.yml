@@ -3,25 +3,23 @@ metadata:
   title: Microsoft Silverlight 2
   description: Microsoft Silverlight 2 följer policyn för fast livscykel.
   ms.date: 08/19/2020
-  ms.openlocfilehash: 618979f69c809bc5e02dc991417fa3162f59279a
-  ms.sourcegitcommit: acbc3d1849bad925ef030cf951960bd7eb1b4e42
-  ms.translationtype: HT
-  ms.contentlocale: sv-SE
-  ms.lasthandoff: 08/19/2020
-  ms.locfileid: "904573"
 name: Microsoft Silverlight 2
-summary: >+
+summary: |+
   Microsoft Silverlight 2 följer policyn för [fast](/lifecycle/policies/fixed) livscykel.
 
 
 products:
-- silverlight
+  - silverlight
 policyType: fixed-mainstream-only
 supportDates:
   start: 10/10/2008
   end: 10/12/2010
 releases:
-- version: Original Release
-  startDate: 10/10/2008
-  endDate: 10/12/2010
-content: "\n\n> [!NOTE]\n> Support för verktyg upphör inte mindre än 12 månader efter anmälningsdatum."
+  - version: Original Release
+    startDate: 10/10/2008
+    endDate: 10/12/2010
+content: |+
+
+
+  > [!NOTE]
+  > Support för verktyg upphör inte mindre än 12 månader efter anmälningsdatum.

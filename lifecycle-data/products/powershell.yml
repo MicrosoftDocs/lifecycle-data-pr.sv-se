@@ -4,34 +4,34 @@ metadata:
   description: PowerShell följer policyn för modern livscykel.
   ms.date: 09/02/2020
   keywords: ''
-  ms.openlocfilehash: 5819d863d735920cdb08f70b8280348c152ca27c
-  ms.sourcegitcommit: 33a446990607d1c24303bd86e45d4e4de34e56a5
-  ms.translationtype: HT
-  ms.contentlocale: sv-SE
-  ms.lasthandoff: 09/02/2020
-  ms.locfileid: "945237"
 name: PowerShell
-summary: >+
+summary: |+
   PowerShell följer [policyn](/lifecycle/policies/modern) för modern livscykel.
 
 
 products:
-- windows
+  - windows
 policyType: modern-online
 supportDates:
   start: 01/19/2018
   end: 12/03/2022
 releases:
-- version: PowerShell 7.x
-  startDate: 07/13/2020
-  endDate: 12/03/2022
-- version: PowerShell Core 6.2
-  startDate: 03/28/2019
-  endDate: 09/04/2020
-- version: PowerShell Core 6.1
-  startDate: 09/13/2018
-  endDate: 09/28/2019
-- version: PowerShell 6.x
-  startDate: 01/19/2018
-  endDate: 09/04/2020
-content: "\n## <a name=\"links\"></a>Länkar \n* [Serviceinformation](https://aka.ms/pslifecycle)\n\n> [!NOTE]\n> Se den detaljerade livscykelinformationen om PowerShell via länken till serviceinformation."
+  - version: PowerShell 7.x
+    startDate: 07/13/2020
+    endDate: 12/03/2022
+  - version: PowerShell Core 6.2
+    startDate: 03/28/2019
+    endDate: 09/04/2020
+  - version: PowerShell Core 6.1
+    startDate: 09/13/2018
+    endDate: 09/28/2019
+  - version: PowerShell 6.x
+    startDate: 01/19/2018
+    endDate: 09/04/2020
+content: |+
+
+  ## <a name="links"></a>Länkar 
+  * [Serviceinformation](https://aka.ms/pslifecycle)
+
+  > [!NOTE]
+  > Se den detaljerade livscykelinformationen om PowerShell via länken till serviceinformation.
