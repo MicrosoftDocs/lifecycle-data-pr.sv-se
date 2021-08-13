@@ -4,37 +4,38 @@ metadata:
   description: Microsoft Application Virtualization Hosting 5.0 för Windows-skrivbord följer policyn för fast livscykel.
   ms.date: 09/01/2020
   keywords: for Windows Desktops
-  ms.openlocfilehash: 640b1312c2eba7e693edbd82f34378619036195e
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: HT
-  ms.contentlocale: sv-SE
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "935394"
 name: Microsoft Application Virtualization hosting 5.0 för Windows-skrivbord
-summary: >+
+summary: |+
   Microsoft Application Virtualization Hosting 5.0 för Windows-skrivbord följer policyn för [fast](/lifecycle/policies/fixed) livscykel.
-
 
   Detta gäller för följande utgåvor: för Windows-skrivbordsenhet
 
 products:
-- windows
+  - windows
 policyType: fixed
 supportDates:
   start: 11/01/2012
   end: 01/09/2018
   extendedEnd: 04/14/2026
 releases:
-- version: Service Pack 3
-  startDate: 12/08/2014
-  endDate: 04/14/2026
-- version: Service Pack 2
-  startDate: 11/08/2013
-  endDate: 01/12/2016
-- version: Service Pack 1
-  startDate: 04/10/2013
-  endDate: 01/13/2015
-- version: Original Release
-  startDate: 11/01/2012
-  endDate: 07/08/2014
-content: "\n## <a name=\"links\"></a>Länkar \n* [Produktinformation](/microsoft-desktop-optimization-pack/appv-v4/overview-of-application-virtualization)\n* [Service pack-policy](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Utgåvor \n* for Windows-skrivbordsenhet"
+  - version: Service Pack 3
+    startDate: 12/08/2014
+    endDate: 04/14/2026
+  - version: Service Pack 2
+    startDate: 11/08/2013
+    endDate: 01/12/2016
+  - version: Service Pack 1
+    startDate: 04/10/2013
+    endDate: 01/13/2015
+  - version: Original Release
+    startDate: 11/01/2012
+    endDate: 07/08/2014
+content: |
+
+  ## <a name="links"></a>Länkar 
+  * [Produktinformation](/microsoft-desktop-optimization-pack/appv-v4/overview-of-application-virtualization)
+  * [Service pack-policy](/lifecycle/policies/fixed#service-packs)
+
+
+  ## <a name="editions"></a>Utgåvor 
+  * for Windows-skrivbordsenhet

@@ -3,29 +3,37 @@ metadata:
   title: Windows Storage Server 2008 Embedded
   description: Windows Storage Server 2008 Embedded följer policyn för fast livscykel.
   ms.date: 09/01/2020
-  keywords: 32 Bit,64 Bit,Basic,Basic 32-Bit,Enterprise,Standard,Workgroup
-  ms.openlocfilehash: 6615fb87d3cf9d0ad0dabec14b5cb3b2fb52b8df
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: HT
-  ms.contentlocale: sv-SE
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "939094"
+  keywords: '32 Bit,64 Bit,Basic,Basic 32-Bit,Enterprise,Standard,Workgroup'
 name: Windows Storage Server 2008 Embedded
-summary: >+
+summary: |+
   Windows Storage Server 2008 Embedded följer policyn för [fast](/lifecycle/policies/fixed) livscykel.
-
 
   Detta gäller för följande utgåvor: 32-bitars, 64-bitars, Basic, Basic 32-bitars, Enterprise, Standard, Workgroup
 
 products:
-- windows
+  - windows
 policyType: fixed
 supportDates:
   start: 07/19/2009
   end: 01/13/2015
   extendedEnd: 01/14/2020
 releases:
-- version: Original Release
-  startDate: 07/19/2009
-  endDate: 07/12/2011
-content: "\n## <a name=\"links\"></a>Länkar \n* [Vägledning för migrering](/archive/blogs/storageserver/announcing-windows-storage-server-2016)\n\n> [!NOTE]\n> Supporten för den här produkten upphör. Se nedan för migreringsvägledning.\n\n## <a name=\"editions\"></a>Utgåvor \n* 32-bitars\n* 64-bitars\n* Basic\n* Basic 32-bitars\n* Enterprise\n* Standard\n* Workgroup"
+  - version: Original Release
+    startDate: 07/19/2009
+    endDate: 07/12/2011
+content: |
+
+  ## <a name="links"></a>Länkar 
+  * [Vägledning för migrering](/archive/blogs/storageserver/announcing-windows-storage-server-2016)
+
+  > [!NOTE]
+  > Supporten för den här produkten upphör. Se nedan för migreringsvägledning.
+
+  ## <a name="editions"></a>Utgåvor 
+  * 32-bitars
+  * 64-bitars
+  * Basic
+  * Basic 32-bitars
+  * Enterprise
+  * Standard
+  * Workgroup

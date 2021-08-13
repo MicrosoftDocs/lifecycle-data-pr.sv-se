@@ -3,25 +3,19 @@ metadata:
   title: Microsoft Plus! Digital Media Edition
   description: Microsoft Plus! Digital Media Edition följer policyn för fast livscykel.
   ms.date: 07/28/2020
-  ms.openlocfilehash: 70735dde8da269fd12ebf6dabba3dcdbe33fbe76
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: HT
-  ms.contentlocale: sv-SE
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "841458"
 name: Microsoft Plus! Digital Media Edition
-summary: >+
+summary: |+
   Microsoft Plus! Digital Media Edition följer policyn för [fast](/lifecycle/policies/fixed) livscykel.
 
 
 products:
-- windows
+  - windows
 policyType: fixed-mainstream-only
 supportDates:
   start: 03/12/2003
   end: 04/08/2008
 releases:
-- version: Original Release
-  startDate: 03/12/2003
-  endDate: 04/08/2008
-content: ''
+  - version: Original Release
+    startDate: 03/12/2003
+    endDate: 04/08/2008
+content: |+

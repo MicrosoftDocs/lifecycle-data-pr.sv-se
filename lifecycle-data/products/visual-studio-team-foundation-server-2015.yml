@@ -4,34 +4,35 @@ metadata:
   description: Visual Studio Team Foundation Server 2015 följer policyn för fast livscykel.
   ms.date: 09/01/2020
   keywords: All
-  ms.openlocfilehash: bdca37c16c5a3d9347cfff319700af199121d213
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: HT
-  ms.contentlocale: sv-SE
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "937244"
 name: Visual Studio Team Foundation Server 2015
-summary: >+
+summary: |+
   Visual Studio Team Foundation Server 2015 följer policyn för [fast](/lifecycle/policies/fixed) livscykel.
-
 
   Detta gäller för följande utgåvor: Alla
 
 products:
-- vs
+  - vs
 policyType: fixed
 supportDates:
   start: 07/20/2015
   end: 10/13/2020
   extendedEnd: 10/14/2025
 releases:
-- version: Update 4
-  startDate: 04/11/2017
-  endDate: 10/14/2025
-- version: Update 3
-  startDate: 06/27/2016
-  endDate: 07/10/2018
-- version: Original Release
-  startDate: 07/20/2015
-  endDate: 04/10/2018
-content: "\n## <a name=\"links\"></a>Länkar \n* [Serviceinformation](https://www.visualstudio.com/productinfo/vs-servicing-vs)\n* [Produktinformation – Azure Dev Ops](/azure/devops/server/whats-new?view=azure-devops)\n\n\n## <a name=\"editions\"></a>Utgåvor \n* Alla"
+  - version: Update 4
+    startDate: 04/11/2017
+    endDate: 10/14/2025
+  - version: Update 3
+    startDate: 06/27/2016
+    endDate: 07/10/2018
+  - version: Original Release
+    startDate: 07/20/2015
+    endDate: 04/10/2018
+content: |
+
+  ## <a name="links"></a>Länkar 
+  * [Serviceinformation](https://www.visualstudio.com/productinfo/vs-servicing-vs)
+  * [Produktinformation – Azure Dev Ops](/azure/devops/server/whats-new?view=azure-devops)
+
+
+  ## <a name="editions"></a>Utgåvor 
+  * Alla

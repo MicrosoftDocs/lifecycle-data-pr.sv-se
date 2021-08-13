@@ -3,47 +3,63 @@ metadata:
   title: Microsoft SQL Server 2008 R2
   description: Microsoft SQL Server 2008 R2 följer policyn för fast livscykel.
   ms.date: 04/23/2021
-  keywords: 
-  ms.openlocfilehash: d18b8ab6918149d81b686c3a63ac65441be3d37b
-  ms.sourcegitcommit: 51a7221b87d358960376e2569c3b1e69ba056b54
-  ms.translationtype: HT
-  ms.contentlocale: sv-SE
-  ms.lasthandoff: 06/25/2021
-  ms.locfileid: "2028932"
+  keywords: null
 name: Microsoft SQL Server 2008 R2
-summary: >+
+summary: |+
   Microsoft SQL Server 2008 R2 följer policyn för [fast](/lifecycle/policies/fixed) livscykel.
-
 
   Detta gäller för följande utgåvor: Datacenter, Developer, Enterprise, Express, Express med avancerade tjänster, för inbäddade system, Standard, Standard Edition för småföretag, Webb, Workgroup
 
 products:
-- sql-server
+  - sql-server
 policyType: fixed
 supportDates:
   start: 07/20/2010
   end: 07/08/2014
   extendedEnd: 07/09/2019
 releases:
-- version: Extended Security Update Year 3
-  startDate: 07/14/2021
-  endDate: 07/12/2022
-- version: Extended Security Update Year 2
-  startDate: 07/15/2020
-  endDate: 07/13/2021
-- version: Extended Security Update Year 1
-  startDate: 07/09/2019
-  endDate: 07/14/2020
-- version: Service Pack 3
-  startDate: 07/07/2014
-  endDate: 07/09/2019
-- version: Service Pack 2
-  startDate: 07/26/2012
-  endDate: 10/13/2015
-- version: Service Pack 1
-  startDate: 07/12/2011
-  endDate: 10/08/2013
-- version: Original Release
-  startDate: 07/20/2010
-  endDate: 07/10/2012
-content: "> [!TIP]\n> *Utökade säkerhetsuppdateringar (ESU) finns tillgängliga för versionerna Datacenter, Standard, Enterprise och Embedded av den här produkten i upp till ytterligare tre år efter att supporten upphör. Kontakta din Microsoft-partner eller ditt kontoteam om du vill veta mer. \n\n## <a name=\"links\"></a>Länkar \n* [Alternativ gällande support som upphör för SQL Server 2008 and Windows Server 2008](https://azure.microsoft.com/blog/announcing-new-options-for-sql-server-2008-and-windows-server-2008-end-of-support/)\n* [Supporten för SQL Server upphör](/sql/sql-server/end-of-support/sql-server-end-of-life-overview)\n* [Service pack-policy](/lifecycle/policies/fixed#service-packs)\n* [Programmet Utökad säkerhetsuppdatering (ESU)](/lifecycle/faq/extended-security-updates)\n\n> [!NOTE]\n> Endast för IA64 finns support för SP2 fram till 09/07/2019. Mer information finns i bloggen för SQL Release Services\n\n## <a name=\"editions\"></a>Utgåvor \n* Datacenter\n* Developer\n* Enterprise\n* Express\n* Express med avancerade tjänster\n* för inbäddade system\n* Standard\n* Standard Edition för småföretag\n* Webb\n* Workgroup"
+  - version: Extended Security Update Year 3
+    startDate: 07/14/2021
+    endDate: 07/12/2022
+  - version: Extended Security Update Year 2
+    startDate: 07/15/2020
+    endDate: 07/13/2021
+  - version: Extended Security Update Year 1
+    startDate: 07/09/2019
+    endDate: 07/14/2020
+  - version: Service Pack 3
+    startDate: 07/07/2014
+    endDate: 07/09/2019
+  - version: Service Pack 2
+    startDate: 07/26/2012
+    endDate: 10/13/2015
+  - version: Service Pack 1
+    startDate: 07/12/2011
+    endDate: 10/08/2013
+  - version: Original Release
+    startDate: 07/20/2010
+    endDate: 07/10/2012
+content: |
+  > [!TIP]
+  > *Utökade säkerhetsuppdateringar (ESU) finns tillgängliga för versionerna Datacenter, Standard, Enterprise och Embedded av den här produkten i upp till ytterligare tre år efter att supporten upphör. Kontakta din Microsoft-partner eller ditt kontoteam om du vill veta mer. 
+
+  ## <a name="links"></a>Länkar 
+  * [Alternativ gällande support som upphör för SQL Server 2008 and Windows Server 2008](https://azure.microsoft.com/blog/announcing-new-options-for-sql-server-2008-and-windows-server-2008-end-of-support/)
+  * [Supporten för SQL Server upphör](/sql/sql-server/end-of-support/sql-server-end-of-life-overview)
+  * [Service pack-policy](/lifecycle/policies/fixed#service-packs)
+  * [Programmet Utökad säkerhetsuppdatering (ESU)](/lifecycle/faq/extended-security-updates)
+
+  > [!NOTE]
+  > Endast för IA64 finns support för SP2 fram till 09/07/2019. Mer information finns i bloggen för SQL Release Services
+
+  ## <a name="editions"></a>Utgåvor 
+  * Datacenter
+  * Developer
+  * Enterprise
+  * Express
+  * Express med avancerade tjänster
+  * för inbäddade system
+  * Standard
+  * Standard Edition för småföretag
+  * Webb
+  * Workgroup

@@ -3,28 +3,29 @@ metadata:
   title: WinTarget 2.0
   description: WinTarget 2.0 följer policyn för fast livscykel.
   ms.date: 09/01/2020
-  keywords: Advanced,Standard
-  ms.openlocfilehash: 940b4d3c615a3e3f72bfa6a2a6e250154bcd5a57
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: HT
-  ms.contentlocale: sv-SE
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "938761"
+  keywords: 'Advanced,Standard'
 name: WinTarget 2.0
-summary: >+
+summary: |+
   WinTarget 2.0 följer policyn för [fast](/lifecycle/policies/fixed) livscykel.
-
 
   Detta gäller följande utgåvor: Advanced och Standard
 
 products:
-- windows
+  - windows
 policyType: fixed-mainstream-only
 supportDates:
   start: 03/07/2006
   end: 01/08/2008
 releases:
-- version: Original Release
-  startDate: 03/07/2006
-  endDate: 01/08/2008
-content: "\n\n> [!NOTE]\n> Support för den här produkten är beroende av dess inköpsvillkor.\n\n## <a name=\"editions\"></a>Utgåvor \n* Avancerat\n* Standard"
+  - version: Original Release
+    startDate: 03/07/2006
+    endDate: 01/08/2008
+content: |
+
+
+  > [!NOTE]
+  > Support för den här produkten är beroende av dess inköpsvillkor.
+
+  ## <a name="editions"></a>Utgåvor 
+  * Avancerat
+  * Standard

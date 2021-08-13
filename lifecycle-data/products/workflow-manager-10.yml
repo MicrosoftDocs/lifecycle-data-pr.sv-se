@@ -1,31 +1,35 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Arbetsflödeshanteraren  1.0
+  title: Workflow Manager 1.0
   description: Arbetsflödeshanteraren 1.0 följer principen för fast livscykel.
   ms.date: 09/10/2020
-  keywords: 
-  ms.openlocfilehash: 4fa17a4187f64e1ea2b46d8fdca61b81bbb7c7fa
-  ms.sourcegitcommit: 5c618c870f05989d24ebd3a61d98ce2302e85d3b
-  ms.translationtype: HT
-  ms.contentlocale: sv-SE
-  ms.lasthandoff: 09/10/2020
-  ms.locfileid: "1002822"
-name: Arbetsflödeshanteraren  1.0
-summary: >+
+  keywords: null
+name: Workflow Manager 1.0
+summary: |+
   Arbetsflödeshanteraren 1.0 följer principen för [fast](/lifecycle/policies/fixed) livscykel.
-
 
   Detta gäller följande utgåvor: Klient och Standard
 
 products:
-- vs
+  - vs
 policyType: fixed
 supportDates:
   start: 10/18/2012
   end: 01/09/2018
   extendedEnd: 01/10/2023
 releases:
-- version: Original Release
-  startDate: 10/18/2012
-  endDate: 01/10/2023
-content: "\n## <a name=\"links\"></a>Länkar \n* [Serviceinformation för SharePoint 2016](/SharePoint/product-servicing-policy/updated-product-servicing-policy-for-sharepoint-server-2016)\n* [Serviceinformation för SharePoint 2013](/SharePoint/product-servicing-policy/updated-product-servicing-policy-for-sharepoint-2013)\n\n> [!NOTE]\n> När Arbetsflödeshanteraren är en komponent i SharePoint Server 2016 eller SharePoint Server 2013 erhåller den support enligt slutdatumen för respektive SharePoint Server-version.\n\n## <a name=\"editions\"></a>Utgåvor \n* Klient\n* Standard"
+  - version: Original Release
+    startDate: 10/18/2012
+    endDate: 01/10/2023
+content: |
+
+  ## <a name="links"></a>Länkar 
+  * [Serviceinformation för SharePoint 2016](/SharePoint/product-servicing-policy/updated-product-servicing-policy-for-sharepoint-server-2016)
+  * [Serviceinformation för SharePoint 2013](/SharePoint/product-servicing-policy/updated-product-servicing-policy-for-sharepoint-2013)
+
+  > [!NOTE]
+  > När Arbetsflödeshanteraren är en komponent i SharePoint Server 2016 eller SharePoint Server 2013 erhåller den support enligt slutdatumen för respektive SharePoint Server-version.
+
+  ## <a name="editions"></a>Utgåvor 
+  * Klient
+  * Standard

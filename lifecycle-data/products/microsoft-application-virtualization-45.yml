@@ -3,39 +3,41 @@ metadata:
   title: Microsoft Application Virtualization 4.5
   description: Microsoft Application Virtualization 4.5 följer policyn för fast livscykel.
   ms.date: 09/01/2020
-  keywords: for Terminal Services,for Windows Desktops
-  ms.openlocfilehash: 2d8a71caede673b568a595526f4e1c9ce41a1778
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: HT
-  ms.contentlocale: sv-SE
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "935653"
+  keywords: 'for Terminal Services,for Windows Desktops'
 name: Microsoft Application Virtualization 4.5
-summary: >
+summary: |
   Microsoft Application Virtualization 4.5 följer policyn för [fast](/lifecycle/policies/fixed) livscykel.
-
 
   Detta gäller följande utgåvor: för Terminal Services och Windows-skrivbord
 
-
   > [!IMPORTANT]
-
   > Support för den här produkten har upphört. Se migreringsvägledningen nedan.
 products:
-- windows
+  - windows
 policyType: fixed
 supportDates:
   start: 11/23/2008
   end: 01/14/2014
   extendedEnd: 01/08/2019
 releases:
-- version: Service Pack 2
-  startDate: 08/15/2010
-  endDate: 01/08/2019
-- version: Service Pack 1
-  startDate: 12/13/2009
-  endDate: 10/11/2011
-- version: Original Release
-  startDate: 11/23/2008
-  endDate: 01/11/2011
-content: "\n## <a name=\"links\"></a>Länkar \n* [Vägledning för migrering](/microsoft-desktop-optimization-pack/appv-v4/overview-of-application-virtualization)\n* [Service pack-policy](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Eftersom App-V 4.6-klienten använder App-V 4.5-servern fortsätter App-V 4.5-servern att stödjas enligt datumen för livscykeln gällande App-V 4.6 när den används med den App-V 4.6-klient som stöds.\n\n## <a name=\"editions\"></a>Utgåvor \n* för Terminal Services\n* for Windows-skrivbordsenhet"
+  - version: Service Pack 2
+    startDate: 08/15/2010
+    endDate: 01/08/2019
+  - version: Service Pack 1
+    startDate: 12/13/2009
+    endDate: 10/11/2011
+  - version: Original Release
+    startDate: 11/23/2008
+    endDate: 01/11/2011
+content: |
+
+  ## <a name="links"></a>Länkar 
+  * [Vägledning för migrering](/microsoft-desktop-optimization-pack/appv-v4/overview-of-application-virtualization)
+  * [Service pack-policy](/lifecycle/policies/fixed#service-packs)
+
+  > [!NOTE]
+  > Eftersom App-V 4.6-klienten använder App-V 4.5-servern fortsätter App-V 4.5-servern att stödjas enligt datumen för livscykeln gällande App-V 4.6 när den används med den App-V 4.6-klient som stöds.
+
+  ## <a name="editions"></a>Utgåvor 
+  * för Terminal Services
+  * for Windows-skrivbordsenhet

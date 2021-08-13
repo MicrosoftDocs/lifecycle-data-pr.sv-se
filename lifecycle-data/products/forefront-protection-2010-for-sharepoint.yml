@@ -3,25 +3,19 @@ metadata:
   title: Forefront Protection 2010 för SharePoint
   description: Forefront Protection 2010 för SharePoint följer policyn för fast livscykel.
   ms.date: 08/21/2020
-  ms.openlocfilehash: cb0b92034979bf559cc72ac5d6b6302d3e986f39
-  ms.sourcegitcommit: 2f3e18a9447115504ef274bd044dbcdb08231f5b
-  ms.translationtype: HT
-  ms.contentlocale: sv-SE
-  ms.lasthandoff: 08/25/2020
-  ms.locfileid: "908928"
 name: Forefront Protection 2010 för SharePoint
-summary: >+
+summary: |+
   Forefront Protection 2010 för SharePoint följer policyn för [fast](/lifecycle/policies/fixed) livscykel.
 
 
 products:
-- msc
+  - msc
 policyType: fixed
 supportDates:
   start: 07/15/2010
   extendedEnd: 12/31/2015
 releases:
-- version: Original Release
-  startDate: 07/15/2010
-  endDate: 12/31/2015
-content: "\n\n> [!NOTE]\n> Färdplanen för säkerhetsprodukter under varumärket Forefront har ändrats.  Denna produkt upphör från och med 31 december 2015.\n\n\n"
+  - version: Original Release
+    startDate: 07/15/2010
+    endDate: 12/31/2015
+content: "\n\n> [!NOTE]\n> Färdplanen för säkerhetsprodukter under varumärket Forefront har ändrats. \_Denna produkt upphör från och med 31 december 2015.\n\n\n"

@@ -3,23 +3,36 @@ metadata:
   title: Windows Small Business Server 2008
   description: Windows Small Business Server 2008 följer policyn för fast livscykel.
   ms.date: 09/01/2020
-  keywords: Premium,Standard
-  ms.openlocfilehash: 947f1cc48a1ef1b5397103a64ce7fb2f3e52db2d
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: HT
-  ms.contentlocale: sv-SE
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "939205"
+  keywords: 'Premium,Standard'
 name: Windows Small Business Server 2008
-summary: "Windows Small Business Server 2008 följer policyn för [fast](/lifecycle/policies/fixed) livscykel.\n\nDetta gäller för följande utgåvor: Premium, Standard\n\n> [!IMPORTANT]\n> Support för den här produkten har upphört. \n\nSupportdatumet för det här produktpaketet bestäms av produktens enskilda komponenters respektive livscykler. Granska produktens enskilda komponenters livscykel för att fastställa längden på support.\n"
+summary: |
+  Windows Small Business Server 2008 följer policyn för [fast](/lifecycle/policies/fixed) livscykel.
+
+  Detta gäller för följande utgåvor: Premium, Standard
+
+  > [!IMPORTANT]
+  > Support för den här produkten har upphört. 
+
+  Supportdatumet för det här produktpaketet bestäms av produktens enskilda komponenters respektive livscykler. Granska produktens enskilda komponenters livscykel för att fastställa längden på support.
 products:
-- windows
+  - windows
 policyType: fixed
 supportDates:
   start: 11/21/2008
   extendedEnd: 01/14/2020
 releases:
-- version: Original Release
-  startDate: 11/21/2008
-  endDate: 01/14/2020
-content: "\n## <a name=\"links\"></a>Länkar \n* [Vägledning för migrering](https://aka.ms/AA1ovn4)\n* [Windows Server 2008](/lifecycle/browse/listings/windows-server-2008)\n* [Exchange Server 2007](/lifecycle/browse/listings/exchange-server-2007)\n* [Microsoft Windows SharePoint Services 3.0](/lifecycle/browse/listings/microsoft-windows-sharepoint-services-30)\n\n\n## <a name=\"editions\"></a>Utgåvor \n* Premium\n* Standard"
+  - version: Original Release
+    startDate: 11/21/2008
+    endDate: 01/14/2020
+content: |
+
+  ## <a name="links"></a>Länkar 
+  * [Vägledning för migrering](https://aka.ms/AA1ovn4)
+  * [Windows Server 2008](/lifecycle/browse/listings/windows-server-2008)
+  * [Exchange Server 2007](/lifecycle/browse/listings/exchange-server-2007)
+  * [Microsoft Windows SharePoint Services 3.0](/lifecycle/browse/listings/microsoft-windows-sharepoint-services-30)
+
+
+  ## <a name="editions"></a>Utgåvor 
+  * Premium
+  * Standard
