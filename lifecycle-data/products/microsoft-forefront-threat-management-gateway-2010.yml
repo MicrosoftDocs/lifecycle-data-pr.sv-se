@@ -3,39 +3,38 @@ metadata:
   title: Microsoft Forefront Threat Management Gateway 2010
   description: Microsoft Forefront Threat Management Gateway 2010 följer policyn för fast livscykel.
   ms.date: 09/01/2020
-  keywords: Enterprise,Standard
-  ms.openlocfilehash: b14bccc0637b191a7523238e5ee8b25c39183469
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: HT
-  ms.contentlocale: sv-SE
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "933840"
+  keywords: 'Enterprise,Standard'
 name: Microsoft Forefront Threat Management Gateway 2010
-summary: >
+summary: |
   Microsoft Forefront Threat Management Gateway 2010 följer policyn för [fast](/lifecycle/policies/fixed) livscykel.
-
 
   Detta gäller för följande utgåvor: Enterprise, Standard
 
-
   > [!IMPORTANT]
-
   > Support har upphört. Se migreringsvägledningen nedan.
 products:
-- office
+  - office
 policyType: fixed
 supportDates:
   start: 12/01/2009
   end: 04/14/2015
   extendedEnd: 04/14/2020
 releases:
-- version: Service Pack 2
-  startDate: 10/04/2011
-  endDate: 04/14/2020
-- version: Service Pack 1
-  startDate: 06/07/2010
-  endDate: 01/08/2013
-- version: Original Release
-  startDate: 12/01/2009
-  endDate: 07/12/2011
-content: "\n## <a name=\"links\"></a>Länkar \n* [Vägledning för migrering](https://techcommunity.microsoft.com/t5/azure-active-directory-identity/bg-p/Identity)\n\n\n## <a name=\"editions\"></a>Utgåvor \n* Enterprise\n* Standard"
+  - version: Service Pack 2
+    startDate: 10/04/2011
+    endDate: 04/14/2020
+  - version: Service Pack 1
+    startDate: 06/07/2010
+    endDate: 01/08/2013
+  - version: Original Release
+    startDate: 12/01/2009
+    endDate: 07/12/2011
+content: |
+
+  ## <a name="links"></a>Länkar 
+  * [Vägledning för migrering](https://techcommunity.microsoft.com/t5/azure-active-directory-identity/bg-p/Identity)
+
+
+  ## <a name="editions"></a>Utgåvor 
+  * Enterprise
+  * Standard

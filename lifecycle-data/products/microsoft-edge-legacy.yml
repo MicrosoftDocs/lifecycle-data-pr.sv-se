@@ -3,29 +3,21 @@ metadata:
   title: Microsoft Edge Legacy
   description: Microsoft Edge Legacy följer policyn för komponentens livscykel.
   ms.date: 08/24/2020
-  ms.openlocfilehash: e3739694176a49b69fa121857ed8740523a36816
-  ms.sourcegitcommit: 2f3e18a9447115504ef274bd044dbcdb08231f5b
-  ms.translationtype: HT
-  ms.contentlocale: sv-SE
-  ms.lasthandoff: 08/25/2020
-  ms.locfileid: "908929"
 name: Microsoft Edge Legacy
-summary: >
+summary: |
   Microsoft Edge Legacy följer policyn för [komponentens](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) livscykel.
 
 
-
   > [!IMPORTANT]
-
   > Observera att support för den här produkten upphör 9 mars 2021. Mer information finns [här](https://techcommunity.microsoft.com/t5/microsoft-365-blog/microsoft-365-apps-say-farewell-to-internet-explorer-11-and/ba-p/1591666).
 products:
-- microsoft-edge
+  - microsoft-edge
 policyType: component
 supportDates:
   start: 07/29/2015
   end: 03/09/2021
 releases:
-- version: Original Release
-  startDate: 07/29/2015
-  endDate: 03/09/2021
-content: ''
+  - version: Original Release
+    startDate: 07/29/2015
+    endDate: 03/09/2021
+content: |+

@@ -3,23 +3,25 @@ metadata:
   title: Wunderlist
   description: Wunderlist följer policyn för fast livscykel.
   ms.date: 07/28/2020
-  ms.openlocfilehash: dd978a839e950577c0854ee914df4114d50a9865
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: HT
-  ms.contentlocale: sv-SE
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "863917"
 name: Wunderlist
-summary: "Wunderlist följer policyn för [fast](/lifecycle/policies/fixed) livscykel.\n\n\n> [!IMPORTANT]\n> Support för den här produkten är beroende av dess inköpsvillkor. Support för den här produkten har upphört. Se migreringsvägledningen nedan. \n"
+summary: |
+  Wunderlist följer policyn för [fast](/lifecycle/policies/fixed) livscykel.
+
+
+  > [!IMPORTANT]
+  > Support för den här produkten är beroende av dess inköpsvillkor. Support för den här produkten har upphört. Se migreringsvägledningen nedan. 
 products:
-- office
+  - office
 policyType: fixed
 supportDates:
   start: 06/02/2015
   end: 05/06/2020
   extendedEnd: 05/06/2020
 releases:
-- version: Original Release
-  startDate: 06/02/2015
-  endDate: 05/06/2020
-content: "\n## <a name=\"links\"></a>Länkar \n* [Vägledning för migrering](https://www.wunderlist.com/blog/join-us-on-our-new-journey)"
+  - version: Original Release
+    startDate: 06/02/2015
+    endDate: 05/06/2020
+content: |+
+
+  ## <a name="links"></a>Länkar 
+  * [Vägledning för migrering](https://www.wunderlist.com/blog/join-us-on-our-new-journey)
