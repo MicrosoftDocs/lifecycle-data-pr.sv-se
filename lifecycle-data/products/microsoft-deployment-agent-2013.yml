@@ -3,26 +3,24 @@ metadata:
   title: Microsoft Deployment Agent 2013
   description: Microsoft Deployment Agent 2013 följer policyn för fast livscykel.
   ms.date: 07/28/2020
-  ms.openlocfilehash: d81680178f3fc6d72450bbf62cbf11ccb7ef8dc5
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: HT
-  ms.contentlocale: sv-SE
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "863981"
 name: Microsoft Deployment Agent 2013
-summary: >+
+summary: |+
   Microsoft Deployment Agent 2013 följer policyn för [fast](/lifecycle/policies/fixed) livscykel.
 
 
 products:
-- vs
+  - vs
 policyType: fixed
 supportDates:
   start: 01/15/2014
   end: 04/09/2019
   extendedEnd: 04/09/2024
 releases:
-- version: Original Release
-  startDate: 01/15/2014
-  endDate: 04/09/2024
-content: "\n\n> [!NOTE]\n> För Deployment Agent 2013 har uppdatering 4 support enligt policyriktlinjerna fram till 09/04/2024."
+  - version: Original Release
+    startDate: 01/15/2014
+    endDate: 04/09/2024
+content: |+
+
+
+  > [!NOTE]
+  > För Deployment Agent 2013 har uppdatering 4 support enligt policyriktlinjerna fram till 09/04/2024.

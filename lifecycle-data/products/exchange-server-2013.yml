@@ -3,32 +3,33 @@ metadata:
   title: Exchange Server 2013
   description: Exchange Server 2013 följer policyn för fast livscykel.
   ms.date: 03/30/2021
-  keywords: 
-  ms.openlocfilehash: 88cd46d7a3749f2db78a9091bd880cdcaf2c57df
-  ms.sourcegitcommit: ad4eb78cca397d384372a10fc71519bebd93c1b8
-  ms.translationtype: HT
-  ms.contentlocale: sv-SE
-  ms.lasthandoff: 04/01/2021
-  ms.locfileid: "1538122"
+  keywords: null
 name: Exchange Server 2013
-summary: >+
+summary: |+
   Exchange Server 2013 följer policyn för [fast](/lifecycle/policies/fixed) livscykel.
-
 
   Detta gäller för följande utgåvor: Enterprise, Standard
 
 products:
-- office
+  - office
 policyType: fixed
 supportDates:
   start: 01/09/2013
   end: 04/10/2018
   extendedEnd: 04/11/2023
 releases:
-- version: Service Pack 1
-  startDate: 02/25/2014
-  endDate: 04/11/2023
-- version: Original Release
-  startDate: 01/09/2013
-  endDate: 04/14/2015
-content: "\n## <a name=\"links\"></a>Länkar \n* [Riktlinjer för service](/exchange/updates-for-exchange-2013-exchange-2013-help)\n\n\n## <a name=\"editions\"></a>Utgåvor \n* Enterprise\n* Standard"
+  - version: Service Pack 1
+    startDate: 02/25/2014
+    endDate: 04/11/2023
+  - version: Original Release
+    startDate: 01/09/2013
+    endDate: 04/14/2015
+content: |
+
+  ## <a name="links"></a>Länkar 
+  * [Riktlinjer för service](/exchange/updates-for-exchange-2013-exchange-2013-help)
+
+
+  ## <a name="editions"></a>Utgåvor 
+  * Enterprise
+  * Standard

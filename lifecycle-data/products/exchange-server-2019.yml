@@ -3,29 +3,30 @@ metadata:
   title: Exchange Server 2019
   description: Exchange Server 2019 följer policyn för fast livscykel.
   ms.date: 09/01/2020
-  keywords: Enterprise,Standard
-  ms.openlocfilehash: 56188a0231413a812f5b4dea4eb8371c9bc9110b
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: HT
-  ms.contentlocale: sv-SE
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "931139"
+  keywords: 'Enterprise,Standard'
 name: Exchange Server 2019
-summary: >+
+summary: |+
   Exchange Server 2019 följer policyn för [fast](/lifecycle/policies/fixed) livscykel.
-
 
   Detta gäller för följande utgåvor: Enterprise, Standard
 
 products:
-- office
+  - office
 policyType: fixed
 supportDates:
   start: 10/22/2018
   end: 01/09/2024
   extendedEnd: 10/14/2025
 releases:
-- version: Original Release
-  startDate: 10/22/2018
-  endDate: 10/14/2025
-content: "\n## <a name=\"links\"></a>Länkar \n* [Riktlinjer för service](/Exchange/new-features/updates?view=exchserver-2019)\n\n\n## <a name=\"editions\"></a>Utgåvor \n* Enterprise\n* Standard"
+  - version: Original Release
+    startDate: 10/22/2018
+    endDate: 10/14/2025
+content: |
+
+  ## <a name="links"></a>Länkar 
+  * [Riktlinjer för service](/Exchange/new-features/updates?view=exchserver-2019)
+
+
+  ## <a name="editions"></a>Utgåvor 
+  * Enterprise
+  * Standard

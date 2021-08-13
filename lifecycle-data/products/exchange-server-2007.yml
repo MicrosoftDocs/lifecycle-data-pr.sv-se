@@ -3,33 +3,40 @@ metadata:
   title: Exchange Server 2007
   description: Exchange Server 2007 följer policyn för fast livscykel.
   ms.date: 09/01/2020
-  keywords: Enterprise,Standard
-  ms.openlocfilehash: 3ff0fec2e4a78285c3e34360d90c3ca90e5ffd96
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: HT
-  ms.contentlocale: sv-SE
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "931398"
+  keywords: 'Enterprise,Standard'
 name: Exchange Server 2007
-summary: "Exchange Server 2007 följer policyn för [fast](/lifecycle/policies/fixed) livscykel. \n\nDetta gäller för följande utgåvor: Enterprise, Standard\n\n"
+summary: |+
+  Exchange Server 2007 följer policyn för [fast](/lifecycle/policies/fixed) livscykel. 
+
+  Detta gäller för följande utgåvor: Enterprise, Standard
+
 products:
-- office
+  - office
 policyType: fixed
 supportDates:
   start: 03/08/2007
   end: 04/10/2012
   extendedEnd: 04/11/2017
 releases:
-- version: Service Pack 3
-  startDate: 06/07/2010
-  endDate: 04/11/2017
-- version: Service Pack 2
-  startDate: 08/24/2009
-  endDate: 07/12/2011
-- version: Service Pack 1
-  startDate: 11/29/2007
-  endDate: 10/12/2010
-- version: Original Release
-  startDate: 03/08/2007
-  endDate: 01/13/2009
-content: "\n## <a name=\"links\"></a>Länkar \n* [Service pack-policy](/lifecycle/policies/fixed#service-packs)\n* [Vägledning för migrering](https://blogs.office.com/2016/04/19/exchange-server-2007-end-of-support-coming-next-year/#5wCZvLhOd8FgPf5j.97)\n\n\n## <a name=\"editions\"></a>Utgåvor \n* Enterprise\n* Standard"
+  - version: Service Pack 3
+    startDate: 06/07/2010
+    endDate: 04/11/2017
+  - version: Service Pack 2
+    startDate: 08/24/2009
+    endDate: 07/12/2011
+  - version: Service Pack 1
+    startDate: 11/29/2007
+    endDate: 10/12/2010
+  - version: Original Release
+    startDate: 03/08/2007
+    endDate: 01/13/2009
+content: |
+
+  ## <a name="links"></a>Länkar 
+  * [Service pack-policy](/lifecycle/policies/fixed#service-packs)
+  * [Vägledning för migrering](https://blogs.office.com/2016/04/19/exchange-server-2007-end-of-support-coming-next-year/#5wCZvLhOd8FgPf5j.97)
+
+
+  ## <a name="editions"></a>Utgåvor 
+  * Enterprise
+  * Standard

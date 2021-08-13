@@ -4,28 +4,30 @@ metadata:
   description: InfoPath 2013 följer policyn för fast livscykel.
   ms.date: 09/10/2020
   keywords: Standard
-  ms.openlocfilehash: 7cd0b91eef230b0f5820c953c57369a58940d719
-  ms.sourcegitcommit: c0c65f657b1da8e588fda5bedd3572fb2e3168bc
-  ms.translationtype: HT
-  ms.contentlocale: sv-SE
-  ms.lasthandoff: 09/10/2020
-  ms.locfileid: "1002037"
 name: InfoPath 2013
-summary: >+
+summary: |+
   InfoPath 2013 följer policyn för [fast](/lifecycle/policies/fixed) livscykel.
-
 
   Detta gäller för följande utgåvor: Standard
 
 products:
-- office
+  - office
 policyType: fixed
 supportDates:
   start: 01/09/2013
   end: 07/13/2021
   extendedEnd: 07/14/2026
 releases:
-- version: Original Release
-  startDate: 01/09/2013
-  endDate: 07/14/2026
-content: "\n## <a name=\"links\"></a>Länkar \n* [Supportdetaljer](https://blogs.office.com/2016/01/20/sharepoint-server-2016-and-project-server-2016-release-candidate-available)\n\n> [!NOTE]\n> Support för Microsoft InfoPath 2013 utökas såsom visas i syfte att säkerställa kompatibilitet med SharePoint Server 2016.\n\n## <a name=\"editions\"></a>Utgåvor \n* Standard"
+  - version: Original Release
+    startDate: 01/09/2013
+    endDate: 07/14/2026
+content: |
+
+  ## <a name="links"></a>Länkar 
+  * [Supportdetaljer](https://blogs.office.com/2016/01/20/sharepoint-server-2016-and-project-server-2016-release-candidate-available)
+
+  > [!NOTE]
+  > Support för Microsoft InfoPath 2013 utökas såsom visas i syfte att säkerställa kompatibilitet med SharePoint Server 2016.
+
+  ## <a name="editions"></a>Utgåvor 
+  * Standard

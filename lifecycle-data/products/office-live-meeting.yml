@@ -4,22 +4,29 @@ metadata:
   description: Office Live-möte följer policyn för modern livscykel.
   ms.date: 09/01/2020
   keywords: Standard
-  ms.openlocfilehash: f5d328b887173c82655f707e9d931266c2d7b857
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: HT
-  ms.contentlocale: sv-SE
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "928919"
 name: Office Live Meeting
-summary: "Office Live-möte följer [policyn](/lifecycle/policies/modern) för modern livscykel.\n\nDetta gäller för följande utgåvor: Standard\n\n> [!IMPORTANT]\n> Support för den här tjänsten har upphört. Se migreringsvägledningen nedan. \n"
+summary: |
+  Office Live-möte följer [policyn](/lifecycle/policies/modern) för modern livscykel.
+
+  Detta gäller för följande utgåvor: Standard
+
+  > [!IMPORTANT]
+  > Support för den här tjänsten har upphört. Se migreringsvägledningen nedan. 
 products:
-- office
+  - office
 policyType: modern-online
 supportDates:
   start: 04/10/2009
   end: 12/31/2017
 releases:
-- version: Original Release
-  startDate: 04/10/2009
-  endDate: 12/31/2017
-content: "\n## <a name=\"links\"></a>Länkar \n* [Vägledning för migrering](https://support.office.com/article/Live-Meeting-Server-End-of-Life-6af25745-1f4a-4bcd-8051-fd0766f53c4f)\n\n\n## <a name=\"editions\"></a>Utgåvor \n* Standard"
+  - version: Original Release
+    startDate: 04/10/2009
+    endDate: 12/31/2017
+content: |
+
+  ## <a name="links"></a>Länkar 
+  * [Vägledning för migrering](https://support.office.com/article/Live-Meeting-Server-End-of-Life-6af25745-1f4a-4bcd-8051-fd0766f53c4f)
+
+
+  ## <a name="editions"></a>Utgåvor 
+  * Standard

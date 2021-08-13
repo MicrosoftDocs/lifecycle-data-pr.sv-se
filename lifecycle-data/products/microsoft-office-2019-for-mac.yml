@@ -3,28 +3,29 @@ metadata:
   title: Microsoft Office 2019 för Mac
   description: Microsoft Office 2019 för Mac följer policyn för fast livscykel.
   ms.date: 09/01/2020
-  keywords: Academic,Home and Business,Home and Student,Standard
-  ms.openlocfilehash: ec9caa375adfc5b23212e92160c6f3107344e1c6
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: HT
-  ms.contentlocale: sv-SE
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "930436"
+  keywords: 'Academic,Home and Business,Home and Student,Standard'
 name: Microsoft Office 2019 för Mac
-summary: >+
+summary: |+
   Microsoft Office 2019 för Mac följer policyn för [fast](/lifecycle/policies/fixed) livscykel.
-
 
   Detta gäller följande utgåvor: Academic, Hemma och Småföretag, Hemma och Student och Standard
 
 products:
-- office
+  - office
 policyType: fixed-mainstream-only
 supportDates:
   start: 09/24/2018
   end: 10/10/2023
 releases:
-- version: Original Release
-  startDate: 09/24/2018
-  endDate: 10/10/2023
-content: "\n\n\n## <a name=\"editions\"></a>Utgåvor \n* Academic\n* Hem och småföretag\n* Hemma och student\n* Standard"
+  - version: Original Release
+    startDate: 09/24/2018
+    endDate: 10/10/2023
+content: |
+
+
+
+  ## <a name="editions"></a>Utgåvor 
+  * Academic
+  * Hem och småföretag
+  * Hemma och student
+  * Standard

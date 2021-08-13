@@ -3,35 +3,36 @@ metadata:
   title: Exchange Server 2003
   description: Exchange Server 2003 följer policyn för fast livscykel.
   ms.date: 09/10/2020
-  keywords: Enterprise,Standard
-  ms.openlocfilehash: 63e0206ae02adc44408ceb0c0c73bd25217d1695
-  ms.sourcegitcommit: c0c65f657b1da8e588fda5bedd3572fb2e3168bc
-  ms.translationtype: HT
-  ms.contentlocale: sv-SE
-  ms.lasthandoff: 09/10/2020
-  ms.locfileid: "1000039"
+  keywords: 'Enterprise,Standard'
 name: Exchange Server 2003
-summary: >+
+summary: |+
   Exchange Server 2003 följer policyn för [fast](/lifecycle/policies/fixed) livscykel.
-
 
   Detta gäller för följande utgåvor: Enterprise, Standard
 
 products:
-- office
+  - office
 policyType: fixed
 supportDates:
   start: 09/28/2003
   end: 04/14/2009
   extendedEnd: 04/08/2014
 releases:
-- version: Service Pack 2
-  startDate: 10/19/2005
-  endDate: 04/08/2014
-- version: Service Pack 1
-  startDate: 05/25/2004
-  endDate: 01/08/2008
-- version: Original Release
-  startDate: 09/28/2003
-  endDate: 05/25/2005
-content: "\n## <a name=\"links\"></a>Länkar \n* [Service pack-policy](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Utgåvor \n* Enterprise\n* Standard"
+  - version: Service Pack 2
+    startDate: 10/19/2005
+    endDate: 04/08/2014
+  - version: Service Pack 1
+    startDate: 05/25/2004
+    endDate: 01/08/2008
+  - version: Original Release
+    startDate: 09/28/2003
+    endDate: 05/25/2005
+content: |
+
+  ## <a name="links"></a>Länkar 
+  * [Service pack-policy](/lifecycle/policies/fixed#service-packs)
+
+
+  ## <a name="editions"></a>Utgåvor 
+  * Enterprise
+  * Standard
