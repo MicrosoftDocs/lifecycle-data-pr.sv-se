@@ -3,29 +3,31 @@ metadata:
   title: Outlook 2010
   description: Outlook 2010 följer policyn för fast livscykel.
   ms.date: 09/01/2020
-  keywords: Standard,with Business Contact Manager
-  ms.openlocfilehash: ce67d67737e2a942507d26d8d1bd308697a58144
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: HT
-  ms.contentlocale: sv-SE
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "928845"
+  keywords: 'Standard,with Business Contact Manager'
 name: Outlook 2010
-summary: >+
+summary: |+
   Outlook 2010 följer policyn för [fast](/lifecycle/policies/fixed) livscykel.
-
 
   Detta gäller följande utgåvor: Standard med Business Contact Manager
 
 products:
-- office
+  - office
 policyType: fixed
 supportDates:
   start: 07/15/2010
   end: 10/13/2015
   extendedEnd: 10/13/2020
 releases:
-- version: Original Release
-  startDate: 07/15/2010
-  endDate: 10/13/2020
-content: "\n## <a name=\"links\"></a>Länkar \n* [Vägledning för migrering](/DeployOffice/office-2010-end-support-roadmap)\n* [Service pack-policy](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Utgåvor \n* Standard\n* med Business Contact Manager"
+  - version: Original Release
+    startDate: 07/15/2010
+    endDate: 10/13/2020
+content: |
+
+  ## <a name="links"></a>Länkar 
+  * [Vägledning för migrering](/DeployOffice/office-2010-end-support-roadmap)
+  * [Service pack-policy](/lifecycle/policies/fixed#service-packs)
+
+
+  ## <a name="editions"></a>Utgåvor 
+  * Standard
+  * med Business Contact Manager

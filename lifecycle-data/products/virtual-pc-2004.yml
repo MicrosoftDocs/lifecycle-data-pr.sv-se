@@ -3,36 +3,37 @@ metadata:
   title: Virtual PC 2004
   description: Virtual PC 2004 följer policyn för fast livscykel.
   ms.date: 09/10/2020
-  keywords: Express,Standard
-  ms.openlocfilehash: 858fa64b63de7edadffbc6d4514d1a9f7ea6e42a
-  ms.sourcegitcommit: c0c65f657b1da8e588fda5bedd3572fb2e3168bc
-  ms.translationtype: HT
-  ms.contentlocale: sv-SE
-  ms.lasthandoff: 09/10/2020
-  ms.locfileid: "1000889"
+  keywords: 'Express,Standard'
 name: Virtual PC 2004
-summary: >
+summary: |
   Virtual PC 2004 följer policyn för [fast](/lifecycle/policies/fixed) livscykel.
-
 
   Detta gäller följande utgåvor: Express och Standard
 
-
   > [!IMPORTANT]
-
   > Support för den här produkten har upphört.
 products:
-- windows
+  - windows
 policyType: fixed
 supportDates:
   start: 01/20/2004
   end: 04/14/2009
   extendedEnd: 04/08/2014
 releases:
-- version: Service Pack 1
-  startDate: 08/30/2006
-  endDate: 04/08/2014
-- version: Original Release
-  startDate: 01/20/2004
-  endDate: 10/09/2007
-content: "> [!TIP]\n> Microsoft Virtual PC 2004 Express släpptes 13 april 2006.\n\n## <a name=\"links\"></a>Länkar \n* [Service pack-policy](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Utgåvor \n* Express\n* Standard"
+  - version: Service Pack 1
+    startDate: 08/30/2006
+    endDate: 04/08/2014
+  - version: Original Release
+    startDate: 01/20/2004
+    endDate: 10/09/2007
+content: |
+  > [!TIP]
+  > Microsoft Virtual PC 2004 Express släpptes 13 april 2006.
+
+  ## <a name="links"></a>Länkar 
+  * [Service pack-policy](/lifecycle/policies/fixed#service-packs)
+
+
+  ## <a name="editions"></a>Utgåvor 
+  * Express
+  * Standard

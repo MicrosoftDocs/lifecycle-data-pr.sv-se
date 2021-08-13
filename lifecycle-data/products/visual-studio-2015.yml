@@ -3,32 +3,49 @@ metadata:
   title: Visual Studio 2015
   description: Visual Studio 2015 följer policyn för fast livscykel.
   ms.date: 09/01/2020
-  keywords: Agents,Community,Enterprise,ESM,Express for Web,Express for Windows 10,Express for Windows Desktop,Modeling SDK,Professional,PSM,Release Management,Remote Tools,SDK,Shell (Integrated),Shell (Isolated),Test Professional,TPS,Visual C++ Redistributable
-  ms.openlocfilehash: d993b7ac12edc9ad4c1c7d58f35c61a8c4c10a71
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: HT
-  ms.contentlocale: sv-SE
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "937429"
+  keywords: 'Agents,Community,Enterprise,ESM,Express for Web,Express for Windows 10,Express for Windows Desktop,Modeling SDK,Professional,PSM,Release Management,Remote Tools,SDK,Shell (Integrated),Shell (Isolated),Test Professional,TPS,Visual C++ Redistributable'
 name: Visual Studio 2015
-summary: >+
+summary: |+
   Visual Studio 2015 följer policyn för [fast](/lifecycle/policies/fixed) livscykel.
-
 
   Detta gäller för följande utgåvor: Agenter, Community, Enterprise, ESM, Express för Web, Express för Windows 10, Express för Windows Desktop, SDK för modellering, Professional, PSM, Versionshantering, Remote Tools, SDK, gränssnitt (integrerat), gränssnitt (isolerad), Test Professional, Visual C++ Redistributable
 
 products:
-- vs
+  - vs
 policyType: fixed
 supportDates:
   start: 07/20/2015
   end: 10/13/2020
   extendedEnd: 10/14/2025
 releases:
-- version: Update 3
-  startDate: 06/27/2016
-  endDate: 10/14/2025
-- version: Original Release
-  startDate: 07/20/2015
-  endDate: 10/14/2025
-content: "\n## <a name=\"links\"></a>Länkar \n* [Serviceinformation](https://www.visualstudio.com/productinfo/vs-servicing-vs)\n\n\n## <a name=\"editions\"></a>Utgåvor \n* Agenter\n* Community\n* Enterprise\n* ESM\n* Express for Web\n* Express for Windows 10\n* Express for Windows Desktop\n* SDK för modellering\n* Professionell\n* PSM\n* Versionshantering\n* Remote Tools\n* SDK\n* Gränssnitt (integrerat)\n* Gränssnitt (isolerat)\n* Test Professional\n* TPS\n* Visual C++ Redistributable"
+  - version: Update 3
+    startDate: 06/27/2016
+    endDate: 10/14/2025
+  - version: Original Release
+    startDate: 07/20/2015
+    endDate: 10/14/2025
+content: |
+
+  ## <a name="links"></a>Länkar 
+  * [Serviceinformation](https://www.visualstudio.com/productinfo/vs-servicing-vs)
+
+
+  ## <a name="editions"></a>Utgåvor 
+  * Agenter
+  * Community
+  * Enterprise
+  * ESM
+  * Express for Web
+  * Express for Windows 10
+  * Express for Windows Desktop
+  * SDK för modellering
+  * Professionell
+  * PSM
+  * Versionshantering
+  * Remote Tools
+  * SDK
+  * Gränssnitt (integrerat)
+  * Gränssnitt (isolerat)
+  * Test Professional
+  * TPS
+  * Visual C++ Redistributable

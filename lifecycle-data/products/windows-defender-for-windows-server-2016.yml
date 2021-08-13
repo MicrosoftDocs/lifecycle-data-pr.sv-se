@@ -3,21 +3,24 @@ metadata:
   title: Windows Defender för Windows Server 2016
   description: Windows Defender för Windows Server 2016 följer principen för komponentlivscykeln.
   ms.date: 07/28/2020
-  ms.openlocfilehash: a115c31e3562f17b979200b8da839f873470f6df
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: HT
-  ms.contentlocale: sv-SE
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "841939"
 name: Windows Defender för Windows Server 2016
-summary: "Windows Defender för Windows Server 2016 följer principen för [komponent](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) livscykeln. \n\n\n"
+summary: |+
+  Windows Defender för Windows Server 2016 följer principen för [komponent](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) livscykeln. 
+
+
 products:
-- windows
+  - windows
 policyType: component
 supportDates:
   start: 10/15/2016
 releases:
-- version: Original Release
-  startDate: 10/15/2016
-  endDate: 01/12/2027
-content: "\n## <a name=\"links\"></a>Länkar \n* [Windows Server 2016](/lifecycle/products/windows-server-2016)\n\n> [!NOTE]\n> Den här komponenten följer livscykeln för sin överordnade produkt, Windows Server 2016."
+  - version: Original Release
+    startDate: 10/15/2016
+    endDate: 01/12/2027
+content: |+
+
+  ## <a name="links"></a>Länkar 
+  * [Windows Server 2016](/lifecycle/products/windows-server-2016)
+
+  > [!NOTE]
+  > Den här komponenten följer livscykeln för sin överordnade produkt, Windows Server 2016.

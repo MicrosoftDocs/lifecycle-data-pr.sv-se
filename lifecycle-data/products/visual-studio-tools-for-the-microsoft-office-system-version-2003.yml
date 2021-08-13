@@ -3,26 +3,20 @@ metadata:
   title: Visual Studio Tools för Microsoft Office System version 2003
   description: Visual Studio Tools för Microsoft Office System version 2003 följer policyn för fast livscykel.
   ms.date: 07/28/2020
-  ms.openlocfilehash: b877fed2caa81c31462f70f8db36b2ea28ef67e5
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: HT
-  ms.contentlocale: sv-SE
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "841570"
 name: Visual Studio Tools för Microsoft Office System version 2003
-summary: >+
+summary: |+
   Visual Studio Tools för Microsoft Office System version 2003 följer policyn för [fast](/lifecycle/policies/fixed) livscykel.
 
 
 products:
-- vs
+  - vs
 policyType: fixed
 supportDates:
   start: 12/04/2003
   end: 01/13/2009
   extendedEnd: 01/14/2014
 releases:
-- version: Original Release
-  startDate: 12/04/2003
-  endDate: 01/14/2014
-content: ''
+  - version: Original Release
+    startDate: 12/04/2003
+    endDate: 01/14/2014
+content: |+

@@ -3,29 +3,21 @@ metadata:
   title: Windows Automated Installation Kit for Windows 7
   description: Windows Automated Installation Kit för Windows 7 följer policyn för fast livscykel.
   ms.date: 07/28/2020
-  ms.openlocfilehash: aef3eea94538c8956abb01f8b3e681e9932d18a5
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: HT
-  ms.contentlocale: sv-SE
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "841412"
 name: Windows Automated Installation Kit for Windows 7
-summary: >
+summary: |
   Windows Automated Installation Kit för Windows 7 följer policyn för [fast](/lifecycle/policies/fixed) livscykel.
 
 
-
   > [!IMPORTANT]
-
   > Support för den här produkten har upphört.
 products:
-- windows
+  - windows
 policyType: fixed-mainstream-only
 supportDates:
   start: 10/22/2009
   end: 01/13/2015
 releases:
-- version: Original Release
-  startDate: 10/22/2009
-  endDate: 01/13/2015
-content: ''
+  - version: Original Release
+    startDate: 10/22/2009
+    endDate: 01/13/2015
+content: |+
