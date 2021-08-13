@@ -3,23 +3,22 @@ metadata:
   title: Microsoft Internet Information Services 7.0
   description: Microsoft Internet Information Services 7.0 följer policyn för komponentens livscykel.
   ms.date: 07/28/2020
-  ms.openlocfilehash: 2db2bbc83343f99aea9be4749fa1fcd0aeb12220
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: HT
-  ms.contentlocale: sv-SE
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "842423"
 name: Microsoft Internet Information Services 7.0
-summary: >+
+summary: |+
   Microsoft Internet Information Services 7.0 följer policyn för [komponentens](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) livscykel.
 
 
 products:
-- windows
+  - windows
 policyType: component
 supportDates:
   start: 01/25/2007
 releases:
-- version: Original Release
-  startDate: 01/25/2007
-content: "> [!TIP]\n> Den här utgåvan är känd som en komponent som följer supportlivscykeln hos sin överordnade viktiga produkt, Windows Server 2008\n\n## <a name=\"links\"></a>Länkar \n* [Windows Server 2008](/lifecycle/products/windows-server-2008)"
+  - version: Original Release
+    startDate: 01/25/2007
+content: |+
+  > [!TIP]
+  > Den här utgåvan är känd som en komponent som följer supportlivscykeln hos sin överordnade viktiga produkt, Windows Server 2008
+
+  ## <a name="links"></a>Länkar 
+  * [Windows Server 2008](/lifecycle/products/windows-server-2008)

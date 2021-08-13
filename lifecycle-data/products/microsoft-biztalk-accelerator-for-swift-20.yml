@@ -4,28 +4,26 @@ metadata:
   description: Microsoft BizTalk Accelerator för SWIFT 2.0 följer policyn för fast livscykel.
   ms.date: 09/01/2020
   keywords: Enterprise
-  ms.openlocfilehash: f2d3f0b8991cf28223d4ba5110c0686facccf8f2
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: HT
-  ms.contentlocale: sv-SE
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "934876"
 name: Microsoft BizTalk Accelerator för SWIFT 2.0
-summary: >+
+summary: |+
   Microsoft BizTalk Accelerator för SWIFT 2.0 följer policyn för [fast](/lifecycle/policies/fixed) livscykel.
-
 
   Detta gäller för följande utgåvor: Enterprise
 
 products:
-- microsoft-servers
+  - microsoft-servers
 policyType: fixed
 supportDates:
   start: 09/25/2004
   end: 10/13/2009
   extendedEnd: 10/14/2014
 releases:
-- version: Original Release
-  startDate: 09/25/2004
-  endDate: 10/14/2014
-content: "\n\n\n## <a name=\"editions\"></a>Utgåvor \n* Enterprise"
+  - version: Original Release
+    startDate: 09/25/2004
+    endDate: 10/14/2014
+content: |
+
+
+
+  ## <a name="editions"></a>Utgåvor 
+  * Enterprise

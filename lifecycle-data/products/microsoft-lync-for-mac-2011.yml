@@ -3,26 +3,26 @@ metadata:
   title: Microsoft Lync för Mac 2011
   description: Microsoft Lync för Mac 2011 följer policyn för fast livscykel.
   ms.date: 07/28/2020
-  ms.openlocfilehash: 207ed38b1b2ea1ec21b7f89d565df627ab2e7c42
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: HT
-  ms.contentlocale: sv-SE
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "841477"
 name: Microsoft Lync för Mac 2011
-summary: >+
+summary: |+
   Microsoft Lync för Mac 2011 följer policyn för [fast](/lifecycle/policies/fixed) livscykel.
 
 
 products:
-- office
+  - office
 policyType: fixed
 supportDates:
   start: 12/09/2010
   end: 10/10/2017
   extendedEnd: 10/09/2018
 releases:
-- version: Original Release
-  startDate: 12/09/2010
-  endDate: 10/09/2018
-content: "\n## <a name=\"links\"></a>Länkar \n* [Skype för företag på Mac](https://www.microsoft.com/download/details.aspx?id=54108)\n\n> [!NOTE]\n> Support för Microsoft Lync för Mac 2011 utökas såsom visas i syfte att ge alla kunder en tidslinje för livscykelövergången till Skype för företag på Mac."
+  - version: Original Release
+    startDate: 12/09/2010
+    endDate: 10/09/2018
+content: |+
+
+  ## <a name="links"></a>Länkar 
+  * [Skype för företag på Mac](https://www.microsoft.com/download/details.aspx?id=54108)
+
+  > [!NOTE]
+  > Support för Microsoft Lync för Mac 2011 utökas såsom visas i syfte att ge alla kunder en tidslinje för livscykelövergången till Skype för företag på Mac.

@@ -3,29 +3,28 @@ metadata:
   title: Microsoft BizTalk Accelerator för RosettaNet 3.0
   description: Microsoft BizTalk Accelerator för RosettaNet 3.0 följer policyn för fast livscykel.
   ms.date: 09/01/2020
-  keywords: Enterprise,Standard
-  ms.openlocfilehash: 1a27e01c802b94c72dbcab51e79d200fb0877182
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: HT
-  ms.contentlocale: sv-SE
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "934839"
+  keywords: 'Enterprise,Standard'
 name: Microsoft BizTalk Accelerator för RosettaNet 3.0
-summary: >+
+summary: |+
   Microsoft BizTalk Accelerator för RosettaNet 3.0 följer policyn för [fast](/lifecycle/policies/fixed) livscykel.
-
 
   Detta gäller för följande utgåvor: Enterprise, Standard
 
 products:
-- microsoft-servers
+  - microsoft-servers
 policyType: fixed
 supportDates:
   start: 02/22/2005
   end: 04/13/2010
   extendedEnd: 04/14/2015
 releases:
-- version: Original Release
-  startDate: 02/22/2005
-  endDate: 04/14/2015
-content: "\n\n\n## <a name=\"editions\"></a>Utgåvor \n* Enterprise\n* Standard"
+  - version: Original Release
+    startDate: 02/22/2005
+    endDate: 04/14/2015
+content: |
+
+
+
+  ## <a name="editions"></a>Utgåvor 
+  * Enterprise
+  * Standard

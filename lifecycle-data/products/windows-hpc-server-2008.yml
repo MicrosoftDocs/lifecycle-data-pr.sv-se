@@ -3,36 +3,35 @@ metadata:
   title: Windows Web Server 2008
   description: Windows HPC Server 2008 följer policyn för fast livscykel.
   ms.date: 09/10/2020
-  keywords: Standard,without Hyper-V
-  ms.openlocfilehash: ed96715e1adfcebc1837d68340bd186533fb30e9
-  ms.sourcegitcommit: c0c65f657b1da8e588fda5bedd3572fb2e3168bc
-  ms.translationtype: HT
-  ms.contentlocale: sv-SE
-  ms.lasthandoff: 09/10/2020
-  ms.locfileid: "1002185"
+  keywords: 'Standard,without Hyper-V'
 name: Windows Web Server 2008
-summary: >
+summary: |
   Windows HPC Server 2008 följer policyn för [fast](/lifecycle/policies/fixed) livscykel.
-
 
   Detta gäller följande utgåvor: Standard och utan Hyper-V
 
-
   > [!IMPORTANT]
-
   > Support har upphört. Se migreringsvägledningen nedan.
 products:
-- windows
+  - windows
 policyType: fixed
 supportDates:
   start: 12/29/2008
   end: 01/13/2015
   extendedEnd: 01/14/2020
 releases:
-- version: Service Pack 2
-  startDate: 04/29/2009
-  endDate: 01/14/2020
-- version: Original Release
-  startDate: 12/30/2008
-  endDate: 07/12/2011
-content: "\n## <a name=\"links\"></a>Länkar \n* [Vägledning för migrering](https://aka.ms/AA1ovn4)\n\n\n## <a name=\"editions\"></a>Utgåvor \n* Standard\n* utan Hyper-V"
+  - version: Service Pack 2
+    startDate: 04/29/2009
+    endDate: 01/14/2020
+  - version: Original Release
+    startDate: 12/30/2008
+    endDate: 07/12/2011
+content: |
+
+  ## <a name="links"></a>Länkar 
+  * [Vägledning för migrering](https://aka.ms/AA1ovn4)
+
+
+  ## <a name="editions"></a>Utgåvor 
+  * Standard
+  * utan Hyper-V

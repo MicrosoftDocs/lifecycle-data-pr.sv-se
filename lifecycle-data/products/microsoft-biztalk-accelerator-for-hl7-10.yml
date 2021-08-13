@@ -4,28 +4,26 @@ metadata:
   description: Microsoft BizTalk Accelerator för HL7 1.0 följer policyn för fast livscykel.
   ms.date: 09/01/2020
   keywords: Standard
-  ms.openlocfilehash: 727fa4605cef159b99154e6a57d40c81eab3d619
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: HT
-  ms.contentlocale: sv-SE
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "935172"
 name: 'Microsoft BizTalk Accelerator för HL7 1.0 '
-summary: >+
+summary: |+
   Microsoft BizTalk Accelerator för HL7 1.0 följer policyn för [fast](/lifecycle/policies/fixed) livscykel.
-
 
   Detta gäller för följande utgåvor: Standard
 
 products:
-- microsoft-servers
+  - microsoft-servers
 policyType: fixed
 supportDates:
   start: 05/27/2004
   end: 07/14/2009
   extendedEnd: 07/08/2014
 releases:
-- version: Original Release
-  startDate: 05/27/2004
-  endDate: 07/08/2014
-content: "\n\n\n## <a name=\"editions\"></a>Utgåvor \n* Standard"
+  - version: Original Release
+    startDate: 05/27/2004
+    endDate: 07/08/2014
+content: |
+
+
+
+  ## <a name="editions"></a>Utgåvor 
+  * Standard

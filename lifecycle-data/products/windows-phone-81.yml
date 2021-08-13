@@ -3,22 +3,27 @@ metadata:
   title: Windows Phone 8.1
   description: Windows Phone 8.1 följer policyn för fast livscykel.
   ms.date: 07/28/2020
-  ms.openlocfilehash: d81cd34117e63701bf48f128d7d3aafdd93ac581
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: HT
-  ms.contentlocale: sv-SE
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "864134"
 name: Windows Phone 8.1
-summary: "Windows Phone 8.1 följer policyn för [fast](/lifecycle/policies/fixed) livscykel. \n\n\n> [!IMPORTANT]\n> Support för den här produkten har upphört.\n"
+summary: |
+  Windows Phone 8.1 följer policyn för [fast](/lifecycle/policies/fixed) livscykel. 
+
+
+  > [!IMPORTANT]
+  > Support för den här produkten har upphört.
 products:
-- windows
+  - windows
 policyType: fixed-mainstream-only
 supportDates:
   start: 06/24/2014
   end: 07/11/2017
 releases:
-- version: Original Release
-  startDate: 06/24/2014
-  endDate: 07/11/2017
-content: "\n## <a name=\"links\"></a>Länkar \n* [Windows Phone 8.1 FAQ](https://support.microsoft.com/help/4036480/windows-phone-8-1-end-of-support-faq)\n\n> [!NOTE]\n> Microsoft kommer att göra uppdateringar tillgängliga för operativsystemet, inklusive säkerhetsuppdateringar i minimum 36 månader från och med livscykelns startdatum. Dessa produktuppdateringar sker stegvis, där varje uppdatering bygger på föregående uppdatering. Kunderna måste installera varje uppdatering för att fortsätta få support. Distributionen av dessa inkrementella uppdateringar kan styras av mobiloperatören eller telefontillverkaren som du köpte telefonen från, och installationen kräver att telefonen har några tidigare uppdateringar. Tillgängligheten för uppdateringen varierar även efter land, region och maskinvarufunktioner."
+  - version: Original Release
+    startDate: 06/24/2014
+    endDate: 07/11/2017
+content: |+
+
+  ## <a name="links"></a>Länkar 
+  * [Windows Phone 8.1 FAQ](https://support.microsoft.com/help/4036480/windows-phone-8-1-end-of-support-faq)
+
+  > [!NOTE]
+  > Microsoft kommer att göra uppdateringar tillgängliga för operativsystemet, inklusive säkerhetsuppdateringar i minimum 36 månader från och med livscykelns startdatum. Dessa produktuppdateringar sker stegvis, där varje uppdatering bygger på föregående uppdatering. Kunderna måste installera varje uppdatering för att fortsätta få support. Distributionen av dessa inkrementella uppdateringar kan styras av mobiloperatören eller telefontillverkaren som du köpte telefonen från, och installationen kräver att telefonen har några tidigare uppdateringar. Tillgängligheten för uppdateringen varierar även efter land, region och maskinvarufunktioner.

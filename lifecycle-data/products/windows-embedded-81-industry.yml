@@ -3,29 +3,32 @@ metadata:
   title: Windows Embedded 8.1 Industry
   description: Windows Embedded 8.1 Industry följer policyn för fast livscykel.
   ms.date: 09/10/2020
-  keywords: Enterprise,Pro,Sideloading
-  ms.openlocfilehash: e033f9a8e05ac0646caf13dd8642e70cfa6bb16a
-  ms.sourcegitcommit: c0c65f657b1da8e588fda5bedd3572fb2e3168bc
-  ms.translationtype: HT
-  ms.contentlocale: sv-SE
-  ms.lasthandoff: 09/10/2020
-  ms.locfileid: "1002444"
+  keywords: 'Enterprise,Pro,Sideloading'
 name: Windows Embedded 8.1 Industry
-summary: >+
+summary: |+
   Windows Embedded 8.1 Industry följer policyn för [fast](/lifecycle/policies/fixed) livscykel.
-
 
   Detta gäller följande utgåvor: Enterprise, Pro och Sideloading
 
 products:
-- windows
+  - windows
 policyType: fixed
 supportDates:
   start: 11/25/2013
   end: 07/10/2018
   extendedEnd: 07/11/2023
 releases:
-- version: Original Release
-  startDate: 11/25/2013
-  endDate: 07/11/2023
-content: "\n## <a name=\"links\"></a>Länkar \n* [Vanliga frågor och svar om livscykel – Windows-produkter](https://support.microsoft.co/help/18581)\n* [Vanliga frågor och svar om Windows Embedded 8.1](/lifecycle/faq/windows#what-is-the-lifecycle-policy-for-windows-embedded-81-products)\n\n\n## <a name=\"editions\"></a>Utgåvor \n* Enterprise\n* Pro\n* Sideloading"
+  - version: Original Release
+    startDate: 11/25/2013
+    endDate: 07/11/2023
+content: |
+
+  ## <a name="links"></a>Länkar 
+  * [Vanliga frågor och svar om livscykel – Windows-produkter](https://support.microsoft.co/help/18581)
+  * [Vanliga frågor och svar om Windows Embedded 8.1](/lifecycle/faq/windows#what-is-the-lifecycle-policy-for-windows-embedded-81-products)
+
+
+  ## <a name="editions"></a>Utgåvor 
+  * Enterprise
+  * Pro
+  * Sideloading
