@@ -4,26 +4,24 @@ metadata:
   description: Project Server 2016 följer policyn för fast livscykel.
   ms.date: 09/02/2020
   keywords: ''
-  ms.openlocfilehash: a9dc96cf8e5a99917a0a31ccc23a413d9ff61ccc
-  ms.sourcegitcommit: 37b80a1b6fcda4dc6147d99a362a75b884d08a51
-  ms.translationtype: HT
-  ms.contentlocale: sv-SE
-  ms.lasthandoff: 09/02/2020
-  ms.locfileid: "941467"
 name: Project Server 2016
-summary: >+
+summary: |+
   Project Server 2016 följer policyn för [fast](/lifecycle/policies/fixed) livscykel.
 
 
 products:
-- office
+  - office
 policyType: fixed
 supportDates:
   start: 05/01/2016
   end: 07/13/2021
   extendedEnd: 07/14/2026
 releases:
-- version: Original Release
-  startDate: 05/01/2016
-  endDate: 07/14/2026
-content: "\n\n> [!NOTE]\n> Se [produkt-](https://docs.microsoft.com/project/project-server-2013-and-2016) och [utvecklardokumentationen](https://developer.microsoft.com/project/docs)."
+  - version: Original Release
+    startDate: 05/01/2016
+    endDate: 07/14/2026
+content: |+
+
+
+  > [!NOTE]
+  > Se [produkt-](https://docs.microsoft.com/project/project-server-2013-and-2016) och [utvecklardokumentationen](https://developer.microsoft.com/project/docs).

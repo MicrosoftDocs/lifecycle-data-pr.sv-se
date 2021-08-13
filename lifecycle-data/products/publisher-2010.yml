@@ -4,28 +4,26 @@ metadata:
   description: Publisher 2010 följer policyn för fast livscykel.
   ms.date: 09/01/2020
   keywords: Standard
-  ms.openlocfilehash: 73037ae31d902bde1b7d7f2a41fe29a4f4c101cd
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: HT
-  ms.contentlocale: sv-SE
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "926255"
 name: Publisher 2010
-summary: >+
+summary: |+
   Publisher 2010 följer policyn för [fast](/lifecycle/policies/fixed) livscykel.
-
 
   Detta gäller för följande utgåvor: Standard
 
 products:
-- office
+  - office
 policyType: fixed
 supportDates:
   start: 07/15/2010
   end: 10/13/2015
   extendedEnd: 10/13/2020
 releases:
-- version: Original Release
-  startDate: 07/15/2010
-  endDate: 10/13/2020
-content: "\n\n\n## <a name=\"editions\"></a>Utgåvor \n* Standard"
+  - version: Original Release
+    startDate: 07/15/2010
+    endDate: 10/13/2020
+content: |
+
+
+
+  ## <a name="editions"></a>Utgåvor 
+  * Standard

@@ -4,23 +4,30 @@ metadata:
   description: Microsoft Office Communicator 2007 följer policyn för fast livscykel.
   ms.date: 09/10/2020
   keywords: Standard
-  ms.openlocfilehash: dbb46e37a768b34dd9240524f45723daa498f825
-  ms.sourcegitcommit: c0c65f657b1da8e588fda5bedd3572fb2e3168bc
-  ms.translationtype: HT
-  ms.contentlocale: sv-SE
-  ms.lasthandoff: 09/10/2020
-  ms.locfileid: "1001704"
 name: Microsoft Office Communicator 2007
-summary: "Microsoft Office Communicator 2007 följer policyn för [fast](/lifecycle/policies/fixed) livscykel.\n\nDetta gäller för följande utgåvor: Standard\n\n> [!IMPORTANT]\n> Support för den här produkten har upphört. \n"
+summary: |
+  Microsoft Office Communicator 2007 följer policyn för [fast](/lifecycle/policies/fixed) livscykel.
+
+  Detta gäller för följande utgåvor: Standard
+
+  > [!IMPORTANT]
+  > Support för den här produkten har upphört. 
 products:
-- office
+  - office
 policyType: fixed
 supportDates:
   start: 10/27/2007
   end: 01/08/2013
   extendedEnd: 01/09/2018
 releases:
-- version: Original Release
-  startDate: 10/27/2007
-  endDate: 01/09/2018
-content: "\n## <a name=\"links\"></a>Länkar \n* [Vägledning för migrering](https://blogs.technet.microsoft.com/nexthop/2016/02/22/end-of-extended-support-for-office-communicator-and-office-communications-server/)\n\n\n## <a name=\"editions\"></a>Utgåvor \n* Standard"
+  - version: Original Release
+    startDate: 10/27/2007
+    endDate: 01/09/2018
+content: |
+
+  ## <a name="links"></a>Länkar 
+  * [Vägledning för migrering](https://blogs.technet.microsoft.com/nexthop/2016/02/22/end-of-extended-support-for-office-communicator-and-office-communications-server/)
+
+
+  ## <a name="editions"></a>Utgåvor 
+  * Standard
