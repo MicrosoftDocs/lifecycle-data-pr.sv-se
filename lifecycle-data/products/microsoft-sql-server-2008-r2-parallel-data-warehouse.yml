@@ -3,26 +3,20 @@ metadata:
   title: Microsoft SQL Server 2008 R2 Parallel Data Warehouse
   description: Microsoft SQL Server 2008 R2 Parallel Data Warehouse följer policyn om fast livscykel.
   ms.date: 07/28/2020
-  ms.openlocfilehash: 8296e0c784226bc26fbb70bc8fb62f9925fa648d
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: HT
-  ms.contentlocale: sv-SE
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "841681"
 name: Microsoft SQL Server 2008 R2 Parallel Data Warehouse
-summary: >+
+summary: |+
   Microsoft SQL Server 2008 R2 Parallel Data Warehouse följer policyn om [fast](/lifecycle/policies/fixed) livscykel.
 
 
 products:
-- sql-server
+  - sql-server
 policyType: fixed
 supportDates:
   start: 11/09/2010
   end: 07/08/2014
   extendedEnd: 07/09/2019
 releases:
-- version: Original Release
-  startDate: 11/09/2010
-  endDate: 07/09/2019
-content: ''
+  - version: Original Release
+    startDate: 11/09/2010
+    endDate: 07/09/2019
+content: |+
