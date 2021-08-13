@@ -3,29 +3,32 @@ metadata:
   title: Windows Storage Server 2012
   description: Windows Storage Server 2012 följer policyn för fast livscykel.
   ms.date: 09/10/2020
-  keywords: Standard,Workgroup
-  ms.openlocfilehash: 9626cd83f310a08921530211ad3dab10456c0aee
-  ms.sourcegitcommit: c0c65f657b1da8e588fda5bedd3572fb2e3168bc
-  ms.translationtype: HT
-  ms.contentlocale: sv-SE
-  ms.lasthandoff: 09/10/2020
-  ms.locfileid: "1002259"
+  keywords: 'Standard,Workgroup'
 name: Windows Storage Server 2012
-summary: >+
+summary: |+
   Windows Storage Server 2012 följer policyn för [fast](/lifecycle/policies/fixed) livscykel.
-
 
   Detta gäller följande utgåvor: Standard och Workgroup
 
 products:
-- windows
+  - windows
 policyType: fixed
 supportDates:
   start: 10/30/2012
   end: 10/09/2018
   extendedEnd: 10/10/2023
 releases:
-- version: Original Release
-  startDate: 10/30/2012
-  endDate: 10/10/2023
-content: "\n## <a name=\"links\"></a>Länkar \n* [Vägledning för migrering](/windows-server/upgrade/upgrade-2012-to-2016)\n\n> [!NOTE]\n> Mainstream- och utökad support för den här produkten har utökats för att erbjuda kunder standardtidslinjen för livscykelövergång.\n\n## <a name=\"editions\"></a>Utgåvor \n* Standard\n* Workgroup"
+  - version: Original Release
+    startDate: 10/30/2012
+    endDate: 10/10/2023
+content: |
+
+  ## <a name="links"></a>Länkar 
+  * [Vägledning för migrering](/windows-server/upgrade/upgrade-2012-to-2016)
+
+  > [!NOTE]
+  > Mainstream- och utökad support för den här produkten har utökats för att erbjuda kunder standardtidslinjen för livscykelövergång.
+
+  ## <a name="editions"></a>Utgåvor 
+  * Standard
+  * Workgroup

@@ -4,28 +4,30 @@ metadata:
   description: Windows 10 IoT 2016 LTSB följer policyn för fast livscykel.
   ms.date: 09/01/2020
   keywords: Enterprise
-  ms.openlocfilehash: fc19a4917f270b8c1c774c8e62b504dec47ef5ce
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: HT
-  ms.contentlocale: sv-SE
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "938280"
 name: Windows 10 IoT 2016 LTSB
-summary: >+
+summary: |+
   Windows 10 IoT 2016 LTSB följer policyn för [fast](/lifecycle/policies/fixed) livscykel.
-
 
   Detta gäller för följande utgåvor: Enterprise
 
 products:
-- windows
+  - windows
 policyType: fixed
 supportDates:
   start: 08/02/2016
   end: 10/12/2021
   extendedEnd: 10/13/2026
 releases:
-- version: Original Release
-  startDate: 08/02/2016
-  endDate: 10/13/2026
-content: "\n## <a name=\"links\"></a>Länkar \n* [Windows som en tjänst (WaaS)](/windows/deployment/update/waas-quick-start)\n* [Vanliga frågor och svar om Windows 10 LTSC](/lifecycle/faq/windows#what-are-the-requirements-for-servicing-and-updating-the-windows-10-long-term-servicing-channel)\n* [Oktober-uppdatering av Windows 10 (version 1809) (omlanserad)](https://blogs.windows.com/windowsexperience/2018/11/13/resuming-the-rollout-of-the-windows-10-october-2018-update/)\n\n\n## <a name=\"editions\"></a>Utgåvor \n* Enterprise"
+  - version: Original Release
+    startDate: 08/02/2016
+    endDate: 10/13/2026
+content: |
+
+  ## <a name="links"></a>Länkar 
+  * [Windows som en tjänst (WaaS)](/windows/deployment/update/waas-quick-start)
+  * [Vanliga frågor och svar om Windows 10 LTSC](/lifecycle/faq/windows#what-are-the-requirements-for-servicing-and-updating-the-windows-10-long-term-servicing-channel)
+  * [Oktober-uppdatering av Windows 10 (version 1809) (omlanserad)](https://blogs.windows.com/windowsexperience/2018/11/13/resuming-the-rollout-of-the-windows-10-october-2018-update/)
+
+
+  ## <a name="editions"></a>Utgåvor 
+  * Enterprise

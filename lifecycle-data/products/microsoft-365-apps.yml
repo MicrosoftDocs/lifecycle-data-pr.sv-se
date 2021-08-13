@@ -3,26 +3,32 @@ metadata:
   title: Microsoft 365-appar
   description: Microsoft 365-appar följer den moderna livscykelpolicyn.
   ms.date: 04/07/2021
-  keywords: Office 365 Business,Office 365 ProPlus,for business,for enterprise
-  ms.openlocfilehash: 2b9518ad9cd88732e614b70b4feb24fec6ceaff3
-  ms.sourcegitcommit: 51a7221b87d358960376e2569c3b1e69ba056b54
-  ms.translationtype: HT
-  ms.contentlocale: sv-SE
-  ms.lasthandoff: 06/25/2021
-  ms.locfileid: "2030296"
+  keywords: 'Office 365 Business,Office 365 ProPlus,for business,for enterprise'
 name: Microsoft 365-appar
-summary: >+
+summary: |+
   Microsoft 365-appar följer den [moderna](/lifecycle/policies/modern) livscykelpolicyn.
-
 
   Detta gäller för följande utgåvor: för företag, för Enterprise
 
 products:
-- office
+  - office
 policyType: modern-online
 supportDates:
   start: 09/22/2015
 releases:
-- version: Original Release
-  startDate: 09/22/2015
-content: "\n## <a name=\"links\"></a>Länkar \n* [Versioner som stöds](/officeupdates/update-history-microsoft365-apps-by-date#supported-versions)\n* [Systemkrav](https://www.microsoft.com/microsoft-365/microsoft-365-and-office-resources)\n* [Matris med support för office-konfiguration](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2OqRI)\n* [Distributionsguide för Microsoft 365-appar](/DeployOffice/deployment-guide-microsoft-365-apps)\n\n> [!NOTE]\n> Microsoft 365-appar för företag hette tidigare Office 365 ProPlus. Microsoft 365-appar för företag hette tidigare Office 365 Business.\n\n## <a name=\"editions\"></a>Utgåvor \n* för företag\n* för Enterprise"
+  - version: Original Release
+    startDate: 09/22/2015
+content: |
+
+  ## <a name="links"></a>Länkar 
+  * [Versioner som stöds](/officeupdates/update-history-microsoft365-apps-by-date#supported-versions)
+  * [Systemkrav](https://www.microsoft.com/microsoft-365/microsoft-365-and-office-resources)
+  * [Matris med support för office-konfiguration](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2OqRI)
+  * [Distributionsguide för Microsoft 365-appar](/DeployOffice/deployment-guide-microsoft-365-apps)
+
+  > [!NOTE]
+  > Microsoft 365-appar för företag hette tidigare Office 365 ProPlus. Microsoft 365-appar för företag hette tidigare Office 365 Business.
+
+  ## <a name="editions"></a>Utgåvor 
+  * för företag
+  * för Enterprise
