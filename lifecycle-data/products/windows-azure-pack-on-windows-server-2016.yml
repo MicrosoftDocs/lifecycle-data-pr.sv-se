@@ -3,26 +3,26 @@ metadata:
   title: Windows Azure Pack (på Windows Server 2016)
   description: Windows Azure Pack (på Windows Server 2016) följer policyn för fast livscykel.
   ms.date: 07/28/2020
-  ms.openlocfilehash: a3bc7138c47161efae20613f28d27e015d290e41
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: HT
-  ms.contentlocale: sv-SE
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "863875"
 name: Windows Azure Pack (på Windows Server 2016)
-summary: >+
+summary: |+
   Windows Azure Pack (på Windows Server 2016) följer policyn för [fast](/lifecycle/policies/fixed) livscykel.
 
 
 products:
-- windows
+  - windows
 policyType: fixed
 supportDates:
   start: 10/12/2016
   end: 01/11/2022
   extendedEnd: 01/12/2027
 releases:
-- version: Original Release
-  startDate: 10/12/2016
-  endDate: 01/12/2027
-content: "\n## <a name=\"links\"></a>Länkar \n* [Mer information](/previous-versions/azure/windows-server-azure-pack/dn296435(v=technet.10))\n\n> [!NOTE]\n> Windows Azure Pack för Windows Server är en hybridmolnlösning som för Windows Azure-teknik till ditt datacenter. Den låter Microsoft-kunder erbjuda ett avancerat moln med självbetjäning och flera användare på datacentrets maskinvara utan extra kostnad."
+  - version: Original Release
+    startDate: 10/12/2016
+    endDate: 01/12/2027
+content: |+
+
+  ## <a name="links"></a>Länkar 
+  * [Mer information](/previous-versions/azure/windows-server-azure-pack/dn296435(v=technet.10))
+
+  > [!NOTE]
+  > Windows Azure Pack för Windows Server är en hybridmolnlösning som för Windows Azure-teknik till ditt datacenter. Den låter Microsoft-kunder erbjuda ett avancerat moln med självbetjäning och flera användare på datacentrets maskinvara utan extra kostnad.

@@ -3,29 +3,30 @@ metadata:
   title: Microsoft Application Virtualization 5.1
   description: Microsoft Application Virtualization 5.1 följer policyn för fast livscykel.
   ms.date: 09/10/2020
-  keywords: for Remote Desktop Services,for Windows Desktops
-  ms.openlocfilehash: b6ca3da5136031bbb6e140f3fa5124ef7b2e4ed6
-  ms.sourcegitcommit: c0c65f657b1da8e588fda5bedd3572fb2e3168bc
-  ms.translationtype: HT
-  ms.contentlocale: sv-SE
-  ms.lasthandoff: 09/10/2020
-  ms.locfileid: "1001963"
+  keywords: 'for Remote Desktop Services,for Windows Desktops'
 name: Microsoft Application Virtualization 5.1
-summary: >+
+summary: |+
   Microsoft Application Virtualization 5.1 följer policyn för [fast](/lifecycle/policies/fixed) livscykel.
-
 
   Detta gäller följande versioner: för fjärrskrivbordstjänster och Windows-skrivbord
 
 products:
-- windows
+  - windows
 policyType: fixed
 supportDates:
   start: 11/01/2015
   end: 01/09/2018
   extendedEnd: 04/14/2026
 releases:
-- version: Original Release
-  startDate: 11/01/2015
-  endDate: 04/14/2026
-content: "\n## <a name=\"links\"></a>Länkar \n* [Produktinformation](/microsoft-desktop-optimization-pack/appv-v5/microsoft-application-virtualization-50-administrators-guide)\n\n\n## <a name=\"editions\"></a>Utgåvor \n* för fjärrskrivbordstjänster\n* for Windows-skrivbordsenhet"
+  - version: Original Release
+    startDate: 11/01/2015
+    endDate: 04/14/2026
+content: |
+
+  ## <a name="links"></a>Länkar 
+  * [Produktinformation](/microsoft-desktop-optimization-pack/appv-v5/microsoft-application-virtualization-50-administrators-guide)
+
+
+  ## <a name="editions"></a>Utgåvor 
+  * för fjärrskrivbordstjänster
+  * for Windows-skrivbordsenhet

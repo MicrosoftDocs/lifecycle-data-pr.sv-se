@@ -4,34 +4,34 @@ metadata:
   description: Windows Web Server 2008 följer policyn för fast livscykel.
   ms.date: 09/01/2020
   keywords: Standard
-  ms.openlocfilehash: 09e6cfcf06699c4c2c31c43a04906c7f6b543979
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: HT
-  ms.contentlocale: sv-SE
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "938909"
 name: Windows Web Server 2008
-summary: >+
+summary: |+
   Windows Web Server 2008 följer policyn för [fast](/lifecycle/policies/fixed) livscykel.
-
 
   Detta gäller för följande utgåvor: Standard
 
 products:
-- windows
+  - windows
 policyType: fixed
 supportDates:
   start: 05/06/2008
   end: 01/13/2015
   extendedEnd: 01/14/2020
 releases:
-- version: Service Pack 1
-  startDate: 04/29/2009
-  endDate: 07/12/2011
-- version: Service Pack 2
-  startDate: 04/29/2009
-  endDate: 01/14/2020
-- version: Original Release
-  startDate: 05/06/2008
-  endDate: 07/10/2018
-content: "\n\n> [!NOTE]\n> Per Windows Server 2008 Service Pack 2 upphörde support för den här produkten 14 januari 2020.\n\n## <a name=\"editions\"></a>Utgåvor \n* Standard"
+  - version: Service Pack 1
+    startDate: 04/29/2009
+    endDate: 07/12/2011
+  - version: Service Pack 2
+    startDate: 04/29/2009
+    endDate: 01/14/2020
+  - version: Original Release
+    startDate: 05/06/2008
+    endDate: 07/10/2018
+content: |
+
+
+  > [!NOTE]
+  > Per Windows Server 2008 Service Pack 2 upphörde support för den här produkten 14 januari 2020.
+
+  ## <a name="editions"></a>Utgåvor 
+  * Standard
