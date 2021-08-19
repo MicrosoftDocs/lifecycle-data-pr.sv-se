@@ -3,85 +3,86 @@ metadata:
   title: Microsoft Endpoint Configuration Manager
   description: Microsoft Endpoint Configuration Manager följer policyn för modern livscykel.
   ms.date: 08/05/2021
-  keywords: 'SCCM,System Center Configuration Manager'
+  keywords: SCCM, System Center Configuration Manager
+  ms.openlocfilehash: 36a26e180ed5458a3da5010d0bff238e28903aec
+  ms.sourcegitcommit: 5e9349227c409d98c77eb151f27be486fb55a00c
+  ms.translationtype: HT
+  ms.contentlocale: sv-SE
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "3095098"
 name: Microsoft Endpoint Configuration Manager
-summary: |+
+summary: >+
   Microsoft Endpoint Configuration Manager följer policyn för [fast](/lifecycle/policies/modern) livscykel.
 
 
 
 
+
   > [!IMPORTANT]
+
   > Från och med version 1910 ingår Configuration Manager nu i Microsoft Endpoint Manager.
 
 products:
-  - m365
+- m365
 policyType: modern-on-prem
 supportDates:
   start: 12/08/2015
 releases:
-  - version: Version 2107
-    startDate: 08/02/2021
-    endDate: 02/02/2023
-  - version: Version 2103
-    startDate: 04/05/2021
-    endDate: 10/05/2022
-  - version: Version 2010
-    startDate: 11/30/2020
-    endDate: 05/30/2022
-  - version: Version 2006
-    startDate: 08/11/2020
-    endDate: 02/11/2022
-  - version: Version 2002
-    startDate: 04/01/2020
-    endDate: 10/01/2021
-  - version: Version 1910
-    startDate: 11/29/2019
-    endDate: 05/29/2021
-  - version: Version 1906
-    startDate: 07/26/2019
-    endDate: 01/26/2021
-  - version: Version 1902
-    startDate: 03/27/2019
-    endDate: 09/27/2020
-  - version: Version 1810
-    startDate: 11/27/2018
-    endDate: 12/01/2020
-  - version: Version 1806
-    startDate: 07/31/2018
-    endDate: 01/31/2020
-  - version: Version 1802
-    startDate: 03/22/2018
-    endDate: 09/22/2019
-  - version: Version 1710
-    startDate: 11/20/2017
-    endDate: 05/20/2019
-  - version: Version 1706
-    startDate: 07/31/2017
-    endDate: 07/31/2018
-  - version: Version 1702
-    startDate: 03/27/2017
-    endDate: 03/27/2018
-  - version: Version 1610
-    startDate: 11/18/2016
-    endDate: 11/18/2017
-  - version: Version 1606 with KB3186654
-    startDate: 10/12/2016
-    endDate: 10/12/2017
-  - version: Version 1606
-    startDate: 07/22/2016
-    endDate: 07/22/2017
-  - version: Version 1602
-    startDate: 03/11/2016
-    endDate: 03/11/2017
-  - version: Version 1511
-    startDate: 12/08/2015
-    endDate: 12/08/2016
-content: |+
-
-
-  ## <a name="links"></a>Länkar 
-  * [Serviceinformation](/mem/configmgr/core/servers/manage/current-branch-versions-supported)
-  * [Versionsdetaljer](/mem/configmgr/core/servers/manage/updates#version-details)
-  * [System Center Configuration Manager heter nu Microsoft Endpoint Configuration Manager](/mem/configmgr/core/understand/microsoft-endpoint-manager-faq)
-  * [Vad är Configuration Manager](/mem/configmgr/core/understand/introduction)
+- version: Version 2107
+  startDate: 08/02/2021
+  endDate: 02/02/2023
+- version: Version 2103
+  startDate: 04/05/2021
+  endDate: 10/05/2022
+- version: Version 2010
+  startDate: 11/30/2020
+  endDate: 05/30/2022
+- version: Version 2006
+  startDate: 08/11/2020
+  endDate: 02/11/2022
+- version: Version 2002
+  startDate: 04/01/2020
+  endDate: 10/01/2021
+- version: Version 1910
+  startDate: 11/29/2019
+  endDate: 05/29/2021
+- version: Version 1906
+  startDate: 07/26/2019
+  endDate: 01/26/2021
+- version: Version 1902
+  startDate: 03/27/2019
+  endDate: 09/27/2020
+- version: Version 1810
+  startDate: 11/27/2018
+  endDate: 12/01/2020
+- version: Version 1806
+  startDate: 07/31/2018
+  endDate: 01/31/2020
+- version: Version 1802
+  startDate: 03/22/2018
+  endDate: 09/22/2019
+- version: Version 1710
+  startDate: 11/20/2017
+  endDate: 05/20/2019
+- version: Version 1706
+  startDate: 07/31/2017
+  endDate: 07/31/2018
+- version: Version 1702
+  startDate: 03/27/2017
+  endDate: 03/27/2018
+- version: Version 1610
+  startDate: 11/18/2016
+  endDate: 11/18/2017
+- version: Version 1606 with KB3186654
+  startDate: 10/12/2016
+  endDate: 10/12/2017
+- version: Version 1606
+  startDate: 07/22/2016
+  endDate: 07/22/2017
+- version: Version 1602
+  startDate: 03/11/2016
+  endDate: 03/11/2017
+- version: Version 1511
+  startDate: 12/08/2015
+  endDate: 12/08/2016
+content: "\n\n## <a name=\"links\"></a>Länkar \n* [Serviceinformation](/mem/configmgr/core/servers/manage/current-branch-versions-supported)\n* [Versionsdetaljer](/mem/configmgr/core/servers/manage/updates#version-details)\n* [System Center Configuration Manager heter nu Microsoft Endpoint Configuration Manager](/mem/configmgr/core/understand/microsoft-endpoint-manager-faq)\n* [Vad är Configuration Manager](/mem/configmgr/core/understand/introduction)"
