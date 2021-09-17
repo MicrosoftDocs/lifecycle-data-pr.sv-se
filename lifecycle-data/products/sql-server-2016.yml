@@ -2,20 +2,23 @@
 metadata:
   title: SQL Server 2016
   description: SQL Server 2016 följer policyn för fast livscykel.
-  ms.date: 09/10/2020
-  keywords: Developer,Enterprise,Enterprise Core,Express,Standard,Web
-  ms.openlocfilehash: 6e42001065633cddfb99c6a7d003a6d638ddfd8ce0608377002b41b7382eaf45
-  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
+  ms.date: 09/15/2021
+  keywords: 
+  ms.openlocfilehash: 3dd378c66d76eea0f281a540605901cb87fd7fac
+  ms.sourcegitcommit: 0781dcb4d5ec6b12507ddd053fd623ead137ca28
   ms.translationtype: HT
   ms.contentlocale: sv-SE
-  ms.lasthandoff: 08/06/2021
-  ms.locfileid: "2507041"
+  ms.lasthandoff: 09/16/2021
+  ms.locfileid: "3456226"
 name: SQL Server 2016
 summary: >+
   SQL Server 2016 följer policyn för [fast](/lifecycle/policies/fixed) livscykel.
 
 
+
   Detta gäller för följande utgåvor: Developer, Enterprise, Enterprise Core, Express, Standard och Webb
+
+
 
 products:
 - sql-server
@@ -25,13 +28,16 @@ supportDates:
   end: 07/13/2021
   extendedEnd: 07/14/2026
 releases:
+- version: Service Pack 3
+  startDate: 09/15/2021
+  endDate: 07/14/2026
 - version: Service Pack 2
   startDate: 04/24/2018
-  endDate: 07/14/2026
+  endDate: 10/11/2022
 - version: Service Pack 1
   startDate: 11/16/2016
   endDate: 07/09/2019
 - version: Original Release
   startDate: 06/01/2016
   endDate: 01/09/2018
-content: "\n## <a name=\"links\"></a>Länkar \n* [Service pack-policy](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Utgåvor \n* Developer\n* Enterprise\n* Enterprise Core\n* Express\n* Standard\n* Webb"
+content: "\n\n## <a name=\"links\"></a>Länkar \n* [Service pack-policy](/lifecycle/policies/fixed#service-packs)\n\n\n\n\n## <a name=\"editions\"></a>Utgåvor \n* Developer\n* Enterprise\n* Enterprise Core\n* Express\n* Standard\n* Webb"
