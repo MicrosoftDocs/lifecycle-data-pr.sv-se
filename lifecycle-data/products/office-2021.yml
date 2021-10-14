@@ -1,0 +1,33 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Office 2021
+  description: Office 2021 följer policyn för modern livscykel.
+  ms.date: 09/27/2021
+  keywords: 
+  ms.openlocfilehash: e75efd2c07eba99b0979450d0505cd7c5bddadbe
+  ms.sourcegitcommit: e5d59c39c897b10be431516305a87c93e41433af
+  ms.translationtype: HT
+  ms.contentlocale: sv-SE
+  ms.lasthandoff: 10/05/2021
+  ms.locfileid: "3510090"
+name: Office 2021
+summary: >+
+  Office 2021 följer policyn för [modern](/lifecycle/policies/modern) livscykel.
+
+
+
+  Detta gäller för följande utgåvor: Home and Business, Home and Business for Mac, Home and Student, Home and Student for Mac, Professional
+
+
+
+products:
+- office
+policyType: modern-on-prem
+supportDates:
+  start: 10/05/2021
+  end: 10/13/2026
+releases:
+- version: Original Release
+  startDate: 10/05/2021
+  endDate: 10/13/2026
+content: "\n\n\n\n\n\n## <a name=\"editions\"></a>Utgåvor \n* Hem och småföretag\n* Home and Business for Mac\n* Hemma och student\n* Home and Student for Mac\n* Professionell"

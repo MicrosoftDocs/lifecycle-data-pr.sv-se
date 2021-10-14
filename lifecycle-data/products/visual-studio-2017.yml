@@ -2,20 +2,23 @@
 metadata:
   title: Visual Studio 2017
   description: Visual Studio 2017 följer policyn för fast livscykel.
-  ms.date: 09/01/2020
-  keywords: Agents,Build Tools,Community,Enterprise,ESM,Feedback Client,for Mac,IntelliTrace Standalone Collector,Performance Tools,Professional,PSM,Remote Tools,Team Explorer,Test Professional,Visual C++ Redistributable
-  ms.openlocfilehash: 3d18c69ca30e8e83d7fcfb97557513191974df14a0af404cb66889f653f03b54
-  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
+  ms.date: 09/23/2021
+  keywords: 
+  ms.openlocfilehash: 1026f138c847797213d0bb84b3df630e5c338f99
+  ms.sourcegitcommit: 59fc218db97bb57b454b1e2a859fca5b8d4cd750
   ms.translationtype: HT
   ms.contentlocale: sv-SE
-  ms.lasthandoff: 08/06/2021
-  ms.locfileid: "2506338"
+  ms.lasthandoff: 10/05/2021
+  ms.locfileid: "3509232"
 name: Visual Studio 2017
 summary: >+
   Visual Studio 2017 följer policyn för [fast](/lifecycle/policies/fixed) livscykel.
 
 
-  Detta gäller för följande utgåvor: Agents, Build Tools, Community, Enterprise, ESM, Feedback Client, för Mac, IntelliTrace Standalone Collector, Prestandaverktyg, Professional, PSM, Remote Tools, Team Explorer, Test Professional, Visual C++ Redistributable
+
+  Detta gäller för följande utgåvor: Community, Enterprise, Professional, Test Professional
+
+
 
 products:
 - vs
@@ -31,4 +34,4 @@ releases:
 - version: Version 15.0
   startDate: 03/07/2017
   endDate: 01/14/2020
-content: "\n## <a name=\"links\"></a>Länkar \n* [Meddelande](https://devblogs.microsoft.com/visualstudio/visual-studio-2017-and-visual-studio-for-mac-support-updates/)\n* [Serviceinformation](/visualstudio/productinfo/vs-servicing-vs#support-for-older-versions-of-visual-studio)\n\n\n## <a name=\"editions\"></a>Utgåvor \n* Agenter\n* Build Tools\n* Community\n* Enterprise\n* ESM\n* Feedback-klient\n* för Mac\n* IntelliTrace Standalone Collector\n* Prestandaverktyg\n* Professionell\n* PSM\n* Remote Tools\n* Team Explorer\n* Test Professional\n* Visual C++ Redistributable"
+content: "\n\n## <a name=\"links\"></a>Länkar \n* [Bloggmeddelanden om Visual Studio](https://devblogs.microsoft.com/visualstudio/visual-studio-2017-and-visual-studio-for-mac-support-updates/)\n* [Serviceinformation](/visualstudio/productinfo/vs-servicing-vs#support-for-older-versions-of-visual-studio)\n* [Nedladdningssida för Visual Studio 2017](https://my.visualstudio.com/Downloads?q=Visual%20Studio%202017)\n* [Viktig information om Visual Studio 2017](/visualstudio/releasenotes/vs2017-relnotes)\n\n\n> [!NOTE]\n> Visual Studio 2017-versioner av följande komponenter levereras med och får support som en del av livscykeln för Visual Studio 2017: Agenter, Build Tools, ESM, Feedback Client, IntelliTrace Standalone Collector, Performance Tools, PSM, Remote Tools, Team Explorer och Visual C++ Redistributable.\n\n\n## <a name=\"editions\"></a>Utgåvor \n* Community\n* Enterprise\n* Professionell\n* Test Professional"

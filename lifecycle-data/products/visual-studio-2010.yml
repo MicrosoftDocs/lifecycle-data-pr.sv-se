@@ -2,65 +2,36 @@
 metadata:
   title: Visual Studio 2010
   description: Visual Studio 2010 följer policyn för fast livscykel.
-  ms.date: 05/28/2021
-  keywords: 'vsto,Agents,All,ASP .NET MVC 4,Express,F# 2.0 Runtime,Lab Management,Performance Tools,Premium,Professional,Professional w/MSDN ,PSM,Remote Debugger,SDK,Shell (Integrated),Shell (Isolated),Team Agents,Team Explorer,Test Professional,Ultimate,Ultimate with MSDN,Visual Basic Express,Visual C# Express,Visual C++ Express,Visual Web Developer Express,Visualization & Modeling SDK'
+  ms.date: 10/07/2021
+  keywords: vsto,Express for Web,Express for Windows Phone,Premium,Professional,Test Professional,Ultimate,Visual Basic Express,Visual C# Express,Visual C++ Express,Visual Web Developer Express
+  ms.openlocfilehash: eea7c383adbd91aeea6893503808cc7ec675ea8f
+  ms.sourcegitcommit: f740c7c0a548d726572fda7cefa9ec8b630a27c7
+  ms.translationtype: HT
+  ms.contentlocale: sv-SE
+  ms.lasthandoff: 10/07/2021
+  ms.locfileid: "3510965"
 name: Visual Studio 2010
-summary: |+
+summary: >+
   Visual Studio 2010 följer policyn för [fast](/lifecycle/policies/fixed) livscykel.
 
 
-  Detta gäller för följande utgåvor: Agents, Alla, ASP .NET MVC 4, Express, F# 2.0 Runtime, Lab Management, Prestandaverktyg, Premium, Professional, Professional med MSDN , PSM, Fjärrfelsökare, SDK, Shell (integrerat), Shell (isolerat), Team Agents, Team Explorer, Test Professional, Ultimate, Ultimate med MSDN, Visual Basic Express, Visual C# Express, Visual C++ Express, Visual Web Developer Express, SDK för visualisering och modellering
+
+  Detta gäller för följande utgåvor: Express for Web, Express for Windows Phone, Premium, Professional, Test Professional, Ultimate, Visual Basic Express, Visual C# Express, Visual C++ Express, Visual Web Developer Express
 
 
 
 products:
-  - vs
+- vs
 policyType: fixed
 supportDates:
   start: 06/29/2010
   end: 07/14/2015
   extendedEnd: 07/14/2020
 releases:
-  - version: Service Pack 1
-    startDate: 03/08/2011
-    endDate: 07/14/2020
-  - version: Original Release
-    startDate: 06/29/2010
-    endDate: 04/10/2012
-content: |+
-
-
-  ## <a name="links"></a>Länkar 
-  * [Service pack-policy](/lifecycle/policies/fixed#service-packs)
-
-
-  > [!NOTE]
-  > Visual Studio 2010 Tools for Office (VSTO) Runtime levereras med olika versioner av Visual Studio och Microsoft Office och följer livscykeln för den överordnade produkten. Den kan också laddas ner separat, [här](https://www.microsoft.com/download/details.aspx?id=56961).
-
-
-  ## <a name="editions"></a>Utgåvor 
-  * Agenter
-  * Alla
-  * ASP .NET MVC 4
-  * Express
-  * F# 2.0 Runtime
-  * Lab Management
-  * Prestandaverktyg
-  * Premium
-  * Professionell
-  * Professionell med MSDN 
-  * PSM
-  * Fjärrfelsökare
-  * SDK
-  * Gränssnitt (integrerat)
-  * Gränssnitt (isolerat)
-  * Team Agents
-  * Team Explorer
-  * Test Professional
-  * Ultimate
-  * Ultimate med MSDN
-  * Visual Basic Express
-  * Visual C# Express
-  * Visual C++ Express
-  * Visual Web Developer Express
-  * Visualization och Modeling SDK
+- version: Service Pack 1
+  startDate: 03/08/2011
+  endDate: 07/14/2020
+- version: Original Release
+  startDate: 06/29/2010
+  endDate: 04/10/2012
+content: "\n\n## <a name=\"links\"></a>Länkar \n* [Service pack-policy](/lifecycle/policies/fixed#service-packs)\n\n\n> [!NOTE]\n> Visual Studio 2010-versioner av följande komponenter levereras med och får support som en del av livscykeln för Visual Studio 2010: Agenter, Alla, ASP.NET MVC 4, F# 2.0 Runtime, VSTO Runtime, Lab Management, Performance Tools, Professional w/MSDN, PSM, Remote Debugger, SDK, Gränssnitt (integrerat), Gränssnitt (isolerat), Team Agents, Team Explorer , Ultimate med MSDN, SDK för visualisering och modellering.\n\n\n## <a name=\"editions\"></a>Utgåvor \n* Express for Web\n* Express for Windows Phone\n* Premium\n* Professionell\n* Test Professional\n* Ultimate\n* Visual Basic Express\n* Visual C# Express\n* Visual C++ Express\n* Visual Web Developer Express"
