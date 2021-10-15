@@ -2,14 +2,14 @@
 metadata:
   title: Visual Studio 2013
   description: Visual Studio 2013 följer policyn för fast livscykel.
-  ms.date: 09/23/2021
+  ms.date: 10/11/2021
   keywords: 
-  ms.openlocfilehash: 6ae47f9d9b67de20ecd407da68c7b570ebfc14f5
-  ms.sourcegitcommit: 59fc218db97bb57b454b1e2a859fca5b8d4cd750
+  ms.openlocfilehash: c54d82aa98ede8eff7bda6adcbd2b9d64cae7f71
+  ms.sourcegitcommit: e5d80ad2e1e33e12fda006a76248ec3fb74c7af6
   ms.translationtype: HT
   ms.contentlocale: sv-SE
-  ms.lasthandoff: 10/05/2021
-  ms.locfileid: "3509269"
+  ms.lasthandoff: 10/11/2021
+  ms.locfileid: "3514238"
 name: Visual Studio 2013
 summary: >+
   Visual Studio 2013 följer policyn för [fast](/lifecycle/policies/fixed) livscykel.
@@ -34,4 +34,4 @@ releases:
 - version: Original Release
   startDate: 01/15/2014
   endDate: 04/09/2024
-content: "\n\n## <a name=\"links\"></a>Länkar \n* [Serviceinformation](https://www.visualstudio.com/productinfo/vs-servicing-vs)\n\n\n> [!NOTE]\n> Visual Studio 2013-versioner av följande komponenter levereras med och får support som en del av livscykeln för Visual Studio 2013: Agenter, IntelliTrace Collector, SDK för modellering, Multibyte MFC-bibliotek, fjärrverktyg, SDK, Gränssnitt (integrerat), Gränssnitt (isolerat), Team Explorer, Visual C++ Redistributable, Web Tools Extensions\n\n\n## <a name=\"editions\"></a>Utgåvor \n* Community\n* Express for Web\n* Express för Windows\n* Express for Windows Desktop\n* Premium\n* Professionell\n* Versionshantering\n* Test Professional\n* Ultimate"
+content: "\n\n## <a name=\"links\"></a>Länkar \n* [Serviceinformation](/visualstudio/releases/2019/servicing-vs2019#support-for-older-versions-of-visual-studio)\n\n\n> [!NOTE]\n> Visual Studio 2013-versioner av följande komponenter levereras med och får support som en del av livscykeln för Visual Studio 2013: Agenter, IntelliTrace Collector, SDK för modellering, Multibyte MFC-bibliotek, fjärrverktyg, SDK, Gränssnitt (integrerat), Gränssnitt (isolerat), Team Explorer, Visual C++ Redistributable, Web Tools Extensions\n\n\n## <a name=\"editions\"></a>Utgåvor \n* Community\n* Express for Web\n* Express för Windows\n* Express for Windows Desktop\n* Premium\n* Professionell\n* Versionshantering\n* Test Professional\n* Ultimate"
