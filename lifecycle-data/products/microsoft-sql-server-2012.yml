@@ -2,11 +2,18 @@
 metadata:
   title: Microsoft SQL Server 2012
   description: Microsoft SQL Server 2012 följer policyn för fast livscykel.
-  ms.date: 07/12/2021
-  keywords: null
+  ms.date: 11/03/2021
+  keywords: 
+  ms.openlocfilehash: e3ab6d2736771ae9f7a40a0c8f854973fb0f39aa
+  ms.sourcegitcommit: 5d340ff7cb048f68bd696227129860e72fd3c1cb
+  ms.translationtype: HT
+  ms.contentlocale: sv-SE
+  ms.lasthandoff: 11/04/2021
+  ms.locfileid: "3560113"
 name: Microsoft SQL Server 2012
-summary: |+
+summary: >+
   Microsoft SQL Server 2012 följer policyn för [fast](/lifecycle/policies/fixed) livscykel.
+
 
 
   Detta gäller för följande utgåvor: Business Intelligence, Developer, Enterprise, Enterprise Core, Express, för inbyggda system, Standard, Webb
@@ -14,54 +21,35 @@ summary: |+
 
 
 products:
-  - sql-server
+- sql-server
 policyType: fixed
 supportDates:
   start: 05/20/2012
   end: 07/11/2017
   extendedEnd: 07/12/2022
 releases:
-  - version: Extended Security Update Year 3
-    startDate: 07/09/2024
-    endDate: 07/08/2025
-  - version: Extended Security Update Year 2
-    startDate: 07/11/2023
-    endDate: 07/09/2024
-  - version: Extended Security Update Year 1
-    startDate: 07/12/2022
-    endDate: 07/11/2023
-  - version: Service Pack 4
-    startDate: 10/05/2017
-    endDate: 07/12/2022
-  - version: Service Pack 3
-    startDate: 12/01/2015
-    endDate: 10/09/2018
-  - version: Service Pack 2
-    startDate: 06/10/2014
-    endDate: 01/10/2017
-  - version: Service Pack 1
-    startDate: 11/07/2012
-    endDate: 07/14/2015
-  - version: Original Release
-    startDate: 05/20/2012
-    endDate: 01/14/2014
-content: |+
-
-
-  ## <a name="links"></a>Länkar 
-  * [Service pack-policy](/lifecycle/policies/fixed#service-packs)
-  * [Vägledning för migrering](/sql/sql-server/end-of-support/sql-server-end-of-life-overview?view=sql-server-ver15)
-  * [Vanliga frågor om livscykel – utökade säkerhetsuppdateringar](/lifecycle/faq/extended-security-updates)
-
-
-
-
-  ## <a name="editions"></a>Utgåvor 
-  * Business Intelligence
-  * Developer
-  * Enterprise
-  * Enterprise Core
-  * Express
-  * för inbäddade system
-  * Standard
-  * Webb
+- version: Extended Security Update Year 3
+  startDate: 07/10/2024
+  endDate: 07/08/2025
+- version: Extended Security Update Year 2
+  startDate: 07/12/2023
+  endDate: 07/09/2024
+- version: Extended Security Update Year 1
+  startDate: 07/13/2022
+  endDate: 07/11/2023
+- version: Service Pack 4
+  startDate: 10/05/2017
+  endDate: 07/12/2022
+- version: Service Pack 3
+  startDate: 12/01/2015
+  endDate: 10/09/2018
+- version: Service Pack 2
+  startDate: 06/10/2014
+  endDate: 01/10/2017
+- version: Service Pack 1
+  startDate: 11/07/2012
+  endDate: 07/14/2015
+- version: Original Release
+  startDate: 05/20/2012
+  endDate: 01/14/2014
+content: "\n\n## <a name=\"links\"></a>Länkar \n* [Service pack-policy](/lifecycle/policies/fixed#service-packs)\n* [Vägledning för migrering](/sql/sql-server/end-of-support/sql-server-end-of-life-overview?view=sql-server-ver15)\n* [Vanliga frågor om livscykel – utökade säkerhetsuppdateringar](/lifecycle/faq/extended-security-updates)\n\n\n\n\n## <a name=\"editions\"></a>Utgåvor \n* Business Intelligence\n* Developer\n* Enterprise\n* Enterprise Core\n* Express\n* för inbäddade system\n* Standard\n* Webb"

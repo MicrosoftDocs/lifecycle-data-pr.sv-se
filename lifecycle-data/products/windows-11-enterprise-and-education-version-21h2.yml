@@ -2,14 +2,14 @@
 metadata:
   title: Windows 11 Enterprise och Education (version 21H2)
   description: Windows 11 Enterprise och Education (version 21H2) följer policyn för modern livscykel.
-  ms.date: 09/22/2021
+  ms.date: 10/25/2021
   keywords: 
-  ms.openlocfilehash: 8bccbb271d78ef9b03d0a2d9f92c78984e775f88
-  ms.sourcegitcommit: 59fc218db97bb57b454b1e2a859fca5b8d4cd750
+  ms.openlocfilehash: a2c2d968dde9ab777b9327f05c000015c2e8c00f
+  ms.sourcegitcommit: 6ea3221fd5475440480515f04f33988656d71748
   ms.translationtype: HT
   ms.contentlocale: sv-SE
-  ms.lasthandoff: 10/05/2021
-  ms.locfileid: "3509448"
+  ms.lasthandoff: 11/02/2021
+  ms.locfileid: "3546653"
 name: Windows 11 Enterprise och Education (version 21H2)
 summary: >+
   Windows 11 Enterprise och Education (version 21H2) följer policyn för [modern](/lifecycle/policies/modern) livscykel.
@@ -30,4 +30,4 @@ releases:
 - version: Original Release
   startDate: 10/04/2021
   endDate: 10/08/2024
-content: "\n\n## <a name=\"links\"></a>Länkar \n* [Windows som en tjänst (WaaS)](/windows/deployment/update/waas-quick-start)\n* [Vanliga frågor och svar om livscykeln – Windows](/lifecycle/faq/windows)\n* [Ytterligare Windows-resurser](/windows/resources/)\n* [Windows 11 IoT Enterprise](/lifecycle/products/windows-11-iot-enterprise)\n* [Windows 11 Home och Pro](/lifecycle/products/windows-11-home-and-pro)\n\n\n> [!NOTE]\n> Om de inte skjuts upp kan efterföljande funktionsuppdateringar för Windows 11 installeras före slutet av Mainstream Support-datum.\n\n\n## <a name=\"editions\"></a>Utgåvor \n* Education\n* Enterprise"
+content: "\n\n## <a name=\"links\"></a>Länkar \n* [Windows som en tjänst (WaaS)](/windows/deployment/update/waas-quick-start)\n* [Vanliga frågor och svar om livscykeln – Windows](/lifecycle/faq/windows)\n* [Ytterligare Windows-resurser](/windows/resources/)\n* [Windows 11 IoT Enterprise](/lifecycle/products/windows-11-iot-enterprise-version-21h2)\n* [Windows 11 Home och Pro](/lifecycle/products/windows-11-home-and-pro-version-21h2)\n\n\n> [!NOTE]\n> Om de inte skjuts upp kan efterföljande funktionsuppdateringar för Windows 11 installeras före slutet av Mainstream Support-datum.\n\n\n## <a name=\"editions\"></a>Utgåvor \n* Education\n* Enterprise"

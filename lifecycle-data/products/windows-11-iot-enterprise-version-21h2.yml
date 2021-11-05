@@ -2,14 +2,14 @@
 metadata:
   title: Windows 11 IoT Enterprise (version 21H2)
   description: Windows 11 IoT Enterprise (version 21H2) följer policyn för modern livscykel.
-  ms.date: 09/23/2021
+  ms.date: 10/26/2021
   keywords: 
-  ms.openlocfilehash: 9a933ca28c406dbd125712266cae66a8f1ccb338
-  ms.sourcegitcommit: 59fc218db97bb57b454b1e2a859fca5b8d4cd750
+  ms.openlocfilehash: 54c4bc26956a13152fad262355c6ea9d61e1a186
+  ms.sourcegitcommit: 6ea3221fd5475440480515f04f33988656d71748
   ms.translationtype: HT
   ms.contentlocale: sv-SE
-  ms.lasthandoff: 10/05/2021
-  ms.locfileid: "3509457"
+  ms.lasthandoff: 11/02/2021
+  ms.locfileid: "3546616"
 name: Windows 11 IoT Enterprise (version 21H2)
 summary: >+
   Windows 11 IoT Enterprise (version 21H2) följer policyn för [modern](/lifecycle/policies/modern) livscykel.
@@ -28,4 +28,4 @@ releases:
 - version: Original release (Version 21H2)
   startDate: 10/04/2021
   endDate: 10/08/2024
-content: "\n\n## <a name=\"links\"></a>Länkar \n* [Komma igång med Windows 11 IoT Enterprise](https://aka.ms/Windows11IoTEnterprise)\n* [Windows som en tjänst (WaaS)](/windows/deployment/update/waas-quick-start)\n* [Vanliga frågor och svar om livscykeln – Windows](/lifecycle/faq/windows)\n* [Ytterligare Windows-resurser](/windows/resources/)\n* [Windows 11 Enterprise och Education](/lifecycle/products/windows-11-enterprise-and-education)\n* [Windows 11 Home och Pro](/lifecycle/products/windows-11-home-and-pro)\n\n\n> [!NOTE]\n> Om de inte skjuts upp kan efterföljande funktionsuppdateringar för Windows 11 installeras före slutet av Mainstream Support-datum."
+content: "\n\n## <a name=\"links\"></a>Länkar \n* [Komma igång med Windows 11 IoT Enterprise](https://aka.ms/Windows11IoTEnterprise)\n* [Windows som en tjänst (WaaS)](/windows/deployment/update/waas-quick-start)\n* [Vanliga frågor och svar om livscykeln – Windows](/lifecycle/faq/windows)\n* [Ytterligare Windows-resurser](/windows/resources/)\n* [Windows 11 Enterprise och Education](/lifecycle/products/windows-11-iot-enterprise-version-21h2)\n* [Windows 11 Home och Pro](/lifecycle/products/windows-11-home-and-pro-version-21h2)\n\n\n> [!NOTE]\n> Om de inte skjuts upp kan efterföljande funktionsuppdateringar för Windows 11 installeras före slutet av Mainstream Support-datum."

@@ -2,14 +2,14 @@
 metadata:
   title: Internet Explorer 11
   description: Internet Explorer 11 följer policyn för komponentens livscykel.
-  ms.date: 05/18/2021
-  keywords: 
-  ms.openlocfilehash: 3224f71b4a69cb311899809b385069ab7e3664274146044d9d624e29d3cde008
-  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
+  ms.date: 11/03/2021
+  keywords: IE
+  ms.openlocfilehash: 395b45e3032265adf245359b254cbf5426bbd182
+  ms.sourcegitcommit: 5d340ff7cb048f68bd696227129860e72fd3c1cb
   ms.translationtype: HT
   ms.contentlocale: sv-SE
-  ms.lasthandoff: 08/06/2021
-  ms.locfileid: "2519769"
+  ms.lasthandoff: 11/04/2021
+  ms.locfileid: "3560034"
 name: Internet Explorer 11
 summary: >+
   Internet Explorer 11 följer policyn för [komponentens](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) livscykel.
@@ -30,4 +30,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 11/13/2013
-content: "\n\n## <a name=\"links\"></a>Länkar \n* [Vägledning för migrering](https://www.microsoft.com/itpro/microsoft-edge)\n* [Vanliga frågor och svar om Internet Explorer/Edge Lifecyle](/lifecycle/faq/internet-explorer-microsoft-edge)\n* [Operativsystem som har stöd för Microsoft Explorer](/lifecycle/faq/internet-explorer-microsoft-edge#what-is-the-lifecycle-policy-for-internet-explorer-)\n* [Operativsystem som har stöd för Microsoft Edge](/deployedge/microsoft-edge-supported-operating-systems)\n\n\n> [!NOTE]\n> Vissa versioner av Internet Explorer kan stödjas efter det senaste slutdatumet för OS när utökade säkerhetsuppdateringar (ESU:ar) är tillgängliga. Gå [hit](https://docs.microsoft.com/lifecycle/faq/extended-security-updates) för en lista över produkter som erbjuder ESU:ar."
+content: "\n\n## <a name=\"links\"></a>Länkar \n* [Vägledning för migrering](https://techcommunity.microsoft.com/t5/windows-it-pro-blog/proven-tools-to-accelerate-your-move-to-microsoft-edge/ba-p/2504818)\n* [Vanliga frågor och svar om Internet Explorer/Edge Lifecyle](/lifecycle/faq/internet-explorer-microsoft-edge)\n* [Operativsystem som har stöd för Microsoft Explorer](/lifecycle/faq/internet-explorer-microsoft-edge#what-is-the-lifecycle-policy-for-internet-explorer-)\n* [Operativsystem som har stöd för Microsoft Edge](/deployedge/microsoft-edge-supported-operating-systems)\n\n\n> [!NOTE]\n> Vissa versioner av Internet Explorer kan stödjas efter det senaste slutdatumet för OS när utökade säkerhetsuppdateringar (ESU:ar) är tillgängliga. Gå [hit](https://docs.microsoft.com/lifecycle/faq/extended-security-updates) för en lista över produkter som erbjuder ESU:ar."
