@@ -1,0 +1,29 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Prenumerationsupplaga av projektserver
+  description: Prenumerationsupplaga av projektserver följer policyn för modern livscykel.
+  ms.date: 10/19/2021
+  keywords: 
+  ms.openlocfilehash: 3775c728a11e4e8f85fd3866670d6ce7fcc5f808
+  ms.sourcegitcommit: 6ea3221fd5475440480515f04f33988656d71748
+  ms.translationtype: HT
+  ms.contentlocale: sv-SE
+  ms.lasthandoff: 11/02/2021
+  ms.locfileid: "3546995"
+name: Prenumerationsupplaga av projektserver
+summary: >+
+  Prenumerationsupplaga av projektserver följer policyn för [fast](/lifecycle/policies/modern) livscykel.
+
+
+
+
+
+products:
+- office
+policyType: modern-on-prem
+supportDates:
+  start: 11/02/2021
+releases:
+- version: Original Release
+  startDate: 11/02/2021
+content: "\n\n\n\n> [!NOTE]\n> Se [produkt-](https://docs.microsoft.com/project/project-server-2013-and-2016) och [utvecklardokumentationen](https://docs.microsoft.com/office/dev/add-ins/project/)."
