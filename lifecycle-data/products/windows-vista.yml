@@ -4,12 +4,12 @@ metadata:
   description: Windows Vista följer policyn för fast livscykel.
   ms.date: 09/01/2020
   keywords: Business,Business N,Business N 64-bit,Enterprise,Enterprise X64,Home Basic,Home Basic 64-bit,Home Basic N,Home Basic N 64-bit,Home Premium,Home Premium 64-bit,Starter,Ultimate,Ultimate 64-bit
-  ms.openlocfilehash: d4faacd259c74779e99c5cf26d71cbaa38d7eb92260173378461b41bbe634589
-  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
+  ms.openlocfilehash: 46fb79a6832af346b70406cfb5253f8c1d100e43
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
   ms.translationtype: HT
   ms.contentlocale: sv-SE
-  ms.lasthandoff: 08/06/2021
-  ms.locfileid: "2486358"
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4104614"
 name: Windows Vista
 summary: >
   Windows Vista följer policyn för [fast](/lifecycle/policies/fixed) livscykel.
@@ -25,17 +25,17 @@ products:
 - windows
 policyType: fixed
 supportDates:
-  start: 01/25/2007
-  end: 04/10/2012
-  extendedEnd: 04/11/2017
+  start: 2007-01-25T00:00:00.000-08:00
+  end: 2012-04-10T22:59:59.999-08:00
+  extendedEnd: 2017-04-11T22:59:59.999-08:00
 releases:
 - version: Service Pack 2
-  startDate: 04/29/2009
-  endDate: 04/11/2017
+  startDate: 2009-04-29T00:00:00.000-08:00
+  endDate: 2017-04-11T22:59:59.999-08:00
 - version: Service Pack 1
-  startDate: 02/04/2008
-  endDate: 07/12/2011
+  startDate: 2008-02-04T00:00:00.000-08:00
+  endDate: 2011-07-12T22:59:59.999-08:00
 - version: Original Release
-  startDate: 01/25/2007
-  endDate: 04/13/2010
+  startDate: 2007-01-25T00:00:00.000-08:00
+  endDate: 2010-04-13T22:59:59.999-08:00
 content: "\n## <a name=\"links\"></a>Länkar \n* [Vägledning för migrering](https://support.microsoft.com/help/22882/windows-vista-end-of-support)\n* [Uppgradering av Windows och migreringsöverväganden](/windows/deployment/upgrade/windows-upgrade-and-migration-considerations)\n* [Service pack-policy](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Utgåvor \n* Business\n* Business N\n* Business N 64-bitars\n* Enterprise\n* Enterprise X64\n* Home Basic\n* Home Basic 64-bitars\n* Home Basic N\n* Home Basic N 64-bitars\n* Home Premium\n* Home Premium 64-bitars\n* Starter\n* Ultimate\n* Ultimate 64-bitars"

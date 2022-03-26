@@ -3,37 +3,29 @@ metadata:
   title: Windows Storage Server 2008 Embedded
   description: Windows Storage Server 2008 Embedded följer policyn för fast livscykel.
   ms.date: 09/01/2020
-  keywords: '32 Bit,64 Bit,Basic,Basic 32-Bit,Enterprise,Standard,Workgroup'
+  keywords: 32 Bit,64 Bit,Basic,Basic 32-Bit,Enterprise,Standard,Workgroup
+  ms.openlocfilehash: ed2f1b330ed396dd22cd69dbcd58a80f64eec7bf
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.translationtype: HT
+  ms.contentlocale: sv-SE
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4104621"
 name: Windows Storage Server 2008 Embedded
-summary: |+
+summary: >+
   Windows Storage Server 2008 Embedded följer policyn för [fast](/lifecycle/policies/fixed) livscykel.
+
 
   Detta gäller för följande utgåvor: 32-bitars, 64-bitars, Basic, Basic 32-bitars, Enterprise, Standard, Workgroup
 
 products:
-  - windows
+- windows
 policyType: fixed
 supportDates:
-  start: 07/19/2009
-  end: 01/13/2015
-  extendedEnd: 01/14/2020
+  start: 2009-07-19T00:00:00.000-08:00
+  end: 2015-01-13T22:59:59.999-08:00
+  extendedEnd: 2020-01-14T22:59:59.999-08:00
 releases:
-  - version: Original Release
-    startDate: 07/19/2009
-    endDate: 07/12/2011
-content: |
-
-  ## <a name="links"></a>Länkar 
-  * [Vägledning för migrering](/archive/blogs/storageserver/announcing-windows-storage-server-2016)
-
-  > [!NOTE]
-  > Supporten för den här produkten upphör. Se nedan för migreringsvägledning.
-
-  ## <a name="editions"></a>Utgåvor 
-  * 32-bitars
-  * 64-bitars
-  * Basic
-  * Basic 32-bitars
-  * Enterprise
-  * Standard
-  * Workgroup
+- version: Original Release
+  startDate: 2009-07-19T00:00:00.000-08:00
+  endDate: 2011-07-12T22:59:59.999-08:00
+content: "\n## <a name=\"links\"></a>Länkar \n* [Vägledning för migrering](/archive/blogs/storageserver/announcing-windows-storage-server-2016)\n\n> [!NOTE]\n> Supporten för den här produkten upphör. Se nedan för migreringsvägledning.\n\n## <a name=\"editions\"></a>Utgåvor \n* 32-bitars\n* 64-bitars\n* Basic\n* Basic 32-bitars\n* Enterprise\n* Standard\n* Workgroup"
