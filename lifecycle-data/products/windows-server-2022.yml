@@ -2,14 +2,14 @@
 metadata:
   title: Windows Server 2022
   description: Windows Server 2022 följer policyn för fast livscykel.
-  ms.date: 09/23/2021
+  ms.date: 2022/03/16
   keywords: 
-  ms.openlocfilehash: 1ed53da378c243b1cb45d78aeb9770a1f6ec3e1d
-  ms.sourcegitcommit: 7c3fe4207bf2db7fe5db69c9c50fd1afb6070311
+  ms.openlocfilehash: eab49a6ae7dbfa393d83d01710cf0ac48b43054c
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
   ms.translationtype: HT
   ms.contentlocale: sv-SE
-  ms.lasthandoff: 09/30/2021
-  ms.locfileid: "3508035"
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4134813"
 name: Windows Server 2022
 summary: >+
   Windows Server 2022 följer policyn för [fast](/lifecycle/policies/fixed) livscykel.
@@ -24,11 +24,11 @@ products:
 - windows
 policyType: fixed
 supportDates:
-  start: 08/18/2021
-  end: 10/13/2026
-  extendedEnd: 10/14/2031
+  start: 2021-11-02T00:00:00.000-08:00
+  end: 2026-10-13T22:59:59.999-08:00
+  extendedEnd: 2031-10-14T22:59:59.999-08:00
 releases:
 - version: Original Release
-  startDate: 08/18/2021
-  endDate: 10/14/2031
-content: "> [!TIP]\n> Microsoft Edge följer den [moderna livscykelpolicyn](https://docs.microsoft.com/lifecycle/policies/modern). Se [Edge:s livscykeldokumentation](https://docs.microsoft.com/deployedge/microsoft-edge-support-lifecycle) för hur du håller den här webbläsaren uppdaterad och har support.\n\n\n## <a name=\"links\"></a>Länkar \n* [Vanliga frågor och svar om livscykeln – Windows](/lifecycle/faq/windows)\n* [Produktinformation](/windows-server/windows-server-2022/get-started/whats-new)\n\n\n> [!NOTE]\n> Containers som har släppts med Windows Server 2022 följer samma livscykeldatum. \n\n\n## <a name=\"editions\"></a>Utgåvor \n* Datacenter\n* Datacenter: Azure Edition\n* Essentials\n* Standard"
+  startDate: 2021-11-02T00:00:00.000-08:00
+  endDate: 2031-10-14T22:59:59.999-08:00
+content: "> [!TIP]\n> Microsoft Edge följer den [moderna livscykelpolicyn](https://docs.microsoft.com/lifecycle/policies/modern). Se [Edge:s livscykeldokumentation](https://docs.microsoft.com/deployedge/microsoft-edge-support-lifecycle) för hur du håller den här webbläsaren uppdaterad och har support.\n\n\n## <a name=\"links\"></a>Länkar \n* [Vanliga frågor och svar om livscykeln – Windows](/lifecycle/faq/windows)\n* [Produktinformation](/windows-server/windows-server-2022/get-started/whats-new)\n\n\n> [!NOTE]\n> Containers som har släppts med Windows Server 2022 följer samma livscykeldatum. \n> [!NOTE]\n> [Hotpatching](https://docs.microsoft.com/azure/automanage/automanage-hotpatch) stöds på Windows Server 2022-datacentret: Azure Edition Core till slutet av Mainstream-supporten.\n\n\n## <a name=\"editions\"></a>Utgåvor \n* Datacenter\n* Datacenter: Azure Edition\n* Essentials\n* Standard"

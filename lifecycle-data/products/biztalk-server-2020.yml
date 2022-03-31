@@ -2,30 +2,33 @@
 metadata:
   title: BizTalk Server 2020
   description: BizTalk Server 2020 följer policyn för fast livscykel.
-  ms.date: 09/01/2020
-  keywords: Branch,Developer,Enterprise,Standard
-  ms.openlocfilehash: 02c759d9484cd99a8eda33273268c1109018c771ac2e6d64ed8971edc1897203
-  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
+  ms.date: 01/26/2022
+  keywords: HIS,Branch,Developer,Enterprise,Standard
+  ms.openlocfilehash: 27b623ebdf7fa216212a407fd06248fb6b837aaf
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
   ms.translationtype: HT
   ms.contentlocale: sv-SE
-  ms.lasthandoff: 08/06/2021
-  ms.locfileid: "2495793"
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4128855"
 name: BizTalk Server 2020
 summary: >+
   BizTalk Server 2020 följer policyn för [fast](/lifecycle/policies/fixed) livscykel.
 
 
+
   Detta gäller för följande utgåvor: Förgrening, Developer, Enterprise, Standard
+
+
 
 products:
 - microsoft-servers
 policyType: fixed
 supportDates:
-  start: 02/01/2020
-  end: 01/09/2024
-  extendedEnd: 01/09/2029
+  start: 2020-02-01T00:00:00.000-08:00
+  end: 2028-04-11T22:59:59.999-08:00
+  extendedEnd: 2030-04-09T22:59:59.999-08:00
 releases:
 - version: Original Release
-  startDate: 02/01/2020
-  endDate: 01/09/2029
-content: "\n## <a name=\"links\"></a>Länkar \n* [Produktinformation](/biztalk/install-and-config-guides/biztalk-server-2020-whats-new-and-installation)\n\n\n## <a name=\"editions\"></a>Utgåvor \n* Förgrening\n* Developer\n* Enterprise\n* Standard"
+  startDate: 2020-02-01T00:00:00.000-08:00
+  endDate: 2030-04-09T22:59:59.999-08:00
+content: "\n\n## <a name=\"links\"></a>Länkar \n* [Produktinformation](/biztalk/install-and-config-guides/biztalk-server-2020-whats-new-and-installation)\n\n\n> [!NOTE]\n> Mainstream-support har förlängts från 9 januari 2024 till 11 april 2028. Det finns mer information [här](https://aka.ms/Biztalk2020roadmap).\n\n\n## <a name=\"editions\"></a>Utgåvor \n* Förgrening\n* Developer\n* Enterprise\n* Standard"

@@ -4,12 +4,12 @@ metadata:
   description: Windows Embedded 8 följer policyn för fast livscykel.
   ms.date: 01/12/2021
   keywords: 
-  ms.openlocfilehash: 1ec011e7b850e6a8cfa4b4835b5083c0f5ddc4c77f067aa96c6cac447f2d89a3
-  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
+  ms.openlocfilehash: 16f427beacf8c575905812dfd72535208a92c50b
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
   ms.translationtype: HT
   ms.contentlocale: sv-SE
-  ms.lasthandoff: 08/06/2021
-  ms.locfileid: "2493795"
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4105176"
 name: Windows Embedded 8
 summary: >+
   Windows Embedded 8 följer policyn för [fast](/lifecycle/policies/fixed) livscykel.
@@ -21,11 +21,11 @@ products:
 - windows
 policyType: fixed
 supportDates:
-  start: 10/30/2012
-  end: 01/12/2016
-  extendedEnd: 01/12/2016
+  start: 2012-10-30T00:00:00.000-08:00
+  end: 2016-01-12T22:59:59.999-08:00
+  extendedEnd: 2016-01-12T22:59:59.999-08:00
 releases:
 - version: Original Release
-  startDate: 10/30/2012
-  endDate: 01/12/2016
+  startDate: 2012-10-30T00:00:00.000-08:00
+  endDate: 2016-01-12T22:59:59.999-08:00
 content: "\n## <a name=\"links\"></a>Länkar \n* [Windows Embedded 8.1](/lifecycle/products/windows-embedded-81-pro?branch=live)\n* [Vanliga frågor och svar om livscykel – Windows-produkter](/lifecycle/faq/windows)\n\n> [!NOTE]\n> Kunder måste migrera till Windows Emdedded 8.1 för att fortsätta att ha support.\n\n## <a name=\"editions\"></a>Utgåvor \n* Pro"

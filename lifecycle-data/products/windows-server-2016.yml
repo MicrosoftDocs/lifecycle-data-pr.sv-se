@@ -3,42 +3,24 @@ metadata:
   title: Windows Server 2016
   description: Windows Server 2016 följer principen om fast livscykel.
   ms.date: 07/09/2021
-  keywords: null
+  keywords: 
+  ms.openlocfilehash: 8d681747bc516263f47b6900cbf90c5f915601ce
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.translationtype: HT
+  ms.contentlocale: sv-SE
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4134961"
 name: Windows Server 2016
-summary: |+
-  Windows Server 2016 följer principen om [fast](/lifecycle/policies/fixed) livscykel. 
-
-
-  Detta gäller för följande utgåvor: Datacenter, Essentials, MultiPoint Premium, Standard
-
-
-
+summary: "Windows Server 2016 följer principen om [fast](/lifecycle/policies/fixed) livscykel. \n\n\nDetta gäller för följande utgåvor: Datacenter, Essentials, MultiPoint Premium, Standard\n\n\n\n"
 products:
-  - windows
+- windows
 policyType: fixed
 supportDates:
-  start: 10/15/2016
-  end: 01/11/2022
-  extendedEnd: 01/12/2027
+  start: 2016-10-15T00:00:00.000-08:00
+  end: 2022-01-11T22:59:59.999-08:00
+  extendedEnd: 2027-01-12T22:59:59.999-08:00
 releases:
-  - version: Original Release
-    startDate: 10/15/2016
-    endDate: 01/12/2027
-content: |+
-
-
-  ## <a name="links"></a>Länkar 
-  * [Produktinformation](/windows-server/get-started/server-basics)
-  * [Vanliga frågor och svar om livscykel – Windows-produkter](/lifecycle/faq/windows)
-  * [Underhålls-livscyklar för basavbildningar av Windows-behållare](/virtualization/windowscontainers/deploy-containers/base-image-lifecycle)
-
-
-  > [!NOTE]
-  > Behållare som har släppts med Windows Server 2016 följer samma livscykeldatum.
-
-
-  ## <a name="editions"></a>Utgåvor 
-  * Datacenter
-  * Essentials
-  * MultiPoint Premium
-  * Standard
+- version: Original Release
+  startDate: 2016-10-15T00:00:00.000-08:00
+  endDate: 2027-01-12T22:59:59.999-08:00
+content: "\n\n## <a name=\"links\"></a>Länkar \n* [Produktinformation](/windows-server/get-started/server-basics)\n* [Vanliga frågor och svar om livscykel – Windows-produkter](/lifecycle/faq/windows)\n* [Underhålls-livscyklar för basavbildningar av Windows-behållare](/virtualization/windowscontainers/deploy-containers/base-image-lifecycle)\n\n\n> [!NOTE]\n> Behållare som har släppts med Windows Server 2016 följer samma livscykeldatum.\n\n\n## <a name=\"editions\"></a>Utgåvor \n* Datacenter\n* Essentials\n* MultiPoint Premium\n* Standard"

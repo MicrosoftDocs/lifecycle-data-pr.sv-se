@@ -4,12 +4,12 @@ metadata:
   description: Groove 3.1 följer policyn för fast livscykel.
   ms.date: 09/03/2020
   keywords: Enterprise Backup Service,Enterprise Data Bridge,Enterprise Relay Server,Hosted Management Services,Hosted Relay Services,Office Project,Virtual Office File Sharing,Virtual Office Professional,Web Services Development Kit
-  ms.openlocfilehash: 1b2a8c7d329087048a348a63ea155a668b1ba5dd6431db0eccfe6e4a36093a0b
-  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
+  ms.openlocfilehash: fff0723e50997cc6e94c3e3132ae2055c18330c8
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
   ms.translationtype: HT
   ms.contentlocale: sv-SE
-  ms.lasthandoff: 08/06/2021
-  ms.locfileid: "2511962"
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4127857"
 name: Groove 3.1
 summary: >+
   Groove 3.1 följer policyn för [fast](/lifecycle/policies/fixed) livscykel.
@@ -21,10 +21,10 @@ products:
 - office
 policyType: fixed-mainstream-only
 supportDates:
-  start: 07/01/2004
-  end: 04/16/2010
+  start: 2004-07-01T00:00:00.000-08:00
+  end: 2010-04-16T22:59:59.999-08:00
 releases:
 - version: Original Release
-  startDate: 07/01/2004
-  endDate: 04/16/2010
+  startDate: 2004-07-01T00:00:00.000-08:00
+  endDate: 2010-04-16T22:59:59.999-08:00
 content: "\n\n\n## <a name=\"editions\"></a>Utgåvor \n* Enterprise Backup Service\n* Enterprise Data Bridge\n* Enterprise Relay Server\n* Hosted Management Services\n* Hosted Relay Services\n* Office Project\n* Virtual Office File Sharing\n* Virtual Office Professional\n* Web Services Development Kit"
