@@ -4,12 +4,12 @@ metadata:
   description: BizTalk Server 2010 följer policyn för fast livscykel.
   ms.date: 09/10/2020
   keywords: Branch,Developer,Enterprise,Enterprise RFID,Standard
-  ms.openlocfilehash: 9bc5b0fdcdfa0506cdaa6f8abb157eeb8598be081fdc21c1e61f22ba122d544c
-  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
+  ms.openlocfilehash: 47b3fc1476d19ebe45866db36efc621d6714f806
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
   ms.translationtype: HT
   ms.contentlocale: sv-SE
-  ms.lasthandoff: 08/06/2021
-  ms.locfileid: "2495978"
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4146801"
 name: BizTalk Server 2010
 summary: >+
   BizTalk Server 2010 följer policyn för [fast](/lifecycle/policies/fixed) livscykel.
@@ -21,11 +21,11 @@ products:
 - microsoft-servers
 policyType: fixed
 supportDates:
-  start: 11/14/2010
-  end: 01/12/2016
-  extendedEnd: 01/12/2021
+  start: 2010-11-14T00:00:00.000-08:00
+  end: 2016-01-12T22:59:59.999-08:00
+  extendedEnd: 2021-01-12T22:59:59.999-08:00
 releases:
 - version: Original Release
-  startDate: 11/14/2010
-  endDate: 01/12/2021
+  startDate: 2010-11-14T00:00:00.000-08:00
+  endDate: 2021-01-12T22:59:59.999-08:00
 content: "\n## <a name=\"links\"></a>Länkar \n* [Vägledning för migrering](/biztalk/install-and-config-guides/upgrade-to-biztalk-server-2020)\n* [Versionsinformation](https://techcommunity.microsoft.com/t5/Product-Life-Cycle/FAST-products-approaching-the-end-of-extended-support-in-2018/td-p/101710)\n\n\n## <a name=\"editions\"></a>Utgåvor \n* Förgrening\n* Developer\n* Enterprise\n* Enterprise RFID\n* Standard"

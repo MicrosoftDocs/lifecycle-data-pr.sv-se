@@ -1,0 +1,26 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Windows 10 IoT Core LTSC
+  description: Windows 10 IoT Core LTSC följer policyn för fast livscykel.
+  ms.date: 2022/03/08
+  keywords: 
+  ms.openlocfilehash: f76d40924e9cd5e57e8cb3373424b1ab1be18bfc
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.translationtype: HT
+  ms.contentlocale: sv-SE
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4156946"
+name: Windows 10 IoT Core LTSC
+summary: "Windows 10 IoT Core LTSC följer policyn för [fast](/lifecycle/policies/fixed) livscykel.\n\n\n\n\n> [!IMPORTANT]\n> Windows 10 IoT Core LTSC kräver [Windows 10 IoT Core-tjänster](http://aka.ms/IoTCoreServices). \n\n"
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 2018-11-13T00:00:00.000-08:00
+  end: 2024-01-09T22:59:59.999-08:00
+  extendedEnd: 2029-01-09T22:59:59.999-08:00
+releases:
+- version: Original Release
+  startDate: 2018-11-13T00:00:00.000-08:00
+  endDate: 2029-01-09T22:59:59.999-08:00
+content: "\n\n## <a name=\"links\"></a>Länkar \n* [Översikt av tjänster i Windows 10 IoT Core](http://aka.ms/IoTCoreServices)\n* [Översikt av Windows 10 IoT Core](https://aka.ms/windowsiotcore)\n* [Windows som en tjänst (WaaS)](/windows/deployment/update/waas-quick-start)\n* [Oktober 2018-uppdatering av Windows 10 ](https://blogs.windows.com/windowsexperience/2018/11/13/resuming-the-rollout-of-the-windows-10-october-2018-update/)"

@@ -3,24 +3,23 @@ metadata:
   title: Internet Explorer 9
   description: Internet Explorer 9 följer policyn för komponentens livscykel.
   ms.date: 08/12/2020
+  ms.openlocfilehash: f61f077fd1b92fb7ef960ad2fa68e6ac1ebdb88c
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.translationtype: HT
+  ms.contentlocale: sv-SE
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4154386"
 name: Internet Explorer 9
-summary: |+
+summary: >+
   Internet Explorer 9 följer policyn för [komponentens](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) livscykel.
 
 
 products:
-  - internet-explorer
+- internet-explorer
 policyType: component
 supportDates:
-  start: 03/15/2011
+  start: 2011-03-15T00:00:00.000-08:00
 releases:
-  - version: Original Release
-    startDate: 03/15/2011
-content: |+
-
-  ## <a name="links"></a>Länkar 
-  * [Vägledning för migrering](https://www.microsoft.com/itpro/microsoft-edge)
-  * [Vanliga frågor och svar om livscykelprincipen för Internet Explorer](/lifecycle/faq/internet-explorer-microsoft-edge)
-
-  > [!NOTE]
-  > Efter 12 januari 2016 är det bara den senaste versionen av Internet Explorer som är tillgänglig för ett operativsystem som stöds och som får teknisk support och säkerhetsuppdateringar såsom du ser i tabellen nedan:
+- version: Original Release
+  startDate: 2011-03-15T00:00:00.000-08:00
+content: "\n## <a name=\"links\"></a>Länkar \n* [Vägledning för migrering](https://www.microsoft.com/itpro/microsoft-edge)\n* [Vanliga frågor och svar om livscykelprincipen för Internet Explorer](/lifecycle/faq/internet-explorer-microsoft-edge)\n\n> [!NOTE]\n> Efter 12 januari 2016 är det bara den senaste versionen av Internet Explorer som är tillgänglig för ett operativsystem som stöds och som får teknisk support och säkerhetsuppdateringar såsom du ser i tabellen nedan:"

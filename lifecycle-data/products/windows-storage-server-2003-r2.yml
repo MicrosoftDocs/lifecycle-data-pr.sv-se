@@ -4,34 +4,26 @@ metadata:
   description: Windows Storage Server 2003 R2 följer policyn för fast livscykel.
   ms.date: 09/01/2020
   keywords: Standard
+  ms.openlocfilehash: a3ac8ec2684100fdcf92455e99f961f7a4ec42a1
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.translationtype: HT
+  ms.contentlocale: sv-SE
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4122973"
 name: Windows Server 2003 R2
-summary: |
-  Windows Storage Server 2003 R2 följer policyn för [fast](/lifecycle/policies/fixed) livscykel.
-
-  Detta gäller för följande utgåvor: Standard
-
-  > [!IMPORTANT]
-  > Support för den här produkten har upphört.
-  Den här produkten levererades med Windows Server 2003 Service Pack 1. 
+summary: "Windows Storage Server 2003 R2 följer policyn för [fast](/lifecycle/policies/fixed) livscykel.\n\nDetta gäller för följande utgåvor: Standard\n\n> [!IMPORTANT]\n> Support för den här produkten har upphört.\nDen här produkten levererades med Windows Server 2003 Service Pack 1. \n"
 products:
-  - windows
+- windows
 policyType: fixed
 supportDates:
-  start: 03/05/2006
-  end: 07/13/2010
-  extendedEnd: 07/14/2015
+  start: 2006-03-05T00:00:00.000-08:00
+  end: 2010-07-13T22:59:59.999-08:00
+  extendedEnd: 2015-07-14T22:59:59.999-08:00
 releases:
-  - version: Service Pack 2
-    startDate: 03/13/2007
-    endDate: 07/14/2015
-  - version: Original Release
-    startDate: 03/05/2006
-    endDate: 04/14/2009
-content: |
-
-  ## <a name="links"></a>Länkar 
-  * [Vägledning för migrering](/windows-server/upgrade/upgrade-overview)
-
-
-  ## <a name="editions"></a>Utgåvor 
-  * Standard
+- version: Service Pack 2
+  startDate: 2007-03-13T00:00:00.000-08:00
+  endDate: 2015-07-14T22:59:59.999-08:00
+- version: Original Release
+  startDate: 2006-03-05T00:00:00.000-08:00
+  endDate: 2009-04-14T22:59:59.999-08:00
+content: "\n## <a name=\"links\"></a>Länkar \n* [Vägledning för migrering](/windows-server/upgrade/upgrade-overview)\n\n\n## <a name=\"editions\"></a>Utgåvor \n* Standard"

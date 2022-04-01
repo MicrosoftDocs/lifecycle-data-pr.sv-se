@@ -3,28 +3,29 @@ metadata:
   title: Microsoft Speech Server 2004
   description: Microsoft Speech Server 2004 följer policyn för fast livscykel.
   ms.date: 09/01/2020
-  keywords: 'Enterprise,Standard'
+  keywords: Enterprise,Standard
+  ms.openlocfilehash: d29344c32cd972e793f256e0b0df5bb3c2fee36b
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.translationtype: HT
+  ms.contentlocale: sv-SE
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4137736"
 name: Microsoft Speech Server 2004
-summary: |+
+summary: >+
   Microsoft Speech Server 2004 följer policyn för [fast](/lifecycle/policies/fixed) livscykel.
+
 
   Detta gäller för följande utgåvor: Enterprise, Standard
 
 products:
-  - office
+- office
 policyType: fixed
 supportDates:
-  start: 04/28/2004
-  end: 07/14/2009
-  extendedEnd: 07/08/2014
+  start: 2004-04-28T00:00:00.000-08:00
+  end: 2009-07-14T22:59:59.999-08:00
+  extendedEnd: 2014-07-08T22:59:59.999-08:00
 releases:
-  - version: Original Release
-    startDate: 04/28/2004
-    endDate: 07/08/2014
-content: |
-
-
-
-  ## <a name="editions"></a>Utgåvor 
-  * Enterprise
-  * Standard
+- version: Original Release
+  startDate: 2004-04-28T00:00:00.000-08:00
+  endDate: 2014-07-08T22:59:59.999-08:00
+content: "\n\n\n## <a name=\"editions\"></a>Utgåvor \n* Enterprise\n* Standard"

@@ -3,28 +3,29 @@ metadata:
   title: Project 2016
   description: Project 2016 följer policyn för fast livscykel.
   ms.date: 09/01/2020
-  keywords: 'Professional,Standard'
+  keywords: Professional,Standard
+  ms.openlocfilehash: 4597db9b43ca112d1bd94449a968141920428460
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.translationtype: HT
+  ms.contentlocale: sv-SE
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4136478"
 name: Project 2016
-summary: |+
+summary: >+
   Project 2016 följer policyn för [fast](/lifecycle/policies/fixed) livscykel.
+
 
   Detta gäller för följande utgåvor: Professional, Standard
 
 products:
-  - office
+- office
 policyType: fixed
 supportDates:
-  start: 09/22/2015
-  end: 10/13/2020
-  extendedEnd: 10/14/2025
+  start: 2015-09-22T00:00:00.000-08:00
+  end: 2020-10-13T22:59:59.999-08:00
+  extendedEnd: 2025-10-14T22:59:59.999-08:00
 releases:
-  - version: Original Release
-    startDate: 09/22/2015
-    endDate: 10/14/2025
-content: |
-
-
-
-  ## <a name="editions"></a>Utgåvor 
-  * Professionell
-  * Standard
+- version: Original Release
+  startDate: 2015-09-22T00:00:00.000-08:00
+  endDate: 2025-10-14T22:59:59.999-08:00
+content: "\n\n\n## <a name=\"editions\"></a>Utgåvor \n* Professionell\n* Standard"

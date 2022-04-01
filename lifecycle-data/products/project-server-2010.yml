@@ -3,34 +3,29 @@ metadata:
   title: Project Server 2010
   description: Project Server 2010 följer policyn för fast livscykel.
   ms.date: 07/28/2020
+  ms.openlocfilehash: c8878ccfc41d53939a83315aa5082623de804cb4
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.translationtype: HT
+  ms.contentlocale: sv-SE
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4124601"
 name: Project Server 2010
-summary: |+
-  Project Server 2010 följer den [fasta](/lifecycle/policies/fixed) livscykelpolicyn. 
-
-
+summary: "Project Server 2010 följer den [fasta](/lifecycle/policies/fixed) livscykelpolicyn. \n\n\n"
 products:
-  - office
+- office
 policyType: fixed
 supportDates:
-  start: 07/15/2010
-  end: 10/13/2015
-  extendedEnd: 04/13/2021
+  start: 2010-07-15T00:00:00.000-08:00
+  end: 2015-10-13T22:59:59.999-08:00
+  extendedEnd: 2021-04-13T22:59:59.999-08:00
 releases:
-  - version: Service Pack 2
-    startDate: 07/19/2013
-    endDate: 04/13/2021
-  - version: Service Pack 1
-    startDate: 06/28/2011
-    endDate: 10/14/2014
-  - version: Original Release
-    startDate: 07/15/2010
-    endDate: 07/10/2012
-content: |+
-
-  ## <a name="links"></a>Länkar 
-  * [Vägledning för migrering](/office365/enterprise/upgrade-from-sharepoint-2010)
-  * [Utökad support](https://aka.ms/SharePoint/server/2010/supportextension)
-  * [Project Server översikt](/office365/enterprise/project-server-2010-end-of-support)
-
-  > [!NOTE]
-  > Slutdatumet för produktsupport har skjutits upp från 13 oktober april 2020 till 13 april 2021.
+- version: Service Pack 2
+  startDate: 2013-07-19T00:00:00.000-08:00
+  endDate: 2021-04-13T22:59:59.999-08:00
+- version: Service Pack 1
+  startDate: 2011-06-28T00:00:00.000-08:00
+  endDate: 2014-10-14T22:59:59.999-08:00
+- version: Original Release
+  startDate: 2010-07-15T00:00:00.000-08:00
+  endDate: 2012-07-10T22:59:59.999-08:00
+content: "\n## <a name=\"links\"></a>Länkar \n* [Vägledning för migrering](/office365/enterprise/upgrade-from-sharepoint-2010)\n* [Utökad support](https://aka.ms/SharePoint/server/2010/supportextension)\n* [Project Server översikt](/office365/enterprise/project-server-2010-end-of-support)\n\n> [!NOTE]\n> Slutdatumet för produktsupport har skjutits upp från 13 oktober april 2020 till 13 april 2021."

@@ -3,33 +3,29 @@ metadata:
   title: Workflow Manager 1.0
   description: Arbetsflödeshanteraren 1.0 följer principen för fast livscykel.
   ms.date: 09/10/2020
-  keywords: null
+  keywords: 
+  ms.openlocfilehash: d3dcfa85b641cdeeb6e43ee61dabfc6e390ceed1
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.translationtype: HT
+  ms.contentlocale: sv-SE
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4147023"
 name: Workflow Manager 1.0
-summary: |+
+summary: >+
   Arbetsflödeshanteraren 1.0 följer principen för [fast](/lifecycle/policies/fixed) livscykel.
+
 
   Detta gäller följande utgåvor: Klient och Standard
 
 products:
-  - vs
+- vs
 policyType: fixed
 supportDates:
-  start: 10/18/2012
-  end: 01/09/2018
-  extendedEnd: 01/10/2023
+  start: 2012-10-18T00:00:00.000-08:00
+  end: 2018-01-09T22:59:59.999-08:00
+  extendedEnd: 2023-01-10T22:59:59.999-08:00
 releases:
-  - version: Original Release
-    startDate: 10/18/2012
-    endDate: 01/10/2023
-content: |
-
-  ## <a name="links"></a>Länkar 
-  * [Serviceinformation för SharePoint 2016](/SharePoint/product-servicing-policy/updated-product-servicing-policy-for-sharepoint-server-2016)
-  * [Serviceinformation för SharePoint 2013](/SharePoint/product-servicing-policy/updated-product-servicing-policy-for-sharepoint-2013)
-
-  > [!NOTE]
-  > När Arbetsflödeshanteraren är en komponent i SharePoint Server 2016 eller SharePoint Server 2013 erhåller den support enligt slutdatumen för respektive SharePoint Server-version.
-
-  ## <a name="editions"></a>Utgåvor 
-  * Klient
-  * Standard
+- version: Original Release
+  startDate: 2012-10-18T00:00:00.000-08:00
+  endDate: 2023-01-10T22:59:59.999-08:00
+content: "\n## <a name=\"links\"></a>Länkar \n* [Serviceinformation för SharePoint 2016](/SharePoint/product-servicing-policy/updated-product-servicing-policy-for-sharepoint-server-2016)\n* [Serviceinformation för SharePoint 2013](/SharePoint/product-servicing-policy/updated-product-servicing-policy-for-sharepoint-2013)\n\n> [!NOTE]\n> När Arbetsflödeshanteraren är en komponent i SharePoint Server 2016 eller SharePoint Server 2013 erhåller den support enligt slutdatumen för respektive SharePoint Server-version.\n\n## <a name=\"editions\"></a>Utgåvor \n* Klient\n* Standard"

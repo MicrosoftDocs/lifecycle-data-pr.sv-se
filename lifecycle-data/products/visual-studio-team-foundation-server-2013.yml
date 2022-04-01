@@ -4,12 +4,12 @@ metadata:
   description: Visual Studio Team Foundation Server 2013 följer policyn för fast livscykel.
   ms.date: 09/01/2020
   keywords: All,Release Management
-  ms.openlocfilehash: 4b0a4e2ff72e77a0f64f460265ee9f2b7cc809e9cf459ec52b001d1acadefd3a
-  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
+  ms.openlocfilehash: e7bfe059356d1580d0d9b75deb5264c6624a929a
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
   ms.translationtype: HT
   ms.contentlocale: sv-SE
-  ms.lasthandoff: 08/06/2021
-  ms.locfileid: "2497532"
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4119273"
 name: Visual Studio Team Foundation Server 2013
 summary: >+
   Visual Studio Team Foundation Server 2013 följer policyn för [fast](/lifecycle/policies/fixed) livscykel.
@@ -21,14 +21,14 @@ products:
 - vs
 policyType: fixed
 supportDates:
-  start: 01/15/2014
-  end: 04/09/2019
-  extendedEnd: 04/09/2024
+  start: 2014-01-15T00:00:00.000-08:00
+  end: 2019-04-09T22:59:59.999-08:00
+  extendedEnd: 2024-04-09T22:59:59.999-08:00
 releases:
 - version: Update 5
-  startDate: 07/20/2015
-  endDate: 04/09/2024
+  startDate: 2015-07-20T00:00:00.000-08:00
+  endDate: 2024-04-09T22:59:59.999-08:00
 - version: Original Release
-  startDate: 01/15/2014
-  endDate: 10/11/2016
+  startDate: 2014-01-15T00:00:00.000-08:00
+  endDate: 2016-10-11T22:59:59.999-08:00
 content: "\n## <a name=\"links\"></a>Länkar \n* [Produktinformation](/azure/devops/server/tfs-is-now-azure-devops-server?view=azure-devops)\n* [Serviceinformation](https://www.visualstudio.com/productinfo/vs-servicing-vs)\n* [Policy för service pack](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> För Release Management Server för TFS 2013 stöds uppdatering 4 enligt policyriktlinjerna fram till 09/04/2024.\n\n## <a name=\"editions\"></a>Utgåvor \n* Alla\n* Versionshantering"

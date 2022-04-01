@@ -2,14 +2,14 @@
 metadata:
   title: Internet Explorer 11
   description: Internet Explorer 11 följer policyn för komponentens livscykel.
-  ms.date: 11/03/2021
+  ms.date: 01/25/2022
   keywords: IE
-  ms.openlocfilehash: 395b45e3032265adf245359b254cbf5426bbd182
-  ms.sourcegitcommit: 5d340ff7cb048f68bd696227129860e72fd3c1cb
+  ms.openlocfilehash: 5086bcdf51ebfb0315c4f4660193adab3be31a4e
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
   ms.translationtype: HT
   ms.contentlocale: sv-SE
-  ms.lasthandoff: 11/04/2021
-  ms.locfileid: "3560034"
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4114389"
 name: Internet Explorer 11
 summary: >+
   Internet Explorer 11 följer policyn för [komponentens](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) livscykel.
@@ -20,14 +20,14 @@ summary: >+
 
   > [!IMPORTANT]
 
-  > Internet Explorer (IE) 11-skrivbordsapplikationen kommer att upphöra sin support för vissa operativsystem från och med 15 juni 2022. Kunder uppmanas att flytta till Microsoft Edge med IE-läge. IE-läge möjliggör bakåtkompatibilitet och stöds till minst 2029. Dessutom meddelar Microsoft ett år innan IE-läget upphör. Gå [här](https://docs.microsoft.com/lifecycle/faq/internet-explorer-microsoft-edge#what-is-the-lifecycle-policy-for-internet-explorer-) för en lista över operativsystem som stöds av Internet Explorer, inklusive versioner som påverkas av detta meddelande.
+  > Internet Explorer (IE) 11-skrivbordsapplikation kommer att upphöra sin support för Windows 10 halvårsvis med start 15 juni 2022. Kunder uppmanas att flytta till Microsoft Edge med IE-läge. IE-läge möjliggör bakåtkompatibilitet och stöds till minst 2029. Dessutom meddelar Microsoft ett år innan IE-läget upphör. Gå [här](https://docs.microsoft.com/lifecycle/faq/internet-explorer-microsoft-edge#what-is-the-lifecycle-policy-for-internet-explorer-) för en lista över operativsystem som stöds av Internet Explorer, inklusive versioner som påverkas av detta meddelande.
 
 products:
 - internet-explorer
 policyType: component
 supportDates:
-  start: 11/13/2013
+  start: 2013-11-13T00:00:00.000-08:00
 releases:
 - version: Original Release
-  startDate: 11/13/2013
+  startDate: 2013-11-13T00:00:00.000-08:00
 content: "\n\n## <a name=\"links\"></a>Länkar \n* [Vägledning för migrering](https://techcommunity.microsoft.com/t5/windows-it-pro-blog/proven-tools-to-accelerate-your-move-to-microsoft-edge/ba-p/2504818)\n* [Vanliga frågor och svar om Internet Explorer/Edge Lifecyle](/lifecycle/faq/internet-explorer-microsoft-edge)\n* [Operativsystem som har stöd för Microsoft Explorer](/lifecycle/faq/internet-explorer-microsoft-edge#what-is-the-lifecycle-policy-for-internet-explorer-)\n* [Operativsystem som har stöd för Microsoft Edge](/deployedge/microsoft-edge-supported-operating-systems)\n\n\n> [!NOTE]\n> Vissa versioner av Internet Explorer kan stödjas efter det senaste slutdatumet för OS när utökade säkerhetsuppdateringar (ESU:ar) är tillgängliga. Gå [hit](https://docs.microsoft.com/lifecycle/faq/extended-security-updates) för en lista över produkter som erbjuder ESU:ar."

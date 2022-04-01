@@ -1,13 +1,13 @@
 ---
 title: Produkter som når slutet av supporten för 2028
 description: Ta reda på vilka produkter som tas ur bruk, där support upphör eller går från mainstream support till utökad support under 2028.
-ms.date: 08/11/2021
-ms.openlocfilehash: d9483ab57d5626bb7db3be75fd915951aa68adf1
-ms.sourcegitcommit: 5e9349227c409d98c77eb151f27be486fb55a00c
+ms.date: 01/26/2022
+ms.openlocfilehash: a8b3c4f4e6e462fa015bad7b2c1b609d44d9838b
+ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
 ms.translationtype: HT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "4028541"
+ms.lasthandoff: 03/18/2022
+ms.locfileid: "4116979"
 ---
 # <a name="products-ending-support-in-2028"></a>Produkter där support upphör under 2028
 
@@ -39,3 +39,11 @@ Support för följande produkter och versioner, som styrs av den [Fasta policyn]
 | [Dynamics SL 2018](/lifecycle/products/dynamics-sl-2018?branch=live)<br> | 11 juli 2028 |
 
 
+## <a name="products-moving-to-extended-support"></a>Produkter som flyttas till utökad support:
+
+Följande produkter flyttas från mainstream support till utökad support under 2028. Utökad support inkluderar säkerhetsuppdateringar utan kostnad och betalade icke-säkerhetsuppdateringar samt support. Dessutom accepterar inte Microsoft förfrågningar om designändringar eller nya funktioner under den utökade supportfasen.
+
+| Produkt | Slutet av Mainstream-support |
+| --- | --- |
+| [BizTalk Server 2020](/lifecycle/products/biztalk-server-2020?branch=live)<br> | 11 april 2028 |
+| [Microsoft Host Integration Server 2020](/lifecycle/products/microsoft-host-integration-server-2020?branch=live)<br> | 11 juli 2028 |

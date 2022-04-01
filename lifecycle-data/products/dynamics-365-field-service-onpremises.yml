@@ -1,0 +1,35 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Dynamics 365 Field Service (lokalt)
+  description: Dynamics 365 Fiels Service (lokalt) följer policyn för modern livscykel.
+  ms.date: 2022/03/11
+  keywords: Xamarin, field service mobile app
+  ms.openlocfilehash: 86907adb77c70d91050c8c4e4b0a3ce14b2942b5
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.translationtype: HT
+  ms.contentlocale: sv-SE
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4157101"
+name: Dynamics 365 Field Service (lokalt)
+summary: >+
+  Dynamics 365 för Field Service (lokalt) följer policyn för [modern](/lifecycle/policies/modern) livscykel.
+
+
+
+
+
+  > [!IMPORTANT]
+
+  > Observera att den äldre appen Field Service Mobile (Xamarin) också kommer att dras in den 30 juni 2022. Kunder bör migrera till mobilappen [Field Service (Dynamics 365)](https://docs.microsoft.com/dynamics365/field-service/mobile-2020-power-platform) före det datumet. Mer information finns i [Field Service Mobile Xamarin Vanliga frågor om avslutande av support](https://docs.microsoft.com/dynamics365/field-service/activate-fs-mobile-app-license#faqs).
+
+products:
+- dynamics
+policyType: modern-on-prem
+supportDates:
+  start: 2016-05-02T00:00:00.000-08:00
+  end: 2022-06-30T22:59:59.999-08:00
+releases:
+- version: Original Release
+  startDate: 2016-05-02T00:00:00.000-08:00
+  endDate: 2022-06-30T22:59:59.999-08:00
+content: "\n\n## <a name=\"links\"></a>Länkar \n* [Produktinformation](/dynamics/s-e/365enterprise/365fieldservice7_delta)\n* [Migrationsinformation](https://dynamics.microsoft.com/cloud-migration/)\n* [Dynamics 365 Field Service (lokalt) tillbakadragande](https://cloudblogs.microsoft.com/dynamics365/it/2021/06/30/dynamics-365-field-service-on-premises-use-rights-to-retire-on-june-30-2022/)"

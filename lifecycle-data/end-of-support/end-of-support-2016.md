@@ -1,13 +1,13 @@
 ---
 title: Produkter som når slutet av supporten för 2016
 description: Ta reda på vilka produkter som tas ur bruk, där support upphör eller går från mainstream support till utökad support under 2016.
-ms.date: 09/17/2021
-ms.openlocfilehash: 173d56e15247cd3bb3e31ece82f9aa2d05a54146
-ms.sourcegitcommit: 203d765be641181ebf7b895f783ce497a9568616
+ms.date: 01/14/2022
+ms.openlocfilehash: 02f886067fe5d4199a1f0e5f4505c6afa5cd6194
+ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
 ms.translationtype: HT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/18/2021
-ms.locfileid: "4028893"
+ms.lasthandoff: 03/18/2022
+ms.locfileid: "4117571"
 ---
 # <a name="products-ending-support-in-2016"></a>Produkter där support upphör under 2016
 
@@ -20,13 +20,6 @@ Om du har frågor om support för en produkt kan du kontakta din Microsoft-konto
 
 
 
-## <a name="release-end-of-servicing"></a>Tjänsten upphör för versionen
-
-Support för följande produktversioner, som styrs av den [Moderna policyn](/lifecycle/policies/modern), upphör under 2016.
-
-| Produkt | Slut på service |
-| --- | --- |
-| [Microsoft Endpoint Configuration Manager, version 1511](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br> | 8 december 2016 |
 
 
 ## <a name="products-reaching-end-of-support"></a>Produkter som når slutet av supporten

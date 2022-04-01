@@ -3,36 +3,36 @@ metadata:
   title: Windows Embedded Enhetshanteraren 2011
   description: Windows Embedded Device Manager 2011 följer policyn för fast livscykel.
   ms.date: 09/01/2020
-  keywords: 'Client,SDK,Server'
+  keywords: Client,SDK,Server
+  ms.openlocfilehash: 5104d67760b48639e2798d62cdb95ca5899bf8ae
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.translationtype: HT
+  ms.contentlocale: sv-SE
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4142213"
 name: Windows Embedded Enhetshanteraren 2011
-summary: |
+summary: >
   Windows Embedded Device Manager 2011 följer policyn för [fast](/lifecycle/policies/fixed) livscykel.
+
 
   Detta gäller följande utgåvor: Client, SDK och Server
 
+
   > [!IMPORTANT]
+
   > Support för den här produkten har upphört.
 products:
-  - windows
+- windows
 policyType: fixed
 supportDates:
-  start: 05/29/2011
-  end: 01/08/2013
-  extendedEnd: 01/09/2018
+  start: 2011-05-29T00:00:00.000-08:00
+  end: 2013-01-08T22:59:59.999-08:00
+  extendedEnd: 2018-01-09T22:59:59.999-08:00
 releases:
-  - version: Service Pack 1
-    startDate: 12/07/2011
-    endDate: 01/09/2018
-  - version: Original Release
-    startDate: 05/29/2011
-    endDate: 01/08/2013
-content: |
-
-  ## <a name="links"></a>Länkar 
-  * [Service pack-policy](/lifecycle/policies/fixed#service-packs)
-
-
-  ## <a name="editions"></a>Utgåvor 
-  * Klient
-  * SDK
-  * Server
+- version: Service Pack 1
+  startDate: 2011-12-07T00:00:00.000-08:00
+  endDate: 2018-01-09T22:59:59.999-08:00
+- version: Original Release
+  startDate: 2011-05-29T00:00:00.000-08:00
+  endDate: 2013-01-08T22:59:59.999-08:00
+content: "\n## <a name=\"links\"></a>Länkar \n* [Service pack-policy](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Utgåvor \n* Klient\n* SDK\n* Server"

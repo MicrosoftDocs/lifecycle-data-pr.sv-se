@@ -3,38 +3,35 @@ metadata:
   title: Microsoft BizTalk Server 2004
   description: Microsoft BizTalk Server 2004 följer policyn för fast livscykel.
   ms.date: 09/10/2020
-  keywords: 'Developer,Enterprise,Partner,Standard'
+  keywords: Developer,Enterprise,Partner,Standard
+  ms.openlocfilehash: ab1abfc8b9d4199839d1e15d8549d48a8a3c4b51
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.translationtype: HT
+  ms.contentlocale: sv-SE
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4114056"
 name: Microsoft BizTalk Server 2004
-summary: |+
+summary: >+
   Microsoft BizTalk Server 2004 följer policyn för [fast](/lifecycle/policies/fixed) livscykel.
+
 
   Detta gäller följande utgåvor: Developer, Enterprise, Partner och Standard
 
 products:
-  - microsoft-servers
+- microsoft-servers
 policyType: fixed
 supportDates:
-  start: 05/20/2004
-  end: 07/14/2009
-  extendedEnd: 07/08/2014
+  start: 2004-05-20T00:00:00.000-08:00
+  end: 2009-07-14T22:59:59.999-08:00
+  extendedEnd: 2014-07-08T22:59:59.999-08:00
 releases:
-  - version: Service Pack 2
-    startDate: 10/25/2006
-    endDate: 07/08/2014
-  - version: Service Pack 1
-    startDate: 01/18/2005
-    endDate: 01/08/2008
-  - version: Original Release
-    startDate: 05/20/2004
-    endDate: 04/11/2006
-content: |
-
-  ## <a name="links"></a>Länkar 
-  * [Service pack-policy](/lifecycle/policies/fixed#service-packs)
-
-
-  ## <a name="editions"></a>Utgåvor 
-  * Developer
-  * Enterprise
-  * Partner
-  * Standard
+- version: Service Pack 2
+  startDate: 2006-10-25T00:00:00.000-08:00
+  endDate: 2014-07-08T22:59:59.999-08:00
+- version: Service Pack 1
+  startDate: 2005-01-18T00:00:00.000-08:00
+  endDate: 2008-01-08T22:59:59.999-08:00
+- version: Original Release
+  startDate: 2004-05-20T00:00:00.000-08:00
+  endDate: 2006-04-11T22:59:59.999-08:00
+content: "\n## <a name=\"links\"></a>Länkar \n* [Service pack-policy](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Utgåvor \n* Developer\n* Enterprise\n* Partner\n* Standard"

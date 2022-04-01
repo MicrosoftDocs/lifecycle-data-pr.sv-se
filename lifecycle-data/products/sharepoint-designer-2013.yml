@@ -4,30 +4,28 @@ metadata:
   description: SharePoint Designer 2013 följer policyn för fast livscykel.
   ms.date: 09/10/2020
   keywords: Designer
+  ms.openlocfilehash: a5a975775fade39ea1f037a268bd46cb2a855cdf
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.translationtype: HT
+  ms.contentlocale: sv-SE
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4151685"
 name: SharePoint Designer 2013
-summary: |+
+summary: >+
   SharePoint Designer 2013 följer policyn för [fast](/lifecycle/policies/fixed) livscykel.
+
 
   Detta gäller följande utgåvor: Designer
 
 products:
-  - office
+- office
 policyType: fixed
 supportDates:
-  start: 01/09/2013
-  end: 07/13/2021
-  extendedEnd: 07/14/2026
+  start: 2013-01-09T00:00:00.000-08:00
+  end: 2021-07-13T22:59:59.999-08:00
+  extendedEnd: 2026-07-14T22:59:59.999-08:00
 releases:
-  - version: Original Release
-    startDate: 01/09/2013
-    endDate: 04/14/2015
-content: |
-
-  ## <a name="links"></a>Länkar 
-  * [Supportdetaljer](https://blogs.office.com/2016/01/20/sharepoint-server-2016-and-project-server-2016-release-candidate-available)
-
-  > [!NOTE]
-  > Support för Microsoft SharePoint Designer 2013 utökas såsom visas i syfte att säkerställa kompatibilitet med SharePoint Server 2016.
-
-  ## <a name="editions"></a>Utgåvor 
-  * Designer
+- version: Original Release
+  startDate: 2013-01-09T00:00:00.000-08:00
+  endDate: 2015-04-14T22:59:59.999-08:00
+content: "\n## <a name=\"links\"></a>Länkar \n* [Supportdetaljer](https://blogs.office.com/2016/01/20/sharepoint-server-2016-and-project-server-2016-release-candidate-available)\n\n> [!NOTE]\n> Support för Microsoft SharePoint Designer 2013 utökas såsom visas i syfte att säkerställa kompatibilitet med SharePoint Server 2016.\n\n## <a name=\"editions\"></a>Utgåvor \n* Designer"

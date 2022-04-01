@@ -1,27 +1,31 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: 'Windows 10 Mobile Enterprise, släpptes i november 2015'
+  title: Windows 10 Mobile Enterprise, släpptes i november 2015
   description: Windows 10 Mobile Enterprise som släpptes i november 2015 följer policyn för fast livscykel.
   ms.date: 07/28/2020
-name: 'Windows 10 Mobile Enterprise, släpptes i november 2015'
-summary: |
+  ms.openlocfilehash: cd23d7e7e8b81885c25dfa1c2eadecb484519190
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.translationtype: HT
+  ms.contentlocale: sv-SE
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4119014"
+name: Windows 10 Mobile Enterprise, släpptes i november 2015
+summary: >
   Windows 10 Mobile Enterprise som släpptes i november 2015 följer policyn för [fast](/lifecycle/policies/fixed) livscykel.
 
 
+
   > [!IMPORTANT]
+
   > Support för den här produkten har upphört.
 products:
-  - windows
+- windows
 policyType: fixed-mainstream-only
 supportDates:
-  start: 11/16/2015
-  end: 01/09/2018
+  start: 2015-11-16T00:00:00.000-08:00
+  end: 2018-01-09T22:59:59.999-08:00
 releases:
-  - version: Original Release
-    startDate: 11/16/2015
-    endDate: 01/09/2018
-content: |+
-
-  ## <a name="links"></a>Länkar 
-  * [Vanliga frågor och svar om livscykeln för enhetens OS](/lifecycle/faq/device-operating-systems)
-  * [Support för Windows 10 Mobile upphörde 10 december 2019](/lifecycle/announcements/windows-10-mobile-end-of-support)
+- version: Original Release
+  startDate: 2015-11-16T00:00:00.000-08:00
+  endDate: 2018-01-09T22:59:59.999-08:00
+content: "\n## <a name=\"links\"></a>Länkar \n* [Vanliga frågor och svar om livscykeln för enhetens OS](/lifecycle/faq/device-operating-systems)\n* [Support för Windows 10 Mobile upphörde 10 december 2019](/lifecycle/announcements/windows-10-mobile-end-of-support)"

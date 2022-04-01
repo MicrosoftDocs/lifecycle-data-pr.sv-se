@@ -4,30 +4,28 @@ metadata:
   description: Windows 10 2015 LTSB följer policyn för fast livscykel.
   ms.date: 09/01/2020
   keywords: Enterprise
+  ms.openlocfilehash: 3f5628901cdca629a70893707d23e8f481935f56
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.translationtype: HT
+  ms.contentlocale: sv-SE
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4148503"
 name: Windows 10 2015 LTSB
-summary: |+
+summary: >+
   Windows 10 2015 LTSB följer policyn för [fast](/lifecycle/policies/fixed) livscykel.
+
 
   Detta gäller för följande utgåvor: Enterprise
 
 products:
-  - windows
+- windows
 policyType: fixed
 supportDates:
-  start: 07/29/2015
-  end: 10/13/2020
-  extendedEnd: 10/14/2025
+  start: 2015-07-29T00:00:00.000-08:00
+  end: 2020-10-13T22:59:59.999-08:00
+  extendedEnd: 2025-10-14T22:59:59.999-08:00
 releases:
-  - version: Original Release
-    startDate: 07/29/2015
-    endDate: 10/14/2025
-content: |
-
-  ## <a name="links"></a>Länkar 
-  * [Windows som en tjänst (WaaS)](/windows/deployment/update/waas-quick-start)
-  * [Vanliga frågor och svar om Windows 10 LTSC](/lifecycle/faq/windows#what-are-the-requirements-for-servicing-and-updating-the-windows-10-long-term-servicing-channel)
-  * [Oktober-uppdatering av Windows 10 (version 1809) (omlanserad)](https://blogs.windows.com/windowsexperience/2018/11/13/resuming-the-rollout-of-the-windows-10-october-2018-update/)
-
-
-  ## <a name="editions"></a>Utgåvor 
-  * Enterprise
+- version: Original Release
+  startDate: 2015-07-29T00:00:00.000-08:00
+  endDate: 2025-10-14T22:59:59.999-08:00
+content: "\n## <a name=\"links\"></a>Länkar \n* [Windows som en tjänst (WaaS)](/windows/deployment/update/waas-quick-start)\n* [Vanliga frågor och svar om Windows 10 LTSC](/lifecycle/faq/windows#what-are-the-requirements-for-servicing-and-updating-the-windows-10-long-term-servicing-channel)\n* [Oktober-uppdatering av Windows 10 (version 1809) (omlanserad)](https://blogs.windows.com/windowsexperience/2018/11/13/resuming-the-rollout-of-the-windows-10-october-2018-update/)\n\n\n## <a name=\"editions\"></a>Utgåvor \n* Enterprise"

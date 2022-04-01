@@ -3,35 +3,27 @@ metadata:
   title: Virtual Server 2005 R2
   description: Virtual Server 2005 R2 följer policyn för fast livscykel.
   ms.date: 09/01/2020
-  keywords: 'Enterprise,Standard'
+  keywords: Enterprise,Standard
+  ms.openlocfilehash: a11168ba81ca7a85536b31b7621e666d8a40c40e
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.translationtype: HT
+  ms.contentlocale: sv-SE
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4130928"
 name: Virtual Server 2005 R2
-summary: |
-  Virtual Server 2005 R2 följer policyn för [fast](/lifecycle/policies/fixed) livscykel.
-
-  Detta gäller för följande utgåvor: Enterprise, Standard
-
-  > [!IMPORTANT]
-  > Support för den här produkten har upphört. 
+summary: "Virtual Server 2005 R2 följer policyn för [fast](/lifecycle/policies/fixed) livscykel.\n\nDetta gäller för följande utgåvor: Enterprise, Standard\n\n> [!IMPORTANT]\n> Support för den här produkten har upphört. \n"
 products:
-  - windows
+- windows
 policyType: fixed
 supportDates:
-  start: 01/28/2006
-  end: 01/12/2010
-  extendedEnd: 01/13/2015
+  start: 2006-01-28T00:00:00.000-08:00
+  end: 2010-01-12T22:59:59.999-08:00
+  extendedEnd: 2015-01-13T22:59:59.999-08:00
 releases:
-  - version: Service Pack 1
-    startDate: 04/16/2007
-    endDate: 01/13/2015
-  - version: Original Release
-    startDate: 01/28/2006
-    endDate: 07/08/2008
-content: |
-
-  ## <a name="links"></a>Länkar 
-  * [Service pack-policy](/lifecycle/policies/fixed#service-packs)
-
-
-  ## <a name="editions"></a>Utgåvor 
-  * Enterprise
-  * Standard
+- version: Service Pack 1
+  startDate: 2007-04-16T00:00:00.000-08:00
+  endDate: 2015-01-13T22:59:59.999-08:00
+- version: Original Release
+  startDate: 2006-01-28T00:00:00.000-08:00
+  endDate: 2008-07-08T22:59:59.999-08:00
+content: "\n## <a name=\"links\"></a>Länkar \n* [Service pack-policy](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Utgåvor \n* Enterprise\n* Standard"

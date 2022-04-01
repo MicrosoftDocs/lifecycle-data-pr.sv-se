@@ -3,28 +3,29 @@ metadata:
   title: Visio 2019
   description: Visio 2019 följer policyn för fast livscykel.
   ms.date: 09/01/2020
-  keywords: 'Professional,Standard'
+  keywords: Professional,Standard
+  ms.openlocfilehash: 3c4373873a59d7ca144ceaf8d793e7cc18bfb1a8
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.translationtype: HT
+  ms.contentlocale: sv-SE
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4148873"
 name: Visio 2019
-summary: |+
+summary: >+
   Visio 2019 följer policyn för [fast](/lifecycle/policies/fixed) livscykel.
+
 
   Detta gäller för följande utgåvor: Professional, Standard
 
 products:
-  - office
+- office
 policyType: fixed
 supportDates:
-  start: 09/24/2018
-  end: 10/10/2023
-  extendedEnd: 10/14/2025
+  start: 2018-09-24T00:00:00.000-08:00
+  end: 2023-10-10T22:59:59.999-08:00
+  extendedEnd: 2025-10-14T22:59:59.999-08:00
 releases:
-  - version: Original Release
-    startDate: 09/24/2018
-    endDate: 10/14/2025
-content: |
-
-
-
-  ## <a name="editions"></a>Utgåvor 
-  * Professionell
-  * Standard
+- version: Original Release
+  startDate: 2018-09-24T00:00:00.000-08:00
+  endDate: 2025-10-14T22:59:59.999-08:00
+content: "\n\n\n## <a name=\"editions\"></a>Utgåvor \n* Professionell\n* Standard"

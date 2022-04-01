@@ -4,12 +4,12 @@ metadata:
   description: Windows XP följer policyn för fast livscykel.
   ms.date: 09/01/2020
   keywords: Home,Professional,Professional for Embedded Systems,Professional x64,Starter
-  ms.openlocfilehash: 035c7cf7e0d224510a05a56848e61a2fbeb04306348d5ec9f69b948dd921d35f
-  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
+  ms.openlocfilehash: f1277c7351757a1e2b115c8f7a8f71f8fe2e4b8c
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
   ms.translationtype: HT
   ms.contentlocale: sv-SE
-  ms.lasthandoff: 08/06/2021
-  ms.locfileid: "2510260"
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4129781"
 name: Windows XP
 summary: >
   Windows XP följer policyn för [fast](/lifecycle/policies/fixed) livscykel.
@@ -25,23 +25,23 @@ products:
 - windows
 policyType: fixed
 supportDates:
-  start: 12/31/2001
-  end: 04/14/2009
-  extendedEnd: 04/08/2014
+  start: 2001-12-31T00:00:00.000-08:00
+  end: 2009-04-14T22:59:59.999-08:00
+  extendedEnd: 2014-04-08T22:59:59.999-08:00
 releases:
 - version: Service Pack 3
-  startDate: 04/21/2008
-  endDate: 04/08/2014
+  startDate: 2008-04-21T00:00:00.000-08:00
+  endDate: 2014-04-08T22:59:59.999-08:00
 - version: Service Pack 2
-  startDate: 09/17/2004
-  endDate: 07/13/2010
+  startDate: 2004-09-17T00:00:00.000-08:00
+  endDate: 2010-07-13T22:59:59.999-08:00
 - version: Service Pack 1a
-  startDate: 02/03/2003
-  endDate: 10/10/2006
+  startDate: 2003-02-03T00:00:00.000-08:00
+  endDate: 2006-10-10T22:59:59.999-08:00
 - version: Service Pack 1
-  startDate: 08/30/2002
-  endDate: 10/10/2006
+  startDate: 2002-08-30T00:00:00.000-08:00
+  endDate: 2006-10-10T22:59:59.999-08:00
 - version: Original Release
-  startDate: 12/31/2001
-  endDate: 08/30/2005
+  startDate: 2001-12-31T00:00:00.000-08:00
+  endDate: 2005-08-30T22:59:59.999-08:00
 content: "\n## <a name=\"links\"></a>Länkar \n* [Vägledning för migrering](/windows/deployment/upgrade/windows-upgrade-and-migration-considerations)\n* [Service pack-policy](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Startdatum för Microsoft Windows XP Professional x64 Edition var 24 april 2005.\n\n## <a name=\"editions\"></a>Utgåvor \n* home\n* Professionell\n* Professional for Embedded Systems\n* Professionell x64\n* Starter"

@@ -4,12 +4,12 @@ metadata:
   description: Lync 2013 följer policyn för fast livscykel.
   ms.date: 09/01/2020
   keywords: SDK,Standard
-  ms.openlocfilehash: 5182ec0518af09f59907e2b993560b8c74fb957805401ca445b7230608478e79
-  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
+  ms.openlocfilehash: 434c0f230d52f5c0179c2429d31ca380a510eed5
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
   ms.translationtype: HT
   ms.contentlocale: sv-SE
-  ms.lasthandoff: 08/06/2021
-  ms.locfileid: "2498642"
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4139179"
 name: Lync 2013
 summary: >+
   Lync 2013 följer policyn för [fast](/lifecycle/policies/fixed) livscykel.
@@ -21,11 +21,11 @@ products:
 - office
 policyType: fixed
 supportDates:
-  start: 01/09/2013
-  end: 04/10/2018
-  extendedEnd: 04/11/2023
+  start: 2013-01-09T00:00:00.000-08:00
+  end: 2018-04-10T22:59:59.999-08:00
+  extendedEnd: 2023-04-11T22:59:59.999-08:00
 releases:
 - version: Original Release
-  startDate: 01/09/2013
-  endDate: 04/11/2023
+  startDate: 2013-01-09T00:00:00.000-08:00
+  endDate: 2023-04-11T22:59:59.999-08:00
 content: "\n\n> [!NOTE]\n> Versionen av klienten Skype för företag 2015 är en uppdatering av Lync 2013-klienten och följer samma produktlivscykel.\nStartdatum för Lync 2013 SDK är 23 februari 2013. \n\n## <a name=\"editions\"></a>Utgåvor \n* SDK\n* Standard"

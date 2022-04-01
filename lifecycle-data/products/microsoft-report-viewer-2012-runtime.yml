@@ -2,27 +2,31 @@
 metadata:
   title: Microsoft Report Viewer 2012 Runtime
   description: Microsoft Report Viewer 2012 Runtime följer policyn för fast livscykel.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 86622749fa5b6ec5083f49c5e5fb63f86ab15e5aba0f6ccbccd55e79bc880823
-  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
+  ms.date: 02/22/2022
+  keywords: 
+  ms.openlocfilehash: 2fab6bbad623ccd5aceaa49575f7d1293c0f4790
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
   ms.translationtype: HT
   ms.contentlocale: sv-SE
-  ms.lasthandoff: 08/06/2021
-  ms.locfileid: "2484064"
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4138180"
 name: Microsoft Report Viewer 2012 Runtime
 summary: >+
   Microsoft Report Viewer 2012 Runtime följer policyn för [fast](/lifecycle/policies/fixed) livscykel.
+
+
+
 
 
 products:
 - sql-server
 policyType: fixed
 supportDates:
-  start: 07/13/2014
-  end: 07/11/2017
-  extendedEnd: 07/12/2022
+  start: 2014-07-13T00:00:00.000-08:00
+  end: 2017-07-11T22:59:59.999-08:00
+  extendedEnd: 2023-01-10T22:59:59.999-08:00
 releases:
 - version: Original Release
-  startDate: 07/13/2014
-  endDate: 07/12/2022
-content: ''
+  startDate: 2014-07-13T00:00:00.000-08:00
+  endDate: 2023-01-10T22:59:59.999-08:00
+content: "\n\n## <a name=\"links\"></a>Länkar \n* [Produktinformation](/sql/reporting-services/application-integration/integrating-reporting-services-using-reportviewer-controls-get-started?view=sql-server-ver15)\n\n\n> [!NOTE]\n> Microsoft Report Viewer 2012 Runtime följer policyn för fast livscykel för [Visual Studio 2012](https://docs.microsoft.com/lifecycle/products/visual-studio-2012). Slutdatumet för produktsupport har skjutits upp från 12 juli 2022 till 10 januari 2023."

@@ -3,12 +3,12 @@ metadata:
   title: Visual Studio Code
   description: Visual Studio Code följer policyn för fast livscykel.
   ms.date: 07/28/2020
-  ms.openlocfilehash: 83bc159dc00dc5ea23828ec99c3013695709b130bd35fc0281cee3b8e1b347c7
-  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
+  ms.openlocfilehash: 817d372310f476a7b8f0cd66f2ad37ef4fd3e5e5
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
   ms.translationtype: HT
   ms.contentlocale: sv-SE
-  ms.lasthandoff: 08/06/2021
-  ms.locfileid: "2488948"
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4142509"
 name: Visual Studio Code
 summary: >+
   Visual Studio Code följer policyn för [fast](/lifecycle/policies/modern) livscykel.
@@ -18,8 +18,8 @@ products:
 - vs
 policyType: modern-online
 supportDates:
-  start: 04/14/2016
+  start: 2016-04-14T00:00:00.000-08:00
 releases:
 - version: Original Release
-  startDate: 04/14/2016
+  startDate: 2016-04-14T00:00:00.000-08:00
 content: "\n## <a name=\"links\"></a>Länkar \n* [Serviceinformation](/visualstudio/productinfo/vs-servicing-mac)"

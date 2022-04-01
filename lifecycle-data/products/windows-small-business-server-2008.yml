@@ -3,36 +3,23 @@ metadata:
   title: Windows Small Business Server 2008
   description: Windows Small Business Server 2008 följer policyn för fast livscykel.
   ms.date: 09/01/2020
-  keywords: 'Premium,Standard'
+  keywords: Premium,Standard
+  ms.openlocfilehash: 1f482af63ad9c63c40e628fba82ca5dbaf330e82
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.translationtype: HT
+  ms.contentlocale: sv-SE
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4123047"
 name: Windows Small Business Server 2008
-summary: |
-  Windows Small Business Server 2008 följer policyn för [fast](/lifecycle/policies/fixed) livscykel.
-
-  Detta gäller för följande utgåvor: Premium, Standard
-
-  > [!IMPORTANT]
-  > Support för den här produkten har upphört. 
-
-  Supportdatumet för det här produktpaketet bestäms av produktens enskilda komponenters respektive livscykler. Granska produktens enskilda komponenters livscykel för att fastställa längden på support.
+summary: "Windows Small Business Server 2008 följer policyn för [fast](/lifecycle/policies/fixed) livscykel.\n\nDetta gäller för följande utgåvor: Premium, Standard\n\n> [!IMPORTANT]\n> Support för den här produkten har upphört. \n\nSupportdatumet för det här produktpaketet bestäms av produktens enskilda komponenters respektive livscykler. Granska produktens enskilda komponenters livscykel för att fastställa längden på support.\n"
 products:
-  - windows
+- windows
 policyType: fixed
 supportDates:
-  start: 11/21/2008
-  extendedEnd: 01/14/2020
+  start: 2008-11-21T00:00:00.000-08:00
+  extendedEnd: 2020-01-14T22:59:59.999-08:00
 releases:
-  - version: Original Release
-    startDate: 11/21/2008
-    endDate: 01/14/2020
-content: |
-
-  ## <a name="links"></a>Länkar 
-  * [Vägledning för migrering](https://aka.ms/AA1ovn4)
-  * [Windows Server 2008](/lifecycle/browse/listings/windows-server-2008)
-  * [Exchange Server 2007](/lifecycle/browse/listings/exchange-server-2007)
-  * [Microsoft Windows SharePoint Services 3.0](/lifecycle/browse/listings/microsoft-windows-sharepoint-services-30)
-
-
-  ## <a name="editions"></a>Utgåvor 
-  * Premium
-  * Standard
+- version: Original Release
+  startDate: 2008-11-21T00:00:00.000-08:00
+  endDate: 2020-01-14T22:59:59.999-08:00
+content: "\n## <a name=\"links\"></a>Länkar \n* [Vägledning för migrering](https://aka.ms/AA1ovn4)\n* [Windows Server 2008](/lifecycle/browse/listings/windows-server-2008)\n* [Exchange Server 2007](/lifecycle/browse/listings/exchange-server-2007)\n* [Microsoft Windows SharePoint Services 3.0](/lifecycle/browse/listings/microsoft-windows-sharepoint-services-30)\n\n\n## <a name=\"editions\"></a>Utgåvor \n* Premium\n* Standard"

@@ -2,21 +2,21 @@
 metadata:
   title: Windows 11 Home och Pro (version 21H2)
   description: Windows 11 Home och Pro (version 21H2) följer policyn för modern livscykel.
-  ms.date: 09/23/2021
+  ms.date: 10/13/2021
   keywords: 
-  ms.openlocfilehash: ea691bf8b5c3e0a62e8d8d6e4bdc5ec3147faa22
-  ms.sourcegitcommit: 59fc218db97bb57b454b1e2a859fca5b8d4cd750
+  ms.openlocfilehash: eacdb6b502de92ec14f0942de967bbaaa44fa6a7
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
   ms.translationtype: HT
   ms.contentlocale: sv-SE
-  ms.lasthandoff: 10/05/2021
-  ms.locfileid: "3509480"
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4118570"
 name: Windows 11 Home och Pro (version 21H2)
 summary: >+
   Windows 11 Home och Pro (version 21H2) följer policyn för [modern](/lifecycle/policies/modern) livscykel.
 
 
 
-  Detta gäller följande utgåvor: Home, Pro, Pro Education och Pro för Workstations
+  Detta gäller följande utgåvor: Home, Pro, Pro Education och Pro for Workstations, SE
 
 
 
@@ -24,10 +24,10 @@ products:
 - windows
 policyType: modern-on-prem
 supportDates:
-  start: 10/04/2021
-  end: 10/10/2023
+  start: 2021-10-04T00:00:00.000-08:00
+  end: 2023-10-10T22:59:59.999-08:00
 releases:
 - version: Original release (Version 21H2)
-  startDate: 10/04/2021
-  endDate: 10/10/2023
-content: "\n\n## <a name=\"links\"></a>Länkar \n* [Windows som en tjänst (WaaS)](/windows/deployment/update/waas-overview)\n* [Vanliga frågor och svar om livscykeln – Windows](/lifecycle/faq/windows)\n* [Ytterligare Windows-resurser](/windows/resources/)\n* [Windows 11 Enterprise och Education](/lifecycle/products/windows-11-enterprise-and-education)\n* [Windows 11 IoT Enterprise](/lifecycle/products/windows-11-iot-enterprise)\n\n\n\n\n## <a name=\"editions\"></a>Utgåvor \n* home\n* Pro\n* Pro Education\n* Pro for Workstations"
+  startDate: 2021-10-04T00:00:00.000-08:00
+  endDate: 2023-10-10T22:59:59.999-08:00
+content: "\n\n## <a name=\"links\"></a>Länkar \n* [Windows som en tjänst (WaaS)](/windows/deployment/update/waas-overview)\n* [Vanliga frågor och svar om livscykeln – Windows](/lifecycle/faq/windows)\n* [Ytterligare Windows-resurser](/windows/resources/)\n* [Windows 11 Enterprise och Education](/lifecycle/products/windows-11-enterprise-and-education)\n* [Windows 11 IoT Enterprise](/lifecycle/products/windows-11-iot-enterprise)\n\n\n\n\n## <a name=\"editions\"></a>Utgåvor \n* home\n* Pro\n* Pro Education\n* Pro for Workstations\n* SE"

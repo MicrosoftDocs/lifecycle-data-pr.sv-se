@@ -3,31 +3,29 @@ metadata:
   title: Microsoft BizTalk Adapter 2.0
   description: Microsoft BizTalk Adapter 2.0 följer policyn för fast livscykel.
   ms.date: 09/01/2020
-  keywords: 'for MSMQ,for mySAP Business Suite,for SAP'
+  keywords: for MSMQ,for mySAP Business Suite,for SAP
+  ms.openlocfilehash: d2f3bdb14e06bdc94859a7fe1127b1bdb1444d77
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.translationtype: HT
+  ms.contentlocale: sv-SE
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4153757"
 name: Microsoft BizTalk Adapter 2.0
-summary: |+
+summary: >+
   Microsoft BizTalk Adapter 2.0 följer policyn för [fast](/lifecycle/policies/fixed) livscykel.
+
 
   Detta gäller följande utgåvor: för MSMQ, för mySAP Business Suite och för SAP
 
 products:
-  - microsoft-servers
+- microsoft-servers
 policyType: fixed
 supportDates:
-  start: 10/20/2004
-  end: 01/12/2010
-  extendedEnd: 01/13/2015
+  start: 2004-10-20T00:00:00.000-08:00
+  end: 2010-01-12T22:59:59.999-08:00
+  extendedEnd: 2015-01-13T22:59:59.999-08:00
 releases:
-  - version: Original Release
-    startDate: 10/20/2004
-    endDate: 01/13/2015
-content: |
-
-
-  > [!NOTE]
-  > Startdatum för Microsoft BizTalk Adapter 2.0 för SAP är 2 november 2004. Startdatum för Microsoft BizTalk Adapter för MSMQ 2.0 är 10 december 2004
-
-  ## <a name="editions"></a>Utgåvor 
-  * för MSMQ
-  * för mySAP Business Suite
-  * för SAP
+- version: Original Release
+  startDate: 2004-10-20T00:00:00.000-08:00
+  endDate: 2015-01-13T22:59:59.999-08:00
+content: "\n\n> [!NOTE]\n> Startdatum för Microsoft BizTalk Adapter 2.0 för SAP är 2 november 2004. Startdatum för Microsoft BizTalk Adapter för MSMQ 2.0 är 10 december 2004\n\n## <a name=\"editions\"></a>Utgåvor \n* för MSMQ\n* för mySAP Business Suite\n* för SAP"
