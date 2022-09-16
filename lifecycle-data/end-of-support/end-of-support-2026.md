@@ -1,13 +1,13 @@
 ---
 title: Produkter som når slutet av supporten för 2026
 description: Ta reda på vilka produkter som tas ur bruk, där support upphör eller går från mainstream support till utökad support under 2026.
-ms.date: 03/09/2022
-ms.openlocfilehash: 8528b1bc53c7cf9550aa70eacbd8c389eb5fad8a
-ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+ms.date: 09/15/2022
+ms.openlocfilehash: b0634a52683fbc910e607d48533fa09eda5c4f99
+ms.sourcegitcommit: aa3eaa2573e7b3d11f65d12f166e73329011f41d
 ms.translationtype: HT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 03/18/2022
-ms.locfileid: "4117127"
+ms.lasthandoff: 09/15/2022
+ms.locfileid: "4522255"
 ---
 # <a name="products-ending-support-in-2026"></a>Produkter där support upphör under 2026
 
@@ -35,7 +35,7 @@ Support för följande produkter och versioner, som styrs av den [Fasta policyn]
 
 | Produkt | Datum för slut av support |
 | --- | --- |
-| [Avancerad hotanalys 1.X](/lifecycle/products/advanced-threat-analytics-1x?branch=live)<br>[Dynamics CRM 2016 (Dynamics 365)](/lifecycle/products/dynamics-crm-2016-dynamics-365?branch=live)<br>[Microsoft Identity Manager 2016](/lifecycle/products/microsoft-identity-manager-2016?branch=live)<br> | 13 januari 2026 |
+| [Avancerad hotanalys 1.X](/lifecycle/products/advanced-threat-analytics-1x?branch=live)<br>[Dynamics CRM 2016 (Dynamics 365)](/lifecycle/products/dynamics-crm-2016-dynamics-365?branch=live)<br> | 13 januari 2026 |
 | [Microsoft SQL Server 2012 Parallel Data Warehouse (Analytics Platform System)](/lifecycle/products/microsoft-sql-server-2012-parallel-data-warehouse-analytics-platform-system?branch=live)<br> | 31 mars 2026 |
 | [Dynamics C5 2016](/lifecycle/products/dynamics-c5-2016?branch=live)<br>[Dynamics NAV 2016](/lifecycle/products/dynamics-nav-2016?branch=live)<br>[Microsoft Advanced Group Policy Management 4.0](/lifecycle/products/microsoft-advanced-group-policy-management-40?branch=live)<br>[Microsoft Application Virtualization 5.0](/lifecycle/products/microsoft-application-virtualization-50?branch=live)<br>[Microsoft Application Virtualization 5.1](/lifecycle/products/microsoft-application-virtualization-51?branch=live)<br>[Microsoft Application Virtualization hosting 5.0 för Windows-skrivbord](/lifecycle/products/microsoft-application-virtualization-hosting-50?branch=live)<br>[Microsoft Application Virtualization hosting 5.1 för Windows-skrivbord](/lifecycle/products/microsoft-application-virtualization-hosting-51?branch=live)<br>[Microsoft BitLocker-administration och övervakning 2.5](/lifecycle/products/microsoft-bitlocker-administration-and-monitoring-25?branch=live)<br>[Microsoft verktygsuppsättning för diagnostik och återställning 10.0](/lifecycle/products/microsoft-diagnostics-and-recovery-toolset-100?branch=live)<br>[Virtualisering av användargränssnitt (UE-V) 2.1](/lifecycle/products/user-experience-virtualization-uev-21?branch=live)<br> | 14 april 2026 |
 | [Dynamics GP 2016](/lifecycle/products/dynamics-gp-2016?branch=live)<br>[Dynamics GP 2016 R2](/lifecycle/products/dynamics-gp-2016-r2?branch=live)<br>[InfoPath 2013](/lifecycle/products/infopath-2013?branch=live)<br>[Project Server 2016](/lifecycle/products/project-server-2016?branch=live)<br>[Project Server 2019](/lifecycle/products/project-server-2019?branch=live)<br>[SharePoint Designer 2013](/lifecycle/products/sharepoint-designer-2013?branch=live)<br>[SharePoint Server 2016](/lifecycle/products/sharepoint-server-2016?branch=live)<br>[SharePoint Server 2019](/lifecycle/products/sharepoint-server-2019?branch=live)<br>[SQL Server 2016](/lifecycle/products/sql-server-2016?branch=live)<br> | 14 juli 2026 |
