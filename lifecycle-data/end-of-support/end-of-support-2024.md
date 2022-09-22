@@ -1,13 +1,13 @@
 ---
 title: Produkter som når slutet av supporten för 2024
 description: Ta reda på vilka produkter som tas ur bruk, där support upphör eller går från mainstream support till utökad support under 2024.
-ms.date: 03/08/2022
-ms.openlocfilehash: 9d4056675071213b3c0fb8dfefcd7707feec115e
-ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+ms.date: 08/31/2022
+ms.openlocfilehash: 810bb5ce124705b8100cfc934d14e8ebf5343554
+ms.sourcegitcommit: 7f8eec52b9f5c890d6cb734795818dc72afbdf57
 ms.translationtype: HT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 03/18/2022
-ms.locfileid: "4117238"
+ms.lasthandoff: 09/09/2022
+ms.locfileid: "4518138"
 ---
 # <a name="products-ending-support-in-2024"></a>Produkter där support upphör under 2024
 
@@ -24,8 +24,8 @@ Följande produkter som styrs av den [Moderna policy](/lifecycle/policies/moder
 
 | Produkt | Pension |
 | --- | --- |
-| [Machine Learning Studio (klassisk)](/lifecycle/products/machine-learning-studio-classic?branch=live)<br> | 31 augusti 2024 |
-| [Windows 11 Enterprise och Education (version 21H2)](/lifecycle/products/windows-11-enterprise-and-education-version-21h2?branch=live)<br>[Windows 11 IoT Enterprise (version 21H2)](/lifecycle/products/windows-11-iot-enterprise-version-21h2?branch=live)<br> | 8 oktober 2024 |
+| [Azure Data Lake Storage Gen1](/lifecycle/products/azure-data-lake-storage-gen1?branch=live)<br> | 29 februari 2024 |
+| [Azure Cloud Services (klassisk)](/lifecycle/products/azure-cloud-services-classic?branch=live)<br>[Machine Learning Studio (klassisk)](/lifecycle/products/machine-learning-studio-classic?branch=live)<br> | 31 augusti 2024 |
 
 
 ## <a name="release-end-of-servicing"></a>Tjänsten upphör för versionen
@@ -35,6 +35,9 @@ Support för följande produktversioner, som styrs av den [moderna policyn](/lif
 | Produkt | Slut på service |
 | --- | --- |
 | [Windows 10 Enterprise och Education, version 21H2](/lifecycle/products/windows-10-enterprise-and-education?branch=live)<br>[Windows 10 IoT Enterprise, version 21H2](/lifecycle/products/windows-10-iot-enterprise?branch=live)<br> | 11 juni 2024 |
+| [Windows 11 Enterprise och Education (version 21H2)](/lifecycle/products/windows-11-enterprise-and-education-version-21h2?branch=live)<br>[Windows 11 IoT Enterprise (version 21H2), ursprunglig version (version 21H2)](/lifecycle/products/windows-11-iot-enterprise-version-21h2?branch=live)<br> | 8 oktober 2024 |
+| [PowerShell, PowerShell 7.2 (LTS–nuvarande)](/lifecycle/products/powershell?branch=live)<br> | 8 november 2024 |
+| [Azure IoT Edge, version 1.4 (LTS)](/lifecycle/products/azure-iot-edge?branch=live)<br>[.NET Core 6.0 (LTS)](/lifecycle/products/microsoft-net-and-net-core?branch=live)<br> | 12 november 2024 |
 
 
 ## <a name="products-reaching-end-of-support"></a>Produkter som når slutet av supporten
@@ -43,7 +46,7 @@ Support för följande produkter och versioner, som styrs av den [Fasta policyn]
 
 | Produkt | Datum för slut av support |
 | --- | --- |
-| [Dynamics CRM 2013](/lifecycle/products/dynamics-crm-2013?branch=live)<br>[Microsoft Host Integration Server 2013](/lifecycle/products/microsoft-host-integration-server-2013?branch=live)<br>[Windows Server 2008, utökad säkerhetsuppdatering för år 4 (endast Azure)](/lifecycle/products/windows-server-2008?branch=live)<br>[Windows Server 2008 R2, utökad säkerhetsuppdatering för år 4 (endast Azure)](/lifecycle/products/windows-server-2008-r2?branch=live)<br> | 9 januari 2024 |
+| [Dynamics CRM 2013](/lifecycle/products/dynamics-crm-2013?branch=live)<br>[Microsoft Host Integration Server 2013](/lifecycle/products/microsoft-host-integration-server-2013?branch=live)<br>[Visual Studio 2022, version 17.2 (LTSC-kanal)](/lifecycle/products/visual-studio-2022?branch=live)<br>[Windows Server 2008, utökad säkerhetsuppdatering för år 4 (endast Azure)](/lifecycle/products/windows-server-2008?branch=live)<br>[Windows Server 2008 R2, utökad säkerhetsuppdatering för år 4 (endast Azure)](/lifecycle/products/windows-server-2008-r2?branch=live)<br> | 9 januari 2024 |
 | [Microsoft Deployment Agent 2013](/lifecycle/products/microsoft-deployment-agent-2013?branch=live)<br>[Microsoft verktygsuppsättning för diagnostik och återställning 8.1](/lifecycle/products/microsoft-diagnostics-and-recovery-toolset-81?branch=live)<br>[Testagent, styrenhet](/lifecycle/products/test-agent-controller?branch=live)<br>[User Experience Virtualization (UE-V) 2.0](/lifecycle/products/user-experience-virtualization-uev-20?branch=live)<br>[Visual Studio 2013](/lifecycle/products/visual-studio-2013?branch=live)<br>[Visual Studio Team Foundation Server 2013](/lifecycle/products/visual-studio-team-foundation-server-2013?branch=live)<br> | 9 april 2024 |
 | [Microsoft SQL Server 2012, utökad säkerhetsuppdatering för år 2](/lifecycle/products/microsoft-sql-server-2012?branch=live)<br>[SQL Server 2014](/lifecycle/products/sql-server-2014?branch=live)<br> | 9 juli 2024 |
 | [Microsoft SQL Server 2012 Parallel Data Warehouse (Analytics Platform System)](/lifecycle/products/microsoft-sql-server-2012-parallel-data-warehouse-analytics-platform-system?branch=live)<br>[Windows Embedded POSReady 7, utökad säkerhetsuppdatering för år 3*](/lifecycle/products/windows-embedded-posready-7?branch=live)<br>[Windows Server 2012, utökad säkerhetsuppdatering för år 1](/lifecycle/products/windows-server-2012?branch=live)<br>[Windows Server 2012 R2, utökad säkerhetsuppdatering för år 1](/lifecycle/products/windows-server-2012-r2?branch=live)<br> | 8 oktober 2024 |

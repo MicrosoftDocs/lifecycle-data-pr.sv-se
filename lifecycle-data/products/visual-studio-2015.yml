@@ -2,14 +2,14 @@
 metadata:
   title: Visual Studio 2015
   description: Visual Studio 2015 följer policyn för fast livscykel.
-  ms.date: 10/11/2021
+  ms.date: 2022/04/14
   keywords: 
-  ms.openlocfilehash: b6e8222fe770516c85dab8108e9652b57c22a1c4
-  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.openlocfilehash: 6b8c57a8c0f8f15e75c9c7aa3fab0b49c84f03f4
+  ms.sourcegitcommit: 7f8eec52b9f5c890d6cb734795818dc72afbdf57
   ms.translationtype: HT
   ms.contentlocale: sv-SE
-  ms.lasthandoff: 03/18/2022
-  ms.locfileid: "4142620"
+  ms.lasthandoff: 09/09/2022
+  ms.locfileid: "4519026"
 name: Visual Studio 2015
 summary: >+
   Visual Studio 2015 följer policyn för [fast](/lifecycle/policies/fixed) livscykel.
@@ -33,5 +33,5 @@ releases:
   endDate: 2025-10-14T22:59:59.999-08:00
 - version: Original Release
   startDate: 2015-07-20T00:00:00.000-08:00
-  endDate: 2025-10-14T22:59:59.999-08:00
+  endDate: 2017-07-11T22:59:59.999-08:00
 content: "\n\n## <a name=\"links\"></a>Länkar \n* [Serviceinformation för äldre versioner av Visual Studio](/visualstudio/releases/2019/servicing-vs2019#support-for-older-versions-of-visual-studio)\n\n\n> [!NOTE]\n> Visual Studio 2015-versioner av följande komponenter levereras med och får support som en del av livscykeln för Visual Studio 2015: Agenter, ESM, SDK för modellering, PSM, Remote Tools, SDK, Gränssnitt (integrerat), Gränssnitt (isolerat), TPS, Visual C++ Redistributable.\n\n\n## <a name=\"editions\"></a>Utgåvor \n* Community\n* Enterprise\n* Express for Web\n* Express for Windows 10\n* Express for Windows Desktop\n* Professionell\n* Versionshantering\n* Test Professional"

@@ -1,0 +1,29 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Project för webben
+  description: Projekt för webben följer modern livscykelpolicy.
+  ms.date: 2022/07/15
+  keywords: 
+  ms.openlocfilehash: 76c65c5af2e2fcfbb8a6af6b74d76cbeaf0244bc
+  ms.sourcegitcommit: 7f8eec52b9f5c890d6cb734795818dc72afbdf57
+  ms.translationtype: HT
+  ms.contentlocale: sv-SE
+  ms.lasthandoff: 09/09/2022
+  ms.locfileid: "4519544"
+name: Project för webben
+summary: >+
+  Projekt för webben följer [modern](/lifecycle/policies/modern) livscykelpolicy.
+
+
+
+
+
+products:
+- office
+policyType: modern-online
+supportDates:
+  start: 2019-10-29T00:00:00.000-08:00
+releases:
+- version: Original Release
+  startDate: 2019-10-29T00:00:00.000-08:00
+content: "\n\n## <a name=\"links\"></a>Länkar \n* [Systemkrav](https://www.microsoft.com/microsoft-365/microsoft-365-and-office-resources?rtc=1)\n* [Serviceinformation](/officeupdates/update-history-microsoft365-apps-by-date)\n* [Produktdokumentation](/projectonline/project-online)\n* [Tjänstbeskrivning av projekt för webben](/office365/servicedescriptions/project-online-service-description/project-web-service-description)"

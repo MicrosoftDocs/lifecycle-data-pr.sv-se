@@ -1,13 +1,13 @@
 ---
 title: Produkter som når slutet av supporten för 2018
 description: Ta reda på vilka produkter som tas ur bruk, där support upphör eller går från mainstream support till utökad support under 2018.
-ms.date: 09/17/2021
-ms.openlocfilehash: ef79682a4e68c31ab569281f438557d6d71b11ea
-ms.sourcegitcommit: 203d765be641181ebf7b895f783ce497a9568616
+ms.date: 07/26/2022
+ms.openlocfilehash: 657bdb28ba9fa0c5151cb9a394d9ade3af39a2b3
+ms.sourcegitcommit: 7f8eec52b9f5c890d6cb734795818dc72afbdf57
 ms.translationtype: HT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/18/2021
-ms.locfileid: "4028764"
+ms.lasthandoff: 09/09/2022
+ms.locfileid: "4518286"
 ---
 # <a name="products-ending-support-in-2018"></a>Produkter där support upphör under 2018
 
