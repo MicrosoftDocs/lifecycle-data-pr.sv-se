@@ -1,13 +1,13 @@
 ---
 title: Produkter som når slutet av supporten för 2021
 description: Ta reda på vilka produkter som tas ur bruk, där support upphör eller går från mainstream support till utökad support under 2021.
-ms.date: 01/14/2022
-ms.openlocfilehash: e0be3c1d9300e53c4eb912b0f9347902948fb0f8
-ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+ms.date: 09/13/2022
+ms.openlocfilehash: d92c5d932bd58716fea6238162788a45d0dced00
+ms.sourcegitcommit: 83c4bec3ec265ce0fb67fc5dc6b134f8e011dfff
 ms.translationtype: HT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 03/18/2022
-ms.locfileid: "4117497"
+ms.lasthandoff: 09/13/2022
+ms.locfileid: "4520851"
 ---
 # <a name="products-ending-support-in-2021"></a>Produkter där support upphör under 2021
 
@@ -37,12 +37,12 @@ Support för följande produktversioner, som styrs av den [Moderna policyn](/lif
 | Produkt | Slut på service |
 | --- | --- |
 | [Microsoft Endpoint Configuration Manager, version 1906](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br> | 26 januari 2021 |
+| [Azure IoT Edge, version 1.0](/lifecycle/products/azure-iot-edge?branch=live)<br> | 1 februari 2021 |
 | [Lokal Dynamics 365 Business Central (Modern policy), 2019-version, 2:a våg, version 15.x](/lifecycle/products/dynamics-365-business-central-onpremises-modern-policy?branch=live)<br> | 13 april 2021 |
 | [Windows 10 Enterprise och Education, version 1803](/lifecycle/products/windows-10-enterprise-and-education?branch=live)<br>[Windows 10 Enterprise och Education, version 1809](/lifecycle/products/windows-10-enterprise-and-education?branch=live)<br>[Windows 10 Home och Pro, version 1909](/lifecycle/products/windows-10-home-and-pro?branch=live)<br>[Windows 10 IoT Enterprise, version 1803](/lifecycle/products/windows-10-iot-enterprise?branch=live)<br>[Windows 10 IoT Enterprise, version 1809](/lifecycle/products/windows-10-iot-enterprise?branch=live)<br>[Windows Server, version 1909](/lifecycle/products/windows-server?branch=live)<br> | 11 maj 2021 |
-| [Microsoft Endpoint Configuration Manager, version 1511](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br>[Microsoft Endpoint Configuration Manager, version 1910](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br> | 29 maj 2021 |
+| [Microsoft Endpoint Configuration Manager, version 1910](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br> | 29 maj 2021 |
 | [.NET Core 2.1 (LTS)](/lifecycle/products/microsoft-net-and-net-core?branch=live)<br> | 21 augusti 2021 |
 | [Microsoft Endpoint Configuration Manager, version 2002](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br> | 1 oktober 2021 |
-| [Lokal Dynamics 365 Business Central (Modern policy), 2020-version, 1:a våg, version 16.x](/lifecycle/products/dynamics-365-business-central-onpremises-modern-policy?branch=live)<br> | 12 oktober 2021 |
 | [Windows 10 Enterprise och Education, version 2004](/lifecycle/products/windows-10-enterprise-and-education?branch=live)<br>[Windows 10 Home och Pro, version 2004](/lifecycle/products/windows-10-home-and-pro?branch=live)<br>[Windows 10 IoT Enterprise, version 2004](/lifecycle/products/windows-10-iot-enterprise?branch=live)<br>[Windows Server, version 2004](/lifecycle/products/windows-server?branch=live)<br> | 14 december 2021 |
 
 
