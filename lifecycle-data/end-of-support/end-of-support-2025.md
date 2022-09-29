@@ -1,13 +1,13 @@
 ---
 title: Produkter som når slutet av supporten för 2025
 description: Ta reda på vilka produkter som tas ur bruk, där support upphör eller går från mainstream support till utökad support under 2025.
-ms.date: 07/26/2022
-ms.openlocfilehash: e8838567dcbd55799be4036be1031dcb5181caab
-ms.sourcegitcommit: 7f8eec52b9f5c890d6cb734795818dc72afbdf57
+ms.date: 09/20/2022
+ms.openlocfilehash: f4b77006c5c2f23c9f624de090a371da2fceeb2c
+ms.sourcegitcommit: 271be77bfed364b789251cdc113296e7e7842cbb
 ms.translationtype: HT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/09/2022
-ms.locfileid: "4517948"
+ms.lasthandoff: 09/20/2022
+ms.locfileid: "4526174"
 ---
 # <a name="products-ending-support-in-2025"></a>Produkter där support upphör under 2025
 
@@ -27,6 +27,13 @@ Följande produkter som styrs av den [Moderna policy](/lifecycle/policies/moder
 | [Windows 10 Enterprise och Education](/lifecycle/products/windows-10-enterprise-and-education?branch=live)<br>[Windows 10 Home och Pro](/lifecycle/products/windows-10-home-and-pro?branch=live)<br>[Windows 10 IoT Enterprise](/lifecycle/products/windows-10-iot-enterprise?branch=live)<br> | 14 oktober 2025 |
 
 
+## <a name="release-end-of-servicing"></a>Tjänsten upphör för versionen
+
+Support för följande produktversioner, som styrs av den [moderna policyn](/lifecycle/policies/modern), upphör under 2025.
+
+| Produkt | Slut på service |
+| --- | --- |
+| [Windows 11 Enterprise och Education, version 22H2](/lifecycle/products/windows-11-enterprise-and-education?branch=live)<br>[Windows 11 IoT Enterprise, version 22H2](/lifecycle/products/windows-11-iot-enterprise?branch=live)<br> | 14 oktober 2025 |
 
 
 ## <a name="products-reaching-end-of-support"></a>Produkter som når slutet av supporten
